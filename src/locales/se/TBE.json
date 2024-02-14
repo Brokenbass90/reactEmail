@@ -1,0 +1,17 @@
+{
+	"block_00": "Faktureringsfel: din betalning har avvisats",
+	"block_01": "Det verkar som om vi inte kan behandla din betalning. Det finns olika skäl till faktureringsfel. Nedan är de vanligaste:",
+	"block_02": "<b class=\"block_02_0\">Otillräckliga medel på ditt bankkonto.</b> Kontrollera om du har korrekt beräknat USD-beloppet i din valuta. Vi rekommenderar att du har lite mer pengar på ditt konto än vad du behöver just ifall att.",
+	"block_03": "<b class=\"block_03_0\">Obehörig transaktion.</b> Kontakta din bank för att höra om 3D-säkra transaktioner är aktiverade.",
+	"block_04": "<b class=\"block_04_0\"> Betalningsuppgifterna var felaktiga. </b>Kontrollera om du angav betalningsuppgifterna korrekt.",
+	"block_05": "<b class=\"block_05_0\">Betalningstiden har löpt ut.</b> Försök igen med betalningen och ange 3D-koden i rätt tid.",
+	"block_06": "<b class=\"block_06_0\">Betalningen avvisades av banken.</b> Kontakta din bank för att få reda på orsaken och åtgärda den.",
+	"block_07": "<b class=\"block_07_0\">Ditt bankkonto har interna gränser för åtgärder.</b> Använd en annan metod eller kontakta din bank.",
+	"block_08": "<b class=\"block_08_0\"> Föråldrat certifikat för Windows 7.</b> Följ",
+	"block_09": "instruktionerna",
+	"block_10": "för att installera ett nytt certifikat.",
+	"block_11": "<b class=\"block_11_0\">Om du arbetar från Kina kan du uppleva ett brandväggsproblem.</b> Försök igen eller använd Alipay.",
+	"block_12": "Kontrollera om dina bankkonto- och betalningsuppgifter är korrekta eller använd en annan betalningsmetod.",
+	"block_13": "PROVA IGEN",
+	"block_14": "Om du har några frågor kan du kontakta oss på support@iqoption.com."
+}

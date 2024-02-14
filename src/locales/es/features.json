@@ -1,0 +1,32 @@
+{
+  "top": {
+    "head": "Hemos añadido nuevas funcionalidades más esperadas por los traders",
+    "text": "A IQ Option no pierda el tiempo cuando se trata de perfección y innovación:"
+  },
+  "iq": {
+    "title": "IQ OPTION 4.0",
+    "text": "La nueva y mejorada versión de la plataforma de negocio es rápida como un rayo, tiene una serie de nuevos indicadores y almacena 2 años de las cotizaciones históricas!"
+  },
+  "sell": {
+    "title": "Venta de las opciones antes de la expiración",
+    "text": "¿El precio va moviendo en la dirección equivocada? ¡No es problema! Puedes vender la opción y proteger tu capital."
+  },
+  "robo": {
+    "title": "Trading con Robots",
+    "text": "Puedes automatizar tu negocio con más de 500 robots o construir tu propio robot.",
+    "link": "IQ Robots",
+    "long": "ofrecen hasta 400% de rentabilidad."
+  },
+  "asset": {
+    "title": "Activos Nuevos",
+    "text": "Amplia tus horizontes, negocia con nuestros activos más nuevos e interesantes: Bitcoins, Nintendo, USD/SEK  y muchos más."
+  },
+  "profit": {
+    "title": "Más beneficio",
+    "text": "¿Qué te parece la rentabilidad de 90% en EUR/USD? Es posible todo con IQ Option."
+  },
+  "cta": {
+    "text": "¿Estás listo para ver el progreso que hemos hecho?",
+    "butt": "Probar nuevas funcionalidades"
+  }
+}

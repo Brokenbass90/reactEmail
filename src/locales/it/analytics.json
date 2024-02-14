@@ -1,0 +1,34 @@
+{
+  "top": {
+    "pic": "https://images01.iqoption.com/25/1825/static-03143761040269901825.png",
+    "header-info": "REVISIONE DEGLI EVENTI DELLA SETTIMANA",
+    "period": "17 Ottobre - 21 Ottobre"
+  },
+  "first": {
+    "name-news": "Pubblicazione del report su inflazione USA",
+    "date": "18 ottobre 15:30 GMT",
+    "opinion": "Opinione degli analitici di IQ Option:",
+    "news-text": "Gli ultimi dati economici USA rimangono ad un buon livello con dinamica positiva: il PIL su base annua e l’inflazione crescono più velocemente delle previsioni, ma rimangono ancora al di sotto dei valori ottimali e in obiettivo. Grazie agli ultimi dati dal mercato del lavoro (i dati “NonFarm” già questo mese superiori a 150,000 di nuovi posti di lavoro) i partecipanti al mercato ritengono che per la fine dell’anno ci sarà ancora un rialzo del tasso di rifinanziamento, che rafforzerebbe notevolmente il valore del dollaro USA. Nel caso in cui i dati sull’inflazione si dovessero dimostrare ancora una volta migliori delle aspettative, questo influirà positivamente sulla valuta nazionale degli Stati Uniti e rafforzerà le previsioni dei trader.",
+    "link": "link",
+    "more": "Saperne di più»",
+    "trade": "OPERARE SU EUR/USD"
+  },
+  "second": {
+    "name-news": "Decisione per possibile modifica del tasso di rifinanziamento dell’Eurozona",
+    "date": "20 ottobre 14:45 GMT",
+    "opinion": "Opinione degli analitici di IQ Option:",
+    "news-text": "Le economie della regione europea e del Pacifico si trovano sotto pressione. I leader europei non sono in grado di risolvere il problema dell’accelerazione dell’inflazione e della crisi del debito e oltre a questi problemi deve essere risolta la questione dell’uscita della Gran Bretagna dall’Unione Europea e dei problemi economici ad essa connessi, la divisione del capitale e il rallentamento della circolazione del capitale. D’altra parte l’Australia continua ad avere difficoltà dovute al rallentamento dell’economia della regione asiatica e all’instabilità dei prezzi sulle materie prime, principale fonte di rifornimento del budget del Paese. Nel caso in cui i leader della Banca Centrale Europea decidessero di abbassare il tasso di rifinanziamento per stimolare l’economia della regione, questo avrà un effetto negativo a breve termine sulla valuta unica europea.",
+    "link": "link",
+    "more": "Saperne di più»",
+    "trade": "OPERARE SU EUR/AUD"
+  },
+  "third": {
+    "name-news": "Pubblicazione del report su inflazione del Canada",
+    "date": "21 ottobre 15:30 GMT",
+    "opinion": "Opinione degli analitici di IQ Option:",
+    "news-text": "Il Canada è uno dei principali Paesi al mondo per l’estrazione di petrolio e il dollaro canadese una delle principali valute commodity, il cui valore è fortemente influenzato dal prezzo del petrolio. In seguito agli ultimi incontri e accordi dei rappresentanti dei Paesi OPEC il prezzo dell’ ”oro nero” si è fissato al di sopra dei $50 per lungo tempo, e questo influisce in maniera estremamente positiva sulla valuta nazionale canadese. Maggiore è la massa monetaria del Paese e maggiore è la probabilità di accelerazione dell’inflazione. Se l’inflazione si dimostrerà essere maggiore delle aspettative, questo influirà positivamente sul valore del dollaro canadese.",
+    "link": "link",
+    "more": "Saperne di più»",
+    "trade": "OPERARE SU USD/CAD"
+  }
+}

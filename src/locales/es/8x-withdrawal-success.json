@@ -1,0 +1,8 @@
+{
+	"block_00": "Retirada processada com sucesso",
+	"block_01": "Sua solicitação de retirada",
+	"block_02": "foi processada com sucesso e um total de",
+	"block_03": "foi agora retirado da sua conta da {{embedded.brand_name}}. Aguarde o recebimento dos seus fundos, conforme indicado na sua solicitação de retirada.",
+	"block_04": "Obrigado por negociar com a {{embedded.brand_name}}!",
+	"block_05": "Ir para a plataforma"
+}

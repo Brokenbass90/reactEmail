@@ -1,0 +1,15 @@
+{
+	"block_00": "Hesabınıza hizmet ücreti uygulandı",
+	"block_01": "Sayın işlemci",
+	"block_02": "Bu e-postayla, embedded.brand_name nezdindeki işlem hesabınızın",
+	"block_03": "90 gündür aktif olmadığını bildirmek isteriz. Bu yüzden, Genel Ücretler politikamız uyarınca @@hesabınıza",
+	"block_04": "<b class=\"block_04_0\">hizmet ücreti</b> (veya başka bir para birimindeki eşdeğer tutar) uygulanmıştır.",
+	"block_05": "Genel Ücretler politikası",
+	"block_06": "uyarınca,",
+	"block_07": "bir işlem hesabında 90 (Doksan) takvim gününü kapsayan bir dönemde hiçbir işlem yapılmaması durumunda, hesabın Hareketsiz olduğu kabul edilir ve Şirket, Müşterinin hesabındaki kalan bakiyeye 10 Euro (veya ücretin kesildiği tarihte başka bir para birimindeki eşdeğer tutarda) aylık bir hizmet ücreti uygulama hakkına sahiptir.",
+	"block_08": "Hesabınızı yeniden Aktif duruma getirin",
+	"block_09": "Bizimle iş yapmaya devam etmek istiyorsanız <b class=\"block_09_0\">işlem hesabınızda bir etkinlik ve/veya işlem gerçekleştirmeniz gerekiyor.</b> Bu durumda hesabınıza hizmet ücreti uygulanmayacaktır.",
+	"block_10": "Hizmetlerimizi kullanmaya devam etmek istemiyorsanız lütfen hesabınıza gidin ve paranızı çekin.",
+	"block_11": "ile işlem yapmaya devam edin",
+	"block_12": "Anlayışınız için teşekkür ederiz!"
+}

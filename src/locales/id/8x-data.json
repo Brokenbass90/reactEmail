@@ -1,0 +1,13 @@
+{
+	"block_00": "Data siap diunduh",
+	"block_01": "Klien yang Terhormat,",
+	"block_02": "Terima kasih atas permintaan Anda untuk mendapatkan salinan data pribadi Anda yang dapat dibaca dengan mesin menurut Pasal 20 GDPR",
+	"block_03": "File berisi data",
+	"block_04": "yang Anda minta telah siap diunduh. Klik",
+	"block_05": "di sini",
+	"block_06": "untuk mengunduhnya. Demi keamanan, file hanya akan tersedia selama 7 hari setelah Anda menerima email ini.",
+	"block_07": "Karena data ini mungkin berisi informasi pribadi, sebaiknya Anda menyimpannya dengan baik dan berhati-hati saat menyimpan atau mengirimkannya, atau saat mengunggahnya ke layanan lain.",
+	"block_08": "Salam hormat,<br>Tim {{embedded.brand_name}}",
+	"block_09": "Jika ada pertanyaan lebih lanjut, hubungi kami di",
+	"block_10": "dan kami akan memberikan perincian lebih lanjut."
+}

@@ -1,0 +1,19 @@
+{
+	"block_00": "Il tuo documento di identità sta per scadere",
+	"block_01": "<b class=\"block_01_0\">Il documento di identità sta per scadere</b>",
+	"block_02": "<b class=\"block_02_0\">Gentile trader,</b>",
+	"block_03": "<b class=\"block_03_0\">A quanto pare il tuo documento di identità scadrà tra</b>",
+	"block_04": "<b class=\"block_04_0\">giorni</b>, dopodiché il tuo account non sarà più verificato. Come previsto dal nostro ente di regolamentazione, tutte le prove di identità devono essere aggiornate una volta scadute.",
+	"block_05": "<b class=\"block_05_0\">Ti preghiamo gentilmente di fornirci uno dei seguenti documenti validi emessi a tuo nome:</b>",
+	"block_06": "Carta di identità;",
+	"block_07": "Passaporto;",
+	"block_08": "Permesso di soggiorno;",
+	"block_09": "Patente di guida.",
+	"block_10": "Il documento deve essere a pagina intera, a colori, emesso a tuo nome e in corso di validità.",
+	"block_11": "<b class=\"block_11_0\">Apprezziamo la tua collaborazione e restiamo a tua disposizione.</b>",
+	"block_12": "CARICA DOCUMENTO",
+	"block_13": "In caso di domande, il nostro",
+	"block_14": "Team di supporto",
+	"block_15": "sarà felice di aiutarti.",
+	"block_16": "<b class=\"block_16_0\">Grazie per aver scelto la nostra società!</b>"
+}

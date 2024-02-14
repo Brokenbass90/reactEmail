@@ -1,0 +1,39 @@
+{
+  "header-img":"https://images01.iqoption.com/65/3265/static-03972043400244363265.png",
+  "header-img-2":"https://images01.iqoption.com/69/7569/static-04575659066096877569.png",
+  "title":"这个。改变。一切。",
+  "text": "挑战您对期权交易的看法。 选择可以为您提供更多的工具：同时更多地控制风险和更高的盈利能力*。 今天选择 Digital 期权！",
+  "subtitle":"我们很自豪地向您推出我们最新的交易工具 - <br> <b>Digital期权</b>",
+  "title-2":"Digital 期权提供：",
+  "retrack":"digital_option",
+  "main-link":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "main-link-2":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "video-link":"https://vimeo.com/221904750",
+  "video-screen-src":"https://images01.iqoption.com/21/4321/static-03682310805593784321.jpg",
+  "cta-1":"准备好改变了吗？",
+  "cta-2":"尝试Digital 选项",
+  "list":{
+    "item-1":{
+      "title":"更高的盈利能力*",
+      "text":"高达900％**的利润在价格急剧变动的情况下 ",
+      "img":"https://images01.iqoption.com/61/8161/static-01414225184591708161.png",
+      "img-2":"https://images01.iqoption.com/85/6385/static-03462266086840336385.png"
+    },
+    "item-2":{
+      "title":"更加灵活*",
+      "text":"随时可出售期权，以确保盈利 ",
+      "img":"https://images01.iqoption.com/45/9345/static-01395644636378169345.png",
+      "img-2":"https://images01.iqoption.com/41/9441/static-00260606600350269441.png"
+    },
+    "item-3":{
+      "title":"降低风险* ",
+      "text":"不同的期权执行价格使得风险更低",
+      "img":"https://images01.iqoption.com/45/8545/static-01423283609921388545.png",
+      "img-2":"https://images01.iqoption.com/97/8897/static-00930395576804048897.png"
+    }
+  },
+  "feedback":"Leave Feedback",
+  "note":"Let us know what you think of Digital Options, so we can make it perfect for you.",
+  "asterisk-1":"*与我们的常规二元期权产品相比。",
+  "asterisk-2":"**仅在成功预测的情况下才会记入金额"
+}

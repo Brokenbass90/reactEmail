@@ -1,0 +1,17 @@
+{
+	"block_00": "Faktureringsfel: Din betalning avvisades",
+	"block_01": "Det verkar som om vi inte kan behandla din betalning. Det finns olika skäl till faktureringsfel. Nedan hittar du de vanligaste:",
+	"block_02": "<b class=\"block_02_0\">Otillräckliga medel på ditt bankkonto</b>. Kontrollera om du har korrekt beräknat USD-beloppet i din valuta. Vi rekommenderar att du har lite mer pengar på ditt konto än du behöver ifall att.",
+	"block_03": "<b class=\"block_03_0\">Obehörig transaktion</b>. Kontakta din bank för att ta reda på om 3D-säkra transaktioner har aktiverats.",
+	"block_04": "<b class=\"block_04_0\">Betalningsuppgifterna var felaktiga</b>. Kontrollera om du har angett korrekta betalningsuppgifter.",
+	"block_05": "<b class=\"block_05_0\">Betalningstidpunkten har löpt ut</b>. Försök att utföra betalningen igen och ange 3D-koden i god tid.",
+	"block_06": "<b class=\"block_06_0\">Betalningen avvisades av banken</b>. Kontakta din bank för att få reda på orsaken och åtgärda det.",
+	"block_07": "<b class=\"block_07_0\">Ditt konto har uttagsgränser</b> för online-transaktioner. Använd en annan betalningsmetod för att kringgå den.",
+	"block_08": "Kontrollera och se om dina bankkonto- och betalningsuppgifter är i korrekta eller använd en annan betalningsmetod.",
+	"block_09": "Försök igen",
+	"block_10": "Många tillgängliga insättningsmetoder",
+	"block_11": "De flesta traders föredrar följande betalningsmetoder:",
+	"block_12": "Sätt in nu",
+	"block_13": "Om du har några frågor kan du kontakta oss på",
+	"block_14": "support@iqoption.com"
+}

@@ -1,0 +1,21 @@
+{
+  "top": {
+    "forex": "Forexten daha basit!",
+    "pip": "Tek gerekli olan şey 1 pip",
+    "head": "Nasıl çalışıyor?"
+  },
+  "first": {
+    "strong":"Adım 1:",
+    "head": "Bir tahmin yapın",
+    "text": "Fiyat şu andaki fiyattan daha yüksek mi yoksa düşük mü olacak?"
+  },
+  "second": {
+    "strong":"Adım 2:",
+    "head": "Karınızı toplayın",
+    "text": "Eğer tahmininiz doğruysa - 1 pip farkla bile, yatırımınızı",
+    "persent": "%90'a kadar yükseltin!"
+  },
+  "resp": {
+    "button": "Ücretsiz deneyin"
+  }
+}

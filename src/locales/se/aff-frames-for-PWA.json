@@ -1,0 +1,20 @@
+{
+	"block_00": "Nya registreringsramar för PWA",
+	"block_01": "Hej [% First_Name%],",
+	"block_02": "Idag är vi glada att kunna meddela ankomsten av nya registreringsramar för vår PWA (progressiva webbapp). Men låt oss först friska upp vårt minne om vad en PWA är och jämföra dess viktigaste fördelar med inbyggda mobilappar.",
+	"block_03": "Vad är en PWA?",
+	"block_04": "PWA är helt enkelt en app som beter sig som en inbyggd mobilapp (inklusive alternativet att lägga till en ikon på en mobilskärm) men körs i en webbläsare.",
+	"block_05": "PWA erbjuder många fördelar:",
+	"block_06": "När det gäller PWA kommer registreringsproceduren innan appinstallationen. Detta kan vara till stor fördel för vissa trafikförvärvsmetoder;",
+	"block_07": "Du kan rikta in din mobiltrafik till PWA i länder där våra iOS- och Android-appar",
+	"block_08": "inte är tillgängliga;",
+	"block_09": "Det tillåter icke-reglerade användare för att handla binära optioner (som inte är tillgängliga i officiella mobilappar).",
+	"block_10": "Vi har redan olika varianter av",
+	"block_11": "målsidan som gör det möjligt att registrera och installera vår PWA.",
+	"block_12": "Och nu har vi skapat registreringsramar som kan integreras i din mobilapp eller ett mobilt webbplatsgränssnitt.",
+	"block_13": "Registreringsramarna för PWA finns på flera språk. Här är huvudlänkarna till dem:",
+	"block_14": "https://iqoption.com/land/registration-pwa/en/",
+	"block_15": "https://iqoption.com/land/register-simple-pwa/en/",
+	"block_16": "Om du behöver fler länkar som passar bäst för din föredragna trafik eller om du inte är säker på hur du använder affiliate-parametern i länken -",
+	"block_17": "kontaktar du din affiliate manager."
+}

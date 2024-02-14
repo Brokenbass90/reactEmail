@@ -1,0 +1,23 @@
+{
+  "number": "920",
+  "retrack": "perfect_insight",
+  "cta": "Teilnehmen",
+  "top": {
+    "pic": "https://images01.iqoption.com/33/2433/static-04568465893524242433.png",
+    "text": "Wachsendes Preisgeld",
+    "prize": "$15 000"
+  },
+  "bottom": {
+    "asterisk": "*Man wird einen Anteil des Preisgeldes nur im Falle von Gewinnen im Turnier erhalten.",
+    "text":"80% Ihrer Zahlungen in das Turnier gehen in das Preisgeld! Alle teilnehmenden Händler beginnen das Turnier mit einem speziellen Konto mit einem Guthaben von 100 Euro"
+  },
+  "info": {
+    "duration": "Dauer",
+    "participation": "Teilnahme",
+    "fee": "Rückkaufgebühr",
+    "date": "8-12",
+    "month": "Mai 2017",
+    "price": "$5",
+    "center-text": "Haben Sie den perfekten Einblick in den Markt der Zukunft?"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"block_00": "Operación cancelada",
+	"block_01": "Estimado Cliente,",
+	"block_02": "No hemos sido capaces de ejecutar la operación",
+	"block_03": "deal_id",
+	"block_04": "que recientemente has abierto, porque no ha sido aceptada por el Creador de Mercado de terceros al que la operación ha sido enviada para su ejecución. Esto puede ocurrir por una serie de razones, incluídas las condiciones de mercado al momento de la ejecución o el propio conjunto de reglas de gestión de riesgos del Creador de Mercado.",
+	"block_05": "Por lo tanto, y según los Términos y Condiciones de la Compañía, que estás obligado a conocer y a aceptar en el momento de convertirte en cliente de la Compañía, tu orden no ha sido procesada y la cantidad invertida ha sido devuelta al saldo de tu cuenta.",
+	"block_06": "Para más información por favor lea la sección (9) de los Términos y Condiciones."
+}

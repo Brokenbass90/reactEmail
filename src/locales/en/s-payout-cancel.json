@@ -1,0 +1,18 @@
+{
+	"block_00": "Withdrawal request declined",
+	"block_01": "Hi",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "We are sorry to inform you that your withdrawal request",
+	"block_05": "op_id",
+	"block_06": "for a total amount of",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "has been canceled. You may find the details below.",
+	"block_10": "Reason:",
+	"block_11": "reason",
+	"block_12": "If you have any questions, you can contact us at",
+	"block_13": "support@iqoption.com",
+	"block_14": ".",
+	"block_15": "Terms and Conditions"
+}

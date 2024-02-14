@@ -1,0 +1,26 @@
+{
+  "dear": "Cher trader,",
+  "text-1": "Nous vous envoyons ce message pour vous informer que selon nos Termes et Conditions de Service (Point 6 des « Garanties client »)",
+  "strong-1": "le client est tenu de fournir les documents KYC à la société dans un délai n’excédant pas 7 jours à dater du dépôt des fonds.",
+  "text-2": "",
+  "text-3": "Si ce n'est pas déjà fait ainsi, nous vous prions de fournir les documents d’identification nécessaires dans les plus brefs délais. Dans le cas contraire, nous seront contraints de",
+  "strong-2": "&nbsp;restraindre votre accès aux opérations de trading&nbsp;",
+  "text-4": "et/ou aux autres services que nous fournissons.",
+  "cta": "Vérifier mon compte",
+  "strong-3": "Pourquoi avons-nous besoin vos documents?",
+  "text-5": "IQ Option Europe Ltd est régulé par la CySEC (Cyprus Securities & Exchange Commission), et nous sommes tenus par la loi de satisfaire aux exigences de base relatives à la répression du blanchiment d’argent et au financement du terrorisme. Afin de profiter des avantages du trading dans le cadre d'une entité réglementée, vous êtes tenu de fournir les renseignements et les documents nécessaires à la vérification de votre compte.",
+  "support": "En cas de questions, n’hésitez pas à contacter notre",
+  "link": "équipe de soutien.",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Merci d'avoir choisi IQ Option pour vos opérations de courtage!",
+  "answer": "Remarque: ce message a été généré et envoyé automatiquement et ne nécessite aucune réponse.",
+  "after": {
+    "text-1": "Nous vous envoyons ce message pour vous rappeler que selon nos Termes et Conditions de Service (Point 6 des « Garanties client »)",
+    "strong-1": "le client est tenu de fournir les documents KYC à la société dans un délai n’excédant pas 7 jours",
+    "text-2": "à dater du dépôt des fonds.",
+    "text-3": "Puisque vous ne nous avez pas encore transmis les documents nécessaires à la vérification des comptes,",
+    "strong-2": "&nbsp;votre accès à la plate-forme de trading a été suspendu.&nbsp;",
+    "text-4": "À moins d'effectuer les démarches pour vérifier votre compte dans les 7 prochains jours, celui-ci sera résilié et votre solde vous sera remboursé."
+  }
+}

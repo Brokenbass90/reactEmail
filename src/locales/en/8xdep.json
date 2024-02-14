@@ -1,0 +1,15 @@
+{
+	"block_00": "Available for deposits:",
+	"block_01": "Skrill and Neteller",
+	"block_02": "Start trading on a real account in just a few clicks.",
+	"block_03": "Deposit Now",
+	"block_04": "How to Deposit",
+	"block_05": "Step 1",
+	"block_06": "Log in to your {{embedded.brand_name}} account and <b class=\"block_06_0\">go to the Deposit page</b>.",
+	"block_07": "Step 2",
+	"block_08": "Select the deposit <b class=\"block_08_0\">amount and currency</b>. Choose your preferred payment method, then click <b class=\"block_08_1\">‘Proceed to payment’</b>.",
+	"block_09": "Step 3",
+	"block_10": "You will be redirected to the payment gateway of your selected method. <b class=\"block_10_0\">Enter your credentials and confirm your payment</b>.",
+	"block_11": "Deposit now",
+	"block_12": "Have a fantastic trading experience!"
+}

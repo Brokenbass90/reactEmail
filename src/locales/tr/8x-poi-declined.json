@@ -1,0 +1,9 @@
+{
+	"block_00": "Kimlik Belgesi reddedildi",
+	"block_01": "Ne yazık ki, Kimlik Belgesi olarak yüklediğiniz belge gerekliliklerimizi yerine getirmediğinden dolayı reddedilmiştir. Bu nedenle, <b class=\"block_01_0\">hesabınız doğrulanmamış olarak kalmıştır</b>.",
+	"block_02": "Durumunuz hakkında daha fazla bilgi için, lütfen aşağıdaki bağlantıya tıklayın.",
+	"block_03": "Doğrulama durumu",
+	"block_04": "Herhangi bir sorunuz olursa, lütfen",
+	"block_05": "support@{{embedded.brand_name}}.com adresinden Destek ekibimize başvurun",
+	"block_06": "Anlayışınız için müteşekkiriz."
+}

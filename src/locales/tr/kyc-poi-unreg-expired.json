@@ -1,0 +1,16 @@
+{
+	"block_00": "Kimlik belgenizin geçerlilik süresi doldu",
+	"block_01": "<b class=\"block_01_0\">Kimlik belgesinin geçerlilik süresi doldu</b>",
+	"block_02": "<b class=\"block_02_0\">Sayın işlemci,</b>",
+	"block_03": "Kimlik belgenizin süresi doldu. Dolayısıyla <b class=\"block_03_0\">artık bizimle işlem yapamayacak veya para yatıramayacaksınız.</b>",
+	"block_04": "Ancak bizimle işlem yapmaya devam etmek istiyorsanız, lütfen aşağıdaki belgelerden birinin tam sayfa ve renkli kopyasını hesabınıza yükleyin:",
+	"block_05": "Kimlik kartı;",
+	"block_06": "Pasaport;",
+	"block_07": "İkamet izni;",
+	"block_08": "Ehliyet.",
+	"block_09": "BELGE YÜKLEYİN",
+	"block_10": "Herhangi bir sorunuz olursa,",
+	"block_11": "Destek ekibimiz",
+	"block_12": "size yardımcı olmaktan memnuniyet duyacaktır.",
+	"block_13": "<b class=\"block_13_0\">Şirketimizi seçtiğiniz için teşekkür ederiz!</b>"
+}

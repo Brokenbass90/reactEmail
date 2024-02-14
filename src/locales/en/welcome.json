@@ -1,0 +1,50 @@
+{
+  "top": {
+    "hello": "Welcome!",
+    "happy": "We are glad to welcome you to the community of IQ Option traders.",
+    "text": "On behalf of all of our employees, we would like to thank you for showing us your trust. Our goal is to be the absolute best broker of binary options. We offer you our highly acclaimed service, loved by our clients.",
+    "team": "The IQ Option team works 24/7 to maintain the highest standards and to meet and exceed all of your expectations!",
+    "watch": "Watch video <br> about",
+    "watch-strong": "how to <br> trade on the platform"
+  },
+  "rowhead": {
+    "lider": "IQ Option is truly a leader and pioneer of quality in the world of binary options - and the facts back us up."
+  },
+  "row_one": {
+    "text": "At any given time, more than 10,000 people are trading on the IQ Option platform"
+  },
+  "row_two": {
+    "text": "Opening a trading position on the IQ platform happens instantaneously"
+  },
+  "row_three": {
+    "text": "Monthly payments from IQ Option to traders total about 5 million dollars!"
+  },
+  "row_four": {
+    "text": "IQ Option was awarded the title of «Best Binary Options Broker in Europe» in 2015 according to Global Banking & Finance Review"
+  },
+  "cta_rowhead": {
+    "first": "First steps on the site"
+  },
+  "cta_row_one": {
+    "head": "Not familiar with binary options?",
+    "text": "Right now, you can use the best interactive tutorial system in the industry and get all the knowledge neccessary for trading",
+    "button": "Start Training"
+  },
+  "cta_row_two": {
+    "head": "Want to try real trading?",
+    "text": "Right now you can start trading with a minimum deposit of just 10 USD",
+    "button": "Make A Deposit"
+  },
+  "cta_row_three": {
+    "head": "Need a personal approach? ",
+    "text": "Deposit more than $3000 and become an IQ Option VIP client!",
+    "text-two": "By gaining the premium status of a VIP client, you will feel all the benefits of our service thanks to personal managers who support you step by step and provide all the information you need - in your native tongue. ",
+    "button": "More About VIP"
+  },
+  "cta": {
+    "button": "GO TO THE PLATFORM ",
+    "question": "If you have any questions, our&nbsp;",
+    "support": "support team",
+    "help": "will be pleased to help you."
+  }
+}

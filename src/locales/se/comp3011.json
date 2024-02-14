@@ -1,0 +1,20 @@
+{
+	"block_00": "Meddelande angående ditt återstående outkrävda saldo",
+	"block_01": "Meddelande angående ditt återstående outkrävda saldo",
+	"block_02": "Bästa kund,",
+	"block_03": "Observera att efter stängningen av ditt handelskonto hos företaget har det identifierats att <b class=\"block_03_0\">ditt handelskonto har ett saldo som ännu inte har utkrävts obefordrat fram till idag</b> dvs., inga åtgärder har vidtagits för att utkräva dina pengar.",
+	"block_04": "Vi rekommenderar starkt att du kontaktar företaget omedelbart och gör anspråk på ditt återstående saldo genom att skicka oss ett e-postmeddelande på",
+	"block_05": "support@iqoption.com",
+	"block_06": "med din registrerade e-postadress som var länkad till ditt handelskonto. För att företaget ska kunna skicka dig ditt återstående saldo ber vi dig dessutom att tillhandahålla oss följande bankuppgifter:",
+	"block_07": "Namn och efternamn",
+	"block_08": "IBAN-nummer",
+	"block_09": "Swift-nummer",
+	"block_10": "Bankens land",
+	"block_11": "Observera att transaktionen kan bli föremål för avgifter. Betalningar i USD är även föremål för <b class=\"block_11_0\">en fast avgift på 35 USD</b> och därför rekommenderar vi att du tillhandahåller företaget bankuppgifter till ett konto i EUR/GBP för att undvika en sådan avgift. Det återstående saldot i USD kommer att omvandlas till EUR/GBP i enlighet med motsvarande betalning.",
+	"block_12": "Observera att om du inte gör anspråk på dina pengar senast slutet på <b class=\"block_12_0\">nästa månad</b> (dvs. slutet på december 2020) kommer följande avgifter att debiteras av företaget:",
+	"block_13": "Månadsavgift på 1% från ditt återstående outkrävda saldo (minst 5EUR)",
+	"block_14": "Om du redan har kontaktat företaget angående betalning av ditt återstående outkrävda saldo och/eller om du redan har fått ditt återstående saldo kan du bortse från detta e-postmeddelande.",
+	"block_15": "Om du har några frågor eller behöver ytterligare förtydliganden får du gärna kontakta oss via e-post på",
+	"block_16": "support@iqoption.com.",
+	"block_17": "Gå till IQ Option"
+}

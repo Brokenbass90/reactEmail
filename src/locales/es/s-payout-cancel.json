@@ -1,0 +1,18 @@
+{
+	"block_00": "Solicitud de retirada rechazada",
+	"block_01": "Hola",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Sentimos informarte de que tu solicitud de retirada",
+	"block_05": "op_id",
+	"block_06": "por la cantidad total de",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "ha sido cancelada. Encontrarás los detalles a continuación.",
+	"block_10": "Razón:",
+	"block_11": "razón",
+	"block_12": "Si tienes cualquier pregunta, puedes contactar con nosotros en",
+	"block_13": "support@iqoption.com",
+	"block_14": ".",
+	"block_15": "Términos y Condiciones"
+}

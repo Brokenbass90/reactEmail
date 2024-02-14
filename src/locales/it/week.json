@@ -1,0 +1,53 @@
+{
+  "top": {
+    "head": "Questa settimana in IQ&nbsp;trading",
+    "text": "Guarda queste impressionanti statistiche della settimana scorsa"
+  },
+  "trade": {
+    "subhead":"MIGLIOR TRADER",
+    "head": "TRADER DELLA SETTIMANA"
+  },
+  "tour": {
+    "subhead":"TOP 3 VINCITORI",
+    "head": "Vincitori del Torneo"
+  },
+  "option": {
+    "head": "OPZIONE PIÙ GRANDE",
+    "in": "Investito",
+    "out": "PROFITTO"
+  },
+  "with": {
+    "subhead":"PRELIEVO",
+    "head": "Prelievo più Grande"
+  },
+  "market": {
+    "subhead": "MARKET MOVER",
+    "head": "Maggiori Market Mover"
+  },
+  "robo": {
+    "iq": "IQ ROBOTS",
+    "iq-2": "Best of the best",
+    "ind-1": "GS comb T000",
+    "review-1": "Most Profitable",
+    "profit-1": "+49.94% profit",
+    "ind-2": "Death or Glory",
+    "review-2": "Most Popular",
+    "profit-2": "+$151 profit"
+  },
+  "cta": {
+    "butt": "VAI A IQ OPTION"
+  },
+  "otc": {
+    "subhead": "Fine settimana",
+    "head": "Trading nei fine settimana",
+    "text": "Vorremmo ricordare che la piattaforma IQ Option permette di fare trading senza interruzione durante il fine settimana. "
+  },
+  "bg": {
+    "trader": "https://images01.iqoption.com/33/4033/static-00913995957148844033.jpg",
+    "option": "https://images01.iqoption.com/89/6289/static-00399015198523916289.jpg",
+    "market": "https://images01.iqoption.com/57/5857/static-02999324047474425857.jpg",
+    "otc": "https://images01.iqoption.com/61/5761/static-01025721126103285761.jpg",
+    "tourn": "https://images01.iqoption.com/49/6449/static-03155218215571816449.jpg",
+    "with": "https://images01.iqoption.com/65/8865/static-03688725238318628865.jpg"
+  }
+}

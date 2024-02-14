@@ -1,0 +1,14 @@
+{
+	"block_00": "Demande de retrait réussie",
+	"block_01": "Votre demande de retrait de %amount_withdrawal% a été envoyée avec succès et devrait être traitée prochainement.",
+	"block_02": "Puisque c'est la première fois que vous vous retirez, nous aimerions souligner certaines choses importantes que vous devez savoir:",
+	"block_03": "Pour garantir un retrait rapide, vérifiez que tous les champs de votre demande de retrait ont été remplis correctement.",
+	"block_04": "Si vous effectuez un retrait vers un portefeuille électronique, assurez-vous que votre compte est vérifié auprès du fournisseur de services que vous avez choisi pour votre retrait.",
+	"block_05": "Les traders ont accès à 1 retrait sans commission par mois civil.",
+	"block_06": "Si vous effectuez un retrait vers une carte virtuelle, assurez-vous qu'elle est applicable pour les remboursements. Nous travaillons avec toutes les cartes Visa, Mastercard et Maestro.",
+	"block_07": "IQ Option traite les retraits dans les 3 jours ouvrables. En fonction de votre banque, les fonds peuvent prendre plus de temps à être affichés dans votre compte.",
+	"block_08": "Si vous avez effectué un dépôt avec une carte de crédit ou de débit, vous devrez demander un retrait avec la même carte, égal au montant de votre investissement initial, y compris les dépôts effectués au cours des 90 derniers jours. Vos fonds de retrait seront crédités sur votre carte dans un délai maximum de 21 jours.",
+	"block_09": "Pour les enquêtes sur les retraits par carte bancaire, nous vous demanderons de nous envoyer un relevé bancaire prouvant que l'argent n'a pas été crédité. Notez que certaines banques virtuelles ne peuvent pas émettre de tels relevés.",
+	"block_10": "La conversion sera effectuée au taux du mode de paiement sélectionné.",
+	"block_11": "Nous vous remercions d'avoir choisi IQ Option comme courtier de confiance!"
+}

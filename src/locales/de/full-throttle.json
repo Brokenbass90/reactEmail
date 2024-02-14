@@ -1,0 +1,31 @@
+{
+"item-1-duration":"Dauer",
+"item-1-month":"April 2017",
+"item-2-text":"Der Hauptgewinner erhält ein Ticket für den Aston Martin Drive Tag",
+"item-3-part":"Teilnehmen",
+"item-3-fee":"Rückkaufgebühr",
+"asterix":"*Man wird einen Anteil des Preisgeldes nur im Fall von Gewinnen im Turnier erhalten.",
+"prize-fund":"in dem Preispool ist nur ein Anfang ",
+"percents-of-re-buys":"der Rückkäufe gehen in das Preisgeld! ",
+"cta":"Teilnehmen",
+"description":"80% Ihrer Zahlungen während des Turniers gehen in das Preisgeld! Alle teilnehmenden Händlern beginnen das Turnier mit einem speziellen Konto mit einem Guthaben von 10 000 Euro",
+"high-profile":{
+"fund":"Ansteigender Preispool*",
+"deal":"Lassen Sie alle wissen, dass Sie viel Wert sind.",
+"month":"April, 2017",
+"prize":"*Man wird einen Anteil des Preispools nur im Fall von Gewinnen im Turnier bekommen.",
+"cta":"Teilnehmen",
+"description":"80% Ihrer Einzahlungen in das Turnier gehen ins Preisgeld! Alle teilnehmenden Händlern beginnen das Turnier mit einem speziellen Konto mit einem Guthaben von 100 USD"
+},
+   "chart":{
+     "fund":"wachsendes Preisgeld",
+     "trip":"+ eine Reise zum <b>Aston Martin Drive Day</b>**",
+     "month":"Mai 2017",
+     "prize": "Diese Preise überragen alles",
+     "asterisk":"*Man wird ein Anteil des Preispools nur im Falle von Gewinnen im Turnier bekommen.",
+     "asterisk-2":"** Der Hauptgewinner des Turniers erhält ein Ticket zu dem Aston Martin Drive Day zusätzlich zum Preisgeld. Im Falle,wenn der Hauptgewinner den Preis ablehnt oder aus irgendwelchen Gründen nicht in der Lage sein wird auf die Reise zu gehen,wird der Preis zu Gunsten der Person,die als nächstes in der Reihe der Preisverteilung steht verfallen.",
+     "bottom":"80% Ihrer Zahlungen im Turnier gehen in das Preisgeld! Alle teilnehmenden Händler beginnen das Turnier mit einem speziellen Konto mit einem Guthaben von $10 000"
+
+
+   }
+}

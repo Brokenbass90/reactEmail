@@ -1,0 +1,20 @@
+{
+    "block_00": "Mobile Updates 🔥",
+    "block_01": "<b class=\"block_01_00\">Hallo [%first_name%],</b>",
+    "block_02": "2022 hatten wir viele mobile Updates. Wenn Sie auf der Suche nach neuen Möglichkeiten zur Steigerung der Besucherzahlen sind, dann ist dieser Newsletter das Zeichen, auf das Sie gewartet haben — los geht's!",
+    "block_03": "<b class=\"block_03_00\">Update für die iOS-App</b>",
+    "block_04": "Die aktualisierte IQ Broker iOS-App ist jetzt für mehr Länder verfügbar. Dies ist die \"schwarze\" IQ Broker-App, sie ist für iOS-Nutzer aus Ländern verfügbar, in denen die klassische \"orange\" IQ Option-App nicht verfügbar ist: Mexiko, Saudi-Arabien, Malaysia, Chile usw. Beim Versuch, die Haupt-App herunterzuladen, werden die Nutzer automatisch auf die verfügbare \"schwarze\" weitergeleitet.",
+    "block_05": "<b class=\"block_05_00\">Leichte Landing Page</b>",
+    "block_06": "Wir haben diese Landing Page erstellt, um die Konversionsrate zu erhöhen, insbesondere in Regionen mit schlechter Internetverbindung. Die neue Landing Page zeichnet sich dadurch aus, dass sie kurz ist (nur 2 Bildschirme) und den Nutzer direkt zur Registrierung führt — sehen Sie selbst!",
+    "block_07": "Zur Landing Page",
+    "block_08": "<b class=\"block_08_00\">Landing Page mit mobilem Registrierungsframe</b>",
+    "block_09": "Wir haben uns dafür entschieden, den Standardbutton für den Download des App-Stores (der zu Konversionen zur <i>Installation</i> beiträgt) auf der neuen Landing Page durch ein Registrierungsformular zu ersetzen (das die Konversionen zur <i>Registrierung</i> erhöht). Das heißt, der Nutzer muss sich zuerst für ein Konto registrieren und dann die App im Store herunterladen. Unser Experiment hat einen deutlichen Anstieg der Konversionen bei der Registrierung erbracht, also zögern Sie nicht, es auszuprobieren.",
+    "block_10": "Zur Landing Page",
+    "block_11": "Beachten Sie, dass <b class=\"block_11_00\">alle Registrierungsframes den Benutzer jetzt direkt von der Partnerseite zum Handelsraum weiterleiten können</b> (nach der Registrierung auf der Seite über den Frame).",
+    "block_12": "Damit das funktioniert, müssen Sie einige Codezeilen hinzufügen, wenn Sie den Frame in Ihre Seite integrieren. So geht es:",
+    "block_13": "Zum Framecode fügen Sie hinzu:",
+    "block_14": "das Attribut sandbox für den iframe-Tag",
+    "block_15": "Fügen Sie einen Parameter zum Pfad des Frames selbst hinzu:",
+    "block_16": "Beispiel:",
+    "block_17": "Wir wünschen Ihnen beste Konversionsraten! 🚀"
+}

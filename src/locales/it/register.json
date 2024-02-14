@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Buongiorno!",
+    "success": "Vi siete registrati con successo sul sito IQ Option.",
+    "activate": "Per l’attivazione dell’account, si prega di confermare la registrazione.",
+    "confirm": "Confermare la registrazione",
+    "code": "Oppure utilizzi il codice di attivazione:"
+  },
+  "bottom": {
+    "support": "Attenzione! Il link è utilizzabile una volta sola, al tentativo di un secondo utilizzo verrà mostrato un messaggio di errore. Per qualsiasi domanda si prega di rivolgersi al supporto tecnico",
+    "team": "Il team IQ Option Le augura un trading di successo!",
+    "attention": "Attenzione: questa lettera è stata inviata in modo automatico e non richiede risposta."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "calendar":{
+    "retrack":"earnings_calendar",
+    "retrack-2":"earnings_calendar-2",
+    "cta":{
+      "text":"Vai a IQ Option",
+      "link":"#"
+    },
+    "title":"Come leggere<br />un Calendario Guadagni",
+    "subtitle":"Esaminare la cronologia e le previsioni dei guadagni di una società può accrescere le tue probabilità di successo nel trading di Opzioni Classiche.",
+    "sec-1-title":"3 cose di cui essere consapevoli:",
+    "sec-3-title":"Consulta il Calendario Guadagni sulla<br /> piattaforma di trading IQ Option proprio adesso!",
+    "eps":"EPS",
+    "forecast":"Forecast",
+    "revenue":"Revenue",
+    "active-1":{
+      "name":"PayPal Holdings Inc",
+      "date":"Apr 26, 2017",
+      "num-1":"0.44",
+      "num-2":"0.41",
+      "color":"green",
+      "rev-num":"2.98B",
+      "time-img":"https://images01.iqoption.com/01/9601/static-04299877409986969601.png"
+    },
+    "active-2":{
+      "name":"Intel",
+      "date":"Apr 27, 2017",
+      "num-1":"0.66",
+      "num-2":"0.68",
+      "color":"red",
+      "rev-num":"14.79B",
+      "time-img":"https://images01.iqoption.com/85/8385/static-04047061317670928385.png"
+    },
+    "item-1":{
+      "title":"Momento della giornata",
+      "text":"I trader esordienti tendono a trascurare un dettaglio importante quando consultano il Calendario Guadagni: l'orario del rapporto. Le relazioni di aziende pubbliche americane escono prima dell’apertura dei mercati USA o dopo la loro chiusura."
+    },
+    "item-2":{
+      "title":"Previsione EPS",
+      "text":"Il tasso Utile per Azione (più comunemente noto come &quot;EPS&quot;) è probabilmente l'indicatore più importante della vitalità finanziaria di una società, quindi qualsiasi sua variazione si rifletterà sul prezzo delle azioni. Se i risultati pubblicati risultano al di sotto del livello atteso, probabilmente il prezzo subirà un gap down."
+    },
+    "item-3":{
+      "title":"Track record",
+      "text":"Prendetevi il tempo di esaminare i risultati finanziari della società nei diversi trimestri precedenti. C'è un qualche passato di ricorrenti buoni esiti o fischi nei guadagni? Se è così, le azioni della società sono meno inclini a bruschi movimenti in entrambe le direzioni, ma la tendenza generale è più evidente. "
+    }
+
+  }
+
+}

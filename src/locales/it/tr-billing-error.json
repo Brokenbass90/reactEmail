@@ -1,0 +1,17 @@
+{
+	"block_00": "Errore di fatturazione: Il pagamento è stato rifiutato",
+	"block_01": "Non siamo in grado di elaborare il tuo pagamento. Gli errori di fatturazione hanno diverse cause. Riportiamo di seguito le più comuni:",
+	"block_02": "<b class=\"block_02_0\">Fondi insufficienti sul tuo conto corrente</b>. Controlla di aver calcolato correttamente l'importo in USD nella tua valuta. Ti consigliamo di disporre di un piccolo importo aggiuntivo per motivi di sicurezza.",
+	"block_03": "<b class=\"block_03_0\">Transazione non autorizzata</b>. Contatta la tua banca per controllare se le transazioni 3D Secure sono abilitate.",
+	"block_04": "<b class=\"block_04_0\">Informazioni di pagamento non corrette</b>. Verifica di aver inserito correttamente gli estremi per il pagamento.",
+	"block_05": "<b class=\"block_05_0\">Il tempo previsto per il pagamento è scaduto</b>. Prova nuovamente a eseguire il pagamento e inserisci il codice 3D in tempo.",
+	"block_06": "<b class=\"block_06_0\">Il pagamento è stato rifiutato dalla banca</b>. Contatta la tua banca per scoprire il motivo e trovare la soluzione.",
+	"block_07": "<b class=\"block_07_0\">Il tuo conto ha dei limiti di trasferimento</b> per le transazioni online. Usa un altro metodo di pagamento.",
+	"block_08": "Verifica se il tuo conto bancario e i dettagli di pagamento sono corretti oppure prova un altro metodo di pagamento.",
+	"block_09": "Riprova",
+	"block_10": "Sono disponibili molti metodi di deposito",
+	"block_11": "La maggior parte dei trader preferisce le seguenti modalità:",
+	"block_12": "Deposita adesso",
+	"block_13": "In caso di domande non esitare a contattarci all'indirizzo",
+	"block_14": "support@iqoption.com"
+}

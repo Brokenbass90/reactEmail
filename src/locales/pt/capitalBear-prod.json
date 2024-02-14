@@ -1,0 +1,17 @@
+{
+    "block_00": "O Que É Média Móvel Simples (MMS)?",
+    "block_01": "Uma Média Móvel Simples é uma ferramenta popular que pode beneficiar tanto traders de curto prazo quanto investidores de longo prazo. A MMS suaviza os dados de preços calculando a média do preço de um título em determinado período. Ela é desenhada como uma única linha em um gráfico e é útil para identificar tendências. O benefício da MMS é que ela permite que um trader ou investidor determine rapidamente se um título está subindo ou descendo.",
+    "block_02": "Dois dos sinais mais populares que os traders procuram são cruzamentos de alta e baixa.",
+    "block_03": "<b class=\"block_03_00\">Um cruzamento de alta</b> ocorre quando o preço de um título volta acima da MMS depois de estar abaixo dela. Essa ação sinaliza que a tendência de baixa ou correção acabou, e uma possível tendência de alta está começando. Um cruzamento de alta pode ser usado como um sinal para entrar em uma negociação de compra.",
+    "block_04": "<b class=\"block_04_00\">Um cruzamento de baixa</b> ocorre quando o preço de um título cai abaixo da MMS após negociar acima dela. Essa ação sinaliza que a tendência de alta acabou, e a tendência agora pode ser de baixa. Um cruzamento de baixa pode ser usado como um sinal para sair de uma posição comprada ou, alternativamente, entrar em uma posição vendida.",
+    "block_05": "Abrir a Sala de Negociação",
+    "block_06": "Como aplicar a MMS?",
+    "block_07": "Faça login na sua conta da CapitalBear e abra a sala de negociação",
+    "block_08": "Clique no botão Indicador, no canto inferior esquerdo do gráfico",
+    "block_09": "Selecione a Média Móvel na seção Médias Móveis",
+    "block_10": "Configure seu indicador e aplique-o ao gráfico",
+    "block_11": "Experimente agora",
+    "block_12": "Agradecemos a sua atenção!",
+    "block_13": "Fique atento aos e-mails para não perder as dicas de negociação.",
+    "block_14": "Comece a negociar"
+}

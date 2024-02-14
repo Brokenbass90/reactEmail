@@ -1,0 +1,20 @@
+{
+	"block_00": "Thông tin cập nhật mới nhất",
+	"block_01": "<b class=\"block_01_0\">Xin chào [%first_name%],‌</b>",
+	"block_02": "Chúng tôi xin thông báo một số thông tin cập nhật mới nhất! Trong đợt này, chúng tôi bổ sung các đường liên kết mới, cách thức thu thập số liệu thống kê đơn giản và các phương thức thanh toán mới cho khách hàng.",
+	"block_03": "<b class=\"block_03_0\">Đường liên kết mới cho Indonesia</b>",
+	"block_04": "Chúng tôi đã cập nhật đường liên kết cho Indonesia. Xin lưu ý, đường dẫn phổ quát <b class=\"block_04_0\">sẽ không còn dùng được cho Indonesia và Thổ Nhĩ Kỳ nữa</b>. Hãy chuyển đến phần trang đích để dùng đường liên kết mới bằng cách chọn ngôn ngữ tương ứng trong phần tùy chọn cài đặt.",
+	"block_05": "WEB",
+	"block_06": "DI ĐỘNG",
+	"block_07": "Phương thức thanh toán mới trên nền tảng",
+	"block_08": "Mức độ sẵn có của các phương thức nạp và rút tiền phổ biến cho thấy tỷ lệ CR trên FTD cao hơn. IQ Option vừa bổ sung vào danh sách các phương thức thanh toán nhiều ví điện tử và ngân hàng địa phương mới đối với một số quốc gia phổ biến.",
+	"block_09": "<b class=\"block_09_0\">Boleto Pix</b> cho Brazil",
+	"block_10": "<b class=\"block_10_0\">Ví GlobePay</b> cho Ấn Độ",
+	"block_11": "<b class=\"block_11_0\">Chuyển khoản ngân hàng</b> cho Trung Quốc",
+	"block_12": "<b class=\"block_12_0\">Doku, QRIS</b> và<b class=\"block_12_1\">ngân hàng ảo</b> cho Indonesia",
+	"block_13": "<b class=\"block_13_0\">Papara</b> cho Thổ Nhĩ Kỳ",
+	"block_14": "<b class=\"block_14_0\">Sự kiện có trả phí trong AppsFlyer</b>",
+	"block_15": "Chúng tôi đã bổ sung sự kiện CPA-lead cho AppsFlyer. Từ giờ trở đi, bạn không cần phải thiết lập hành động postback cho sự kiện này trong tài khoản tiếp thị liên kết của mình nữa nếu bạn đã quen nhận những sự kiện khác trong AppsFlyer.",
+	"block_16": "Nếu bạn có câu hỏi về việc tích hợp hoặc thiết lập postback, hãy liên hệ ngay với chuyên viên quản lý của bạn.",
+	"block_17": "Chúc bạn gặt hái được nhiều thành công cho chiến dịch của mình! 🙌"
+}

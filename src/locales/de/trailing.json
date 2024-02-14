@@ -1,0 +1,10 @@
+{
+	"block_00": "Sehr Gefragt:",
+	"block_01": "Trailing-Stop-Loss",
+	"block_02": "<b class=\"block_02_0\">Trailing-Stop-Loss</b> passt automatisch Ihre Stop-Loss-Schwelle an, solange der Preis sich positiv entwickelt.",
+	"block_03": "Versuchen Sie jetzt",
+	"block_04": "Wie funktioniert das?",
+	"block_05": "<b class=\"block_05_0\">TSL</b> wird automatisch Ihre Stop-Loss-Schwelle nach unten (im Fall einer CALL-Option) oder nach oben (im Fall einer PUT-Option) übertragen. Der Deal wird damals geschlossen werden, als bestimmte Höhe des Gewinns erreicht ist, aber vor der Trend sich umkehrt.",
+	"block_06": "Versuchen Sie jetzt",
+	"block_07": "https://images01.iqoption.com/61/1761/static-02140853281499381761.png"
+}

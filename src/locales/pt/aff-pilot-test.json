@@ -1,0 +1,20 @@
+{
+	"block_00": "Seja o primeiro a experimentar um novo método de pagamento",
+	"block_01": "<b class=\"block_01_0\">Olá [% first_name%],</b>",
+	"block_02": "Apresentaremos um novo método de pagamento em breve e convidamos você a participar de seu teste-piloto! O novo método permitirá que os afiliados recebam seus pagamentos na moeda nacional <b class=\"block_02_0\">dentro de 1 dia útil (ou mais rapidamente) após a solicitação de retirada ser processada</b>.",
+	"block_03": "Condições:",
+	"block_04": "Pagamento mínimo: $ 10",
+	"block_05": "Limite de transferência: $ 2.000. Caso o valor da sua retirada exceda o limite, você o receberá em várias transferências subsequentes.",
+	"block_06": "Os fundos são creditados em reais (BRL) de acordo com a taxa de câmbio do dia da operação.",
+	"block_07": "Como participar do teste",
+	"block_08": "Qualquer afiliado do Brasil com pagamentos ativados e dinheiro no saldo da conta é bem-vindo a participar do teste do método de pagamento.",
+	"block_09": "Observe que, por enquanto, não podemos usar este método para pagar pessoas jurídicas, portanto, <b class=\"block_09_0\">o titular da conta deve ser uma pessoa física</b>.",
+	"block_10": "Se você cumpre os requisitos e gostaria de participar, entre em contato com seu gerente e envie a ele as seguintes informações:",
+	"block_11": "✅ Nome e sobrenome (observe que seu nome na conta bancária deve corresponder a um na conta de afiliado)",
+	"block_12": "✅ Número da conta bancária",
+	"block_13": "✅ Nome do banco",
+	"block_14": "✅ Valor",
+	"block_15": "Enviaremos a você um pagamento de teste assim que a lista de espera for criada. Depois disso, você receberá uma notificação e o pagamento será refletido em sua conta de afiliado.",
+	"block_16": "<b class=\"block_16_0\">Obrigado por nos ajudar a melhorar!</b> 🙏🏻",
+	"block_17": "Participar"
+}

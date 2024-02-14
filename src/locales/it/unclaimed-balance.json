@@ -1,0 +1,20 @@
+{
+  "block_00": "Notifica relativa al saldo residuo non riscosso",
+  "block_01": "Gentile Signore/Signora,",
+  "block_02": "La preghiamo di notare che a seguito della chiusura del suo conto di trading con la Società, è stato rilevato che il suo conto di trading presenta un saldo che a oggi risulta non reclamato, ovvero non sono state intraprese azioni per richiedere i fondi.",
+  "block_03": "Le consigliamo vivamente di contattare immediatamente la Società e richiedere tale saldo residuo inviandoci una e-mail all'indirizzo",
+  "block_04": "support@eu.iqoption.com",
+  "block_05": "utilizzando il suo indirizzo email registrato collegato al conto di trading. Inoltre, perché la Società possa accreditarle il saldo residuo, le chiediamo gentilmente di fornirci le seguenti coordinate bancarie:",
+  "block_06": "Nome e cognome",
+  "block_07": "Codice IBAN",
+  "block_08": "Codice Swift",
+  "block_09": "Paese della banca",
+  "block_10": "Valuta del conto bancario",
+  "block_11": "Le ricordiamo che la transazione potrebbe essere soggetta a commissioni. Inoltre, i pagamenti in USD sono soggetti a una commissione fissa pari a 35USD e, pertanto, si consiglia di fornire alla Società le coordinate bancarie di un conto in EUR/GBP al fine di evitare tale commissione; il saldo residuo in USD sarà convertito in EUR/GBP di conseguenza al momento del pagamento. Le chiediamo gentilmente di fornirci un conto bancario <b class=\"block_11_0\">diverso da Revolut.</b>",
+  "block_12": "Infine, per eventuali commissioni applicabili dopo la chiusura del suo conto, può fare riferimento alla Clausola 3",
+  "block_13": "della Politica sulle tariffe generali della Società.",
+  "block_14": "Nel caso abbia già contattato la Società in merito al pagamento del saldo residuo non riscosso e/o abbia già ricevuto il saldo residuo, la preghiamo di ignorare la presente e-mail.",
+  "block_15": "In caso di domande o necessità di ulteriori chiarimenti non esiti a contattarci via e-mail all'indirizzo",
+  "block_16": "support@eu.iqoption.com.",
+  "block_17": "Vai a IQ Option"
+}

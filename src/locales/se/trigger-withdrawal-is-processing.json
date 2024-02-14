@@ -1,0 +1,12 @@
+{
+	"block_00": "Uttagsbegäran accepterades",
+	"block_01": "Din uttagsbegäran på",
+	"block_02": "%amount_withdrawal%",
+	"block_03": "har lämnats in och kommer att behandlas inom kort.",
+	"block_04": "Då detta är första gången du tar ut så skulle vi vilja påpeka några viktiga saker du bör veta:",
+	"block_05": "För att säkerställa en snabb hantering, dubbelkolla att samtliga fält på uttagsbegäran har fyllts i korrekt.",
+	"block_06": "Om du för över till en e-wallet så se till att ditt konto har verifierats av den som du har valt att tillhandahålla tjänsten för uttaget.",
+	"block_07": "Handlare har tillgång till 3 kommissionsfria uttag per kalendermånad.",
+	"block_08": "IQ Option behandlar uttag inom 3 arbetsdagar. Beroende på din bank så kan det ta längre tid för dina medel att synas på ditt konto.",
+	"block_09": "Vi uppskattar att du väljer IQ Option som din pålitliga mäklare!"
+}

@@ -1,0 +1,23 @@
+{
+  "top": {
+    "new": "GRAN NOVEDAD EN LA PLATAFORMA:",
+    "sell": "LA VENTA DE OPCIONES ANTES DE LA EXPIRACIÓN",
+    "option": "IQ Option tiene el placer de anunciar una nueva característica en la plataforma -",
+    "name": "«Opciones de venta antes de la expiración».",
+    "video": "https://vimeo.com/174230448"
+  },
+  "center": {
+    "what": "¿Qué es",
+    "option": "«la venta de opciones antes de que expiren»?",
+    "sec": "Durante 3 segundos",
+    "moment": "después de abrir una opción, esta puede ser cancelada antes antes del vencimiento.",
+    "100": "Se obtiene el 100% de la inversión de retorno",
+    "coast": "si el precio no ha cambiado en esos 3 segundos.",
+    "secc": "Después de que los 3 segundos",
+    "selll": "hayan pasado se puede vender la opción por un precio sugerido por la plataforma."
+  },
+  "bottom": {
+    "cta": "Con «La venta de opciones antes de la expiración»  a se reducen los riesgos y se protegen las inversiones.",
+    "button": "IR A IQ OPTION"
+  }
+}

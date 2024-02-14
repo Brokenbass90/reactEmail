@@ -1,0 +1,22 @@
+{
+  "head": {
+    "ttl-1": "Perfektes Trading",
+    "ttl-2": "auf jedem Gerät",
+    "mass-1": "Mit IQ Option können Sie nicht nur in der Browser-Version",
+    "mass-2": "der Plattform traden.",
+    "last": "Entdecken Sie unsere Applikationen, die Ihren Lifestyle- und Trading-Bedürfnissen entsprechen."
+  },
+  "mobile": {
+    "head": "IQ Option Mobile App",
+    "review": "für iOS-und Android-Geräte",
+    "text": "Top-Trading-App in 28 Ländern! Spüren Sie die Kraft des Finanzmarktes in Ihrer Handfläche."
+  },
+  "desk": {
+    "head": "IQ-Option-Desktop-App",
+    "review": "für OS X und Windows OS",
+    "text": "Die Standalone-Applikation funktioniert noch schneller! Die Leistung der IQ 4.0 Option, die Sie kennen - ohne Web-Browser Durcheinander."
+  },
+  "bott": {
+    "text": "Ob Sie den Handel auf einem Breitbild- bevorzugen oder die Flexibilität der mobilen Geräte schätzen - IQ-Option hat beides. "
+  }
+}

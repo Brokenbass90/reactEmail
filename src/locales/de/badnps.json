@@ -1,0 +1,12 @@
+{
+  "body": {
+    "head-dark": "Befragungsdaten sind verloren,",
+    "head": "Der Feedback des Kunden wird benötigt",
+    "name": "Sehr geehrte/r Frau/Herr %%name%%,",
+    "text-one": "Wir haben Sie gestern gebeten ein Paar Fragen zu der Qualität unserer Trading Plattform zu beantworten. Leider müssen wir Ihnen mitteilen, dass die Befragungsdaten aufgrund einer technischen Störung verloren sind.",
+    "text-two": "Ihr Feedback könnte bei der Schaffung der besten Plattform entscheidend sein. Deswegen bitten wir Sie uns einen Moment Ihrer Zeit zu widmen und an der Befragung noch einmal teilzunehmen.",
+    "butt": "Den Fragebogen ausfüllen",
+    "thanks": "Danke, dass Sie sich Zeit genommen haben!",
+    "link": "http://goo.gl/forms/GLo0PSslI72xtpcw2"
+  }
+}

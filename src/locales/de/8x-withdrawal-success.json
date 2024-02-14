@@ -1,0 +1,17 @@
+{
+    "block_00": "Auszahlung erfolgreich verarbeitet",
+    "block_01": "Ihre Auszahlungsanfrage",
+    "block_02": "op_id",
+    "block_03": "wurde erfolgreich verarbeitet und von Ihrem Konto bei",
+    "block_04": "embedded.brand_name",
+    "block_05": "wurden insgesamt",
+    "block_06": "amount",
+    "block_07": "currency",
+    "block_08": "ausgezahlt. Bitte warten Sie auf den Eingang Ihres Geldes, wie in Ihrem Auszahlungsantrag angegeben.",
+    "block_09": "Danke für Ihre Nutzung von",
+    "block_10": "embedded.brand_name",
+    "block_11": "!",
+    "block_12": "Zur Plattform",
+    "block_13": "AGB",
+    "block_14": "Abmelden"
+}

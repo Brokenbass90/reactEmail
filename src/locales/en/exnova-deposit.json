@@ -1,0 +1,21 @@
+{
+    "block_00": "Strike your first deal",
+    "block_01": "<b class=\"block_01_00\">Congratulations on a successful deposit 🎉</b>",
+    "block_02": "The gate to the real market is now open for you! Start investing whenever you’re ready.",
+    "block_03": "To help you take off, we share a simplistic yet very useful <b class=\"block_03_00\">trend trading strategy </b> ⬇️",
+    "block_04": "Enjoy the ride!",
+    "block_05": "<b class=\"block_05_00\">Moving Averages</b>",
+    "block_06": "<b class=\"block_06_00\">Difficulty level:</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Instruments:</b>",
+    "block_09": "Binary/digital options, Forex, stocks, crypto, ETFs, commodities",
+    "block_10": "<b class=\"block_10_00\">Timeframes:</b>",
+    "block_11": "All",
+    "block_12": "Moving averages are used to help traders confirm a trend using previous price action. There are two types of MAs: simple moving averages (SMA) and exponential moving averages (EMA).",
+    "block_13": "<b class=\"block_13_00\">SMA</b> usually relies on the closing price of a market, which can make it slower to react. For this reason, traders use SMA for <b class=\"block_13_01\">longer-term contracts</b>.",
+    "block_14": "<b class=\"block_14_00\">EMAs</b> also rely on past price data but more weight is given to prices that are more recent. This makes EMA more <b class=\"block_14_01\">relevant for binary and digital options traders.</b>",
+    "block_15": "<b class=\"block_15_00\">How to use</b>",
+    "block_16": "When the chart crosses the indicator <b class=\"block_16_00\">from above</b> with red candlesticks, it means that the price of the asset drops, and the fall may continue. This is the signal to <b class=\"block_16_01\">SELL</b>.",
+    "block_17": "When the green candlesticks cross the indicator’s line <b class=\"block_17_00\">from below</b>, this is a sign of a trend reversal and a signal to <b class=\"block_17_01\">BUY</b>.",
+    "block_18": "Try on the platform"
+}

@@ -1,0 +1,38 @@
+{
+  "top": {
+    "head": "Socialize-se com a"
+  },
+  "facebook": {
+    "link": "https://www.facebook.com/iqoptionpt/",
+    "head-link": "Curta a nossa",
+    "head": "página no Facebook",
+    "text": "Para receber as mais recentes notícias do mercado, atualizações da plataforma e vídeo-tutoriais gratuitos"
+  },
+  "vk": {
+    "link": "www.iqoption.com",
+    "head-link": "Вступите",
+    "head": "в группу ВКонтакте",
+    "text": "И станьте частью самого крупного русскоязычного сообщества трейдеров"
+  },
+  "insta": {
+    "link": "https://www.instagram.com/iqoption_official/",
+    "head-link": "Siga-nos",
+    "head": "no Instagram",
+    "text": "Para uma dose diária de inspiração para o trading"
+  },
+  "twitter": {
+    "link": "https://twitter.com/IQOption",
+    "head-link": "Siga-nos",
+    "head": "no Twitter",
+    "text": "Será sempre um prazer conversar"
+  },
+  "you": {
+    "link": "https://www.youtube.com/channel/UCDrjmRB5Sjlcn_DYoEOCa7w",
+    "head-link": "Assista-nos",
+    "head": "no YouTube ",
+    "text": "Ficamos lindos em HD!"
+  },
+  "last": {
+    "text": "Junte-se à nossa vibrante comunidade de traders hoje mesmo!"
+  }
+}

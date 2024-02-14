@@ -1,0 +1,11 @@
+{
+	"block_00": "Données prêtes pour le téléchargement",
+	"block_01": "Cher client,",
+	"block_02": "Merci de votre demande de vous fournir une copie lisible par machine de vos données à caractère personnel en vertu de l'article 20 du GDPR.",
+	"block_03": "Le fichier que vous avez demandé contenant vos données {{embedded.brand_name}} <b class=\"block_03_0\">est maintenant prêt à être téléchargé. Veuillez le trouver en pièce jointe</b>.",
+	"block_04": "Parce que ce fichier peut contenir des informations privées, gardez-le en sécurité et prenez des précautions lors de son stockage ou de son envoi, ou lors de son téléchargement sur un autre service.",
+	"block_05": "Cordialement, l'équipe d'{{embedded.brand_name}}",
+	"block_06": "Si vous avez d'autres questions, veuillez nous le faire savoir à",
+	"block_07": "support@iqoption.com",
+	"block_08": "et nous vous fournirons plus de détails."
+}

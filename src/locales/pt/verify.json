@@ -1,0 +1,26 @@
+{
+  "dear": "Caro trader,",
+  "text-1": "De acordo com os nossos Terms e Condições de Serviço (Ponto 6 \"Garantias do Cliente\")",
+  "strong-1": "o Cliente deve fornecer documentos KYC à Empresa no prazo máximo de 7 dias",
+  "text-2": "a contar do momento em que foi efetuado o depósito de fundos.",
+  "text-3": "Caso ainda não o tenha feito, solicitamos que carregue os documentos de identificação necessários o mais rápidamente possível. Caso contrário, seremos obrigados a",
+  "strong-2": "&nbsp;restringir o seu acesso à conta de negociação&nbsp;",
+  "text-4": "e/ou a outros serviços que prestamos.",
+  "cta": "Verificar Conta",
+  "strong-3": "Porque precisamos dos seus documentos?",
+  "text-5": "Como a IQ Option Europe Ltd é regulada pela CySEC (Cyprus Securities & Exchange Commission), somos obrigados por lei a cumprir os requisitos básicos relativos à supressão do branqueamento de capitais e do financiamento do terrorismo. Para aproveitar os benefícios da negociação com uma entidade regulamentada, é importante confirmar que nos forneceu as informações e/ou documentação para verificar sua conta.",
+  "support": "Caso tenha alguma dúvida, não hesite em contactar a nossa",
+  "link": "Equipa de Suporte.",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Obrigado por ter eleito a IQ Option como o seu corretor de confiança",
+  "answer": "Atenção: esta carta foi enviada automaticamente e não necessita de resposta!",
+  "after": {
+    "text-1": "Vimos pela presente mensagem lembrá-lo que, de acordo com os nossos Termos e Condições de Serviço (Ponto 6 \"Garantias do Cliente\")",
+    "strong-1": "o Cliente deverá fornecer documentos KYC à Empresa no prazo máximo de 7 dias",
+    "text-2": "a partir do momento do depósito dos fundos.",
+    "text-3": "Como ainda não nos enviou os documentos necessários à verificação da conta,",
+    "strong-2": "&nbsp;o seu acesso à plataforma de negociação foi suspenso.&nbsp;",
+    "text-4": "Informamos que, a menos que proceda à verificação da sua conta nos próximos 7 dias, a conta será encerrada e seu saldo de negociação ser-lhe-á devolvido."
+  }
+}

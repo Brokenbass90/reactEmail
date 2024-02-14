@@ -1,0 +1,19 @@
+{
+	"block_00": "Nạp tiền Bitcoin",
+	"block_01": "Một cách an toàn mới để cho tài khoản giao dịch của bạn",
+	"block_02": "NẠP TIỀN B Y GIỜ",
+	"block_03": "Đối với tất cả những người đam mê tiền điện tử ngoài kia, chúng tôi rất vui mừng thông báo rằng <b class=\"block_03_0\">nạp tiền bằng bitcoin hiện có sẵn trên nền tảng giao dịch IQ Option</b>. Từ bây giờ, bạn có thể <b class=\"block_03_1\">nạp tiền vào tài khoản giao dịch của bạn bằng một lần chuyển bitcoin</b> từ ví đang nắm giữ tiền điện tử của bạn. Không cần phải rắc rối với mã IBAN hoặc thay đổi giao dịch quốc tế và trả phí ngân hàng. Nghe có vẻ hấp dẫn, phải không ?",
+	"block_04": "Làm sao để nạp tiền",
+	"block_05": "Đăng nhập vào tài khoản IQ Option của bạn và nhấp vào nút Nạp tiền.",
+	"block_06": "Trong cửa sổ đã mở ra, chọn Bitcoin làm tùy chọn nạp tiền, đặt số tiền bạn muốn nạp và tiến hành thanh toán.",
+	"block_07": "Trong cửa sổ mở tiếp theo, xác định địa chỉ ví BTC của bạn, nơi chúng tôi sẽ có thể hoàn lại tiền, nếu cần.",
+	"block_08": "Trên bước tiếp theo xem tóm tắt giao dịch, sao chép mã từ ô và xác định nó làm địa chỉ người nhận khi thực hiện nạp tiền.",
+	"block_09": "Và đó là tất cả. Chỉ cần một mã nhanh chóng được tạo cho bạn và giao dịch được hoàn tất. Hãy sẵn sàng để nạp tiền bitcoin đầu tiên của bạn?",
+	"block_10": "ĐI ĐẾN IQ OPTION",
+	"block_11": "<b class=\"block_11_0\">Bạn chưa mua bitcoin nào?</b>",
+	"block_12": "Được rồi, trở thành một nhà đầu tư bitcoin dễ dàng như một-hai-ba :",
+	"block_13": "<b class=\"block_13_0\">Tạo và xác minh</b> tài khoản của bạn trên bất kỳ trao đổi tiền điện tử phổ biến nào như Kraken, Coinbase, or Bittrex;",
+	"block_14": "<b class=\"block_14_0\">Nạp tiền vào tài khoản bitcoin của bạn</b> với tiền tệ định lượng (bạn sẽ tìm thấy các hướng dẫn chi tiết về cách thực hiện trên một trao đổi cụ thể);",
+	"block_15": "<b class=\"block_15_0\">Bảo mật tài khoản của bạn</b> với 2FA để tránh hack tài khoản tấn công trong tương lai.",
+	"block_16": "<b class=\"block_16_0\">Cảnh báo rủi ro:</b> Vui lòng lưu ý rằng tất cả các loại hoạt động tài chính được thực hiện trên các sàn giao dịch của bên thứ ba được thực hiện với rủi ro và trách nhiệm của chính bạn. IQ Option không có trách nhiệm đối với tính hợp pháp của các hoạt động đó."
+}

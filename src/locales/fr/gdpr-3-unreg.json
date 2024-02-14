@@ -1,0 +1,19 @@
+{
+	"block_00": "Demande de suppression de données",
+	"block_01": "Cher client,",
+	"block_02": "En ce qui concerne votre demande en date du",
+	"block_03": "JJ.MM.AAAA.",
+	"block_04": "Merci de votre demande de SUPPRESSION de votre compte et de TOUTES vos données personnelles. Vos informations personnelles sont très importantes pour nous et {{embedded.brand_name}} prend la protection des données très au sérieux. Notre objectif est de fournir les meilleurs services à nos clients.",
+	"block_05": "Suppression de compte / Résiliation de la relation contractuelle",
+	"block_06": "Suite à votre demande, nous avons procédé à la fermeture et au blocage de votre compte à compter du",
+	"block_07": "JJ.MM.AAAA",
+	"block_08": "et nous avons mis fin à notre relation contractuelle à compter de la date indiquée.",
+	"block_09": "Suppression de données personnelles",
+	"block_10": "Nos systèmes sont généralement configurés pour respecter les principes de minimisation et de nécessité des données, de sorte qu’{{embedded.brand_name}} ne traite en aucun cas des données personnelles vous concernant qui ne sont pas absolument nécessaires pour vous fournir nos services ou pour appuyer une loi ou une réglementation à laquelle nous sommes liés.",
+	"block_11": "Après avoir examiné votre demande et nos systèmes concernant vos données personnelles, nous notons que toutes les informations actuellement détenues doivent être conservées pendant sept ans après la résiliation de notre relation contractuelle, conformément à notre politique de confidentialité, aux règlements de lutte contre le blanchiment d'argent et le terrorisme, ainsi qu’aux autres lois et réglementations applicables auxquelles nous sommes liés (<b class=\"block_11_0\">Règlements</b>). En vertu de la réglementation, nous avons l'obligation légale de conserver vos données pendant au moins sept ans.",
+	"block_12": "Si vous avez des questions ou si vous pensez que vos données personnelles sont toujours en cours de traitement par {{embedded.brand_name}} sans tenir compte du principe de nécessité, veuillez nous en informer en suivant les étapes décrites dans la Politique de confidentialité.",
+	"block_13": "Nous nous réservons tous nos droits et recours.",
+	"block_14": "Salutations distinguées, l’équipe d’{{embedded.brand_name}}",
+	"block_15": "Pour toute clarification et/ou toute autre information dont vous pourriez avoir besoin, n'hésitez pas à nous contacter à",
+	"block_16": "support@iqoption.com"
+}

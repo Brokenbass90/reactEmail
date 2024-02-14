@@ -1,0 +1,26 @@
+{
+  "dear": "Trader yang terhormat,",
+  "text-1": "Harap diperhatikan bahwa sesuai dengan Syarat dan Ketentuan Layanan kami (Pasal 6 \"Jaminan klien\"),",
+  "strong-1": "Klien harus memberikan dokumen KYC pada Perusahaan dalam periode yang tidak melebihi 7 hari",
+  "text-2": "setelah mendepositkan dana.",
+  "text-3": "Jika Anda sudah melakukannya, harap unggah dokumen pengenal yang diperlukan secepatnya. Jika tidak, kami akan dipaksa untuk",
+  "strong-2": "&nbsp;membatasi akses Anda pada aktivitas trading&nbsp;",
+  "text-4": "dan/atau layanan lain yang kami sediakan.",
+  "cta": "Verifikasi Akun",
+  "strong-3": "Mengapa kami memerlukan dokumen Anda?",
+  "text-5": "Karena IQ Option Europe Ltd diregulasi oleh CySEC (Cyprus Securities & Exchange Commission), kami wajib tunduk pada undang-undang untuk memenuhi persyaratan dasar yang berkaitan dengan pencegahan pencucian uang dan pendanaan teroris. Untuk memanfaatkan aktivitas trading dengan entitas yang diregulasi, penting sekali untuk diperhatikan bahwa Anda harus memberikan informasi dan/atau dokumentasi untuk memverifikasi akun.",
+  "support": "Jika ada pertanyaan, jangan ragu untuk menghubungi",
+  "link": "Tim Dukungan kami.",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Terima kasih telah memilih IQ Option sebagai broker tepercaya Anda!",
+  "answer": "Note: surat ini dibuat dan dikirim secara otomatis dan tidak harus dijawabkan.",
+  "after": {
+    "text-1": "Pesan ini dikirim untuk mengingatkan Anda bahwa sesuai dengan Syarat dan Ketentuan Layanan kami (Pasal 6 \"Jaminan Klien\"),",
+    "strong-1": "Klien harus memberikan dokumen KYC pada Perusahaan dalam periode yang tidak melebihi 7 hari",
+    "text-2": "setelah mendepositkan dana.",
+    "text-3": "Karena Anda belum mengirimkan dokumen untuk verifikasi akun,",
+    "strong-2": "&nbsp;akses Anda ke platform trading ini ditangguhkan.&nbsp;",
+    "text-4": "Harap diperhatikan bahwa jika Anda belum memverifikasi akun hingga 7 hari ke depan, akun akan dihentikan dan saldo trading Anda akan dikembalikan."
+  }
+}

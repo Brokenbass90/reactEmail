@@ -1,0 +1,14 @@
+{
+	"block_00": "Välj en tillfällig e-plånbok för dina betalningar",
+	"block_01": "<b class=\"block_01_0\">Hej [%first_name%]!</b>",
+	"block_02": "Observera att vi av tekniska skäl tillfälligt stänger av utbetalningar till WebMoney-plånböcker.",
+	"block_03": "Vi jobbar på att lösa problemet och hoppas kunna återställa utbetalningar med WebMoney så fort som möjligt. Välj en alternativ e-plånbok tills dess för att ta emot utbetalningar under underhållsperioden.",
+	"block_04": "Skapa en ny utbetalningsmetod i",
+	"block_05": "avsnittet Utbetalningsinställningar",
+	"block_06": "Välj en ny utbetalningsmetod",
+	"block_07": "för planerade utbetalningar",
+	"block_08": "Håll dig uppdaterad — vi kommer att meddela dig när problemet är löst och vi jobbar också på att lägga till nya utbetalningsmetoder.",
+	"block_09": "Tack för din förståelse.",
+	"block_10": "Välj en ny utbetalningsmetod",
+	"block_11": "Om inget av de föreslagna e-plånboksalternativen passar dig och du har pengar kvar på saldot för Affiliate-programmet kontaktar du din manager."
+}

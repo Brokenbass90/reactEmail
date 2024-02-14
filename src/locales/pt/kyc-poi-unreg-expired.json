@@ -1,0 +1,16 @@
+{
+	"block_00": "Seu comprovante de identidade expirou",
+	"block_01": "<b class=\"block_01_0\">Documento de identidade expirou</b>",
+	"block_02": "<b class=\"block_02_0\">Caro trader,</b>",
+	"block_03": "Seu comprovante de identidade expirou. Isso significa que <b class=\"block_03_0\">você não poderá mais negociar conosco e não poderá fazer um depósito para a sua conta.</b>",
+	"block_04": "No entanto, se você deseja continuar negociando conosco, envie uma cópia colorida de um dos seguintes documentos para a sua conta:",
+	"block_05": "Documento de identidade;",
+	"block_06": "Passaporte;",
+	"block_07": "Permissão de residência;",
+	"block_08": "Carteira de motorista.",
+	"block_09": "ENVIAR DOCUMENTO",
+	"block_10": "Se você tiver alguma dúvida, nossa",
+	"block_11": "equipe de suporte",
+	"block_12": "terá prazer em ajudar.",
+	"block_13": "<b class=\"block_13_0\">Obrigado por escolher nossa empresa!</b>"
+}

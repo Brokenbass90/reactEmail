@@ -1,0 +1,50 @@
+{
+  "top": {
+    "hello": "Välkommen!",
+    "happy": "Vi är glada att välkomna dig bland våra handlare hos oss inom IQ&nbsp;Options lag.",
+    "text": "På uppdrag av varje anställd i bolaget skulle vi vilja tacka er för att lita på dig visar oss. Vårt mål är att vara den bästa mäklare av binära optioner som finns. Vi erbjuder dig den service som hittills har högst betyg av alla kunder i vårt företag.",
+    "team": "IQ Options lag arbetar 24/7 för att hålla högsta standard och uppfyller alla dina och uppfyller alla dina förväntningar!",
+    "watch": "Kolla på video<br>",
+    "watch-strong": "om hur man <br> handel på plattformen"
+  },
+  "rowhead": {
+    "lider": "IQ Option - är verkligen en ledare och garant för kvalitet i världen av binära optioner och fakta corrobate detta."
+  },
+  "row_one": {
+    "text": "Vid varje givet tillfälle, är mer än 10 000 människor handel på IQ Alternativ plattform"
+  },
+  "row_two": {
+    "text": "Positionen öppningen på IQ-plattformen sker momentant"
+  },
+  "row_three": {
+    "text": "Månatliga betalningar från IQ Option att handlare är cirka 5 miljoner dollar!"
+  },
+  "row_four": {
+    "text": "IQ Option tilldelades «Den bästa binära optionsmäklaren i Europa» 2015 enligt Global Banking & Finance Review."
+  },
+  "cta_rowhead": {
+    "first": "De första stegen på plats"
+  },
+  "cta_row_one": {
+    "head": "Du inte är bekant med binära optioner?",
+    "text": "Just nu kan du använda den bästa interaktiva handledning systemet som finns i branschen och få all den kunskap, är nödvändiga för handel",
+    "button": "Att börja lära sig"
+  },
+  "cta_row_two": {
+    "head": "Vill du prova verkliga handel?",
+    "text": "Redan nu kan du börja handla med en minimal 10 USD insättning.",
+    "button": "Att öka balansen"
+  },
+  "cta_row_three": {
+    "head": "Du behöver personligt förhållningssätt?",
+    "text": "Mata in insättning mer än $ 3000 och bli VIP-kund IQ Option!",
+    "text-two": "Genom att få bidraget status av VIP-kund, skulle du känna alla fördelar med vår tjänst på grund av personliga chefer, som skulle stödja dig steg för steg och skulle ge all nödvändig information med hjälp av ditt modersmål.",
+    "button": "Mer om VIP"
+  },
+  "cta": {
+    "button": "GÅ TILL PLATTFORMEN",
+    "question": "Om du har några frågor, kommer vårt&nbsp;",
+    "support": "supportteam",
+    "help": "att vara mycket glada genom att att kunna hjälpa dig."
+  }
+}

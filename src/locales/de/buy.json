@@ -1,0 +1,23 @@
+{
+  "top": {
+    "new": "NEUE FUNKTION DER PLATTFORM:",
+    "sell": "VORZEITIGER VERKAUF VON OPTIONEN",
+    "option": "IQ Option freut sich Ihnen die brandneue Funktion auf unserer Plattform zu präsentieren— die Funktion",
+    "name": "«Vorzeitiger Verkauf von Optionen».",
+    "video": "https://vimeo.com/174230366"
+  },
+  "center": {
+    "what": "Was ist der",
+    "option": "«Vorzeitige Verkauf von Optionen»?",
+    "sec": "Innerhalb von 3 Sekunden",
+    "moment": "nach dem Eröffnen der Order können Sie diese wiederrufen und müssen nicht die Laufzeit abwarten.",
+    "100": "Dabei bekommen sie 100% der Investition zurück, ",
+    "coast": "wenn der Wert des Assets sich in diesen 3 Sekunden nicht verändert hat.",
+    "secc": "Nach dem Ablauf von 3 Sekunden,",
+    "selll": "können Sie eine Put-Option zum angebotenen Preis verkaufen."
+  },
+  "bottom": {
+    "cta": "Mit der Funktion «Vorzeitiger Verkauf von Optionen» reduzieren Sie die Risiken und schützen Ihre Investitionen.",
+    "button": "WECHSELN ZU IQ OPTION"
+  }
+}

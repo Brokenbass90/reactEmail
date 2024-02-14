@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head-slim": "5 erros no trading",
+    "head": "PARA EVITAR",
+    "text-massive": "Esses erros no trading são extremamente comuns, mas felizmente para você, são igualmente fáceis de evitar "
+  },
+  "knowledge": {
+    "head": "Falta de conhecimento do Mercado Financeiro",
+    "main-text": "Muitos acreditam que são marcados para o sucesso sem saber nada sobre como o Mercado Financeiro funciona. Essa é uma ideia perigosa. Ser capaz de simplesmente ler um gráfico não é o suficiente quando estão em jogo grandes fatores políticos e econômicos. "
+  },
+  "emotion": {
+    "head": "Envolvimento emocional",
+    "main-text": "É verdade que o trading é emocionante. Porém, não é incomum os traders perderem o controle após uma série de ganhou ou de perdas. O envolvimento emocional não tem lugar no trading! Para manter a cabeça no lugar, tente estabelecer um limite total de negócios por dia. "
+  },
+  "indicators": {
+    "head": "Confiança excessiva em indicadores e sinais",
+    "main-text": "Nenhuma ferramenta pode analisar e prever o mercado de forma infalível o tempo todo. Indicadores técnicos e sinais devem ser tratados como uma suplementação da sua análise e nunca como ditadores do seu trading. "
+  },
+  "strategy": {
+    "head": "Testes insuficientes da estratégia ",
+    "main-text": "Se você não testar sua estratégia sob diferentes condições, o risco dela falhar será consideravelmente maior. É recomendável o uso da conta de treinamento antes da aplicação da estratégia com fundos reais."
+  },
+  "trend": {
+    "head": "Ir contra a tendência",
+    "main-text": "Lembre-se do ditado: “A tendência é sua melhor amiga”. Mesmo se você notou que a tendência está durando um tempo “suspeitamente” longo, deixe estar. Nunca tome uma decisão no trading na tentativa de adivinhar ou trapacear o mercado. "
+  },
+  "cta": {
+    "butt": "Ir para IQ Option"
+  }
+}

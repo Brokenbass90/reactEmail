@@ -1,0 +1,23 @@
+{
+	"block_00": "Documents requis pour la vérification du compte",
+	"block_01": "Bonjour",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Afin de vérifier votre compte, nous vous demandons de télécharger une copie en couleurs claires des pages principales de votre passeport ou une copie des deux côtés de votre pièce d'identité. Le document ne doit pas être périmé et les éléments suivants doivent être clairement visibles:",
+	"block_05": "Votre nom complet",
+	"block_06": "Votre photo",
+	"block_07": "Votre date de naissance",
+	"block_08": "La date d'expiration du document",
+	"block_09": "Le numéro officiel du document",
+	"block_10": "Votre signature",
+	"block_11": "Veuillez",
+	"block_12": "consulter les exemples",
+	"block_13": "des documents à télécharger. Pour votre commodité, nous acceptons les permis de conduire et les permis de résidence comme moyen d’identification.",
+	"block_14": "Pour télécharger votre document, cliquez ci-dessous.",
+	"block_15": "Télécharger les documents",
+	"block_16": "Important: Assurez-vous que les copies de votre identifiant ne sont en aucun cas recadrées.",
+	"block_17": "Si vous avez des questions, vous pouvez nous contacter à",
+	"block_18": "support@iqoption.com",
+	"block_19": ".",
+	"block_20": "Conditions d’utilisation"
+}

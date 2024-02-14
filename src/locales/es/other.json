@@ -1,0 +1,49 @@
+{
+  "calendar":{
+    "retrack":"earnings_calendar",
+    "retrack-2":"earnings_calendar-2",
+    "cta":{
+      "text":"Ir a IQ Option",
+      "link":"#"
+    },
+    "title":"Cómo leer  un Calendario de Resultados",
+    "subtitle":"Echar un vistazo al historial de resultados y previsiones de una compañía puede aumentar tus posibilidades de éxito al operar con Opciones Clásicas.",
+    "sec-1-title":"3 cosas a considerar:",
+    "sec-3-title":"¡Echa un vistazo al Calendario de Resultados en la <br />Plataforma de trading IQ Option ahora mismo!",
+    "eps":"EPS",
+    "forecast":"Forecast",
+    "revenue":"Revenue",
+    "active-1":{
+      "name":"PayPal Holdings Inc",
+      "date":"Apr 26, 2017",
+      "num-1":"0.44",
+      "num-2":"0.41",
+      "color":"green",
+      "rev-num":"2.98B",
+      "time-img":"https://images01.iqoption.com/01/9601/static-04299877409986969601.png"
+    },
+    "active-2":{
+      "name":"Intel",
+      "date":"Apr 27, 2017",
+      "num-1":"0.66",
+      "num-2":"0.68",
+      "color":"red",
+      "rev-num":"14.79B",
+      "time-img":"https://images01.iqoption.com/85/8385/static-04047061317670928385.png"
+    },
+    "item-1":{
+      "title":"Hora del día",
+      "text":"Los traders principiantes tienden a pasar por alto un detalle importante a la hora de mirar un Calendario de Resultados: la hora del informe. Los informes de empresas públicas Americanas  suelen salir o antes de la apertura de los mercados de EEUU o después del cierre."
+    },
+    "item-2":{
+      "title":"Previsión de BPA",
+      "text":"La tasa de Beneficios Por Acción (comúnmente conocida como BPA) es indiscutiblemente el indicador más importante de la vitalidad financiera de una compañía, por lo que cualquier cambio se verá reflejado en el precio de las acciones. Si los resultados financieros publicados llegan por debajo del nivel previsto, es más probable que el precio descienda."
+    },
+    "item-3":{
+      "title":"Historial",
+      "text":"Tómese el tiempo de investigar los resultados financieros de la compañía en los trimestres precedentes. ¿Hay precedentes de superación de ganancias o fracasos? Si fuera el caso, las acciones de la compañía son menos propensas a movimientos drásticos en la dirección contraria, pero la tendencia general es más obvia."
+    }
+
+  }
+
+}

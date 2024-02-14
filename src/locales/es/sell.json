@@ -1,0 +1,14 @@
+{
+  "main": {
+    "head-o": "¿Sabías que puedes",
+    "head": "recuperar tu inversión?",
+    "top-text": "La característica de “venta anticipada de opciones” te permite manejar los riesgos y recuperar tu inversión en caso de una predicción errónea.",
+    "title": "Así es como funciona",
+    "one": "Puedes cancelar una operación en los 3 primeros segundos o vender la opción de vuelta en las condiciones ofrecidas. Si cancelas una operación en los 3 primeros segundos después de comprar la opción, recibirás la cantidad completa de tu inversión de vuelta en tu balance. Al instante.",
+    "two": "Si el precio del activo se “mueve” en la dirección incorrecta, el sistema te ofrecerá disminuir tus pérdidas cerrando la operación antes del tiempo de expiración. El precio de venta se calcula automáticamente. La fórmula considera la volatilidad histórica, desviación de la actual cotización en relación a la cotización en el momento de la compra y el tiempo que queda para que expire.",
+    "row": "Vender opciones antes del tiempo de expiración está disponible tanto en la web como en las plataformas móviles, sin embargo, no se aplica al trading OTC.",
+    "pre-cta": "¡Prueba esta función sin riesgo alguno en la cuenta de práctica!",
+    "butt": "Ir a IQ option",
+    "last": ""
+  }
+}

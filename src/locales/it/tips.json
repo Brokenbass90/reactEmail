@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head-slim": "I 5 errori nel trading",
+    "head": "DA EVITARE",
+    "text-massive": "Questi errori nel trading sono estremamente comuni, ma - fortunatamente per te - sono altrettanto semplici da evitare."
+  },
+  "knowledge": {
+    "head": "Nessuna conoscenza del Mercato Finanziario",
+    "main-text": "Molti pensano di essere destinati al successo, nonostante non conoscano nulla su come funziona il Mercato Finanziario. Questa è un'idea pericolosa. Essere in grado di leggere un grafico semplicemente non è abbastanza, quando in gioco ci sono i maggiori fattori politici ed economici."
+  },
+  "emotion": {
+    "head": "Coinvolgimento Emotivo",
+    "main-text": "Il trading è eccitante, è vero. Tuttavia, non è raro per i trader perdere il controllo dopo una serie di operazioni, sia vincenti che perdenti. Il coinvolgimento emotivo non deve trovare spazio nel trading! Per non perdere la testa, prova a importi un limite al numero massimo di operazioni al giorno, o al loro volume totale."
+  },
+  "indicators": {
+    "head": "Eccesso di fiducia negli indicatori e nei segnali",
+    "main-text": "Nessuno strumento è in grado di analizzare e prevedere il mercato impeccabilmente ogni singola volta. Gli indicatori e i segnali tecnici dovrebbero essere considerati solamente come strumenti supplementari alla tua analisi e mai dettare le leggi del tuo trading."
+  },
+  "strategy": {
+    "head": "Strategia non sufficientemente testata",
+    "main-text": "Se non testi la tua strategia in condizioni differenti, il rischio di fallimento sarà significativamente più alto. È consigliabile utilizzare un account per fare pratica, prima di applicare la tua strategia ai fondi reali."
+  },
+  "trend": {
+    "head": "Andare contro al trend",
+    "main-text": "Ricorda il detto: “Il trend è il tuo migliore amico”. Anche se il trend si prolunga per una durata di tempo sospetta, lascia fare. Non prendere mai una decisione di trading basandoti su un presentimento o cercare di essere più furbo del mercato."
+  },
+  "cta": {
+    "butt": "Vai a IQ Option"
+  }
+}

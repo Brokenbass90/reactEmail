@@ -1,0 +1,25 @@
+{
+  "top": {
+    "element": "Was ist Ihr trading-Element? ",
+    "start": "Drei Turniere beginnen am selben Tag!"
+  },
+  "silver": {
+    "amount": "$5 000",
+    "coast": "$5"
+  },
+  "gold": {
+    "amount": "$10 000",
+    "coast": "$10"
+  },
+  "grude": {
+    "amount": "$15 000",
+    "coast": "$15"
+  },
+  "other": {
+    "butt": "Teilnehmen",
+    "rebuy": "Teilnahme<br>/ Rückkaufgebühr",
+    "fund": "Preisgeld",
+    "strong": "50% Ihrer Zahlungen während des Turniers gehen in das Preisgeld!",
+    "account": "Alle teilnehmenden Händler starten das Turnier auf einem speziellen Konto mit einem Guthaben von $1.000 USD"
+  }
+}

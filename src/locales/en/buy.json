@@ -1,0 +1,23 @@
+{
+  "top": {
+    "new": "NEW PLATFORM FEATURE:",
+    "sell": "SELLING OPTIONS BEFORE EXPIRY",
+    "option": "Congratulations! You’ve been selected to be one of the first few traders to test our newest platform feature -",
+    "name": "«Selling options before expiry».",
+    "video": "https://vimeo.com/174227834"
+  },
+  "center": {
+    "what": "What is",
+    "option": "«Selling options before expiry»?",
+    "sec": "Within 3 seconds",
+    "moment": "of opening an option you are able to cancel it prior to the expiration time.",
+    "100": "You get 100% of your investment back",
+    "coast": "if the price did not change in those 3 seconds.",
+    "secc": "After 3 seconds have passed",
+    "selll": "you can sell the option back to us for a suggested price."
+  },
+  "bottom": {
+    "cta": "With «Selling options before expiry» you lower the risks and protect your investments.",
+    "button": "GO TO IQ OPTION"
+  }
+}

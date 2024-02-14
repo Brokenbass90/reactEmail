@@ -1,0 +1,18 @@
+{
+	"block_00": "Thông báo về tiền ký quỹ",
+	"block_01": "Xin chào,",
+	"block_02": "Chúng tôi xin thông báo là <b class=\"block_02_0\">tài khoản giao dịch IQ Option của bạn bị thâm hụt tiền ký quỹ</b>. Do đó, bạn không thể mở vị thế mới cho đến khi các vị thế sử dụng tiền ký quỹ trong tài khoản của bạn đạt được mức tiền ký quỹ cần thiết.",
+	"block_03": "Mức tiền ký quỹ hiện tại của bạn là",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "Theo quy định trong",
+	"block_07": "Điều khoản và Điều kiện",
+	"block_08": "của công ty, các vị trí sử dụng tiền ký quỹ đang mở trong tài khoản của bạn sẽ tự động đóng nếu mức tiền ký quỹ giảm xuống đến mức",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Bạn có thể nạp thêm tiền vào tài khoản để duy trì các vị thế đang mở và xóa thông báo thâm hụt tiền ký quỹ. Hãy vào phòng giao dịch để biết số tiền cần phải nạp để khôi phục tài khoản về lại trạng thái tuân thủ quy định về tiền ký quỹ.",
+	"block_12": "Đến Phòng giao dịch",
+	"block_13": "Nếu có thắc mắc,",
+	"block_14": "Nhóm hỗ trợ",
+	"block_15": "của chúng tôi luôn sẵn sàng hỗ trợ."
+}

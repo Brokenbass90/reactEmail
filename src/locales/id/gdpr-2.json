@@ -1,0 +1,16 @@
+{
+	"block_00": "Permintaan Penghapusan Data diterima",
+	"block_01": "Klien yang Terhormat,",
+	"block_02": "Dengan ini kami konfirmasi penerimaan permintaan Anda untuk <b class=\"block_02_0\">MENGHAPUS</b> akun dan <b class=\"block_02_1\">SEMUA</b> data pribadi Anda sesuai dengan Pasal 17 GDPR. Informasi pribadi Anda sangat penting bagi kami dan {{embedded.brand_name}} menganggap perlindungan data adalah sesuatu yang sangat penting.",
+	"block_03": "Dengan senang hati kami akan mengambil tindakan untuk menghapus data pribadi dan permintaan Anda valid serta sesuai dengan hukum dan peraturan yang berlaku.",
+	"block_04": "Kami akan memproses permintaan Anda dan akan memberikan respons akhir dalam <b class=\"block_04_0\">tiga puluh (30) hari kerja</b>.",
+	"block_05": "Secara umum sistem kami dikonfigurasi untuk mematuhi prinsip kebutuhan dan minimalisasi data. Artinya {{embedded.brand_name}} tidak memproses data pribadi dari Anda yang tidak benar-benar diperlukan dalam memberikan layanan kepada Anda.",
+	"block_06": "<b class=\"block_06_0\">Jika Anda ingin MEMBATALKAN permintaan</b>, Anda dapat melakukannya melalui situs web kami selama permintaan Anda masih dalam proses. Pemrosesan permintaan Anda dapat memakan waktu <b class=\"block_06_1\">1 hingga 30 hari kerja</b> tergantung pada volume permintaan yang sedang diproses oleh sistem kami.",
+	"block_07": "Efek pembatalan permintaan penghapusan:",
+	"block_08": "Akun Anda tidak akan dihapus;",
+	"block_09": "Anda dapat mengakses akun, melakukan trading, dan memanfaatkan layanan {{embedded.brand_name}}; serta",
+	"block_10": "Data pribadi Anda tidak akan dihapus.",
+	"block_11": "Salam Hormat, Tim {{embedded.brand_name}}",
+	"block_12": "Jika ada pertanyaan, Anda dapat menghubungi kami di",
+	"block_13": "{{embedded.company_email}}"
+}

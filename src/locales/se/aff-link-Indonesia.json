@@ -1,0 +1,20 @@
+{
+	"block_00": "Senaste uppdateringar",
+	"block_01": "<b class=\"block_01_0\">Hej ‌[%first_name%],‌</b>",
+	"block_02": "Säg hej till en ny uppsättning av uppdateringar! Den här gången presenterar vi nya länkar, förenklad statistikinsamling och nya betalningsmetoder för kunder.",
+	"block_03": "<b class=\"block_03_0\">Ny länk för Indonesien</b>",
+	"block_04": "Vi har uppdaterat länken för Indonesien. Var uppmärksam på att den universella länken <b class=\"block_04_0\">inte fungerar för Indonesien samt även för Turkiet</b>. Gå till avsnittet med målsidor och hitta den nya länken genom att välja motsvarande språk i inställningarna.",
+	"block_05": "WEBB",
+	"block_06": "MOBIL",
+	"block_07": "Nya betalningsmetoder på plattformen",
+	"block_08": "Tillgänglighet av bekanta insättnings- och uttagsmetoder visar högre CR till FTD. IQ Option har utökat listan på betalningsmetoder med nya e-plånböcker och lokala banker för ett antal framstående länder.",
+	"block_09": "<b class=\"block_09_0\">Boleto Pix</b> för Brasilien",
+	"block_10": "<b class=\"block_10_0\">GlobePay-plånbok</b> för Indien",
+	"block_11": "<b class=\"block_11_0\">Banköverföringar</b> för Kina",
+	"block_12": "<b class=\"block_12_0\">Doku, QRIS</b> och<b class=\"block_12_1\">virtuell bank</b> för Indonesien",
+	"block_13": "<b class=\"block_13_0\">Papara</b> för Turkiet",
+	"block_14": "<b class=\"block_14_0\">Betalningsbara händelser i AppsFlyer</b>",
+	"block_15": "Vi har lagt till det betalda CPA-lead evenemanget till AppsFlyer. Från och med nu behöver du inte ställa in en postback för evenemanget i ditt affilliate-konto om du tar emot andra evenemang i AppsFlyer.",
+	"block_16": "Kan du ha frågor om hur du integrerar eller ställer in postbacks så tveka inte att kontakta din manager.",
+	"block_17": "Önskar dig de bästa möjliga resultaten med din kampanj! 🙌"
+}

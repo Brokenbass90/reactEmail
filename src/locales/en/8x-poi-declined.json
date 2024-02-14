@@ -1,0 +1,9 @@
+{
+	"block_00": "Proof of Identity declined",
+	"block_01": "Unfortunately, the document that you have uploaded as Proof of Identity has been declined as it does not fulfill our requirements. Consequently, <b class=\"block_01_0\">your account remains unverified</b>.",
+	"block_02": "For more information about your status, please click the link below.",
+	"block_03": "Verification status",
+	"block_04": "Should you have any questions, please contact our Support team at",
+	"block_05": "support@{{embedded.brand_name}}.com",
+	"block_06": "We appreciate your understanding."
+}

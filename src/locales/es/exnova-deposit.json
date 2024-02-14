@@ -1,0 +1,21 @@
+{
+    "block_00": "Abre tu primera operación",
+    "block_01": "<b class=\"block_01_00\">Enhorabuena por hacer un depósito con éxito 🎉</b>",
+    "block_02": "¡La puerta del mercado real ya está abierta para ti! Empieza a invertir cuando estés preparado.",
+    "block_03": "Para ayudarte a despegar, compartimos una simplista pero muy útil <b class=\"block_03_00\">estrategia de trading de tendencia </b> ⬇",
+    "block_04": "¡Disfruta del viaje!",
+    "block_05": "<b class=\"block_05_00\">Medias móviles</b>",
+    "block_06": "<b class=\"block_06_00\">Nivel de dificultad:</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Instrumentos:</b>",
+    "block_09": "Opciones binarias/digitales, Forex, valores, criptomonedas, ETFs, materias primas",
+    "block_10": "<b class=\"block_10_00\">Intervalos de tiempos:</b>",
+    "block_11": "Todos",
+    "block_12": "Las medias móviles se utilizan para ayudar a los traders a confirmar una tendencia utilizando la acción del precio anterior. Hay dos tipos de MAs: medias móviles simples (SMA) y medias móviles exponenciales (EMA).",
+    "block_13": "La SMA suele basarse en el precio de cierre de un mercado, lo que puede hacer que su reacción sea más lenta. Por este motivo, los traders utilizan las SMA para los contratos a más largo plazo.",
+    "block_14": "Las <b class=\"block_14_00\">EMA</b> también se basan en datos de precios pasados, pero se da más importancia a los precios más recientes. Esto hace que las EMA sean más <b class=\"block_14_01\">relevantes para los traders de opciones binarias y digitales.</b>",
+    "block_15": "<b class=\"block_15_00\">Cómo usar</b>",
+    "block_16": "Cuando el gráfico cruza el indicador <b class=\"block_16_00\">de arriba</b> con velas rojas, significa que el precio del activo baja, y la caída puede continuar. Esta es una señal de <b class=\"block_16_01\">VENTA</b>.",
+    "block_17": "Cuando las velas verdes cruzan la línea del indicador <b class=\"block_17_00\">desde abajo</b>, es un indicativo de cambio de tendencia y señal de <b class=\"block_17_01\">COMPRA</b>.",
+    "block_18": "Pruébalo en la plataforma"
+}

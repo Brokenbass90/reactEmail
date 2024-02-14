@@ -1,0 +1,11 @@
+.body-table {
+    width: 580px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32px;
+    color: blue;
+}

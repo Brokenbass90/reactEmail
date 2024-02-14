@@ -1,0 +1,20 @@
+{
+	"block_00": "Notifica in merito al saldo residuo",
+	"block_01": "Notifica in merito al saldo residuo",
+	"block_02": "Gentile Sig./Sig.ra,",
+	"block_03": "La preghiamo di notare che, a seguito della chiusura del suo conto di trading con la Società, <b class=\"block_03_0\">il suo conto di trading dispone di un saldo residuo, che a oggi non risulta reclamato</b>, ovvero, non è stata intrapresa alcuna azione da parte sua per reclamare tali fondi.",
+	"block_04": "Le consigliamo vivamente di contattare al più presto la Società per dichiarare l'intenzione di recuperare il saldo residuo inviando un'email all'indirizzo",
+	"block_05": "support@iqoption.com",
+	"block_06": "utilizzando l'indirizzo email registrato e collegato al suo conto di trading. Inoltre, affinché la Società possa trasferire il saldo residuo, le chiediamo cortesemente di fornire le seguenti coordinate bancarie:",
+	"block_07": "Nome e cognome",
+	"block_08": "Codice IBAN",
+	"block_09": "Codice Swift",
+	"block_10": "Paese della banca",
+	"block_11": "Infine, le ricordiamo che la transazione potrebbe essere soggetta a commissioni. Ricordiamo inoltre che i pagamenti in USD sono soggetti a una <b class=\"block_11_0\">commissione fissa di 35USD</b>, pertanto consigliamo se possibile di fornire le coordinate bancarie di un conto in EUR/GBP per evitare tale commissione; il saldo residuo in USD verrà convertito in EUR/GBP di conseguenza al momento del pagamento.",
+	"block_12": "Si prega di notare che se non verrà ricevuto il reclamo dei fondi entro il termine del <b class=\"block_12_0\">prossimo mese</b> (dicembre 2020), la Società applicherà le seguenti commissioni:",
+	"block_13": "Commissione mensile dell'1% sul saldo residuo (minimo 5EUR)",
+	"block_14": "Nel caso in cui abbia già provveduto a contattare la Società in merito al saldo residuo e/o abbia già ricevuto il suo saldo residuo, la preghiamo di ignorare questa email.",
+	"block_15": "In caso di domande o per ulteriori chiarimenti, la invitiamo a contattarci via email all'indirizzo",
+	"block_16": "support@iqoption.com.",
+	"block_17": "Vai a IQ Option"
+}

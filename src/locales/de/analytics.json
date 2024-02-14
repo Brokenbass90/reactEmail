@@ -1,0 +1,34 @@
+{
+  "top": {
+    "pic": "https://images01.iqoption.com/65/7265/static-04193942617156747265.png",
+    "header-info": "NACHRICHTENÜBERSICHT",
+    "period": "17. Oktober - 21. Oktober"
+  },
+  "first": {
+    "name-news": "Die Veröffentlichung des Inflations-Berichts in den USA",
+    "date": "18. Oktober 15:30 GMT",
+    "opinion": "Die Meinung unseres Analytikers:",
+    "news-text": "Die letzten Wirtschafts-Statistiken der USA bleiben auf einem guten Niveau mit einer positiven Dynamik - BIP im Jahresvergleich und Inflation wachsen schneller als die Erwartungen, bleiben aber immer noch unter den optimalen Zielwerten. Dank neuesten Daten vom Arbeitsmarkt (die Nonfarm-Daten überschreiten von Monat zu Monat die Marke von 150,000 neugeschaffenen Arbeitsplätzen), glauben die Marktteilnehmer, dass bis zum Ende des Jahres ein weiterer Anstieg des Refinanzierungssatzes stattfinden wird, der den Wert des US-Dollars deutlich stärken wird. In dem Fall, wenn die Inflations- Daten noch einmal besser als die Erwartungen werden, wird dies einen positiven Einfluss auf die amerikanische Währung haben und die Annahmen von Händlern stärken wird. ",
+    "link": "link",
+    "more": "Mehr erfahren»",
+    "trade": "MIT EUR/USD HANDELN"
+  },
+  "second": {
+    "name-news": "Die Entscheidung über eine mögliche Änderung des Refinanzierungssatzes in der Eurozone",
+    "date": "20. Oktober 14:45 GMT",
+    "opinion": "Die Meinung unseres Analytikers:",
+    "news-text": "Die Wirtschaft der europäischen und der pazifischen Region steht unter Druck. Die europäischen Staatschefs können das Problem der Beschleunigung der Inflation und Schuldenkrise nicht lösen und neben diesen Problemen muss man noch die Folgen des Austritts von Großbritannien aus der europäischen Union beseitigen und die damit verbundenen wirtschaftlichen Schwierigkeiten: die Teilung des Kapitals und eine Verlangsamung der Kapitalbewegung. Australien, andererseits empfindet Schwierigkeiten im Zusammenhang mit der verlangsamenden Volkswirtschaft der asiatischen Region und den instabilen Preisen für die Rohstoffe - die Hauptquelle der Staatseinnahmen des Landes. In dem Fall, wenn die Chefs der europäischen Zentralbank entscheiden, den Leitzins zur Ankurbelung der Wirtschaft in der Region zu senken, wird es kurzfristig einen negativen Effekt auf die europäische Währung haben.",
+    "link": "link",
+    "more": "Mehr erfahren»",
+    "trade": "MIT EUR/AUD HANDELN"
+  },
+  "third": {
+    "name-news": "Die Veröffentlichung des kanadischen Inflations-Berichts",
+    "date": "21. Oktober 15:30 GMT",
+    "opinion": "Die Meinung unseres Analytikers:",
+    "news-text": "Kanada ist eines der weltweit größten Länder der Erdölförderung und der kanadische Dollar ist eine der wichtigsten Rohstoff-Währungen, deren Wert sich stark auf den Ölpreis auswirkt. Nach den letzten Besprechungen und Vereinbarungen von Vertretern der OPEC, überschritt der Preis für das schwarze Gold seit einer langen Zeit den Wert von $50 , was eine äußerst positive Auswirkung auf die Währung von Kanada hatte. Je höher der Geldbestand im Land ist, desto höher ist die Wahrscheinlichkeit,dass die Inflation sich beschleunigt. In dem Fall, wenn die Inflation höher als die Erwartungen wird, wird dies einen positiven Einfluss auf den Wert des kanadischen Dollars haben.",
+    "link": "link",
+    "more": "Mehr erfahren»",
+    "trade": "MIT USD/CAD HANDELN"
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"block_00": "Teminat Tamamlama Çağrısı Bildirimi",
+	"block_01": "Sayın işlemci,",
+	"block_02": "Bu e-postayla <b class=\"block_02_0\">IQ Option işlem hesabınızda teminat açığı oluştuğunu</b> bildirmek isteriz. Bunun sonucunda, hesabınızdaki teminatlı pozisyonlar tekrar gerekli teminat seviyelerine ulaşana kadar yeni pozisyon açamazsınız.",
+	"block_03": "Geçerli teminat seviyeniz: %",
+	"block_04": ".event_margin_level",
+	"block_05": ". Şirketin",
+	"block_06": "Hüküm ve Koşulları uyarınca,",
+	"block_07": "hesabınızda açılan teminatlı pozisyonlar teminat seviyesi şu düşük değere ulaştığında otomatik olarak kapatılır: %",
+	"block_08": ".event_stop_out_margin_level",
+	"block_09": ".",
+	"block_10": "Teminat eksiğini ortadan kaldırarak açık pozisyonları korumak için hesabınıza para yatırabilirsiniz. Hesabınızın teminat uygunluğunu yeniden sağlamak için gerekli para tutarını görmek için lütfen işlem odasına devam edin.",
+	"block_11": "İşlem Odasına Git",
+	"block_12": "Herhangi bir sorunuz olursa,",
+	"block_13": "Destek ekibimiz",
+	"block_14": "size yardımcı olmaktan mutluluk duyar."
+}

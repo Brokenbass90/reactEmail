@@ -1,0 +1,26 @@
+{
+  "dear": "Gentile trader,",
+  "text-1": "Ti ricordiamo che, come previsto dai nostri Termini e Condizioni di Servizio (Punto 6 \"Garanzie del cliente\"),",
+  "strong-1": "il Cliente è tenuto a fornire dei documenti identificativi (KYC) alla Società entro un periodo non superiore a 7 giorni",
+  "text-2": "dal momento del deposito dei fondi.",
+  "text-3": "Se non hai ancora proceduto con l'invio dei documenti, ti chiediamo gentilmente di caricare la necessaria documentazione identificativa il prima possibile. In caso contrario, saremo costretti a",
+  "strong-2": "&nbsp;limitare il tuo accesso al trading&nbsp;",
+  "text-4": "e/o ad altri servizi da noi offerti.",
+  "cta": "Verifica l'account",
+  "strong-3": "Perché abbiamo bisogno dei tuoi documenti?",
+  "text-5": "Dal momento che IQ Option Ltd è regolamentata dalla CySEC (Cyprus Securities & Exchange Commission), siamo tenuti per legge a soddisfare alcuni requisiti di base relativi alla sicurezza contro il riciclaggio di denaro e il finanziamento al terrorismo. Al fine di poter sfruttare i benefici offerti dall'attività di trading con un ente regolamentato, sei tenuto a fornire le informazioni e/o la documentazione necessaria per la verifica del tuo account.",
+  "support": "Se hai delle domande, non esitare a contattare il nostro",
+  "link": "Team Assistenza.",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Grazie per aver scelto IQ Option come il tuo broker di fiducia!",
+  "answer": "Attenzione: questa lettera è stata inviata in modo automatico e non richiede risposta.",
+  "after": {
+    "text-1": "Questo messaggio è per ricordarti che, come previsto dai nostri Termini e Condizioni di Servizio (Punto 6 \"Garanzie del cliente\"),",
+    "strong-1": "il Cliente è tenuto a fornire dei documenti identificativi (KYC) alla Società entro un periodo non superiore a 7 giorni",
+    "text-2": "dal momento del deposito dei fondi.",
+    "text-3": "Dal momento che non hai ancora presentato i documenti per la verifica dell'account,",
+    "strong-2": "&nbsp;l'accesso alla piattaforma di trading è stato sospeso.&nbsp;",
+    "text-4": "Ti preghiamo di notare che se non procederai alla verifica del tuo account entro i prossimi 7 giorni, l'account verrà eliminato e il tuo saldo ti sarà rimborsato."
+  }
+}

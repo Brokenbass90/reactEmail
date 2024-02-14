@@ -1,0 +1,8 @@
+{
+    "block_00": "Preleva da $250 invece di $500",
+    "block_01": "Nuovo importo minimo per il prelievo in stablecoin",
+    "block_02": "<b class=\"block_02_00\">Ciao [%first_name%],</b>",
+    "block_03": "Per agevolarvi abbiamo <b class=\"block_03_00\">abbassato l'importo minimo per il prelievo in USDT/USDC a $250</b> (rispetto all'importo minimo precedente di $500).",
+    "block_04": "Se desideri ricevere i pagamenti regolari su un portafoglio di criptovaluta, imposta i pagamenti in Tether o USDC nella tua Area personale.",
+    "block_05": "Vai alle impostazioni per il pagamento"
+}

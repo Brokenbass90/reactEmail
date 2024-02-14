@@ -1,0 +1,19 @@
+{
+	"block_00": "Veuillez mettre à jour vos données personnelles.",
+	"block_01": "Cher client,",
+	"block_02": "Une action est requise de votre part pour compléter certaines informations personnelles manquantes relatives à votre compte de trading {{# 12323234",
+	"block_03": "IQ Option doit respecter les exigences les plus strictes concernant la connaissance du client (KYC) et le blanchiment d’argent. Pour cette raison, il est de notre devoir de veiller à ce que votre compte soit entièrement vérifié et à ce que vos données personnelles et vos documents d’identité restent entièrement à jour.",
+	"block_04": "Il est obligatoire de mettre à jour vos informations",
+	"block_05": "en accédant à ce lien",
+	"block_06": "dans les prochains <b class=\"block_06_0\">14 jours</b> après réception de ce courriel.",
+	"block_07": "Le défaut de fournir les informations demandées dans leur intégralité dans ce délai entraînera la fermeture automatique et permanente de votre compte de trading, conformément à la législation en vigueur.",
+	"block_08": "Notre équipe de support client est toujours prête à vous aider.",
+	"block_09": "Cher client,",
+	"block_10": "Suite à notre courrier électronique précédent concernant la vérification de votre compte de trading {{#12323234",
+	"block_11": "conditions générales",
+	"block_12": "parce que vous avez omis de mettre à jour et/ou de compléter les informations demandées concernant vos informations personnelles.",
+	"block_13": "Votre compte n'a pas été entièrement vérifié aux fins de KYC et AML et, en tant que tel, il est de notre devoir de fermer votre compte chez nous.",
+	"block_14": "Vous serez désormais dans l’impossibilité de vous connecter ou d'accéder à votre compte de trading #{{12323234",
+	"block_15": "Si vous souhaitez continuer à trader avec IQ Option, vous devez ouvrir un nouveau compte.",
+	"block_16": "Notre équipe de support client est toujours prête à vous aider."
+}

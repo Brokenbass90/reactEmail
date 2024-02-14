@@ -1,0 +1,9 @@
+{
+	"block_00": "Hủy giao dịch",
+	"block_01": "Kính gửi quý khách hàng,",
+	"block_02": "Chúng tôi không thực hiện được giao dịch",
+	"block_03": "deal_id",
+	"block_04": "mà bạn mới đặt gần đây vì giao dịch không được đơn vị Tạo lập thị trường (Market Maker) bên thứ ba tiếp nhận xử lý giao dịch này chấp nhận. Có nhiều lý do dẫn đến sự việc này, trong đó có điều kiện thị trường tại thời điểm thực hiện hoặc cơ chế quản lý rủi ro riêng của đơn vị Tạo lập thị trường.",
+	"block_05": "Do đó, theo quy định trong Điều khoản và điều kiện của Công ty mà bạn đã xác nhận và chấp nhận khi làm khách hàng của Công ty, lệnh của bạn chưa được xử lý và số tiền đầu tư đã được trả lại vào số dư tài khoản.",
+	"block_06": "Nếu có thêm thắc mắc, vui lòng xem mục (9) của Điều khoản và điều kiện."
+}

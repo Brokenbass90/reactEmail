@@ -1,0 +1,18 @@
+{
+	"block_00": "Antrag auf Löschung der Daten erhalten",
+	"block_01": "Werter Kunde!",
+	"block_02": "wir bestätigen hiermit den Erhalt Ihres Antrags auf <b class=\"block_02_0\">LÖSCHUNG</b> Ihres Kontos und Ihrer <b class=\"block_02_1\">GESAMTEN</b> persönlichen Daten entsprechend Ihren Rechten gemäß Artikel 17 der DSGVO. Bitte nehmen Sie zur Kenntnis, dass uns Ihre persönlichen Daten sehr wichtig sind und {{embedded.brand_name}} den Datenschutz sehr ernst nimmt.",
+	"block_03": "Wir werden Ihrem Antrag zur Löschung Ihrer persönlichen Daten gern nachkommen, wenn Ihre Anfrage gültig ist und den geltenden Gesetzen und Bestimmungen entspricht.",
+	"block_04": "Wir werden Ihre Anfrage bearbeiten und Ihnen unsere endgültige Entscheidung innerhalb von <b class=\"block_04_0\">dreißig (30) Werktagen</b> mitteilen.",
+	"block_05": "Unsere Systeme sind grundsätzlich so konfiguriert, dass sie den Grundsatz der Notwendigkeit und Datenminimierung erfüllen. Das bedeutet, dass {{embedded.brand_name}} keine persönlichen Daten von Ihnen verarbeitet, die nicht absolut notwendig für die Bereitstellung unserer Dienstleistungen für Sie sind.",
+	"block_06": "Falls Sie Ihren <b class=\"block_06_0\">Antrag STORNIEREN möchten</b>, können Sie das während der Bearbeitungsfrist über unsere Website tun. Die Bearbeitung Ihres Antrags kann zwischen <b class=\"block_06_1\">1 und 30 Werktagen</b> dauern, das ist abhängig von der Menge der Anfragen, die aktuell durch unsere Systeme verarbeitet werden.",
+	"block_07": "Wenn Sie Ihren Antrag auf Löschung stornieren:",
+	"block_08": "wird Ihr Konto nicht gelöscht;",
+	"block_09": "werden Sie in der Lage sein, auf Ihr Konto zuzugreifen, zu handeln und Dienste von {{embedded.brand_name}} zu nutzen; und",
+	"block_10": "werden Ihre persönlichen Daten nicht gelöscht.",
+	"block_11": "Entsprechend dem oben gesagten informieren wir Sie hiermit darüber, dass Ihr Zugang zu Ihrem Konto eingeschränkt wird und Sie lediglich eine Auszahlungsanfrage auf Auszahlung Ihres verfügbaren Guthabens (soweit vorhanden) gemäß unseren Bestimmungen zu Auszahlungen & Rückerstattungen stellen können (<b class=\"block_11_0\">Verbleibendes Guthaben</b>).",
+	"block_12": "Nach dem Ablauf von 14 Tagen ab diesem Datum wird Ihr Konto komplett gesperrt, Sie haben keine Zugriffsrechte mehr darauf und die Rechte am <b class=\"block_12_0\">verbleibenden Guthaben gehen auf das Unternehmen über</b>.",
+	"block_13": "Mit freundlichen Grüßen, das Team von {{embedded.brand_name}}",
+	"block_14": "Falls Sie Fragen haben, kontaktieren Sie uns unter",
+	"block_15": "support@iqoption.com"
+}

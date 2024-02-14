@@ -1,0 +1,22 @@
+{
+  "main": {
+    "text1": "Alguns podem dizer que 60 segundos não são tempos suficiente para conseguir o que você precisa.",
+    "text2": "Nós dizemos diferente.",
+    "second": "segundos são o tempo perfeito<br> se você precisa de",
+    "profit": "de lucro*.",
+    "click": "Clique",
+    "time": "Segundos",
+    "money": "de Lucro*",
+    "butt": "Começar a Negociar",
+    "risk": "*Valor a ser creditado ao saldo em caso de investimento bem-sucedido"
+  },
+  "support-mail":{
+    "text":"Nós sabemos o quão importante é poder falar com alguém quando você precisa de ajuda.<br> É melhor ainda se essa pessoa puder falar na sua língua.<br> Literalmente.<br> É por isso que a IQ Option oferece Suporte ao Cliente <span class='highlighted'>24/7</span> em <span class='highlighted'>13</span> línguas.",
+    "support":"24/7 <br> support",
+    "lang":"13<br> languages",
+    "reply":"30 sec.* <br> to get a reply",
+    "cta":"Go to IQ Option",
+    "asterisk":"*30 seconds is the average wait time for a customer to get a reply from a Support Team member when using Live Chat."
+  }
+}
+

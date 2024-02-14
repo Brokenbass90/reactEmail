@@ -1,0 +1,21 @@
+{
+    "block_00": "Schließen Sie Ihren ersten Deal ab",
+    "block_01": "<b class=\"block_01_00\">Glückwunsch zur erfolgreichen Einzahlung 🎉</b>",
+    "block_02": "Das Tor zum realen Markt ist jetzt für Sie geöffnet! Investieren Sie, wann immer Sie bereit sind.",
+    "block_03": "Um Ihnen beim Starten zu helfen, zeigen wir Ihnen eine einfache, aber sehr nützliche <b class=\"block_03_00\">Trend-Trading-Strategie </b> ⬇",
+    "block_04": "Genießen Sie die Fahrt!",
+    "block_05": "<b class=\"block_05_00\">Gleitende Durchschnitte</b>",
+    "block_06": "<b class=\"block_06_00\">Schwierigkeitsgrad:</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Instrumente:</b>",
+    "block_09": "Binäre/digitale Optionen, Devisen, Aktien, Kryptowährungen, ETFs, Rohstoffe",
+    "block_10": "<b class=\"block_10_00\">Zeitrahmen:</b>",
+    "block_11": "Alle",
+    "block_12": "Gleitende Durchschnitte (MA) werden verwendet, um Tradern zu helfen, einen Trend anhand früherer Kursentwicklungen zu bestätigen. Es gibt zwei Arten von gleitenden Durchschnitten (MA): einfache gleitende Durchschnitte (SMA) und exponentielle gleitende Durchschnitte (EMA).",
+    "block_13": "<b class=\"block_13_00\">SMA</b> ist in der Regel auf den Schlusskurs eines Marktes angewiesen, wodurch er langsamer reagieren kann. Aus diesem Grund benutzen ihn Trader für längerfristige Verträge.",
+    "block_14": "<b class=\"block_14_00\">EMAs</b> stützen sich ebenfalls auf Kursdaten aus der Vergangenheit, doch wird den jüngeren Kursen mehr Gewicht beigemessen. Dies macht den EMA <b class=\"block_14_01\">für Trader binärer und digitaler Optionen noch relevanter.</b>",
+    "block_15": "<b class=\"block_15_00\">Anwendung</b>",
+    "block_16": "Wenn das Diagramm den Indikator <b class=\"block_16_00\">von oben</b> mit roten Kerzen kreuzt, bedeutet dies, dass der Kurs des Vermögenswertes fällt, und noch weiter zurückgehen kann. Dies ist das Signal zum <b class=\"block_16_01\">VERKAUFEN</b>.",
+    "block_17": "Wenn die grünen Kerzen die Linie des Indikators von unten kreuzen, ist dies ein Zeichen für eine Trendwende und ein Signal zum <b class=\"block_17_00\">KAUFEN</b>.",
+    "block_18": "Auf der Plattform ausprobieren"
+}

@@ -1,0 +1,8 @@
+{
+    "block_00": "Auszahlung ab 250 USD statt ab 500 USD",
+    "block_01": "Neuer Mindestauszahlungsbetrag für Stablecoins",
+    "block_02": "<b class=\"block_02_00\">Hallo [%first_name%],</b>",
+    "block_03": "wir haben für mehr Komfort den <b class=\"block_03_00\">Mindestauszahlungsbetrag für USDT/USDC auf 250 USD gesenkt</b> (im Vergleich zum bisherigen Minimum von 500 USD).",
+    "block_04": "Falls Sie die regulären Auszahlungen in ein Kryptowallet erhalten möchten, richten Sie Tether- oder USDC-Zahlungen in Ihrem persönlichen Bereich ein.",
+    "block_05": "Zu den Zahlungseinstellungen"
+}

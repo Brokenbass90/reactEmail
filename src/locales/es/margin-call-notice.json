@@ -1,0 +1,18 @@
+{
+	"block_00": "Notificación por Déficit de Margen",
+	"block_01": "Estimado trader,",
+	"block_02": "Con este email, nos gustaría informarte que <b class=\"block_02_0\">tu cuenta de trading de IQ Option ha incurrido en un déficit de margen</b>. Por esta razón, no puedes abrir nuevas posiciones hasta que las posiciones de margen en tu cuenta hayan vuelto a los niveles de margen requeridos.",
+	"block_03": "Tu nivel de margen es",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "Según los",
+	"block_07": "Términos y Condiciones",
+	"block_08": "de la compañía, las posiciones con margen abiertas en tu cuenta se auto cerrará cuando se alcance el nivel de margen de",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Puedes depositar fondos a tu cuenta para mantener abiertas las posiciones y eliminar la deficiencia de margen. Para ver la cantidad de fondos requerida para recuperar tu cuenta al margen admitido, por favor dirígete a la sala de operaciones.",
+	"block_12": "Ir a la Sala de operaciones",
+	"block_13": "En caso de tener cualquier pregunta, nuestro",
+	"block_14": "Equipo de atención al cliente",
+	"block_15": "estará encantado de ayudarte."
+}

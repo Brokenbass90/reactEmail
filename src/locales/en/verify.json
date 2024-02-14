@@ -1,0 +1,26 @@
+{
+  "dear": "Dear Client,",
+  "text-1": "Please be informed that according to our Terms and Conditions of Service ",
+  "strong-1": "the Client must provide KYC documents to the Company within a period not exceeding 7 days",
+  "text-2": "from the moment of depositing funds.",
+  "text-3": "If you have not already done so, we kindly request that you upload the necessary identification documents as soon as possible. Otherwise, we’ll be forced to",
+  "strong-2": "&nbsp;restrict your access to trading&nbsp;",
+  "text-4": "and/or other services we provide.",
+  "cta": "Verify Account",
+  "strong-3": "Why do we need your documents?",
+  "text-5": "As IQ Option Europe Ltd is regulated by CySEC (Cyprus Securities & Exchange Commission), we are required by law to fulfil the basic requirements pertaining to the suppression of money laundering and terrorist financing. In order to take advantage of the benefits of trading with a regulated entity, it is important to note that you must provide information and/or documentation to verify your account.",
+  "support": "Should you have any questions, please don’t hesitate to contact our",
+  "link": "Support Team.",
+  "support-2": "<br><br>Thank you for choosing IQ Option as your trusted broker!",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Thank you for choosing our company!",
+  "answer": "Attention! This is an automatically generated email, please do not reply.",
+  "after": {
+    "text-1": "This message is to remind you that according to our Terms and Conditions of Service (Point 6 \"Client Warranties\") ",
+    "strong-1": "the Client must provide KYC documents to the Company within a period not exceeding 7 days",
+    "text-2": "from the moment of depositing funds.",
+    "text-3": "As you have not yet submitted the documents for account verification,",
+    "strong-2": "&nbsp;your access to the trading platform was suspended.&nbsp;",
+    "text-4": "Please be informed that unless you verify your account in the next 7 days, the account will be terminated and your trading balance will be refunded to you."
+  }
+}

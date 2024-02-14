@@ -1,0 +1,16 @@
+{
+	"block_00": "Tu prueba de identidad ha expirado",
+	"block_01": "<b class=\"block_01_0\">El documento de identidad ha expirado</b>",
+	"block_02": "<b class=\"block_02_0\">Estimado trader,</b>",
+	"block_03": "Tu prueba de identidad ha expirado. Eso significa que <b class=\"block_03_0\">ya no podrás operar o depositar con nosotros.</b>",
+	"block_04": "Sin embargo, si deseas continuar operando con nosotros, por favor sube una copia a color y a página completa de uno de los siguientes documentos a tu cuenta:",
+	"block_05": "Carnet de Identidad;",
+	"block_06": "Pasaporte;",
+	"block_07": "Permiso de residencia;",
+	"block_08": "Permiso de conducir.",
+	"block_09": "SUBIR DOCUMENTO",
+	"block_10": "En caso de que tengas cualquier duda, nuestro",
+	"block_11": "equipo de Soporte",
+	"block_12": "estará encantado de ayudarte.",
+	"block_13": "<b class=\"block_13_0\">¡Gracias por escoger nuestra compañía!</b>"
+}

@@ -1,0 +1,20 @@
+{
+	"block_00": "Benachrichtigung über Ihr ausstehendes nicht beanspruchtes Guthaben",
+	"block_01": "Benachrichtigung über Ihr ausstehendes nicht beanspruchtes Guthaben",
+	"block_02": "Sehr geehrte Damen und Herren,",
+	"block_03": "Bitte beachten Sie, dass nach der Schließung Ihres Trading-Kontos bei unserem Unternehmen wir festgestellt haben, dass <b class=\"block_03_0\">Ihr Trading-Konto ein Guthaben aufweist, das bis heute nicht beansprucht wurde</b> d. h. es wurden keine Maßnahmen ergriffen, um Ihr Geld in Anspruch zu nehmen.",
+	"block_04": "Es wird dringend empfohlen, sich unverzüglich an unser Unternehmen zu wenden und das ausstehende Guthaben anzufordern, indem Sie uns eine E-Mail an",
+	"block_05": "support@iqoption.com",
+	"block_06": "unter Verwendung Ihrer registrierten E-Mail-Adresse, die mit Ihrem Trading-Konto verknüpft war, senden. Damit unser Unternehmen Ihnen Ihr ausstehendes Guthaben zurücksenden kann, bitten wir Sie, uns die folgenden Bankdaten mitzuteilen:",
+	"block_07": "Vor- und Nachname",
+	"block_08": "IBAN-Nummer",
+	"block_09": "Swift-Nummer",
+	"block_10": "Land der Bank",
+	"block_11": "Bitte beachten Sie, dass für die Transaktion Gebühren anfallen können. Für Zahlungen in US-Dollar wird eine Pauschalgebühr von 35 USD erhoben. Daher wird empfohlen, unserem Unternehmen die Bankdaten eines Kontos in EUR / GBP mitzuteilen, um eine solche Gebühr zu vermeiden. Der verbleibende Restbetrag in US-Dollar wird bei entsprechender Zahlung entsprechend in EUR / GBP umgerechnet.",
+	"block_12": "Es ist zu beachten, dass falls Sie Ihr Geld nicht bis zum Ende <b class=\"block_12_0\">des nächsten Monats</b> (d. h. vor Ende Dezember 2020) einfordern, von unserem Unternehmen die folgenden Gebühren erhoben werden:",
+	"block_13": "Eine monatliche Gebühr von 1 % von Ihrem verbleibenden nicht beanspruchten Guthaben (mindestens 5 EUR)",
+	"block_14": "Falls Sie unser Unternehmen bereits bezüglich der Zahlung Ihres nicht beanspruchten Guthabens kontaktiert und / oder Sie Ihr Restguthaben bereits erhalten haben, ignorieren Sie bitte diese E-Mail.",
+	"block_15": "Sollten Sie Fragen haben oder weitere Erläuterungen benötigen, wenden Sie sich bitte per E-Mail an",
+	"block_16": "support@iqoption.com.",
+	"block_17": "Weiter zu IQ Option"
+}

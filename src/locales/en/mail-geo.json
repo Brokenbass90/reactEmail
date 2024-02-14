@@ -1,0 +1,11 @@
+{
+    "block_00": "Suspicious login to your account was detected",
+    "block_01": "Dear trader,",
+    "block_02": "We have detected a suspicious login to your account on",
+    "block_03": "from a new geolocation. Is it you? If so, please disregard the rest of this email. If this isn’t you, please follow the links below:",
+    "block_04": "Change your password",
+    "block_05": "Turn on 2fa",
+    "block_06": "Should you have any questions, our",
+    "block_07": "Support team",
+    "block_08": "will be happy to help."
+}

@@ -1,0 +1,14 @@
+{
+	"block_00": "Withdrawal request successful",
+	"block_01": "Your withdrawal request of %amount_withdrawal% has been successfully submitted and should be processed soon.",
+	"block_02": "Since this is your first time withdrawing, we’d like to highlight some important things you should know:",
+	"block_03": "To ensure a speedy withdrawal, double-check all the fields in your withdrawal request have been filled out correctly.",
+	"block_04": "If you are withdrawing to an e-wallet, make sure your account is verified with the service provider you have chosen for your withdrawal.",
+	"block_05": "Traders have access to 1 commission-free withdrawal per calendar month.",
+	"block_06": "If you are withdrawing to a virtual card, make sure it's applicable for refunds. We work with any Visa, Mastercard, and Maestro cards.",
+	"block_07": "IQ Option processes withdrawals within 3 business days. Depending on your bank, it may take longer for the funds to be reflected in your account.",
+	"block_08": "If you deposited with a credit/debit card, you’ll have to request a withdrawal with the same card equal to your initial investment amount, including deposits made within the past 90 days. Your withdrawal funds will be credited to your card in up to 21 days.",
+	"block_09": "For bank card withdrawal investigations, we will ask you to send us a bank statement proving that the money wasn’t credited. Note that some virtual banks can’t issue such statements.",
+	"block_10": "The conversion will be made at the rate of the selected payment method.",
+	"block_11": "We appreciate you choosing IQ Option as your trusted broker!"
+}

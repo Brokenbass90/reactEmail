@@ -1,0 +1,10 @@
+{
+	"block_00": "Amat Diminta:",
+	"block_01": "Trailing Stop-Loss",
+	"block_02": "<b class=\"block_02_0\">Trailing Stop Loss</b> otomatis menyesuaikan ambang stop-loss Anda, selama tren harga terlihat menguntungkan.",
+	"block_03": "Coba sekarang",
+	"block_04": "Bagaimana cara kerjanya?",
+	"block_05": "<b class=\"block_05_0\">TSL</b> akan otomatis memindahkan ambang stop-loss ke atas (jika merupakan opsi CALL) atau ke bawah (jika merupakan opsi PUT). Transaksi akan ditutup saat sudah dibuat di tingkat keuntungan tertentu, namun sebelum tren membalik.",
+	"block_06": "Coba sekarang",
+	"block_07": "https://images01.iqoption.com/29/5329/static-03412519097705955329.png"
+}

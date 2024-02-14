@@ -1,0 +1,14 @@
+{
+	"block_00": "Choose a temporary e-wallet for your payments",
+	"block_01": "<b class=\"block_01_0\">Hello [%first_name%],</b>",
+	"block_02": "Please be advised that due to technical reasons, we are temporarily suspending payments to WebMoney wallets.",
+	"block_03": "We are working on resolving this issue and hoping to bring the WebMoney payments back as soon as possible. Until then, please choose an alternative e-wallet to receive payments during the maintenance period.",
+	"block_04": "Create a new payment method in the",
+	"block_05": "Payment Settings section",
+	"block_06": "Choose a new payment method",
+	"block_07": "for the regular payments",
+	"block_08": "Stay tuned — we will notify you once the problem is solved, and we’re also working on adding new payment methods.",
+	"block_09": "Thank you for understanding.",
+	"block_10": "Choose a new payment method",
+	"block_11": "If none of the suggested e-wallet alternatives work for you and you have remaining money on the Affiliate Program balance, please contact your manager."
+}

@@ -1,0 +1,29 @@
+{
+  "item-1-duration":"Duración",
+  "item-1-month":"april, 2017",
+  "item-2-text":"Grand winner gets a ticket to the Aston Martin Drive Day",
+  "item-3-part":"Participación",
+  "item-3-fee":"recompra",
+  "asterix":"*One will get a share of the prize fund only in case of winning the tournament",
+  "prize-fund":"In the prize fund is just a start",
+  "percents-of-re-buys":"Of re-buys go to the prize pool",
+  "cta":"Participate",
+  "description":"80% of your payments during the tournament will go to the prize pool! All participating traders will start the tournament with a special account with a balance of 10 000 USD",
+  "high-profile":{
+    "fund":"Bote de premios extensible",
+    "deal":"Déjales claro que eres una buena apuesta.",
+    "month":"Abril de 2017",
+    "prize":"*Se ganará una parte del bote del premio en caso de ganar el torneo.",
+    "cta":"Participar",
+    "description":"¡El 80% de los pagos durante el torneo irán a parar al bote de premios! Todos los traders participantes empezarán el torneo con un balance especial en su cuenta de 100 USD"
+  },
+  "chart":{
+    "fund":"bote creciente de premios",
+    "trip":"+ un viaje al <b>día de conducción de Aston Martin</b>**",
+    "month":"Mayo de 2017",
+    "prize": "Estos premios se salen de los gráficos...",
+    "asterisk":"*Se ganará una parte del bote de premios solo en caso de ganar el torneo.",
+    "asterisk-2":"**El ganador del torneo conseguirá un billete para el día de conducción de Aston Martin además del premio en metálico. En caso de que el ganador rechace el premio o por cualquier razón no pueda asistir al viaje, el premio pasará a ser otorgado a la próxima persona en la línea de distribución de premios.",
+    "bottom":"¡El 80% de los pagos durante el torneo irán a parar al bote del premio! Todos los traders participantes comenzarán el torneo con un balance especial en la cuenta de 10 000 USD"
+  }
+}

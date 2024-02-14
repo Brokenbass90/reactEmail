@@ -1,0 +1,18 @@
+{
+	"block_00": "Permintaan penarikan ditolak",
+	"block_01": "Hai",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Maaf, permintaan penarikan Anda",
+	"block_05": "op_id",
+	"block_06": "sejumlah",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "telah dibatalkan. Anda dapat melihat perinciannya di bawah.",
+	"block_10": "Alasan:",
+	"block_11": "reason",
+	"block_12": "Jika ada pertanyaan, Anda dapat menghubungi kami di",
+	"block_13": "support@iqoption.com",
+	"block_14": ".",
+	"block_15": "Syarat dan Ketentuan"
+}

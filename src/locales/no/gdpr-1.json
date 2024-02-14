@@ -1,0 +1,18 @@
+{
+	"block_00": "Forespørsel om sletting av data er mottatt",
+	"block_01": "Kjære kunde,",
+	"block_02": "Vi bekrefter herved at vi har mottatt din forespørsel om å <b class=\"block_02_0\">SLETTE</b> kontoen din og <b class=\"block_02_1\">ALLE</b> dine data i henhold til dine rettigheter under Artikkel 17 av GDPR. Vennligst merk at din personlige informasjon er viktig for oss og at {{embedded.brand_name}} tar datasikkerhet veldig seriøst.",
+	"block_03": "Vi vil gjerne behandle din forespørsel om å slette dine personlige data, der din forespørsel er gyldig og i henhold til gjeldende lover og reguleringer.",
+	"block_04": "Vi vil behandle din forespørsel og gi deg et endelig svar innen <b class=\"block_04_0\">tretti (30) arbeidsdager</b>.",
+	"block_05": "Systemet vårt er generelt konfigurert for å overholde det nødvendige og dataminimerings-prinsippet. Det betyr at {{embedded.brand_name}} ikke behandler personlig informasjon som ikke er absolutt nødvendigfor å tilby deg tjenestene våre.",
+	"block_06": "<b class=\"block_06_0\">Dersom du ønsker å KANSELLERE</b> din forespørsel, så kan du gjøre det gjennom nettsiden, så lenge forespørselen din er under behandling. Behandling av forespørselen din kan ta fra <b class=\"block_06_1\">1 til 30 virkedager</b> avhengig av volumet på forespørsler som for tiden behandles av systemene våre.",
+	"block_07": "Effekter av å kansellere din forespørsel om å slettee:",
+	"block_08": "Kontoen din vil bli slettet;",
+	"block_09": "Du vil få tilgang til kontoen din, handel og bruk av  {{embedded.brand_name}} sine tjenester; samt",
+	"block_10": "Dine personlige data vil ikke bli slettet.",
+	"block_11": "Som sagt ovenfor, informerer vi deg herved om at kun skal ha begrenset tilgang til kontoen din og kun kan sende inn en forespørsel om uttak i henhold til vår policy for Uttak & refusjon, for uttak av din tilgjengelige balanse (dersom det tilfelle) (<b class=\"block_11_0\">Gjenstående balanse</b>).",
+	"block_12": "Ved utløp som er 14 dager fra dagens dato, vil kontoen din blokkeres helt og du får ikke rettigheter til den og <b class=\"block_12_0\">gjenstående balanse vil bli overført til selskapet</b>.",
+	"block_13": "Vennlig hilsen, {{embedded.brand_name}}-teamet",
+	"block_14": "Dersom du har spørsmål kan du kontakte oss på",
+	"block_15": "support@iqoption.com"
+}

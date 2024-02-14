@@ -1,0 +1,12 @@
+{
+	"block_00": "Hủy giao dịch nạp tiền",
+	"block_01": "Xin chào,",
+	"block_02": "Chúng tôi rất tiếc phải thông báo với bạn rằng chúng tôi vừa gặp phải sự cố kỹ thuật dẫn đến việc số tiền ghi trên một số hóa đơn được cộng vào số dư không đúng. Do đó, hóa đơn bị cộng nhầm có số tiền là",
+	"block_03": "amount",
+	"block_04": "currency",
+	"block_05": "sẽ được trừ khỏi số dư giao dịch của bạn.",
+	"block_06": "Chúng tôi cảm ơn bạn đã kiên nhẫn và luôn sẵn sàng hỗ trợ.",
+	"block_07": "Nếu có thắc mắc,",
+	"block_08": "Nhóm hỗ trợ",
+	"block_09": "của chúng tôi luôn sẵn sàng giúp đỡ bạn."
+}

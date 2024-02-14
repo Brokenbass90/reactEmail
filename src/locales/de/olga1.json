@@ -1,0 +1,22 @@
+{
+  "main": {
+    "text1": "Einige mögen sagen, dass 60 Sekunden nicht genug Zeit ist, um das, was Sie brauchen zu erhalten. ",
+    "text2": "Wir sind anderer Meinung.",
+    "second": "Sekunden sind ideal, <br>wenn das, was Sie brauchen",
+    "profit": "Gewinn ist *.",
+    "click": "Klick",
+    "time": "Sekunden",
+    "money": "Profit*",
+    "butt": "Start-Trading",
+    "risk": "*Der Betrag kann dem Kontostand im Falle einer erfolgreichen Investition gutgeschrieben werden kann."
+  },
+  "support-mail":{
+    "text":"Wir wissen, wie wichtig es ist, mit jemandem reden zu können, wenn man Hilfe benötigt.<br> Es ist sogar besser, wenn die Person in Ihrer Sprache beherrscht.<br> Fließend.<br> Aus diesem Grund bietet IQ-Option einen Kunden-Support <span class='highlighted'>24/7</span> in <span class='highlighted'>13</span> Sprachen an.",
+    "support":"24/7 <br> support",
+    "lang":"13<br> languages",
+    "reply":"30 sec.* <br> to get a reply",
+    "cta":"Go to IQ Option",
+    "asterisk":"*30 seconds is the average wait time for a customer to get a reply from a Support Team member when using Live Chat."
+  }
+}
+

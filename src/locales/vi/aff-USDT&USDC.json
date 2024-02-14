@@ -1,0 +1,14 @@
+{
+    "block_00": "Giới thiệu tính năng chi trả bằng đồng tiền ổn định",
+    "block_01": "<b class=\"block_01_00\">Xin chào [%first_name%],</b>",
+    "block_02": "Chúng tôi xin vui mừng thông báo rằng chúng tôi vừa bổ sung 2 phương thức thanh toán mới: <b class=\"block_02_00\">USDT và USDC</b>.",
+    "block_03": "Tại sao người dùng chuộng USDT và USDC?",
+    "block_04": "Tether (USDT) và USD Coin (USDC) là những đồng tiền ổn định phổ biến nhất. Có thể <b class=\"block_04_00\">quy đổi 1:1 với đồng USD</b>. Các đồng tiền ổn định neo giá theo đồng USD, nghĩa là những đồng tiền này có thể trở thành phương thức thanh toán nhanh chóng, an toàn và tương đối rẻ mà không phải chịu sự biến động lớn như thường thấy với Bitcoin và các loại tiền mã hóa khác.",
+    "block_05": "Yêu cầu đối với phương thức thanh toán bằng USDT và USDC",
+    "block_06": "Chỉ cho phép rút tiền từ <b class=\"block_06_00\">số dư nằm ngoài khu vực Châu  u</b>",
+    "block_07": "Bắt buộc",
+    "block_08": "<b class=\"block_08_00\">phải xác thực danh tính (KYC)</b>",
+    "block_09": "Trong thời gian đầu, mức chi trả tối thiểu sẽ là <b class=\"block_09_00\">$500</b>",
+    "block_10": "Để đổi phương thức thanh toán sang USDT hoặc USDC, hãy chuyển đến Khu vực cá nhân và thay đổi phương thức mặc định trong phần cài đặt.",
+    "block_11": "Thay đổi phương thức thanh toán"
+}

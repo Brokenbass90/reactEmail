@@ -1,0 +1,15 @@
+{
+	"block_00": "Doğrulama gerekiyor",
+	"block_01": "Sayın müşterimiz,",
+	"block_02": "işlem hesabınızla ilgili bazı eksik kişisel bilgileri tamamlamak için eylemde bulunmanız gerekiyor",
+	"block_03": "user_id",
+	"block_04": "Şirket en sıkı “Müşterini Tanı” (KYC) ve Kara Para Aklamayla Mücadele gerekliliklerine uymak zorundadır. Bu nedenle, hesabınızın tam olarak doğrulanmasını ve kişisel verilerinizin ve Kimlik belgelerinizin tamamıyla güncel durumda olmasını sağlamakla yükümlüyüz.",
+	"block_05": "Bu e-postayı almanızdan <b class=\"block_05_0\">sonraki</b>",
+	"block_06": "<b class=\"block_06_0\">gün içinde</b>",
+	"block_07": "doğrulama bağlantısına",
+	"block_08": "erişerek bilgilerinizi güncellemeniz zorunludur.",
+	"block_09": "İstenen bilgilerin bu zaman dilimi içinde eksiksiz olarak sağlanmaması, ilgili mevzuat uyarınca tüm açık pozisyonların (varsa) yanı sıra <b class=\"block_09_0\">işlem hesabınızın otomatik olarak ve kalıcı şekilde kapatılması sonucunu doğuracaktır</b>.",
+	"block_10": "",
+	"block_11": "Müşteri destek ekibimiz",
+	"block_12": "her zaman size yardımcı olmaya hazırdır."
+}

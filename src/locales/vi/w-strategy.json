@@ -1,0 +1,21 @@
+{
+	"block_00": "Phân tích Cảm tính và Kỹ thuật: Nên theo hướng nào?",
+	"block_01": "Nhà giao dịch dùng phân tích kỹ thuật <b class=\"block_01_0\">kiếm được nhiều hơn 225% </b>so với nhà giao dịch dùng cảm tính. Lựa chọn rất đơn giản.",
+	"block_02": "Cách sử dụng Phân tích Kỹ thuật:",
+	"block_03": "Chúng ta hãy tìm hiểu Dải Bollinger, một trong những loại chỉ số phổ biến nhất. Chỉ số này gồm có 3 dải: dải trên, dải giữa và dải dưới. 3 dải này được sử dụng kết hợp để đo lường mức độ biến động.",
+	"block_04": "Cách thức hoạt động:",
+	"block_05": "Hãy thử Dải Bollinger",
+	"block_06": "Dải bollinger thu hẹp chiến lược giao dịch",
+	"block_07": "Chỉ báo này giúp dễ thấy được biến động thị trường hơn và thường được sử dụng với chiến lược sau:",
+	"block_08": "Khi các dải <b class=\"block_08_0\">thu hẹp</b> lại, nghĩa là thị trường có <b class=\"block_08_1\">ít biến động</b>.",
+	"block_09": "Khi <b class=\"block_09_0\">các dải mở rộng</b>, thị trường có <b class=\"block_09_1\">nhiều biến động</b>.",
+	"block_10": "Hiện tượng các dải thu hẹp lại thường là dấu hiệu cho thấy sắp có đột phá (breakout) xảy ra.",
+	"block_11": "Bạn có thể quan sát xu thế chung để quyết định hướng của đột phá. Hãy sử dụng biểu đồ bên dưới để tự kiểm tra: đột phá sẽ xảy ra theo hướng nào?",
+	"block_12": "Nếu câu trả lời là đi xuống, thì bạn đã hoàn toàn chính xác!",
+	"block_13": "Với chiến lược đơn giản này, nhà giao dịch Manuel P đã <b class=\"block_13_0\">nhân 3</b> khoản đầu tư của mình và kiếm 350 USD tiền lời!",
+	"block_14": "Biểu đồ LỢI NHUẬN CỦA NGƯỜI GIAO DỊCH",
+	"block_15": "Hãy sử dụng chiến lược Dải Bollinger và bắt đầu kiếm lợi nhuận ngay hôm nay.",
+	"block_16": "Thử Chiến lược Ngay",
+	"block_17": "https://static.cdnpub.info/files/storage/public/5d/af/282d87a3f5a8e5j0b6/Instinct_vs_TechAnalysis_VI.png",
+	"block_18": "https://static.cdnpub.info/files/storage/public/5d/af/282e3c98c9f2a1e6g7/what_to_choose_VI.png"
+}

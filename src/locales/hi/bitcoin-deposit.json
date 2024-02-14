@@ -1,0 +1,19 @@
+{
+	"block_00": "Bitcoin deposit",
+	"block_01": "Paisa jama karne keliye ek naya surakshit tarika",
+	"block_02": "JAMA KAREIN",
+	"block_03": "Bitcoin utsahiyo ko khushi ki kabar <b class=\"block_03_0\">IQ Option bitcoin ke zariya deposit sveekar kar rahe hain</b>. Ab aap apka crypto wallet se <b class=\"block_03_1\">bitcoin ke zariya paisa jama kar sakte hain</b>. Ab IBAN ya antarashtriy transactions ke swift codes ke koi katinayiya nahi honge. Achi khabar hai na?",
+	"block_04": "Kaise Jama Karein",
+	"block_05": "Apka IQ Option account mein login karein aur Deposit button par click karein.",
+	"block_06": "Ab aap Bitcoin method aur rakam chunein, aur Proceed to Payment par click karein.",
+	"block_07": "Ab apka BTC wallet ki address dalein jaha agar avashyakata hota to ham refund ki paisa bhej sakte hain.",
+	"block_08": "Ab aap deposit ki details check karein, box mein jo code diya hai vo copy karein, aur iss code ko deposit ke waqt receipient address ke jagah dalein.",
+	"block_09": "Ho gaya. Code ban gaya hai, aur transaction pura ho gaya hai. Apna pehla bitcoin deposit karne keliye taiyar hain?",
+	"block_10": "IQ OPTION PAR JAYEIN",
+	"block_11": "<b class=\"block_11_0\">Aap abhi tak bitcoin nahi kharida hai?</b>",
+	"block_12": "Bitcoin niveshak banna aasan hai:",
+	"block_13": "<b class=\"block_13_0\">Account banayein aur verify karayein</b> koi prasidh cyrptocurrency exchange par, jaise Kraken, Coinbase, or Bittrex;",
+	"block_14": "<b class=\"block_14_0\">Bitcoin account par rakam dalein</b> fiat currency ke zariya (iska anudesh apko cryptocurrency exchange wale denge);",
+	"block_15": "<b class=\"block_15_0\">Apka account surakshit karein</b> 2FA chalu karke taki apka account hacking se bachein.",
+	"block_16": "<b class=\"block_16_0\">Chetavani:</b> Kripaya dhyan dein ki 3rd-party exchange par kiya gaye sabhi prakar ke sanyavyvahar apke jimmedari par kiya jate hain. Inn sanyavyavaharo ki koi jimmedari IQ Option nahi leta hai."
+}

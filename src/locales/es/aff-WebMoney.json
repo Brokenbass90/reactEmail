@@ -1,0 +1,14 @@
+{
+	"block_00": "Escoge un monedero electrónico temporal para tus pagos",
+	"block_01": "<b class=\"block_01_0\">Hola [%first_name%],</b>",
+	"block_02": "Te informamos de que por motivos técnicos, hemos suspendido temporalmente los pagos a través de las carteras WebMoney.",
+	"block_03": "Estamos trabajando para resolver este problema y esperamos traer de vuelta los pagos con WebMoney tan pronto como sea posible. Mientras tanto, por favor escoge un monedero electrónico alternativo para recibir pagos durante el período de mantenimiento.",
+	"block_04": "Crea un nuevo método de pago en la",
+	"block_05": "sección de Configuración de pagos",
+	"block_06": "Escoge un nuevo método de pago",
+	"block_07": "para los pagos regulares",
+	"block_08": "Permanece atento — te notificaremos una vez el problema esté solucionado, además, estamos trabajando para añadir nuevos métodos de pago.",
+	"block_09": "Gracias por tu comprensión.",
+	"block_10": "Escoge un nuevo método de pago",
+	"block_11": "Si ninguno de los monederos electrónicos sugeridos te funciona y tienes dinero restante en el saldo del Programa de Afiliado, por favor contacta con tu asesor."
+}

@@ -1,0 +1,11 @@
+{
+	"block_00": "Data siap diunduh",
+	"block_01": "Klien yang Terhormat,",
+	"block_02": "Terima kasih atas permintaan Anda untuk mendapatkan salinan data pribadi Anda yang dapat dibaca dengan mesin menurut Pasal 20 GDPR",
+	"block_03": "File berisi data {{embedded.brand_name}} Anda <b class=\"block_03_0\">yang Anda minta telah siap untuk diunduh. Data ada pada lampiran</b>.",
+	"block_04": "Karena data ini mungkin berisi informasi pribadi, sebaiknya Anda menyimpannya dengan baik dan berhati-hati saat menyimpan atau mengirimkannya, atau saat mengunggahnya ke layanan lain.",
+	"block_05": "Salam hormat, Tim {{embedded.brand_name}}",
+	"block_06": "Jika ada pertanyaan lebih lanjut, hubungi kami di",
+	"block_07": "support@iqoption.com",
+	"block_08": "dan kami akan memberikan perincian lebih lanjut."
+}

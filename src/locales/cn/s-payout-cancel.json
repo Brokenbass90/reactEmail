@@ -1,0 +1,18 @@
+{
+	"block_00": "提款请求已拒绝",
+	"block_01": "您好",
+	"block_02": "USER_FULL_NAME",
+	"block_03": "，",
+	"block_04": "我们很遗憾地通知您，您的提款请求",
+	"block_05": "op_id",
+	"block_06": "总金额",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "已被取消。 您可以在下方找到详细信息。",
+	"block_10": "原因：",
+	"block_11": "原因",
+	"block_12": "如果您有任何疑问，可以通过以下方式与我们联系",
+	"block_13": "support@iqoption.com",
+	"block_14": "。",
+	"block_15": "条款和条件"
+}

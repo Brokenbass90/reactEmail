@@ -1,0 +1,28 @@
+{
+  "top": {
+    "pic": "https://images01.iqoption.com/49/4449/static-01661452212343144449.png",
+    "text": "",
+    "br-text": "",
+    "name": "Colheita de agosto Torneio"
+  },
+  "pre-cta": {
+    "enter": "O verão está quase no fim.",
+    "enter-strong": "A diversão está apenas começando.",
+    "long": "Duração:",
+    "date": "1 - 31 de agosto de 2016",
+    "coast": "Participação/ recompra:",
+    "dollar": "50$"
+  },
+  "tournament": {
+    "orange": "50%",
+    "about": "do seus pagamentos durante o torneio irão para o fundo de prêmios!"
+  },
+  "cta": {
+    "butt": "PARTICIPAR DO TORNEIO"
+  },
+  "info": {
+    "start": "Começo",
+    "finish": "Término",
+    "part": "Participação<br>Recompra"
+  }
+}

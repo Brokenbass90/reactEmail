@@ -1,0 +1,16 @@
+{
+	"block_00": "<b class=\"block_00_0\">Ciao ‌[%first_name%],‌</b>",
+	"block_01": "Ti scriviamo per ricordarti che a partire dal 15 dicembre non supporteremo più i postback creati con la vecchia interfaccia. Ti preghiamo di aggiornare i tuoi postback creati prima del 7 settembre, poiché non riceverai più eventi legati ad essi dopo questa data.",
+	"block_02": "I nuovi postback ti offriranno maggiori informazioni sulle tue conversioni grazie alle impostazioni estese:",
+	"block_03": "Nuovi eventi: <b class=\"block_03_0\">lead CPA</b> e <b class=\"block_03_1\">Installazioni</b>",
+	"block_04": "Nuovi parametri: <b class=\"block_04_0\">ID evento, Profitto, Piattaforma</b>",
+	"block_05": "Nuovo filtro: <b class=\"block_05_0\">per afftrack</b>",
+	"block_06": "Con queste opzioni a tua disposizione, sarai in grado di analizzare le tue conversioni con la massima precisione e di gestire meglio il tuo budget per le campagne. Affrettati a passare ai nuovi postback entro il 15 dicembre!",
+	"block_07": "AGGIORNA POSTBACK",
+	"block_08": "In caso di domande,",
+	"block_09": "contatta il tuo manager",
+	"block_10": "o",
+	"block_11": "consulta la scheda dedicata ai Postback nella sezione FAQ.",
+	"block_12": "<b class=\"block_12_0\">Ti auguriamo incredibili conversioni con le funzionalità aggiornate dei nuovi postback!</b>",
+	"block_13": "https://static.cdnpub.info/files/storage/public/5f/c0/b59ac80d43i3j5i5d8/IT.png"
+}

@@ -1,0 +1,21 @@
+{
+	"block_00": "İçgüdü - Teknik Analiz: Neyi seçmelisiniz?",
+	"block_01": "Teknik analizden yararlanan işlemciler içgüdülerine güvenen işlemcilerden <b class=\"block_01_0\">%225'e varan oranlarda daha fazla</b> kazanabilir. Seçim açık ve basittir.",
+	"block_02": "Teknik analiz nasıl uygulanır:",
+	"block_03": "En popüler göstergelerden biri olan Bollinger Bantlarına bakalım. Bu gösterge üç banttan oluşur: üst bant, orta bant ve alt bant. Üçü birlikte volatiliteyi ölçer.",
+	"block_04": "İşte bu bantların işleyişi:",
+	"block_05": "Bollinger Bantlarını Deneyin",
+	"block_06": "Bollinger Bantları yatırım stratejisini sıkıştırır",
+	"block_07": "Bu gösterge piyasa volatilitesini okumayı kolaylaştırır ve çoğunlukla aşağıdaki stratejiyle birlikte kullanılır:",
+	"block_08": "<b class=\"block_08_0\">Bantlar daraldığında</b>, piyasada <b class=\"block_08_1\">düşük volatilite</b> vardır.",
+	"block_09": "<b class=\"block_09_0\">Bantlar genişlediğinde</b>, piyasada <b class=\"block_09_1\">yüksek volatilite</b> vardır.",
+	"block_10": "Bantlar daralırsa, bu genellikle bir kırılmanın yaklaştığına işaret eder.",
+	"block_11": "Kırılmanın yönünü belirlemek için, genel trende bakabilirsiniz. Aşağıdaki grafiği kullanarak kendinizi test edin: kırılma hangi yönde gerçekleşecek?",
+	"block_12": "Aşağı yönde dediyseniz, doğru bildiniz!",
+	"block_13": "Bu basit strateji sayesinde işlemci Manuel P. yatırımını <b class=\"block_13_0\">üçe katladı</b> 350 $ kar elde etti!",
+	"block_14": "İŞLEMCİ KARI Grafiği",
+	"block_15": "Bollinger Bantları stratejisini kullanın ve bugün kar etmeye başlayın.",
+	"block_16": "Stratejiyi Hemen Deneyin",
+	"block_17": "https://static.cdnpub.info/files/storage/public/5d/af/282d5bf040c6b6b1a2/Instinct_vs_TechAnalysis_TR.png",
+	"block_18": "https://static.cdnpub.info/files/storage/public/5d/af/282e23d2e3h5e1i7b2/what_to_choose_TR.png"
+}

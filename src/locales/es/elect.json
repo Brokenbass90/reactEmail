@@ -1,0 +1,22 @@
+{
+  "top": {
+    "profit": "Rentabilidad especial* <br> en USD/JPY",
+    "butt": "Operar en las Elecciones",
+    "date": "8 de noviembre",
+    "mini-head-o": "Operaciones el día de las Elecciones",
+    "mini-head": "presidenciales de EE.UU.:",
+    "slogan": "¿Podrían las Elecciones presidenciales de EE.UU. traerte buenas oportunidades para tus operaciones? ¡Por supuesto!"
+  },
+  "card-1": {
+    "head": "Las expectaciones",
+    "text": "El miércoles pasado el dólar cayó en picado cuando la encuesta reveló que Trump adelantó a Clinton. Es una buena indirecta de cómo el mercado podría reaccionar si la encuesta final desvela un resultado parecido. La victoria de Clinton se ve más favorable para el valor del dólar estadounidense, asimismo, en este caso los traders pueden esperar una tendencia alcista. Si gana Trump, se desplomará significativamente el valor del dólar."
+  },
+  "card-2": {
+    "head": "El rincón seguro",
+    "text": "A estas alturas, el dólar estadounidense se vuelve muy volátil. Pero recuerda: no hay nada en el mercado que guste menos que la incertidumbre. Quizá sea por esto que los inversores quieran huir a activos más seguros, como, por ejemplo, el yen japonés, aumentando su valor frente al dólar."
+  },
+  "cta": {
+    "butt": "Operar en USD/JPY",
+    "warn": "*La cantidad será acreditada en el saldo solo en caso de que la inversión sea ganadora. La oferta es válida el 8 de noviembre desde las 12.00 hasta las 21.00 GMT"
+  }
+}

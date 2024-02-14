@@ -1,0 +1,23 @@
+{
+  "number": "920",
+  "retrack": "perfect_insight",
+  "cta": "Participar",
+  "top": {
+    "pic": "https://images01.iqoption.com/33/2433/static-04568465893524242433.png",
+    "text": "Fundo de prêmios expansível",
+    "prize": "$15 000"
+  },
+  "bottom": {
+    "asterisk": "*O participante receberá uma parcela do fundo de prêmios somente caso vença o torneio.",
+    "text":"80% de seus pagamentos durante o torneio irão para o fundo de prêmios! Todos os participantes iniciarão o torneio com uma conta especial com um saldo de 100 USD"
+  },
+  "info": {
+    "duration": "Duração",
+    "participation": "Participação",
+    "fee": "recompra",
+    "date": "8-12",
+    "month": "maio de 2017",
+    "price": "$5",
+    "center-text": "Você tem a previsão perfeita do futuro do mercado?"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "block_00": "Data ready for download",
+    "block_01": "Dear Client,",
+    "block_02": "Thank you for your request to provide you with a machine-readable copy of your personal data under Article 20 of GDPR.",
+    "block_03": "The file that you've requested containing your",
+    "block_04": "data is now ready for you to download. Please click",
+    "block_05": "here",
+    "block_06": "to download. For security reasons, the file will be available for only 7 days after you receive this email.",
+    "block_07": "Because this file may contain private information, you should keep it secure and take precautions when storing or sending it, or when uploading it to another service.",
+    "block_08": "With kind regards,",
+    "block_09": "Team",
+    "block_10": "If you have any further questions, please let us know at",
+    "block_11": "and we will provide further detail."
+}

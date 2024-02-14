@@ -1,0 +1,10 @@
+{
+	"block_00": "Une connexion suspecte à votre compte a été détectée",
+	"block_01": "Cher trader,",
+	"block_02": "Nous avons détecté une connexion suspecte à votre compte à partir d'une nouvelle géolocalisation. Est-ce vous? Si tel est le cas, veuillez ignorer le reste de cet e-mail. Si ce n'est pas vous, veuillez suivre les liens ci-dessous:",
+	"block_03": "Changez votre mot de passe",
+	"block_04": "Activez le code 2fa",
+	"block_05": "Si vous avez des questions, notre",
+	"block_06": "Équipe d'assistance",
+	"block_07": "se fera un plaisir de vous aider."
+}

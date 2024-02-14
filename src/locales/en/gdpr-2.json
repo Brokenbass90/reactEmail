@@ -1,0 +1,16 @@
+{
+	"block_00": "Deletion of Data Request received",
+	"block_01": "Dear Client,",
+	"block_02": "We hereby confirm receipt of your request to <b class=\"block_02_0\">DELETE</b> your account and <b class=\"block_02_1\">ALL</b> your personal data in accordance to your rights under Article 17 of GDPR. Please note that your personal information is very important to us and {{embedded.brand_name}} takes data protection very seriously.",
+	"block_03": "We will gladly take action on your request to have your personal data deleted, where your request is valid and is in accordance to applicable laws and regulations.",
+	"block_04": "We will process your request and provide you with a final response within <b class=\"block_04_0\">thirty (30) working days</b>.",
+	"block_05": "Our systems are generally configured to adhere to the necessity and data minimization principle. Meaning that {{embedded.brand_name}} does not process any personal data from you which are not absolutely necessary for providing our services to you.",
+	"block_06": "<b class=\"block_06_0\">If you wish to CANCEL your request</b>, you are able to do so through our website during the time your request is under process. Processing of your request may take from <b class=\"block_06_1\">1 to 30 business days</b> depending on the volume of requests that are currently being processed by our systems.",
+	"block_07": "Effects of canceling your request to delete:",
+	"block_08": "Your account will not be deleted;",
+	"block_09": "You will be able to access your account, trade and make use of {{embedded.brand_name}} services; and",
+	"block_10": "Your personal data will not be deleted.",
+	"block_11": "Kind Regards, {{embedded.brand_name}} Team",
+	"block_12": "If you have any questions you can contact us at",
+	"block_13": "{{embedded.company_email}}"
+}

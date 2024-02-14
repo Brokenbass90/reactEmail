@@ -1,0 +1,11 @@
+{
+	"block_00": "Data ready for download",
+	"block_01": "Dear Client,",
+	"block_02": "Thank you for your request to provide you with a machine-readable copy of your personal data under Article 20 of GDPR.",
+	"block_03": "The file that you've requested containing your {{embedded.brand_name}} <b class=\"block_03_0\">data is now ready for you to download. Please find it attached</b>.",
+	"block_04": "Because this file may contain private information, you should keep it secure and take precautions when storing or sending it, or when uploading it to another service.",
+	"block_05": "With kind regards, {{embedded.brand_name}} Team",
+	"block_06": "If you have any further questions, please let us know at",
+	"block_07": "support@iqoption.com",
+	"block_08": "and we will provide further detail."
+}

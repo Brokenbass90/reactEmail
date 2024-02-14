@@ -1,0 +1,15 @@
+{
+	"block_00": "Des frais de service ont été facturés à votre compte",
+	"block_01": "Cher trader,",
+	"block_02": "Cet e-mail a pour but de vous informer que votre compte de trading avec",
+	"block_03": "n'est pas actif depuis 90 jours. Par conséquent, {{<b class=\"block_03_0\">des frais de service</b> d'un montant de",
+	"block_04": "(ou le montant équivalent dans une autre devise) <b class=\"block_04_0\">ont été facturés à votre compte</b>, conformément à notre politique de frais généraux.",
+	"block_05": "Selon",
+	"block_06": "la politique de frais généraux,",
+	"block_07": "au cas où aucune opération n'est effectuée sur un compte de trading sur une période de 90 (quatre-vingt-dix) jours calendaires, le compte sera considéré comme inactif et la Société a le droit d'appliquer des frais de service mensuels de 10 euros (ou le montant équivalent dans une autre devise le jour de la déduction des frais) au solde restant au compte du Client.",
+	"block_08": "Restaurer votre statut Actif",
+	"block_09": "Si vous souhaitez continuer à faire affaire avec nous, vous devez <b class=\"block_09_0\">effectuer une activité et/ou une transaction sur votre compte de trading.</b> Aucun frais de service ne sera facturé sur votre compte.",
+	"block_10": "Si vous ne souhaitez pas continuer à utiliser nos services, veuillez visiter votre compte et retirer vos fonds.",
+	"block_11": "Accéder à",
+	"block_12": "Merci de votre compréhension!"
+}

@@ -1,0 +1,25 @@
+{
+  "top": {
+    "element": "Qual é o seu elemento de negociação?",
+    "start": "Três torneios irão começar no mesmo dia!"
+  },
+  "silver": {
+    "amount": "$5 000",
+    "coast": "$5"
+  },
+  "gold": {
+    "amount": "$10 000",
+    "coast": "$10"
+  },
+  "grude": {
+    "amount": "$15 000",
+    "coast": "$15"
+  },
+  "other": {
+    "butt": "Participe",
+    "rebuy": "Participação<br>/ Recompra",
+    "fund": "Prêmio",
+    "strong": "50% de seus pagamentos durante o torneio irão para a premiação!",
+    "account": "Todos os traders que participarem irão iniciar o torneio com uma conta especial com um saldo de $1.000 USD"
+  }
+}

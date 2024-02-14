@@ -1,0 +1,19 @@
+{
+	"block_00": "Anfrage auf Löschung von Daten",
+	"block_01": "Sehr geehrter Kunde,",
+	"block_02": "In Bezug auf Ihre Anfrage vom",
+	"block_03": "TT.MM.JJJJ.",
+	"block_04": "Vielen Dank für Ihre Anfrage, Ihr Konto und Ihre SÄMTLICHEN personenbezogenen Daten zu LÖSCHEN. Ihre persönlichen Daten sind uns sehr wichtig und {{embedded.brand_name}} nimmt den Datenschutz sehr ernst. Unser Ziel ist es, unseren Kunden den bestmöglichen Service zu bieten.",
+	"block_05": "Löschung des Kontos / Beendigung der Vertragsbeziehung",
+	"block_06": "Auf Ihre Anfrage hin haben wir die Schließung und die Sperrung des Ihres Kontos zum",
+	"block_07": "TT.MM.JJJJ",
+	"block_08": "vorgenommen und unser Vertragsverhältnis wurde mit sofortiger Wirkung zu diesem Datum aufgelöst.",
+	"block_09": "Löschung personenbezogener Daten",
+	"block_10": "Unsere Systeme sind im Allgemeinen konfiguriert, die Grundsätze der Datenminimierung und -notwendigkeit einzuhalten, damit {{embedded.brand_name}} keine personenbezogenen Daten von Ihnen verarbeitet, die für die Erbringung unserer Dienstleistungen für Sie oder zur Unterstützung eines Gesetzes oder einer Vorschrift, an die wir gebunden sind, nicht unbedingt erforderlich sind.",
+	"block_11": "Nachdem wir Ihre Anfrage und unsere Systeme auf Ihre personenbezogenen Daten überprüft haben, stellen wir fest, dass alle derzeit gespeicherten Informationen nach Beendigung unseres Vertragsverhältnisses gemäß unseren Datenschutzbestimmungen, den Gesetzen zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung und anderen anwendbaren Gesetze und Vorschriften, an die wir gebunden sind (<b class=\"block_11_0\">Vorschriften</b>) sieben Jahre lang aufbewahrt werden müssen. Gemäß diesen Bestimmungen sind wir gesetzlich verpflichtet, Ihre Daten mindestens sieben Jahre lang aufzubewahren.",
+	"block_12": "Wenn Sie Fragen haben oder der Meinung sind, dass Ihre personenbezogenen Daten von {{embedded.brand_name}} weiterhin verarbeitet werden, ohne den Grundsatz der Notwendigkeit zu berücksichtigen, lassen Sie es uns bitte wissen, indem Sie die in der Datenschutzrichtlinie festgelegten Schritte befolgen.",
+	"block_13": "Wir behalten uns alle Rechte und Rechtsmittel vor.",
+	"block_14": "Mit freundlichen Grüßen, das {{embedded.brand_name}} Team",
+	"block_15": "Für jegliche Erläuterungen und / oder Informationen kontaktieren Sie uns bitte unter",
+	"block_16": "support@iqoption.com"
+}

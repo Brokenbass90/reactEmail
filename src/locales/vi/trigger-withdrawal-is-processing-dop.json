@@ -1,0 +1,14 @@
+{
+	"block_00": "Yêu cầu rút tiền thành công",
+	"block_01": "Yêu cầu rút %amount_withdrawal% đã được gửi đi thành công và sẽ sớm được xử lý.",
+	"block_02": "Vì đây là lần đầu tiên bạn rút tiền, chúng tôi muốn lưu ý một số điểm quan trọng sau đây:",
+	"block_03": "Để đảm bảo quá trình rút tiền được thực hiện nhanh chóng, hãy kiểm tra kỹ xem đã điền chính xác mọi thông tin vào yêu cầu rút tiền hay chưa.",
+	"block_04": "Nếu bạn rút tiền về ví điện tử, hãy đảm bảo bạn đã xác minh tài khoản với nhà cung cấp dịch vụ mà bạn chọn để rút tiền.",
+	"block_05": "Mỗi tháng các nhà giao dịch sẽ có 1 lần rút tiền không tốn phí hoa hồng.",
+	"block_06": "Nếu bạn rút tiền vào thẻ ảo, hãy đảm bảo thẻ của bạn cho phép hoàn tiền. Chúng tôi hỗ trợ thẻ Visa, Mastercard và Maestro.",
+	"block_07": "IQ Option sẽ xử lý yêu cầu rút tiền trong vòng 3 ngày làm việc. Tùy thuộc vào ngân hàng của bạn mà thời gian để tiền về đến tài khoản có thể lâu hơn.",
+	"block_08": "Nếu bạn nộp tiền bằng thẻ tín dụng/ghi nợ, bạn phải yêu cầu rút tiền về cùng thẻ đó với số tiền bằng số tiền đầu tư ban đầu, kể cả tiền đã nộp trong vòng 90 ngày vừa qua. Tiền yêu cầu rút về sẽ được ghi có vào tài khoản của bạn trong vòng tối đa 21 ngày.",
+	"block_09": "Trường hợp điều tra về giao dịch rút tiền về thẻ, chúng tôi sẽ yêu cầu bạn gửi bảng sao kê ngân hàng để chứng minh là tiền chưa được ghi có. Lưu ý: một số ngân hàng điện tử không cung cấp bảng sao kê.",
+	"block_10": "Tiền sẽ được quy đổi theo tỷ giá mà phương thức thanh toán của bạn sử dụng.",
+	"block_11": "Cảm ơn bạn đã tin tưởng sử dụng dịch vụ môi giới của IQ Option!"
+}

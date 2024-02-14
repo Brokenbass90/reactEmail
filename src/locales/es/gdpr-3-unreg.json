@@ -1,0 +1,19 @@
+{
+	"block_00": "Solicitud de Eliminación de Información",
+	"block_01": "Estimado Cliente,",
+	"block_02": "En relación a su solicitud con fecha del",
+	"block_03": "DD.MM.YYYY.",
+	"block_04": "Gracias por su solicitud de BORRADO de su cuenta y de TODA su información personal. Su información personal es muy importante para nosotros e {{embedded.brand_name}} se toma la protección de datos muy en serio. Es nuestro objetivo proporcionar a nuestros clientes el mejor servicio.",
+	"block_05": "Eliminación de Cuenta / Finalización de la Relación Contractual",
+	"block_06": "Como continuación a su solicitud, hemos procedido al cierre y bloqueo de su cuenta el día",
+	"block_07": "DD.MM.YYYY",
+	"block_08": "y nuestra relación contractual ha finalizado con efecto inmediato en la presente fecha.",
+	"block_09": "Eliminación de Información Personal",
+	"block_10": "Nuestros sistemas están normalmente configurados para cumplir con los principios de minimización y necesidad de datos, por eso {{embedded.brand_name}} no procesa ninguna información personal suya que no sea absolutamente necesaria para proporcionarte los servicios o para cumplir con las leyes o regulación a las que estamos sujetos.",
+	"block_11": "Después de revisar su solicitud y nuestros sistemas en relación a su información personal, hemos visto que toda la información de que disponemos se guardará durante siete años tras la finalización de nuestra relación contractual de acuerdo a nuestra Política de Privacidad, las leyes Anti Lavado de Dinero y Financiación del Terrorismo y otras leyes y regulaciones aplicables a las que estamos sujetos (<b class=\"block_11_0\">Regulaciones</b>). Bajo las Regulaciones, tenemos una obligación legal de guardar su información por un mínimo de siete años.",
+	"block_12": "Si tiene cualquier otra duda o si cree que su información personal aún está siendo procesada por {{embedded.brand_name}} sin tener en cuenta el principio de necesidad, por favor háganoslo saber siguiendo los pasos descritos en la Política de Privacidad.",
+	"block_13": "We reserve all our rights and remedies.",
+	"block_14": "Saludos Cordiales, el equipo de {{embedded.brand_name}}",
+	"block_15": "Para cualquier aclaración y/o información que pueda necesitar, no dude en contactar con nosotros en",
+	"block_16": "support@iqoption.com"
+}

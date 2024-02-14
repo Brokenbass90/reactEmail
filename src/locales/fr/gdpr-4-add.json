@@ -1,0 +1,5 @@
+{
+	"block_00": "Le fichier que vous avez demandé contenant vos données {{embedded.brand_name}} est maintenant prêt à être téléchargé.  Vous pouvez trouver votre fichier en utilisant",
+	"block_01": "ce lien",
+	"block_02": ". Pour des raisons de sécurité, <b class=\"block_02_0\">le fichier ne pourra être téléchargé que pendant 7 jours à compter de la réception de ce courriel</b>."
+}

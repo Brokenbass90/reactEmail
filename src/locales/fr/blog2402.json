@@ -1,0 +1,10 @@
+{
+	"block_00": "Comment trader avec l'indicateur ZigZag?",
+	"block_01": "Distinguer la tendance du bruit des prix est absolument crucial pour tout trader.  Cet outil semble extrêmement simple, mais il a le pouvoir de filtrer les fluctuations à court terme du prix, révélant ainsi une vue d'ensemble.",
+	"block_02": "En définissant un certain pourcentage pour l'indicateur, vous pouvez exclure les mouvements de prix en dessous de cette valeur et recevoir une <b class=\"block_02_0\">indication plus fluide de la direction des prix</b>.",
+	"block_03": "Le ZigZag est un excellent outil complémentaire qui peut être combiné avec de nombreux indicateurs pour obtenir des prévisions plus précises et de meilleures entrées et sorties pour les transactions.",
+	"block_04": "Lisez la suite pour savoir comment inclure cet indicateur dans votre routine.",
+	"block_05": "Lire l'article",
+	"block_06": "Passer à IQ Option",
+	"block_07": "https://blog.iqoption.com/fr/zigzag-un-indicateur-pour-eliminer-le-bruit/"
+}

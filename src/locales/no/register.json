@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Hilsener!",
+    "success": "Du har registrert på IQ Options nettside. ",
+    "activate": "For å aktivere din konto, må du bekrefte din registrering. ",
+    "confirm": "Bekreft registreringen",
+    "code": "Eller bruker du følgende aktiveringskode:"
+  },
+  "bottom": {
+    "support": "Vær oppmerksom! Koblingen kan bare brukes én gang. Hvis du prøver å omdirigere en gang, vises en feilmelding. Hvis du har spørsmål, kan du kontakte vår support avdeling på",
+    "team": "Vi i IQ Options ønsker deg en vellykket handel!",
+    "attention": "Merk: Dette brevet er generert og sendt automatisk og krever ingen respons."
+  }
+}

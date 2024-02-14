@@ -1,0 +1,22 @@
+{
+	"block_00": "¿Cómo lograr más beneficios en menos tiempo?",
+	"block_01": "Según las estadísticas, el 93% de las operaciones satisfactorias se cierran usando herramientas gráficas e indicadores. IQ Option ofrece una gran variedad de esos instrumentos, pero la Media Móvil Simple (SMA) sigue siendo una herramienta universal.",
+	"block_02": "Ejemplo de tendencia de trading satisfactoria usando indicadores",
+	"block_03": "Operación Más Rentable de la Semana",
+	"block_04": "Activo:",
+	"block_05": "AUD/USD",
+	"block_06": "$149",
+	"block_07": "Beneficio:",
+	"block_08": "886%",
+	"block_09": "$1,320",
+	"block_10": "La SMA puede aplicarse al gráfico para cualquier activo e intervalo de tiempo. Puede usarse como multi indicador en la estrategia de trading <b class=\"block_10_0\">GoldenCross</b>.",
+	"block_11": "Abrir el gráfico",
+	"block_12": "¿Cómo funciona?",
+	"block_13": "El indicador SMA se aplica dos veces al gráfico con diferentes ajustes de periodo. Los periodos estándar son <b class=\"block_13_0\">50 (rápida)</b> y <b class=\"block_13_1\">200 (lenta)</b>, pero puedes escoger <b class=\"block_13_2\">5 y 15 para operaciones cortas</b>.",
+	"block_14": "Ver el tutorial",
+	"block_15": "Si la <b class=\"block_15_0\">SMA rápida cruza la lenta por debajo</b> desplazándose al alza, y ambas crecen, el precio del activo probablemente también suba.",
+	"block_16": "Es hora de comprobar los ajustes de inversión. Si todo es correcto, puedes hacer una <b class=\"block_16_0\">operación ‘sube’</b>.",
+	"block_17": "Esta estrategia puede combinarse con otros indicadores para obtener más información analítica antes de tomar una decisión.",
+	"block_18": "Vamos a practicar la estrategia GoldenCross",
+	"block_19": "Prueba ahora"
+}

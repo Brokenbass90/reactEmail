@@ -1,0 +1,177 @@
+{
+  "retrack": "iq-weekly",
+  "date": "Thursday, July 20th, 2017",
+  "columns": {
+    "name": "Name",
+    "change": "% Change",
+    "net": "NET CHANGE",
+    "value": "VALUE",
+    "imp": "Imp.",
+    "actual": "Actual",
+    "forecast": "Forecast",
+    "add": "ADD"
+  },
+  "line": {
+    "item-1": {
+      "name": "DJIA",
+      "price": "21076.48",
+      "src": "https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent": "0.30%"
+    },
+    "item-2": {
+      "name": "DJIA",
+      "price": "21076.48",
+      "src": "https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent": "0.30%"
+    },
+    "item-3": {
+      "name": "DJIA",
+      "price": "21076.48",
+      "src": "https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent": "0.30%"
+    },
+    "item-4": {
+      "name": "DJIA",
+      "price": "21076.48",
+      "src": "https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent": "0.30%"
+    }
+  },
+  "section-1": {
+    "title": "This week’s top movers"
+  },
+  "section-2": {
+    "title": "Key economic events"
+  },
+  "section-3": {
+    "title": "The Upcoming Earnings Reports"
+  },
+  "movers": {
+    "item-1": {
+      "img": "https://images01.iqoption.com/81/2881/static-01313882701173882881.png",
+      "name": "DuPont",
+      "subname": "",
+      "change": "2.75%",
+      "net": "$2.27",
+      "value": "$84.84"
+    },
+    "item-2": {
+      "img": "https://images01.iqoption.com/17/4817/static-01668169038682914817.png",
+      "name": "JPMorgan Chase",
+      "subname": "",
+      "change": "-0.34%",
+      "net": "-$0.32",
+      "value": "$92.51"
+    },
+    "item-3": {
+      "img": "https://images01.iqoption.com/93/6993/static-01781124395792596993.jpg",
+      "name": "Discovery Inc.",
+      "subname": "NASDAQ: DISCA",
+      "change": "3,68 %",
+      "net": "+ 1,37",
+      "value": "$22"
+    }
+  },
+  "events": {
+    "item-1": {
+      "name": "German Manufacturing PMI (May)",
+      "date": "27 May 8:30",
+      "active": "EUR",
+      "active-img": "https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual": "0.5%",
+      "forecast": "0.7%",
+      "calendar-link": "",
+      "imp": "3"
+    },
+    "item-2": {
+      "name": "German Manufacturing PMI (May)",
+      "date": "27 May 8:30",
+      "active": "EUR",
+      "active-img": "https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual": "0.5%",
+      "forecast": "0.7%",
+      "calendar-link": "",
+      "imp": "3"
+    },
+    "item-3": {
+      "name": "German Manufacturing PMI (May)",
+      "date": "27 May 8:30",
+      "active": "EUR",
+      "active-img": "https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual": "0.5%",
+      "forecast": "0.7%",
+      "calendar-link": "",
+      "imp": "3"
+    }
+  },
+  "reports": {
+    "item-1": {
+      "title": "Colgate-Palmolive Earnings Report",
+      "date": "21 July 2017",
+      "img-link": "https://images01.iqoption.com/61/5361/static-00835245124731535361.png",
+      "text": "Colgate-Palmolive will report its earnings on July 21 before the opening bell. With a consensus EPS of $0.72, or 2 cents more than the same quarter last year, the company can demonstrate an increase in the share price*. <br><br>Colgate can boast a wide range of products. The company also holds a leading position in the segments of oral and personal care. Colgate relies heavily on innovation, both in product development and marketing. Due to cost cutting initiatives the company managed to increase the adjusted gross margin by 70 bps. At the same time Colgate-Palmolive faces the problem of soft sales and has already missed sales estimates in 15 out of 16 last quarters*. Negative currency translation doesn’t add to the profit generating potential, too. <br><br>For the last seven quarters the company has met or even surpassed the investors’ expectations*. But would it be able to do so once again? Experts believe this is very much possible*.",
+      "cta": "Invest now",
+      "link": "https://iqoption.com/traderoom/asset/365?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-2": {
+      "title": "Moody’s Earnings Report",
+      "date": "21 July 2017",
+      "img-link": "https://images01.iqoption.com/25/5025/static-01146281057817985025.png",
+      "text": "Moody’s is expected to deliver its second-quarter earnings report this Friday before market opens. The consensus EPS forecast for the quarter is $1.33, which is 3 cents more than the same quarter last year*. <br><br>The company enjoys a dominant position in the credit rating market. Moody’s and Standard & Poor’s combined control 80% of the industry. Moody’s relies on acquisitions as a major source of revenue growth. The company demonstrated decent performance in the last one year, growing 20.4% over a 12-month period*. However, following the global financial crisis, credit rating companies faced public scrutiny. They have later been forced to comply with stricter regulation. Growing operating expenses hurt the profitability, mostly due to high compensation packages for employees. <br><br>According to the experts, Moody’s can demonstrate positive stock price dynamics should the data revealed in the report satisfy the investors*.",
+      "cta": "Invest now",
+      "link": "https://iqoption.com/traderoom/asset/560?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-3": {
+      "title": "Alphabet Earnings Report",
+      "date": "24 July 2017",
+      "img-link": "https://images01.iqoption.com/61/4561/static-02839119347119554561.png",
+      "text": "The company behind Google will be reporting on 24 July 2017 after the closing bell. According to the estimates, it would be able to increase the EPS by 91 cents YoY*. <br><br>Recent restructuring of the operational structure is intended to improve accountability of the company. Google is a market leader in both desktop and mobile search market with a market share of 72.5% and 94.9% respectively. More than that, over the past five years revenue has grown at a CAGR of 14.6%*. On the other hand, escalation in costs, inability to compete in the social segment and tough competition remain a daunting problem. <br><br>Experts believe that in the long-run GOOGL share are destined to grow*. Short-term gains, on the contrary, cannot be promised.",
+      "cta": "Invest now",
+      "link": "https://iqoption.com/traderoom/asset/276?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    }
+  },
+  "warn": {
+    "warn": "* Paragraph 2.6 of the Terms and Conditions applies"
+  },
+  "currency-trends": {
+    "title": "What you need to know this Monday",
+    "subtitle": "A snapshot of the latest market news and trends",
+    "date": "Monday, July 24th, 2017",
+    "retrack":"iq_digest",
+    "more": "Read more",
+    "item-1": {
+      "title": "Volatility coming to the bitcoin market",
+      "img-link": "https://images01.iqoption.com/37/2337/static-01245039308188942337.jpg",
+      "text": "According to Bitcoin.org, bitcoins you receive after July 31 may later disappear from your wallet or become invalid for use*. A technical divide in the bitcoin community can cause spikes of volatility and strong trends in the upcoming days*...",
+      "cta":"Read more",
+      "link":"https://blog.iqoption.com/en/volatility-coming-to-the-bitcoin-market/"
+
+    },
+    "item-2": {
+      "title": "Top 10 cryptocurrencies",
+      "img-link": "https://images01.iqoption.com/29/2129/static-00702980674843312129.jpg",
+      "text": "The adoption and use of cryptocurrencies for both personal and business based financial transactions has been growing at an exponential rate over the past 8 years – kicked off with the launch of Bitcoin as open source software in 2009. Here are ten cryptocurrencies that, according to the experts, have a potential to become even bigger*.",
+      "cta":"Read more",
+      "link":"https://blog.iqoption.com/en/top-10-crypto-currencies/"
+    },
+    "item-3": {
+      "title": "Event: US existing home sales",
+      "img-link": "https://images01.iqoption.com/61/4961/static-01246275266632744961.jpg",
+      "text": "Existing home sales reflect the current housing market conditions, and higher readings are positive for the US Dollar and the US economy showing a strong demand for the housing market and higher consumer spending, but can also show increased inflationary pressure*.",
+      "cta":"Read more",
+      "link":"https://blog.iqoption.com/en/economic-calendar-for-july-24th-new-trading-week-begins-today/"
+    },
+    "item-4": {
+      "title": "Innovation-Inspired Сhange",
+      "img-link": "https://images01.iqoption.com/93/2193/static-03538050346691592193.jpg",
+      "text": "Many years ago, cash was king. To buy anything, you’d have to carry papers around. Credit cards let the people get rid of physical money. Digital currencies are destined to change the way the world’s financial system operates...",
+      "cta":"Read more",
+      "link":"https://blog.iqoption.com/en/financial-innovation-is-changing-how-we-handle-money/"
+    }
+  }
+}
+
+
+
+
+

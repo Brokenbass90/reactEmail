@@ -1,0 +1,19 @@
+{
+	"block_00": "Por favor actualiza tu información personal",
+	"block_01": "Estimado cliente,",
+	"block_02": "Se requiere tu acción para completar alguna información personal que falta relacionada con tu cuenta de trading {{#12323234",
+	"block_03": "IQ Option debe cumplir con estrictos requisitos de “Know Your Customer” (KYC) y frente al lavado de dinero. Por esta razón, es nuestra obligación asegurarnos de que tu cuenta está completamente verificada y tu información personal y documentos identificativos están completamente actualizados.",
+	"block_04": "Es obligatorio que actualices tu información",
+	"block_05": "accediendo a este enlace",
+	"block_06": "en los próximos <b class=\"block_06_0\">14 días</b> después de recibir este email.",
+	"block_07": "Si no proporcionas la información solicitada al completo en este intervalo de tiempo se procederá al cierre automático permanente de tu cuenta de trading, de acuerdo a la legislación relevante.",
+	"block_08": "Nuestro equipo de atención al cliente está siempre preparado para ayudarte.",
+	"block_09": "Estimado cliente,",
+	"block_10": "Como continuación a nuestro anterior email en relación a la verificación de tu cuenta de trading {{#12323234",
+	"block_11": "términos y condiciones",
+	"block_12": "porque no has sido capaz de actualizar y<br>/o completar tu información personal",
+	"block_13": "Tu cuenta no ha sido completamente verificada a propósito del KYC y AML y por tanto, es nuestra obligación cerrar la cuenta que tienes con nosotros.",
+	"block_14": "A partir de ahora ya no podrá iniciar sesión a acceder a tu cuenta de trading #{{12323234",
+	"block_15": "en caso de que desees continuar operando con IQ Option, deberás abrir una nueva cuenta.",
+	"block_16": "Nuestro equipo de atención al cliente está siempre preparado para ayudarte."
+}

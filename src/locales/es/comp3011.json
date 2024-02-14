@@ -1,0 +1,20 @@
+{
+	"block_00": "Notificación en referencia a su saldo restante no reclamado",
+	"block_01": "Notificación en referencia a su saldo restante no reclamado",
+	"block_02": "Estimado señor/señora,",
+	"block_03": "Por favor tenga en cuenta que tras el cierre de su cuenta de trading con la Compañía, nos hemos percatado de que <b class=\"block_03_0\">su cuenta de trading tiene saldo restante no reclamado a día de hoy</b> es decir, no ha llevado a cabo acciones para reclamar sus fondos.",
+	"block_04": "Le recomendamos encarecidamente que contacte con la Compañía inmediatamente y reclame su saldo restante enviando un email a",
+	"block_05": "support@iqoption.com",
+	"block_06": "usando la dirección email con la que se ha registrado y que está vinculada a su cuenta. Además, para que la compañía pueda enviarle su balance restante, le solicitamos amablemente que nos proporcione los siguientes datos bancarios:",
+	"block_07": "Nombre y apellidos",
+	"block_08": "Número IBA",
+	"block_09": "Número Swift",
+	"block_10": "País del banco",
+	"block_11": "Por último, por favor entienda que la transacción podría estar sujeta a comisiones. Además, los pagos en USD están sujetos a <b class=\"block_11_0\">una tasa fija de 35USD</b> y por tanto, se recomienda que proporcione a la Compañía detalles bancarios de una cuenta en EUR/GBP para evitar dicha tasa; el balance restante en USD se convertirá a EUR/GBP a la hora de realizar el pago.",
+	"block_12": "Tenga en cuenta que en caso de que no sea capaz de reclamar sus fondos antes de finales del <b class=\"block_12_0\">proximo mes</b> (finales de Diciembre de 2020), se aplicarán las siguientes comisiones por parte de la Compañía:",
+	"block_13": "Tasa mensual del 1% de su saldo restante no reclamado (mínimo de 5EUR)",
+	"block_14": "En caso de que ya haya contactado con la Compañía respecto al pago de su saldo restante no reclamado y/o ya haya recibido su saldo restante, por favor descarte el presente correo electrónico.",
+	"block_15": "Si tiene cualquier duda o necesita más aclaraciones por favor contacte con nosotros a través de",
+	"block_16": "support@iqoption.com.",
+	"block_17": "Ir a IQ Option"
+}

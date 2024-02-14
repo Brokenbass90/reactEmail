@@ -1,0 +1,16 @@
+{
+	"block_00": "Withdrawal request successfully processed",
+	"block_01": "Hi",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Your withdrawal request",
+	"block_05": "op_id",
+	"block_06": "has been successfully processed and a total amount of",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "has been withdrawn from your IQ Option account. Your funds will be delivered as indicated on your withdrawal request.",
+	"block_10": "If you have any questions, you can contact us at",
+	"block_11": "support@iqoption.com",
+	"block_12": ".",
+	"block_13": "Terms and Conditions"
+}

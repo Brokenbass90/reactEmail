@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head": "IQ ROBOTS",
+    "text-one": "The first platform in the world that allows to automate binary options trading.",
+    "text-orange": "We’d like to offer you an exclusive access",
+    "text-two": " to the groundbreaking service prior to its reveal to the public.",
+    "start": "LAUNCH YOUR ROBOT IN THREE STEPS",
+    "offline": "and make transactions even when you are offline!"
+  },
+  "first": {
+    "step": "STEP #1",
+    "step-text": "Create a robot according to your strategy or subscribe to someone else’s robot"
+  },
+  "second": {
+    "step": "STEP #2",
+    "step-text": "Verify your robot’s functionality using historical quotes"
+  },
+  "third": {
+    "step": "STEP #3",
+    "step-text": "Launch the robot and don't forget to check your profits"
+  },
+  "button": {
+    "butt": "GO TO IQ ROBOTS"
+  },
+  "review": {
+    "head": "LEAVE FEEDBACK",
+    "review-text": "Please note that this is a beta version and we are working hard to eliminate any and all possible errors. We would be very grateful if you could let us know about any problems you uncover.",
+    "leave": "Give feedback"
+  }
+}

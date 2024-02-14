@@ -1,0 +1,23 @@
+{
+	"block_00": "Dokument som behövs för kontoverifiering",
+	"block_01": "Hej",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "För att verifiera ditt konto ber vi dig ladda upp en tydlig färgkopia på huvudsidorna i ditt pass eller en kopia på båda sidorna av ditt ID-kort. Dokumentet får inte ha löpt ut och följande måste vara tydligt synliga:",
+	"block_05": "Ditt för- och efternamn",
+	"block_06": "Din bild",
+	"block_07": "Ditt födelsedatum",
+	"block_08": "Dokumentets utgångsdatum",
+	"block_09": "Dokumentets officiella nummer",
+	"block_10": "Din underskrift",
+	"block_11": "",
+	"block_12": "Se exempel",
+	"block_13": "på dokument som ska laddas upp. För din bekvämlighet accepterar vi körkort och uppehållstillstånd som en form för identifiering.",
+	"block_14": "För att ladda upp ditt dokument klickar du nedan.",
+	"block_15": "Ladda upp dokument",
+	"block_16": "Viktigt: Se till att kopiorna på ditt ID-kort inte är beskärda på något sätt.",
+	"block_17": "Om du har några frågor kan du kontakta oss på",
+	"block_18": "support@iqoption.com",
+	"block_19": ".",
+	"block_20": "Villkor"
+}

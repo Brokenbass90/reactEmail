@@ -1,0 +1,11 @@
+{
+  "l": {
+    "asset": "на AUD/USD"
+  },
+  "c": {
+    "asset": "на USD/CAD"
+  },
+  "r": {
+    "asset": "на EUR/USD"
+  }
+}

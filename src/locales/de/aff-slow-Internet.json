@@ -1,0 +1,21 @@
+{
+	"block_00": "Nutzer mit langsamem Internetzugang?",
+	"block_01": "4 Ideen für weniger Verluste und mehr Konversionen.",
+	"block_02": "<b class=\"block_02_0\">Hallo [%first_name%]!</b>",
+	"block_03": "Ihre Website kann perfekt sein, aber was nützt das, wenn Ihre potentiellen Nutzer dies aufgrund eines langsamen Internetzugangs nicht würdigen können? Sie können diesen Zugang nicht beschleunigen, aber Sie können Ihre Website optimieren, damit sie schneller funktioniert!",
+	"block_04": "Hier sind einige Ideen, um die Performance einer Webpräsenz für Nutzer mit geringer Bandbreite zu verbessern.",
+	"block_05": "Inhalte komprimieren",
+	"block_06": "Je kleiner Ihre Dateien sind, desto schneller werden sie geladen. Zumindest können Sie manuell die Größe Ihrer Bilddateien reduzieren.",
+	"block_07": "Eine andere Möglichkeit ist die Komprimierung mit",
+	"block_08": "Gzip.",
+	"block_09": "Diese Anwendung sucht und ersetzt Zeilen mit ähnlichem Code in Ihren Dateien, um diese zu verkleinern. Diese Methode funktioniert gut für CSS und HTML, und viele Webserver können Dateien vor dem Download im Gzip-Format komprimieren. Die Kompression kann die Downloadzeit um bis zu 70 % reduzieren.",
+	"block_10": "Zu einem schnelleren DNS-Provider wechseln",
+	"block_11": "Die Ladezeit Ihrer Seiten hängt in großem Maße von der Zeit ab, die für Ihre DNS-Lookups benötigt wird. Die Nutzung eines langsamen DNS vergrößert die Zeit, die Browser benötigen, um Ihre Seite zu finden. Der Wechsel zu einem schnelleren Provider kann diesen Prozess beschleunigen.",
+	"block_12": "Lazy Loading testen",
+	"block_13": "Gewöhnlich muss ein Browser zunächst den gesamten Inhalt einer Seite laden, bevor er dem Nutzer etwas anzeigen kann. Sie können spezielle Plugins testen, um zunächst den ersten Bereich (Seitenkopf) zu laden, und dann die restlichen Inhalte. Auf diese Weise gibt es keine Wartezeit für die Nutzer, und die Bilder werden erst beim Scrollen geladen.",
+	"block_14": "Sie können das Lazy Loading mit Plugins wie Lazy Load, BJ Lazy Load, WP Rocket oder anderen aktivieren.",
+	"block_15": "In AMP investieren",
+	"block_16": "Sie können Ihre vorhandene Website bearbeiten, um sie schneller zu machen, oder Sie können spezielle Lösungen einsetzen, die für die Arbeit mit langsamen Internetverbindungen entwickelt wurden.",
+	"block_17": "Eine derartige Lösung sind AMP (Accelerated Mobile Pages - Beschleunigte mobile Seiten). Dies ist eine von Google entwickelte Technologie zum beschleunigten Laden und Anzeigen von Websites auf Mobilgeräten. Das Geheimnis besteht darin, dass solche Seiten nur den wichtigsten Inhalt speichern und einige Elemente zugunsten hoher Ladegeschwindigkeiten opfern. Darüber hinaus besitzen AMP-Seiten eine größere Chance auf gute Platzierungen in Suchergebnissen, da die Suchmaschinen die Ladezeit beim Ranking berücksichtigen.",
+	"block_18": "Wir wünschen Ihnen viel Erfolg! 🚀"
+}

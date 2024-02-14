@@ -1,0 +1,18 @@
+{
+	"block_00": "Solicitação de Exclusão de Dados recebida",
+	"block_01": "Caro cliente,",
+	"block_02": "Confirmamos o recebimento da sua solicitação para <b class=\"block_02_0\">EXCLUIR</b> sua conta e <b class=\"block_02_1\">TODOS</b> os seus dados pessoais, de acordo com seus direitos nos termos do artigo 17 do Regulamento Geral sobre a Proteção de Dados (General Data Protection Regulation, GDPR). Observe que suas informações pessoais são muito importantes para nós e a {{embedded.brand_name}} leva a proteção de dados muito a sério.",
+	"block_03": "Teremos o prazer de agir em relação à sua solicitação para que seus dados pessoais sejam excluídos, quando sua solicitação for válida e estiver de acordo com as leis e regulamentações aplicáveis.",
+	"block_04": "Processaremos sua solicitação e forneceremos uma resposta final em <b class=\"block_04_0\">trinta (30) dias úteis</b>.",
+	"block_05": "Nossos sistemas geralmente são configurados para aderir ao princípio de necessidade e minimização de dados. Isso significa que a {{embedded.brand_name}} não processa seus dados pessoais que não são absolutamente necessários para fornecer nossos serviços a você.",
+	"block_06": "<b class=\"block_06_0\">Se você deseja CANCELAR</b> sua solicitação, poderá fazê-lo por meio do nosso site durante o tempo em que sua solicitação estiver sendo processada. O processamento da sua solicitação pode levar de <b class=\"block_06_1\">1 a 30 dias úteis</b>, dependendo do volume de solicitações que estão sendo processadas pelos nossos sistemas.",
+	"block_07": "Efeitos do cancelamento da sua solicitação de exclusão:",
+	"block_08": "Sua conta não será excluída;",
+	"block_09": "Você poderá acessar sua conta, negociar e utilizar os serviços da {{embedded.brand_name}}; e",
+	"block_10": "Seus dados pessoais não serão excluídos.",
+	"block_11": "Dito isto, informamos que você terá acesso limitado à sua conta e só poderá enviar uma solicitação de retirada de acordo com a Política de Retirada e Reembolso para a retirada do seu saldo disponível, se houver (<b class=\"block_11_0\">Saldo Remanescente</b>).",
+	"block_12": "No prazo de 14 dias a partir da data deste documento, sua conta será totalmente bloqueada, você não terá direitos de acesso e a posse do <b class=\"block_12_0\">Saldo Remanescente será transferida para a empresa</b>.",
+	"block_13": "Atenciosamente, Equipe da {{embedded.brand_name}}",
+	"block_14": "Caso você tenha alguma dúvida, entre em contato conosco por meio do e-mail",
+	"block_15": "support@iqoption.com"
+}

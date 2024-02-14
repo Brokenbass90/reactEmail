@@ -1,0 +1,17 @@
+{
+	"block_00": "Lỗi thanh toán: Khoản thanh toán của bạn bị từ chối",
+	"block_01": "Có vẻ như chúng tôi không thể xử lý thanh toán của bạn được. Có nhiều nguyên nhân gây ra lỗi thanh toán. Dưới đây là một số nguyên nhân phổ biến nhất:",
+	"block_02": "<b class=\"block_02_0\">Không đủ tiền trong tài khoản ngân hàng của bạn</b>. Kiểm tra xem bạn đã tính chính xác số tiền bằng USD của mình chưa. Chúng tôi khuyên bạn nên giữ nhiều tiền trong tài khoản hơn mức cần thiết một ít để dự phòng.",
+	"block_03": "<b class=\"block_03_0\">Giao dịch trái phép</b>. Liên hệ với ngân hàng của bạn để tìm hiểu xem tính năng bảo mật 3D có được bật cho các giao dịch hay không.",
+	"block_04": "<b class=\"block_04_0\">Thông tin thanh toán không chính xác</b>. Kiểm tra xem bạn đã nhập chính xác thông tin thanh toán chưa.",
+	"block_05": "<b class=\"block_05_0\">Thời gian thanh toán đã hết</b>. Thử thực hiện thanh toán lại và nhập mã 3D trong thời gian cho phép.",
+	"block_06": "<b class=\"block_06_0\"> Khoản thanh toán bị ngân hàng từ chối</b>. Liên hệ với ngân hàng của bạn để tìm hiểu lý do và cách khắc phục.",
+	"block_07": "<b class=\"block_07_0\">Tài khoản của bạn có giới hạn rút tiền </b> đối với các giao dịch qua internet. Hãy sử dụng một phương thức thanh toán khác để khắc phục.",
+	"block_08": "Kiểm tra xem liệu tài khoản ngân hàng và thông tin thanh toán của bạn đã đúng chưa hoặc thử một phương thức thanh toán khác.",
+	"block_09": "Thử lại",
+	"block_10": "Có nhiều phương thức nạp tiền",
+	"block_11": "Hầu hết các nhà giao dịch thích các phương thức thanh toán sau đây:",
+	"block_12": "Nạp tiền ngay",
+	"block_13": "Nếu bạn có bất kỳ câu hỏi nào, hãy liên hệ với chúng tôi theo địa chỉ",
+	"block_14": "support@iqoption.com"
+}

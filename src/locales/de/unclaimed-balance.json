@@ -1,0 +1,20 @@
+{
+  "block_00": "Benachrichtigung zu Ihrem nicht angeforderten Restguthaben",
+  "block_01": "Sehr geehrte Frau, sehr geehrter Herr,",
+  "block_02": "bitte beachten Sie, dass nach der Schließung Ihres Handelskontos durch das Unternehmen festgestellt wurde, dass Ihr Handelskonto noch ein Guthaben aufweist, das bis zum heutigen Tag nicht angefordert wurde, d.h. es wurden keine Aktionen unternommen, um Ihre Mittel anzufordern.",
+  "block_03": "Es wird dringend empfohlen, dass Sie sich unverzüglich an das Unternehmen wenden und das verbleibende Guthaben anfordern, indem Sie eine E-Mail an die Adresse",
+  "block_04": "support@eu.iqoption.com",
+  "block_05": "senden und dabei Ihre registrierte E-Mail-Adresse verwenden, die mit Ihrem Handelskonto verknüpft war. Außerdem bitten wir Sie, uns zur Rückerstattung des Restguthabens folgende Bankdaten zur Verfügung zu stellen:",
+  "block_06": "Name und Vorname",
+  "block_07": "IBAN",
+  "block_08": "Swift-Nummer",
+  "block_09": "Land der Bank",
+  "block_10": "Währung Ihres Bankkontos",
+  "block_11": "Wir weisen darauf hin, dass für die Überweisung Gebühren fällig werden können. Zahlungen in USD unterliegen außerdem einer pauschalen Gebühr von 35 USD, deshalb wird empfohlen, ein Konto in EUR/GBP anzugeben, um diese Gebühr zu vermeiden; ein verbleibendes Guthaben in USD wird bei der Zahlung entsprechend in EUR/GBP umgerechnet. Wir bitten darum, ein Bankkonto anzugeben, das <b class=\"block_11_0\">nicht zu Revolut gehört.</b>",
+  "block_12": "Für jegliche anfallende Gebühren nach der Schließung Ihres Handelskontos verweisen wir auf Punkt 3 der",
+  "block_13": "Allgemeinen Gebührenrichtlinie.",
+  "block_14": "Sollten Sie das Unternehmen bereits bezüglich der Auszahlung Ihres noch nicht angeforderten Restguthabens kontaktiert und/oder dieses bereits erhalten haben, dann ignorieren Sie bitte diese E-Mail.",
+  "block_15": "Bei jeglichen Fragen oder weiterem Klärungsbedarf kontaktieren Sie uns einfach per E-Mail unter",
+  "block_16": "support@eu.iqoption.com.",
+  "block_17": "Zu IQ Option gehen"
+}

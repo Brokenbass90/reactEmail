@@ -1,0 +1,9 @@
+{
+  "dear": "Dear trader,",
+  "text-1": "This message is to inform you that you have made a request for the withdrawal of Bitcoin and therefore you need to send documents to pass the verification. The documents required are:",
+  "item-1": "1. Proof of Identity (ID card, passport, or Driving License);",
+  "item-2": "2. Copy of the bank card (cards) you used for the deposit (On the front side of the card open visible only first 6 and 4 last digits. On the back side of the card put your signature and  hide the CVV-code).",
+  "text-2": "Please note that if the withdrawal is not verified by the 6th of February 2018 the Bitcoin withdrawal will be declined. Your Bitcoin position will be closed according to the current quotes and money will be credited back to your account balance with a deduction of a fee for opening of the deal.",
+  "text-3": "If you have any questions feel free to contact our Support Team with the email",
+  "regards": "Best Regards, <br>IQ Option Support Team"
+}

@@ -1,0 +1,89 @@
+{
+  "retrack":"trading-battle",
+  "tour-1": {
+    "date": "1 de Junio",
+    "duration": "Duración: 30 días",
+    "title": "Off to the Races",
+    "up-to":"hasta",
+    "prize": "$100 000*",
+    "prize-text": "en el bote de premios",
+    "part": "$20",
+    "re": "$20",
+    "additional-prize": "El ganador obtendrá un billete para el <a href='https://blog.iqoption.com/traders-aston-martin-drive-day/' style='color: #ff7700 !important; text-decoration: underline !important;'>Día de Conducción de Aston Martin</a>",
+    "number":"949"
+  },
+  "tour-2": {
+    "date": "1 de Junio",
+    "duration": "Duración: 9 días",
+    "title": "Bulls and Bears",
+    "up-to":"",
+    "prize": "$15 000*",
+    "prize-text": "Bote de premios expansible",
+    "part": "$5",
+    "re": "$5",
+    "additional-prize": "",
+    "number":"959"
+  },
+  "tour-3": {
+    "date": "12 de Junio",
+    "duration": "Duración: 19 días",
+    "title": "Trading Wizard",
+    "up-to":"",
+    "prize": "$20 000*",
+    "prize-text": "Bote de premios expansible",
+    "part": "$10",
+    "re": "$10",
+    "additional-prize": "",
+    "number":"960"
+  },
+  "tour-4": {
+    "date": "Cada Lunes",
+    "duration": "Duración: 1 hora",
+    "title": "IQ Satellite",
+    "up-to":"",
+    "prize": "Entrada LIBRE",
+    "prize-text": "Torneo de un mes",
+    "part": "LIBRE",
+    "re": "$1",
+    "additional-prize": "",
+    "number":"971"
+  },
+  "tour-5": {
+    "date": "Cada Otro Lunes",
+    "duration": "Duración: 5 días",
+    "title": "IQ Launch",
+    "up-to":"hasta",
+    "prize": "30 000*",
+    "prize-text": "en el bote de premios",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"963"
+  },
+  "tour-6": {
+    "date": "Cada Viernes",
+    "duration": "Duración: 1 hora",
+    "title": "The Winner Takes it All",
+    "prize": "$500*",
+    "up-to":"",
+    "prize-text": "para el ganador",
+    "part": "$1",
+    "re": "No permitidas",
+    "additional-prize": "",
+    "number":"970"
+  },
+  "tour-7": {
+    "date": "Cada Jueves",
+    "duration": "Duración: 1 día",
+    "title": "Salary in a Day",
+    "prize": "$3000*",
+    "up-to":"",
+    "prize-text": "Bote de premio",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"958"
+  },
+  "asterisk":"*Se ganará una parte del bote de premios solo en caso de ganar el torneo."
+
+}

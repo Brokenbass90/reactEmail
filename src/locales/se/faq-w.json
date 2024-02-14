@@ -1,0 +1,18 @@
+{
+	"block_00": "Vanliga frågor från traders: Uttag",
+	"block_01": "Idag vill vi svara på de vanligaste frågorna om uttagsprocessen.",
+	"block_02": "Vad är det minsta och största beloppet jag kan ta ut?",
+	"block_03": "Det minsta uttagsbeloppet är $10 och det största beloppet är $1 000 000, vi hoppas att detta ger dig tillräckligt med frihet att välja.",
+	"block_04": "Hur snart kan jag ta ut min första vinst?",
+	"block_05": "Omedelbart! Dina pengar är alltid dina och du är inte begränsad av några villkor i detta avseende.",
+	"block_06": "Måste jag använda samma betalningsalternativ för uttag som jag använde för insättning?",
+	"block_07": "Ja, det är viktigt att du tar ut pengar till samma kort eller e-plånbok som du ursprungligen använde annars kommer systemet att avbryta förfrågningen. Uttagningsbeloppet får inte vara större än insättningen som gjorts från det kortet (det finns dock inga begränsningar för e-plånböcker).",
+	"block_08": "Vilken valuta kommer mitt uttag vara i?",
+	"block_09": "Om valutan för ditt IQ Option-konto skiljer sig från bankkortets valuta kommer pengarna att växlas av ditt betalningssystem enligt gällande växelkurs.",
+	"block_10": "Hur snabbt får jag mina pengar?",
+	"block_11": "Det tar oss upp till 3 dagar att behandla en uttagsförfrågan (1 dag för VIP-kunder). Betalningstiden  beror också på banken eller e-plånbokssystemet du använder (från 1 dag  till e-plånboken och upp till 7-9 dagar för bankerna).",
+	"block_12": "Har du ytterligare frågor?",
+	"block_13": "Tveka inte att kontakta vårt",
+	"block_14": "supportteam!",
+	"block_15": "Gå till IQ Option"
+}

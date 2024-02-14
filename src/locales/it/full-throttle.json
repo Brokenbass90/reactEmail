@@ -1,0 +1,29 @@
+{
+"item-1-duration":"Durata",
+"item-1-month":"aprile 2017",
+"item-2-text":"Il vincitore otterrà un biglietto per l’Aston Martin Drive Day",
+"item-3-part":"Partecipazione",
+"item-3-fee":"Riacquisto",
+"asterix":"*Si ottiene parte del montepremi solo in caso di vincita del torneo. ",
+"prize-fund":"in montepremi ed è solo l’inizio",
+"percents-of-re-buys":"dei riacquisti andrà al montepremi!",
+"cta":"Partecipare",
+"description":"80% dei pagamenti durante il torneo andrà al montepremi! Tutti i partecipanti inizieranno il torneo con uno speciale account con bilancio di 10 000 USD",
+"high-profile":{
+"fund":"Montepremi in Espansione *",
+"deal":"Fagli sapere che sei un grande affare.",
+"month":"Aprile 2017",
+"prize":"*Si riceve parte del montepremi solo in caso di vincita del torneo.",
+"cta":"Partecipare",
+"description":"80% dei tuoi pagamenti durante il torneo andranno al montepremi! Tutti i trader partecipanti inizieranno il torneo con uno speciale account dal bilancio di 100 USD"
+},
+   "chart":{
+     "fund":"montepremi in crescita",
+     "trip":"+ un viaggio per <b>l'Aston Martin Drive Day</b>**",
+     "month":"maggio 2017",
+     "prize": "Questi premi sono davvero incredibili...",
+     "asterisk":"*Si riceve parte del montepremi solo in caso di vincita del torneo.",
+     "asterisk-2":"** Il vincitore del torneo riceve un biglietto per l' Aston Martin Drive Day in aggiunta al premio in denaro. Nel caso in cui il vincitore rifiutasse il premio o per una qualsiasi ragione non potesse prendere parte al viaggio, il premio verrà ceduto alla persona successiva nella linea di distribuzione del premio.",
+     "bottom":"80% dei tuoi pagamenti durante il torneo andranno al montepremi! Tutti i trader partecipanti inizieranno il torneo con uno speciale account  dal bilancio di 10 000 USD"
+   }
+}

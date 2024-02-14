@@ -1,0 +1,50 @@
+{
+  "top": {
+    "hello": "Herzlich willkommen!",
+    "happy": "Wir freuen uns Sie unter den Händlern des IQ Option Teams begrüßen zu dürfen.",
+    "text": "Im Namen jedes einzelnen Mitarbeiters des Unternehmens  danken wir Ihnen für Ihr Vertrauen. Unser Ziel ist es, für Sie zu dem besten Broker von binären Optionen zu werden. Wir bieten Ihnen Service, der bereits von allen unseren Kunden geschätzt wird.",
+    "team": "Die Arbeit bei dem IQ Option Team  läuft 24 Stunden am Tag, 7 Tage die Woche,um an die höchsten Standards zu halten und alle Ihre Erwartungen zu erfüllen!",
+    "watch": "Sehen Sie sich das Video <br> darüber an,",
+    "watch-strong": "wie man auf der <br> Plattform handelt"
+  },
+  "rowhead": {
+    "lider": "IQ Option — ist ein wahrer Spitzenreiter und Garant für Qualität in der Welt der binären Optionen, und die Tatsachen bestätigen dies."
+  },
+  "row_one": {
+    "text": "Zu jeder Zeit handeln auf der Plattform IQ Option mehr als 10 Tausend Menschen"
+  },
+  "row_two": {
+    "text": "Die Eröffnung der Position auf der Plattform IQ Option erfolgt unverzüglich"
+  },
+  "row_three": {
+    "text": "Monatliche Auszahlung von IQ Option an die Händlern liegen in der Höhe von 5 Millionen Dollar!"
+  },
+  "row_four": {
+    "text": "IQ Option ist der Beste Broker für Binäre Optionen in Europa (Auszeichnung «Best Binary Options Broker in Europe») 2015 nach Meinung der Global Banking & Finance Review."
+  },
+  "cta_rowhead": {
+    "first": "Die ersten Schritte auf der Website"
+  },
+  "cta_row_one": {
+    "head": "Sind Sie nicht vertraut mit binären Optionen?",
+    "text": "Profitieren Sie von den besten in der Industrie -einem interaktiven System der Ausbildung und erhalten Sie alle, für den Handel notwendigen Kenntnisse jetzt.",
+    "button": "Schulung starten"
+  },
+  "cta_row_two": {
+    "head": "Möchten Sie sich im echten Handel versuchen?",
+    "text": "Bereits jetzt können Sie den Handel mit einer minimalen Einzahlung von nur $10 beginnen.",
+    "button": "Guthaben aufladen"
+  },
+  "cta_row_three": {
+    "head": "Sie benötigen eine persönliche Betreuung?",
+    "text": "Machen Sie eine Einzahlung in Höhe von über $3000 und werden Sie zum VIP-Kunde von IQ Option!",
+    "text-two": "Nach dem Erhalten des Status eines Premium-Traders, werden Sie alle Vorteile von unserem Service, dank der persönlichen Managern erleben. Die begleiten Sie Schritt für Schritt und liefern alle notwendigen Informationen in Ihrer Muttersprache.",
+    "button": "Information über VIP Konto"
+  },
+  "cta": {
+    "button": "AUF DIE PLATTFORM WECHSELN",
+    "question": "Wenn Sie Fragen haben, wird unser&nbsp;",
+    "support": "Support-Team",
+    "help": "Ihnen gerne helfen."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "top": {
+    "head": "the IQ Robot Tournament",
+    "head-next": "winners are…",
+    "left-text": "Back in August we’ve set out to find the most skillful IQ Robot engineers to honor them with handsome rewards.",
+    "mass-1": "Take a look at",
+    "green": "our winners",
+    "mass-2": "and their incredibly profitable creations!"
+  },
+  "profit": {
+    "head": "Top Profit:"
+  },
+  "ef": {
+    "head": "Top Efficiency:",
+    "prize": "PRIZE"
+  },
+  "cta": {
+    "text-1": "Copy one of these",
+    "green": "Top IQ Robots",
+    "text-2": "or build your own to automate your profit!",
+    "butt": "Go to IQ Robots"
+  }
+}

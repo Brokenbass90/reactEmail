@@ -1,0 +1,14 @@
+{
+	"block_00": "Confirme sua inscrição",
+	"block_01": "Sua inscrição no site da {{embedded.brand_name}} está quase completa.<br>Para ativar sua conta, confirme sua inscrição.",
+	"block_02": "Confirmar inscrição",
+	"block_03": "Ou use o seguinte código de ativação:",
+	"block_04": "",
+	"block_05": "Atenção! O link pode ser usado apenas uma vez. Se você tentar usá-lo uma segunda vez, um erro será exibido. Se você tiver alguma dúvida, envie um e-mail para o nosso departamento de suporte no seguinte endereço",
+	"block_06": "support@{{embedded.brand_name}}.com",
+	"block_07": "Desejamos a você uma experiência de negociação fantástica!",
+	"block_08": "Aviso geral de risco",
+	"block_09": "As operações financeiras oferecidas por esta empresa podem ter um alto nível de risco e resultar na perda de todos os seus fundos. Avalie todos os riscos financeiros antes de negociar.",
+	"block_10": "Termos e Condições",
+	"block_11": "Cancelar a inscrição"
+}

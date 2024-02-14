@@ -1,0 +1,14 @@
+{
+	"block_00": "Uttagningsbegäran lyckades",
+	"block_01": "Din uttagsbegäran om %amount_withdrawal% har skickats in och ska snart behandlas.",
+	"block_02": "Eftersom det här är första gången du tar ut medel vill vi nämna några viktiga saker du bör veta:",
+	"block_03": "För att säkerställa ett snabbt uttag bör du kontrollera att alla fält i din uttagsbegäran har fyllts i korrekt.",
+	"block_04": "Om du tar ut pengar till en e-plånbok ska du se till att ditt konto är verifierat hos tjänsteleverantören som du har valt för ditt uttag.",
+	"block_05": "Traders har tillgång till 1 provisionfritt uttag per kalendermånad.",
+	"block_06": "Om du tar ut pengar till ett virtuellt kort ska du se till att det är tillämpligt för återbetalningar. Vi accepterar alla Visa-, Mastercard- och Maestro-kort.",
+	"block_07": "IQ Option behandlar uttag inom tre arbetsdagar. Beroende på din bank kan det ta längre tid innan pengarna visas på ditt konto.",
+	"block_08": "Om du har satt in pengar med ett kredit-/betalkort måste du begära ett uttag till samma kort som din ursprungliga investering inklusive insättningar som gjorts under de senaste 90 dagarna. Dina uttagsbelopp kommer att krediteras ditt kort inom 21 dagar.",
+	"block_09": "För utredningar av bankkortuttag ber vi dig att skicka ett kontoutdrag som styrker att pengarna inte krediterades. Observera att vissa virtuella banker inte kan utfärda sådana utdrag.",
+	"block_10": "Omvandlingen sker med den valda betalningsmetodens kurs.",
+	"block_11": "Vi uppskattar att du väljer IQ Option som din tillförlitliga mäklare!"
+}

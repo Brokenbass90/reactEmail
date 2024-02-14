@@ -1,0 +1,26 @@
+{
+  "dear": "Sayın işlemci,",
+  "text-1": "Hizmet Hüküm ve Koşullarımız uyarınca (Madde 6 \"Müşteri Taahhütleri\"),",
+  "strong-1": "Müşterinin para yatırdığı andan itibaren 7 günü aşmayan bir süre içinde KYC belgelerini Şirkete sunması gerektiği",
+  "text-2": "bilginize sunulur.",
+  "text-3": "Bunu henüz yapmadıysanız, gerekli kimlik belgelerini en kısa zamanda yüklemenizi rica ederiz. Aksi takdirde,",
+  "strong-2": "&nbsp;işlem platformuna ve/veya sunduğumuz diğer hizmetlere erişiminizi kısıtlamak&nbsp;",
+  "text-4": "zorunda kalacağız.",
+  "cta": "Hesabı Doğrula",
+  "strong-3": "Belgelerinize neden ihtiyaç duyuyoruz?",
+  "text-5": "IQ Option Europe Ltd. CySEC (Kıbrıs Menkul Kıymetler ve Borsa Komisyonu) düzenlemesine tabi olduğundan, yasalar uyarınca kara para aklama ve terörizmin finansmanını önleme ile ilgili temel gereklilikleri yerine getirmemiz istenmektedir. Düzenlemeye tabi bir kurumla işlem yapmanın avantajlarından yararlanmak için, hesabınızı doğrulayacak bilgileri ve/veya belgeleri sunmanız gerektiğinin dikkate alınması önemlidir.",
+  "support": "Herhangi bir sorunuz olursa, lütfen tereddüt etmeden",
+  "link": "Destek Ekibi'",
+  "support-2": "mize başvurun.",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Güvenilir brokeriniz olarak IQ Option'ı seçtiğiniz için teşekkür ederiz!",
+  "answer": "Not : Bu posta size otomatik olarak gönderilmiştir ve cevap gerektirmemektedir.",
+  "after": {
+    "text-1": "Bu mesaj, Hizmet Hüküm ve Koşullarımız uyarınca (Madde 6 \"Müşteri Taahhütleri\")",
+    "strong-1": "Müşterinin para yatırdığı andan itibaren 7 günü aşmayan bir süre içinde KYC belgelerini Şirkete sunması gerektiğini",
+    "text-2": "hatırlatma amacı taşımaktadır.",
+    "text-3": "Hesap doğrulama için gerekli belgeleri henüz göndermediğinizden,",
+    "strong-2": "&nbsp;işlem platformuna erişiminiz askıya alınmıştır.&nbsp;",
+    "text-4": "Önümüzdeki 7 gün içinde hesabınızı doğrulamadığınız takdirde, hesabın feshedileceği ve işlem bakiyenizin tarafınıza geri ödeneceği bilginize sunulur."
+  }
+}

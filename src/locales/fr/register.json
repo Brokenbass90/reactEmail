@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Salutations!",
+    "success": "Vous avez complété avec succès votre inscription sur le site Web d'IQ Option.",
+    "activate": "Pour activer votre compte, veuillez confirmer votre inscription.",
+    "confirm": "Confirmation de l’inscription",
+    "code": "Ou utiliser le code d'activation suivant:"
+  },
+  "bottom": {
+    "support": "Attention! Le lien ne peut être utilisé qu'une seule fois. Si vous essayez de l’utiliser une seconde fois, une erreur apparaît. Si vous avez des questions, veuillez contacter notre service d'assistance à",
+    "team": "L'équipe d'IQ Option vous souhaite du succès dans vos négociations!",
+    "attention": "Remarque: ce message a été généré et envoyé automatiquement et ne nécessite aucune réponse."
+  }
+}

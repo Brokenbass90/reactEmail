@@ -1,0 +1,34 @@
+{
+  "top": {
+    "pic": "https://images01.iqoption.com/81/9281/static-03118093611334369281.png",
+    "header-info": "REVISTA ANALÍTICA PARA LA SEMANA",
+    "period": "el 17 de Octubre - el 21 de Octubre"
+  },
+  "first": {
+    "name-news": "Publicación del informe sobre la inflación de los Estados Unidos",
+    "date": "el 18 de octubre a las 15.30 GMT",
+    "opinion": "Opinión del analista IQ Option:",
+    "news-text": "La última estadística estadounidense parece tener un nivel estable con las inclinaciones a una dinámica positiva, a saber: el PIB anual y la inflación están creciendo más rápido de lo esperado, pero aún no alcanzan los resultados objetivo. Gracias a los últimos resultados del mercado laboral (que otro mes más superan los 150,000 nuevos puestos de trabajo), los participantes del mercados preven una subida más de los tipos de interés, este hecho reforzará considerablemente el valor del dólar estadounidense. En caso de que los resultados de la inflación salgan mejor de lo esperado, mejorará el valor de la divisa nacional de los EE.UU y confirmará las previsiones de los traders.",
+    "link": "link",
+    "more": "Más información»",
+    "trade": "NEGOCIAR CON EL EUR/USD"
+  },
+  "second": {
+    "name-news": "Decisión sobre el posible cambio de la tasa de descuento en la Unión Europea",
+    "date": "el 20 de octubre a las 14.45 GMT",
+    "opinion": "Opinión del analista IQ Option:",
+    "news-text": "La economía  de la región europea y oceánica están bajo presión. Los líderes europeos no pueden resolver el problema de la estimulación de la inflación y de la crisis prolongada. Es más, tienen que solucionar el problema de la salida del Reino Unido de la UE y las dificultades económicas ligadas a ello, a la par que la división del capital y el freno de su circulación. Por otro lado, Australia sigue experimentando algunas complicaciones debido a la desaceleración de la región asiática y a la inestabilidad en los precios del crudo, la principal fuente del presupuesto público. En caso de que los líderes del Banco Central Europeo decidan rebajar la tasa de descuento para motivar la economía de la región, bajará el valor del euro a corto plazo.",
+    "link": "link",
+    "more": "Más información»",
+    "trade": "NEGOCIAR CON EL EUR/AUD"
+  },
+  "third": {
+    "name-news": "Publicación del informe de la inflación en Canadá",
+    "date": "el 21 de octubre a las 15.30 GMT",
+    "opinion": "Opinión del analista IQ Option:",
+    "news-text": " Canadá es uno de los países principales en cuanto a la producción del crudo, mientras que el dólar canadiense es una de las principales divisas petroleras que depende del precio del crudo. Tras la última reunión y el firmado acuerdo entre los países de la OPEP, el precio del “oro negro” se ha fijado en más de 50$ por un largo tiempo, lo que favorece al valor de la divisa nacional de Canadá. Cuanto mayor sea la cantidad de dinero en el país, mayor es la probabilidad de estimulación de la inflación. Si la inflación arroja un resultado mejor, aumentará el valor del dólar canadiense.",
+    "link": "link",
+    "more": "Más información»",
+    "trade": "NEGOCIAR CON EL USD/CAD"
+  }
+}

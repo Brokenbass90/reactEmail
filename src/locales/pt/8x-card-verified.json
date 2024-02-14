@@ -1,0 +1,10 @@
+{
+	"block_00": "Confirmação da aprovação do cartão",
+	"block_01": "As cópias enviadas do cartão com os quatro últimos dígitos",
+	"block_02": "foram aprovadas. Agora você pode depositar e retirar com esse cartão.",
+	"block_03": "Observe que, se você quiser usar um novo cartão para depósitos e retiradas, precisará enviá-lo para verificação.",
+	"block_04": "Obrigado por escolher a {{embedded.brand_name}}.",
+	"block_05": "Nossa",
+	"block_06": "Equipe de Suporte",
+	"block_07": "terá prazer em ajudar se você tiver alguma dúvida."
+}

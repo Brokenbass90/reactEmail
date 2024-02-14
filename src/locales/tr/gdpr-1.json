@@ -1,0 +1,18 @@
+{
+	"block_00": "Veri Silme İsteği alındı",
+	"block_01": "Sayın Müşterimiz,",
+	"block_02": "GDPR'nin 17. Maddesi kapsamındaki haklarınız uyarınca hesabınızı ve <b class=\"block_02_0\">TÜM</b> kişisel verilerinizi <b class=\"block_02_1\">SİLME</b> isteğinizin alındığını tasdik ediyoruz. Lütfen kişisel bilgilerinizin bizim için çok önemli olduğunu ve {{embedded.brand_name}}'ın veri korumayı çok ciddiye aldığını unutmayın.",
+	"block_03": "İsteğiniz geçerli olduğu ve yürürlükteki yasalara ve yönetmeliklere uygun olduğu takdirde, kişisel verilerinizin silinmesi isteğiniz memnuniyetle yerine getirilecektir.",
+	"block_04": "İsteğiniz <b class=\"block_04_0\">otuz (30) iş günü</b> içinde işleme konulacak ve size nihai bir yanıt verilecektir.",
+	"block_05": "Sistemlerimiz genel olarak gereklilik ve veri minimizasyonu ilkesine bağlı kalacak şekilde yapılandırılmaktadır. Dolayısıyla, {{embedded.brand_name}} hizmetlerimizi size sunmak için kesinlikle gerekli olmayan sizden gelen hiçbir kişisel veriyi işlemez.",
+	"block_06": "İsteğinizi <b class=\"block_06_0\">İPTAL ETMEK isterseniz</b>, bunu isteğinizin işlenmesi sürecinde internet sitemiz aracılığıyla yapabilirsiniz. İsteğinizin işlenmesi, halihazırda sistemlerimiz tarafından işlenmekte olan isteklerin hacmine bağlı olarak <b class=\"block_06_1\">1 ile 30 iş günü</b> arasında bir zaman alabilir.",
+	"block_07": "Silme isteğinizin iptalinin etkileri:",
+	"block_08": "Hesabınız silinmez;",
+	"block_09": "Hesabınıza erişebilir, işlem yapabilir ve {{embedded.brand_name}} hizmetlerinden yararlanabilirsiniz; ve",
+	"block_10": "Kişisel verileriniz silinmez.",
+	"block_11": "Yukarıda belirtilen hususlar ışığında, hesabınıza sınırlı erişim hakkına sahip olacağınızı ve Para Çekme ve İade Politikası uyarınca sadece kullanılabilir bakiyenizin (varsa) (<b class=\"block_11_0\">Kalan Bakiye</b>) çekimi için bir para çekme isteği gönderebileceğinizi bildiririz.",
+	"block_12": "Belirtilen tarihten itibaren 14 günlük süre dolduktan sonra, hesabınız tamamen engellenecek, hesabınıza erişim hakkınız olmayacak ve <b class=\"block_12_0\">Kalan Bakiye üzerindeki hak Şirkete devredilecektir</b>.",
+	"block_13": "Saygılarımızla, {{embedded.brand_name}} Ekibi",
+	"block_14": "Herhangi bir sorunuz olursa, şu adresten bize başvurabilirsiniz:",
+	"block_15": "support@iqoption.com"
+}

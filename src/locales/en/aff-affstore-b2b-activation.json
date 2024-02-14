@@ -1,0 +1,12 @@
+{
+    "block_00": "<b class=\"block_00_00\">Hello,</b>",
+    "block_01": "You have requested another email for email address verification.",
+    "block_02": "Please activate your account by clicking the button below:",
+    "block_03": "Activate account",
+    "block_04": "To log in, use your email address",
+    "block_05": "user_email",
+    "block_06": "and the password you specified during the registration process.",
+    "block_07": "If you're having trouble signing in to your account, please, reset your password, or reach out to us at ",
+    "block_08": "YY",
+    "block_09": "."
+}

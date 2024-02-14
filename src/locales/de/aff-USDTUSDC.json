@@ -1,0 +1,14 @@
+{
+    "block_00": "Lernen Sie Stablecoin-Auszahlungen kennen",
+    "block_01": "<b class=\"block_01_00\">Hallo [%first_name%],</b>",
+    "block_02": "wir freuen uns, Ihnen mitteilen zu können, dass wir 2 neue Zahlungsmethoden hinzugefügt haben: <b class=\"block_02_00\">USDT und USDC</b>.",
+    "block_03": "Warum bevorzugen Nutzer USDT und USDC?",
+    "block_04": "Tether (USDT) und USD-Coins (USDC) sind die beliebtesten Stablecoins. Sie können <b class=\"block_04_00\">im Verhältnis 1:1 gegen den US-Dollar getauscht werden</b>. Stablecoins sind an den US-Dollar gekoppelt, was bedeutet, dass sie die Vorteile einer schnellen, sicheren und relativ billigen Zahlungsoption ohne die extreme Volatilität von Bitcoin und anderen Kryptowährungen aufweisen.",
+    "block_05": "Anforderungen für Zahlungen in USDT und USDC",
+    "block_06": "Nur verfügbar für Abhebungen von <b class=\"block_06_00\">nicht-europäischen Guthaben</b>",
+    "block_07": "Benötigt wird die",
+    "block_08": "<b class=\"block_08_00\">KYC-Überprüfung</b>",
+    "block_09": "In der Anfangsphase beträgt der Mindestauszahlungsbetrag <b class=\"block_09_00\">$500</b>",
+    "block_10": "Wechseln Sie zum persönlichen Bereich und ändern Sie Ihre Standardmethode in den Einstellungen, um Ihre Zahlungsmethode auf USDT oder USDC zu wechseln.",
+    "block_11": "Zahlungsmethode ändern"
+}

@@ -1,0 +1,17 @@
+{
+	"block_00": "Billing Error: Your payment was declined",
+	"block_01": "It looks like we can’t process your payment. There are different reasons for billing errors. Below are the most common:",
+	"block_02": "<b class=\"block_02_0\">Insufficient funds in your bank account</b>. Check if you correctly calculated the USD amount in your currency. We recommend having a little more money in your account than you need just in case.",
+	"block_03": "<b class=\"block_03_0\">Unauthorized transaction</b>. Contact your bank to find out if 3D secure transactions are enabled.",
+	"block_04": "<b class=\"block_04_0\">The payment details were incorrect</b>. See if you entered the payment details correctly.",
+	"block_05": "<b class=\"block_05_0\">The time of the payment has expired</b>. Retry the payment, and enter the 3D code in a timely manner.",
+	"block_06": "<b class=\"block_06_0\">The payment was declined by the bank</b>. Contact your bank to learn the reason and fix it.",
+	"block_07": "<b class=\"block_07_0\">Your account has withdrawal limits</b> for internet transactions. Use another payment method to circumvent it.",
+	"block_08": "Check and see if your bank account and payment details are in order, or try another payment method.",
+	"block_09": "Try again",
+	"block_10": "Many deposit methods available",
+	"block_11": "Most traders prefer the following payment methods:",
+	"block_12": "Deposit Now",
+	"block_13": "If you have any questions you can contact us at",
+	"block_14": "support@iqoption.com"
+}

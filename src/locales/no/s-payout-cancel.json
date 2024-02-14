@@ -1,0 +1,18 @@
+{
+	"block_00": "Forespørsel om uttak er avvist",
+	"block_01": "Hei",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Vi beklager å informere deg om at din forespørsel om uttak",
+	"block_05": "op_id",
+	"block_06": "med et totalbeløp på",
+	"block_07": "amount",
+	"block_08": "valuta",
+	"block_09": "har blitt kansellert. Du finner kanskje detaljene nedenfor.",
+	"block_10": "Årsak:",
+	"block_11": "årsak",
+	"block_12": "Dersom du har noen spørsmål, kan du kontakte oss på",
+	"block_13": "support@iqoption.com",
+	"block_14": ".",
+	"block_15": "Vilkår og betingelser"
+}

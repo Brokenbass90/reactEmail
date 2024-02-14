@@ -1,0 +1,20 @@
+{
+    "block_00": "Atualizações para dispositivos móveis 🔥",
+    "block_01": "Olá [%first_name%],",
+    "block_02": "Em 2022, tivemos muitas atualizações para dispositivos móveis. Se você está procurando novas maneiras de impulsionar o tráfego, esta mensagem é o sinal pelo qual você estava esperando. Vamos lá!",
+    "block_03": "<b class=\"block_03_00\">Atualização do aplicativo iOS</b>",
+    "block_04": "O aplicativo iOS IQ Broker atualizado tornou-se disponível para uma lista mais ampla de países. Estamos falando do aplicativo IQ Broker \"preto\" que está disponível para usuários de iOS de países onde o aplicativo IQ Option clássico \"laranja\" não está disponível: México, Arábia Saudita, Malásia, Chile etc. Ao tentar baixar o aplicativo principal, os usuários serão redirecionados automaticamente para o “preto” disponível.",
+    "block_05": "<b class=\"block_05_00\">Landing page leve</b>",
+    "block_06": "Criamos esta landing page para aumentar as conversões, especialmente em regiões geográficas com conexão de Internet ruim. O superpoder da nova landing page é que ela é curta (apenas 2 telas) e leva o usuário direto para o cadastro. Veja você mesmo!",
+    "block_07": "Ver a landing page",
+    "block_08": "<b class=\"block_08_00\">Landing page com quadro de registro</b>",
+    "block_09": "Na nova landing page, decidimos substituir o botão de download padrão da loja de aplicativos (que contribui para as conversões para <i>instalação</i>) por um formulário de registro (que aumenta as conversões para <i>registro</i>). Ou seja, o usuário precisa primeiro registrar uma conta e depois baixar o aplicativo na loja. Nosso experimento mostrou um aumento significativo nas conversões para registro, então não hesite em experimentar.",
+    "block_10": "Ver a landing page",
+    "block_11": "Observe que <b class=\"block_11_00\">todos os quadros de registro agora podem redirecionar o usuário para a Sala de negociação diretamente da página do afiliado</b> (após o registro por meio do quadro na página).",
+    "block_12": "Para isso, você precisa adicionar algumas linhas de código ao colar o quadro em sua página. Aqui está como fazer isso:",
+    "block_13": "No código do quadro, adicione:",
+    "block_14": "atributo sandbox para a tag iframe",
+    "block_15": "Adicione um parâmetro ao caminho do próprio quadro:",
+    "block_16": "Exemplo:",
+    "block_17": "Desejamos a você as melhores conversões! 🚀"
+}

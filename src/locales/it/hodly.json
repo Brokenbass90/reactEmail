@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Benvenuto!",
+    "subtitle": "Il tuo account HODLY è quasi completo.",
+    "text-1": "Dobbiamo solamente verificare il tuo indirizzo e-mail e sarai pronto.",
+    "cta": "Verifica l'indirizzo e-mail"
+  },
+  "password": {
+    "title": "Ciao!",
+    "subtitle": "Abbiamo ricevuto la richiesta di rispristino della password per il tuo account HODLY.",
+    "text-1": "Se sei stato tu, puoi impostare una nuova password cliccando il pulsante in basso:",
+    "cta": "Imposta nuova password",
+    "text-2": "Se non desideri modificare la tua password o non hai inviato una richiesta, ti preghiamo di ignorare ed eliminare questo messaggio.",
+    "orange": "Ti auguriamo una buona giornata!"
+  },
+  "email": {
+    "title": "Ciao!",
+    "subtitle": "Abbiamo ricevuto una richiesta per la modifica dell'indirizzo e-mail per il tuo account HODLY.",
+    "text-1": "Per modificare l'indirizzo e-mail, clicca qui sotto",
+    "cta": "Cambia e-mail",
+    "text-2": "Se non desideri modificare il tuo indirizzo e-mail o non hai inviato una richiesta, ti preghiamo di ignorare ed eliminare questo messaggio.",
+    "orange": "Ti auguriamo una buona giornata!"
+  },
+  "auto": "Questo messaggio è stato generato automaticamente e non richiede alcuna risposta."
+}

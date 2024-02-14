@@ -1,0 +1,29 @@
+{
+  "dear": "Lieber Händler,",
+  "text-1": "Bitte beachten Sie, dass laut unseren Nutzungsbedingungen (Punkt 6 \"Kundenzusicherungen\") ",
+  "strong-1": "der Kunde dem Unternehmen KYC-Dokumente innerhalb der Frist von maximal 7 Tage",
+  "text-2": "ab Fondseinlage bereitstellen muss.",
+  "text-3": "Falls Sie es noch nicht getan haben, bitten wir, die notwendigen Ausweisdokumente baldmöglichst hochzuladen. Sonst sind wir gezwungen,",
+  "strong-2": "&nbsp;Ihren Zugang zum Handelsystem&nbsp;",
+  "text-4": "und/oder anderen unserer Services einzuschränken.",
+  "cta": "Konto verifizieren",
+  "strong-3": "Warum benötigen wir Ihre Dokumente?",
+  "text-5": "Da IQ Option Europe Ltd. von der Zypriotischen Börsenaufsichtsbehörde (CySEC) reguliert wird, sind wir rechtlich dazu verpflichtet, die grundlegenden Auflagen hinsichtlich des Kampfes gegen Geldwäsche und der Finanzierung terroristischer Aktivitäten zu erfüllen. Um in den Genuss von Handelsvorteilen einer regulierten Körperschaft zu kommen, ist es wichtig anzumerken, dass Sie Informationen und/oder Dokumentation liefern müssen, um Ihr Konto zu verifizieren.",
+  "support": "Bei etwaigen Fragen wenden Sie sich gerne an unser",
+  "link": "Support-Team.",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Vielen Dank, dass Sie sich für IQ Option als den Makler Ihres Vertrauens entschieden haben!",
+  "answer": "Hinweis: Diese E-Mail wurde automatisch generiert. Bitte antworten Sie nicht auf diese E-Mail!",
+
+  "after": {
+    "text-1": "Mit dieser Nachricht möchten wir Sie daran erinnern, dass laut unseren Nutzungsbedingungen (Punkt 6 \"Kundenzusicherungen\")",
+    "strong-1": "der Kunde dem Unternehmen KYC-Dokumente innerhalb der Frist von maximal 7 Tage",
+    "text-2": "ab Fondseinlage bereitstellen muss.",
+    "text-3": "Da Sie die Dokumente zur Kontoprüfung noch nicht eingereicht haben,",
+    "strong-2": "&nbsp;wurde Ihr Zugang zur Handelsplattform ausgesetzt.&nbsp;",
+    "text-4": "Bitte beachten sie, dass Ihr Konto geschlossen und Ihnen Ihr Handelssaldo zurückerstattet wird, wenn Sie Ihr Konto nicht innerhalb der nächsten 7 Tage verifizieren."
+  }
+}
+
+

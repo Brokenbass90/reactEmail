@@ -1,0 +1,17 @@
+{
+    "block_00": "성공적으로 인출 처리되었습니다",
+    "block_01": "귀하의 인출 요청",
+    "block_02": "op_id",
+    "block_03": "은 성공적으로 처리되어 전체 ",
+    "block_04": "amount",
+    "block_05": "currency",
+    "block_06": "이 현재 귀하의",
+    "block_07": "embedded.brand_name",
+    "block_08": "계정에서 인출되었습니다. 인출 요청에 명시된 것처럼 자금 수신을 기다려 주시기 바랍니다.",
+    "block_09": "저희",
+    "block_10": "embedded.brand_name",
+    "block_11": "와 거래해 주셔서 감사합니다!",
+    "block_12": "플랫폼으로 이동",
+    "block_13": "이용 약관",
+    "block_14": "구독 취소"
+}

@@ -1,0 +1,18 @@
+{
+	"block_00": "Kesalahan Penagihan: Pembayaran Anda ditolak",
+	"block_01": "Sepertinya kami tidak dapat memproses pembayaran Anda. Ada beberapa alasan terjadinya kesalahan tagihan. Berikut adalah alasan yang paling umum:",
+	"block_02": "<b class=\"block_02_0\">Dana pada rekening bank Anda tidak mencukupi.</b> Periksa apakah Anda telah menghitung jumlah USD dalam mata uang Anda dengan benar. Kami menyarankan ada sedikit lebih banyak uang di rekening Anda daripada yang Anda perlukan untuk berjaga-jaga.",
+	"block_03": "<b class=\"block_03_0\">Transaksi tidak sah.</b> Hubungi bank Anda untuk mengetahui apakah transaksi 3D secure diaktifkan.",
+	"block_04": "<b class=\"block_04_0\">Detail pembayaran salah.</b> Periksa apakah Anda telah memasukkan detail pembayaran dengan benar.",
+	"block_05": "<b class=\"block_05_0\">Waktu pembayaran telah habis.</b> Coba lagi pembayaran dan masukan kode 3D sebelum habis waktunya.",
+	"block_06": "<b class=\"block_06_0\">Pembayaran ditolak oleh bank.</b> Hubungi bank Anda untuk mengetahui alasannya serta menyelesaikan masalah tersebut.",
+	"block_07": "<b class=\"block_07_0\">Rekening bank Anda memiliki batas operasi internal.</b> Gunakan metode lain atau hubungi bank Anda.",
+	"block_08": "<b class=\"block_08_0\">Sertifikat pada Windows 7 sudah tidak berlaku.</b> Ikuti",
+	"block_09": "petunjuk",
+	"block_10": "untuk memasang sertifikat baru.",
+	"block_11": "<b class=\"block_11_0\">Jika bekerja dari China, Anda mungkin mengalami masalah firewall.</b> Coba lagi atau gunakan Alipay.",
+	"block_12": "<b class=\"block_12_0\">Anda melakukan deposit melalui transfer bank dari smartphone Anda.</b> Coba lakukan deposit dari desktop.",
+	"block_13": "Periksa apakah rekening bank dan detail pembayaran sudah benar atau coba metode pembayaran lain.",
+	"block_14": "COBA LAGI",
+	"block_15": "Jika ada pertanyaan, hubungi kami di support@iqoption.com."
+}

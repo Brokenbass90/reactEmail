@@ -1,0 +1,8 @@
+{
+    "block_00": "Có thể rút tiền khi số dư đạt $250 thay vì $500",
+    "block_01": "Hạn mức rút tiền tối thiểu mới cho các đồng tiền ổn định",
+    "block_02": "<b class=\"block_02_00\">Xin chào [%first_name%],</b>",
+    "block_03": "Để thuận tiện hơn cho bạn, chúng tôi đã <b class=\"block_03_00\">giảm mức tiền rút tối thiểu đối với cặp USDT/USDC xuống còn $250</b> (so với mức tối thiểu cũ là $500).",
+    "block_04": "Nếu muốn nhận thanh toán định kỳ vào ví tiền điện tử, hãy thiết lập phương thức thanh toán Tether hoặc USDC trong khu vực Cá nhân của bạn.",
+    "block_05": "Chuyển đến phần cài đặt thanh toán"
+}

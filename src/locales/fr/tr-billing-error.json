@@ -1,0 +1,17 @@
+{
+	"block_00": "Erreur de facturation: votre paiement a été refusé",
+	"block_01": "Il semble que nous ne puissions pas traiter votre paiement. Il y a différentes raisons aux erreurs de facturation. Vous trouverez ci-dessous les plus courants:",
+	"block_02": "<b class=\"block_02_0\">Insuffisance des fonds de votre compte bancaire</b>. Vérifiez si vous avez correctement calculé le montant en USD dans votre devise. Nous vous recommandons d’avoir un peu plus d’argent sur votre compte que vous n’avez besoin, au cas où.",
+	"block_03": "<b class=\"block_03_0\">Transaction non autorisée</b>. Contactez votre banque pour savoir si les transactions 3D sécurisées sont activées.",
+	"block_04": "<b class=\"block_04_0\">Les informations de paiement étaient incorrectes</b>. Vérifiez si vous avez entré correctement les détails du paiement.",
+	"block_05": "<b class=\"block_05_0\">Le délai de paiement a expiré</b>. Réessayez le paiement et entrez le code 3D en temps voulu.",
+	"block_06": "<b class=\"block_06_0\">Le paiement a été refusé par la banque</b>. Contactez votre banque pour connaître la raison et la corriger.",
+	"block_07": "<b class=\"block_07_0\">Votre compte a des limites de retrait</b> pour les transactions Internet. Utilisez un autre mode de paiement pour les contourner.",
+	"block_08": "Vérifiez si votre compte bancaire et vos coordonnées de paiement sont en ordre, ou essayez une autre méthode de paiement.",
+	"block_09": "Réessayez",
+	"block_10": "Plusieurs méthodes de dépôt disponibles",
+	"block_11": "La plupart des traders préfèrent les modes de paiement suivants:",
+	"block_12": "Déposez maintenant",
+	"block_13": "Si vous avez des questions, vous pouvez nous contacter à",
+	"block_14": "support@iqoption.com"
+}

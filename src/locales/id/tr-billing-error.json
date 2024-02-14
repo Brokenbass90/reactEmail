@@ -1,0 +1,17 @@
+{
+	"block_00": "Kesalahan Tagihan: Pembayaran Anda ditolak",
+	"block_01": "Sepertinya kami tidak dapat memproses pembayaran Anda. Ada beberapa alasan terjadinya kesalahan tagihan. Berikut adalah alasan yang paling umum:",
+	"block_02": "<b class=\"block_02_0\">Dana pada rekening bank Anda tidak mencukupi</b>. Periksa apakah Anda telah menghitung jumlah USD dalam mata uang Anda dengan benar. Kami sarankan ada kelebihan uang dalam rekening Anda untuk berjaga-jaga.",
+	"block_03": "<b class=\"block_03_0\">Transaksi tidak sah</b>. Hubungi bank Anda untuk memastikan jika transaksi 3D secure diaktifkan.",
+	"block_04": "<b class=\"block_04_0\">Detail pembayaran salah</b>. Periksa apakah Anda telah memasukkan detail pembayaran dengan benar.",
+	"block_05": "<b class=\"block_05_0\">Waktu pembayaran telah habis</b>. Ulangi pembayaran, dan masukkan kode 3D sebelum waktu habis.",
+	"block_06": "<b class=\"block_06_0\">Pembayaran ditolak oleh bank</b>. Hubungi bank untuk mengetahui alasannya serta bagaimana menyelesaikannya.",
+	"block_07": "<b class=\"block_07_0\">Rekening Anda memiliki batas penarikan</b> untuk transaksi internet. Gunakan metode pembayaran lain untuk mengatasinya.",
+	"block_08": "Periksa apakah rekening bank dan detail pembayaran Anda sudah benar, atau coba metode pembayaran lain.",
+	"block_09": "Coba lagi",
+	"block_10": "Tersedia banyak metode pembayaran",
+	"block_11": "Kebanyakan trader memilih metode pembayaran berikut:",
+	"block_12": "Lakukan Deposit Sekarang",
+	"block_13": "Jika ada pertanyaan, hubungi kami di",
+	"block_14": "support@iqoption.com"
+}

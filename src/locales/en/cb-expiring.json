@@ -1,0 +1,16 @@
+{
+	"block_00": "Proof of Identity will expire soon",
+	"block_01": "We are contacting you as your identity document will expire in",
+	"block_02": "days.",
+	"block_03": "After the expiration date, your account will no longer be verified. As per our regulator, all proofs of identity must be updated once they expire.",
+	"block_04": "Please provide us with one of the following valid documents to ensure your account remains verified:",
+	"block_05": "Passport",
+	"block_06": "Residence permit",
+	"block_07": "Driving License",
+	"block_08": "The document must be full-page, in color, issued to your name, and valid.",
+	"block_09": "Upload Document",
+	"block_10": "We appreciate your cooperation and understanding.",
+	"block_11": "Our",
+	"block_12": "Support team",
+	"block_13": "is happy to help should you have any questions."
+}

@@ -1,0 +1,17 @@
+{
+	"block_00": "Erro de faturamento: Seu pagamento foi recusado",
+	"block_01": "Parece que não podemos processar seu pagamento. Existem diferentes motivos para erros de faturamento. Abaixo estão os mais comuns:",
+	"block_02": "<b class=\"block_02_0\">Fundos insuficientes na sua conta bancária</b>. Verifique se você calculou corretamente o valor em dólares americanos (USD) na sua moeda. Recomendamos ter um pouco mais de dinheiro em sua conta do que você precisa, apenas por precaução.",
+	"block_03": "<b class=\"block_03_0\">Transação não autorizada</b>. Entre em contato com seu banco para descobrir se as transações 3D secure estão ativadas.",
+	"block_04": "<b class=\"block_04_0\">Os detalhes do pagamento estavam incorretos</b>. Verifique se você inseriu os detalhes do pagamento corretamente.",
+	"block_05": "<b class=\"block_05_0\">O tempo do pagamento acabou</b>. Tente efetuar o pagamento novamente e insira o código 3D em tempo hábil.",
+	"block_06": "<b class=\"block_06_0\">O pagamento foi recusado pelo banco</b>. Entre em contato com seu banco para saber o motivo e corrigi-lo.",
+	"block_07": "<b class=\"block_07_0\">Sua conta tem limites de retirada</b> para transações feitas por meio da Internet. Use outro método de pagamento para contornar esses limites.",
+	"block_08": "Verifique se a sua conta bancária e detalhes de pagamento estão em ordem ou tente outro método de pagamento.",
+	"block_09": "Tente novamente",
+	"block_10": "Muitos métodos de depósito disponíveis",
+	"block_11": "A maioria dos traders prefere os seguintes métodos de pagamento:",
+	"block_12": "Deposite agora",
+	"block_13": "Caso você tenha alguma dúvida, entre em contato conosco por meio do e-mail",
+	"block_14": "support@iqoption.com"
+}

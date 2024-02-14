@@ -1,0 +1,20 @@
+{
+	"block_00": "Åtgärd krävs för ditt kontosaldo",
+	"block_01": "Bästa trader,",
+	"block_02": "Svara på det här e-postmeddelandet för att ta emot ditt återstående saldo vid stängningen av ditt handelskonto (nedan kallat \"Handelskonto\").",
+	"block_03": "Du har pengar på ditt saldo som inte har tagits ut och vi har kvar dem åt dig; Vi har vidtagit alla rimliga åtgärder för att nå dig och skickat dig flera meddelanden om stängningen av ditt handelskonto. Ännu har inga åtgärder vidtagits för att ta ut dina pengar.",
+	"block_04": "På grund av detta och eftersom vi inte har någon avtalsenlig förpliktelse och/eller något förhållande är vi inte skyldiga att hålla kvar dina pengar (dvs. avtalet har avslutats vid stängningen av ditt handelskonto). Av denna anledning och eftersom vi inte är skyldiga att hålla dina pengar åt dig, om du inte begär dina pengar inom 30 kalenderdagar efter detta meddelande@@ kommer följande avgifter att tillämpas:",
+	"block_05": "En <b class=\"block_05_0\"> engångsavgift på högst 50 EUR</b> eller ditt återstående saldo (om lägre än 50 EUR) den 30e dagen efter att det här meddelandet skickades;",
+	"block_06": "Följt av en <b class=\"block_06_0\">kvartalsavgift på högst 6% per år</b> av ditt återstående saldo eller EUR 10.",
+	"block_07": "För att begära dina pengar måste du svara på det här e-postmeddelandet genom din registrerade e-postadress (länkad till ditt handelskonto) och <b class=\"block_07_0\">skicka in en begäran om återbetalning av dina pengar</b> genom att tillhandahålla oss följande bankuppgifter:",
+	"block_08": "Namn och efternamn;",
+	"block_09": "IBAN-nummer;",
+	"block_10": "Swift-nummer;",
+	"block_11": "Bankens land.",
+	"block_12": "Var även medveten om att transaktionen kan bli föremål för avgifter från din bank. Dessutom är betalningar i USD föremål för en schablonavgift på 35 USD och därför rekommenderar vi att du tillhandahåller oss bankuppgifter för ett konto i EUR/GBP för att undvika en sådan avgift.",
+	"block_13": "Om du har några frågor hjälper vårt",
+	"block_14": "Supportteam",
+	"block_15": "gärna till.",
+	"block_16": "Gå till IQOption",
+	"block_17": "Vi uppskattar att du väljer vår plattform och ber om ursäkt för eventuella besvär."
+}

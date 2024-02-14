@@ -1,0 +1,17 @@
+{
+    "block_00": "Retrait traité avec succès",
+    "block_01": "Votre demande de retrait",
+    "block_02": "op_id",
+    "block_03": "a été traitée avec succès et un total de",
+    "block_04": "amount",
+    "block_05": "currency",
+    "block_06": "a été retiré de votre compte",
+    "block_07": "embedded.brand_name",
+    "block_08": ". Veuillez attendre la réception de vos fonds comme indiqué dans votre demande de retrait.",
+    "block_09": "Merci d'avoir tradé avec",
+    "block_10": "embedded.brand_name",
+    "block_11": "!",
+    "block_12": "Aller à la plateforme",
+    "block_13": "Conditions générales",
+    "block_14": "Se désabonner"
+}

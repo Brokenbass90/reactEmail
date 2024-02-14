@@ -1,0 +1,30 @@
+{
+"title":"IQ Option for Android",
+"title-1":"REINVENTED",
+ "subtitle":"We’re excited to reveal the NEW IQ Option app for Android offering <br class='hide-for-small' /> Forex and Cryptocurrency trading!",
+  "sec-title":"Trade currencies, Bitcoins and Ethereum",
+  "sec-subtitle":"FREE OF COMMISSION",
+  "cta":"Download App Now",
+  "block-1":{
+    "title":"IQ Forex",
+    "item-1":"Negative balance protection",
+    "item-2":"Investment multipliers",
+    "item-3":"Auto-close options",
+    "item-4":"Small spreads"
+  },
+  "block-2":{
+    "title":"IQ Cryptocurrencies",
+    "item-1":"Hottest commodity of 2017",
+    "item-2":"Bitcoins, Ethereum, Litecoin",
+    "item-3":"One-click transactions",
+    "item-4":"Minimum investment - $1"
+  },
+  "block-3":{
+    "title":"IQ CFDs",
+    "text":"Trade on the price changes of the world’s top-performing stocks for a fraction of the asset’s price."
+  },
+  "note-1":"If you’ve already had the previous version of our App, simply use your existing credentials to log in.",
+  "note-2":"As it is an online trading application, please be reminded<br class='hide-for-small' /> that a network connection is required.",
+  "asterisk":"Terms of Service apply"
+}
+

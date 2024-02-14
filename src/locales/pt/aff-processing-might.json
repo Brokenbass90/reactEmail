@@ -1,0 +1,9 @@
+{
+    "block_00": "O processamento pode levar até 7 dias úteis",
+    "block_01": "Atraso temporário nas transferências bancárias locais",
+    "block_02": "<b class=\"block_02_00\">Olá [%first_name%],</b>",
+    "block_03": "Gostaríamos de informar que as transferências bancárias locais estão sendo processadas </br>com atraso por motivos além do nosso controle. Estamos trabalhando para aumentar a </br>velocidade da transação. Até lá, esteja ciente de que pode levar <b class=\"block_03_00\">até 7 dias</b> para as</br> transações serem processadas.",
+    "block_04": "Se a transferência bancária local estiver definida como seu método de pagamento, talvez </br>você esteja interessado em alterá-la temporariamente para uma alternativa.",
+    "block_05": "Alterar método de pagamento",
+    "block_06": "Pedimos desculpas pelo inconveniente. Agradecemos a sua compreensão!"
+}

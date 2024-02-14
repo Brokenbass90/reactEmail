@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Selamat datang!",
+    "subtitle": "Akun HODLY Anda hampir siap.",
+    "text-1": "Kami hanya perlu memverifikasi alamat email Anda dan Anda siap melanjutkan.",
+    "cta": "Verifikasi alamat email"
+  },
+  "password": {
+    "title": "Halo!",
+    "subtitle": "Seseorang telah meminta untuk memulihkan kata sandi akun HODLY Anda.",
+    "text-1": "Jika itu memang Anda, Anda dapat mengatur kata sandi baru dengan mengeklik tombol di bawah:",
+    "cta": "Atur kata sandi baru",
+    "text-2": "Jika Anda tidak ingin mengubah kata sandi atau tidak memintanya, abaikan dan hapus pesan ini.",
+    "orange": "Semoga hari Anda menyenangkan!"
+  },
+  "email": {
+    "title": "Halo!",
+    "subtitle": "Anda atau orang lain telah meminta untuk mengubah alamat email untuk akun HODLY Anda.",
+    "text-1": "Untuk mengubah alamat email, klik di bawah",
+    "cta": "Ubah email",
+    "text-2": "Jika Anda tidak ingin mengubah alamat email atau tidak memintanya, abaikan dan hapus pesan ini.",
+    "orange": "Semoga hari Anda menyenangkan!"
+  },
+  "auto": "Email ini dibuat dan dikirim secara otomatis dan tidak perlu dibalas."
+}

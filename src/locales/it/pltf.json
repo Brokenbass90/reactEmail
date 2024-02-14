@@ -1,0 +1,22 @@
+{
+  "head": {
+    "ttl-1": "Trading senza interruzione",
+    "ttl-2": "su qualsiasi dispositivo",
+    "mass-1": "Con IQ Option non sei vincolato alla",
+    "mass-2": "versione browser della piattaforma.",
+    "last": "Esplora le nostre applicazioni per trovare quelle che meglio si adattano al tuo stile di vita e necessità di trading."
+  },
+  "mobile": {
+    "head": "IQ Option Applicazione Mobile ",
+    "review": "Per dispositivi iOS e Android",
+    "text": "Migliore applicazione di trading in 28 Paesi! Senti il potere del mercato finanziario sul palmo della tua mano. "
+  },
+  "desk": {
+    "head": "IQ Option Applicazione Desktop",
+    "review": "per OS X e Windows OS",
+    "text": "L’applicazione standalone funzione anche più velocemente! Le ottime prestazioni IQ Option 4.0 a cui sei abituato – senza l’ingombro del browser web. "
+  },
+  "bott": {
+    "text": "Che tu preferisca il trading su widescreen oppure la flessibilità dei dispositivi mobili – IQ Option ha la soluzione per te."
+  }
+}

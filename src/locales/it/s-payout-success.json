@@ -1,0 +1,16 @@
+{
+	"block_00": "Richiesta di prelievo elaborata con successo",
+	"block_01": "Ciao",
+	"block_02": "NOME_COMPLETO_UTENTE",
+	"block_03": ",",
+	"block_04": "La tua richiesta di prelievo",
+	"block_05": "id_op",
+	"block_06": "è stata elaborata con successo e un importo totale di",
+	"block_07": "amount",
+	"block_08": "valuta",
+	"block_09": "è stato prelevato dal tuo account IQ Option. I tuoi fondi saranno consegnati come indicato nella tua richiesta di prelievo.",
+	"block_10": "Se hai domande, puoi contattarci a",
+	"block_11": "support@iqoption.com",
+	"block_12": ".",
+	"block_13": "Termini e condizioni"
+}

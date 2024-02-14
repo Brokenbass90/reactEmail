@@ -1,0 +1,20 @@
+{
+	"block_00": "Notification concernant votre solde non réclamé",
+	"block_01": "Notification concernant votre solde non réclamé",
+	"block_02": "Cher Monsieur, chère Madame,",
+	"block_03": "Veuillez noter que suite à la fermeture de votre compte de trading auprès de la Société, il a été établi que <b class=\"block_03_0\">votre compte de trading a un solde non réclamé à ce jour</b>, c'est-à-dire qu'aucune mesure n'a été prise pour réclamer vos fonds.",
+	"block_04": "Il vous est fortement recommandé de contacter immédiatement la Société et de réclamer ce solde restant en nous envoyant un e-mail à",
+	"block_05": "support@iqoption.com",
+	"block_06": "en utilisant votre adresse e-mail enregistrée associée à votre compte de trading. De plus, afin que la Société vous renvoie votre solde, nous vous demandons de bien vouloir nous fournir les coordonnées bancaires suivantes:",
+	"block_07": "Nom et nom de famille",
+	"block_08": "Numéro IBAN",
+	"block_09": "Numéro SWIFT",
+	"block_10": "Pays de la banque",
+	"block_11": "Enfin, veuillez noter que la transaction peut être soumise à des frais. En outre, les paiements en USD sont soumis à <b class=\"block_11_0\">des frais fixes de 35 USD</b> et, par conséquent, il est recommandé de fournir à la Société les coordonnées bancaires d'un compte en EUR / GBP afin d'éviter de tels frais; le solde restant en USD sera converti en EUR / GBP en conséquence lors du paiement correspondant.",
+	"block_12": "Il convient de noter que si vous ne parvenez pas à réclamer vos fonds avant la fin <b class=\"block_12_0\">du mois suivant</b> (c'est-à-dire fin décembre 2020), les frais suivants seront appliqués par la société:",
+	"block_13": "Frais mensuels de 1% de votre solde non réclamé (minimum 5 EUR)",
+	"block_14": "Si vous avez déjà contacté la société au sujet du paiement de votre solde non réclamé et/ou si vous avez déjà reçu votre solde, veuillez ignorer le présent e-mail.",
+	"block_15": "Si vous avez des questions ou avez besoin de plus amples informations, n'hésitez pas à nous contacter par e-mail à",
+	"block_16": "support@iqoption.com.",
+	"block_17": "Accéder à IQ Option"
+}

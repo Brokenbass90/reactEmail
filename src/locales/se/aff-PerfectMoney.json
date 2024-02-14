@@ -1,0 +1,12 @@
+{
+	"block_00": "Nya tillgängliga betalningsalternativ",
+	"block_01": "<b class=\"block_01_0\">Hej [%first_name%]!</b>",
+	"block_02": "Efter stor efterfrågan har vi lagt till två nya betalningsmetoder: <b class=\"block_02_0\">AdvCash och Perfect Money.</b> Välj den som passar dina behov bäst!",
+	"block_03": "Med AdvCash kan du ta emot betalningar runtom i världen med låga/inga transaktionsavgifter. Flera fiatvalutor, kryptovalutor, stablecoins, plast- och virtuella förbetalda kort stöds.",
+	"block_04": "Används ofta för icke-kontanta betalningar på internet. Användare kan ta emot, skicka eller ta ut pengar till PayPal över hela världen utan begränsningar. PM har en växlingstjänst som gör det möjligt att växla pengar till olika elektroniska valutor med låga priser.",
+	"block_05": "Vad du än väljer kommer du garanterat att få följande förmåner:",
+	"block_06": "✅ Ingen provision på transaktioner från vår sida.",
+	"block_07": "✅ Betalningsbehandling inom tre arbetsdagar efter dagen då förfrågan skapades.",
+	"block_08": "Med de tillagda nya alternativen har du nu tillgång till 7 populära betalningssystem för att ta emot utbetalningar:",
+	"block_09": "Ställ in betalningsmetod"
+}

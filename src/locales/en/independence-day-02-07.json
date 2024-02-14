@@ -1,0 +1,17 @@
+{
+	"block_00": "Upcoming trading schedule changes",
+	"block_01": "Dear trader,",
+	"block_02": "We would like to inform you that <b class=\"block_02_0\"> July 4th, 2021, is Independence Day in the United States.</b> Due to the holiday, IQOption’s trading schedule will be subject to changes.",
+	"block_03": "For your convenience, changes to the trading schedule are highlighted below. All times are in UTC.",
+	"block_04": "July 5, 2021",
+	"block_05": "US Stocks",
+	"block_06": "Closed",
+	"block_07": "Silver, Gold, WTI, Brent",
+	"block_08": "00:00–16:45",
+	"block_09": "Forex",
+	"block_10": "Normal hours",
+	"block_11": "<b class=\"block_11_0\">Note</b>: Binary and Digital Options markets will operate as usual. Depending on market conditions, Over-the-Counter (OTC) assets may become available for trading.",
+	"block_12": "<b class=\"block_12_0\">Note</b>: The FX Options market will open as usual, but may close early depending on market conditions.",
+	"block_13": "Should you have any questions, do not hesitate to get in touch with our",
+	"block_14": "Support team."
+}

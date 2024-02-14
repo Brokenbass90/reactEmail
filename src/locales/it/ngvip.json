@@ -1,0 +1,12 @@
+{
+  "main": {
+    "newyear": "Happy New Year from",
+    "who": "{your name} <br> {who you are} of IQ Option",
+    "managertext": "{first part of text}<br><br> And finally it dawned on me. Money! I should give you the freedom to get yourself whatever you want. So here you go - <span style='color: #ffcf55;'>my gift is already in your account</span>. Hope you like it :) <br>Happy holidays!",
+    "butt": "Unwrap my gift",
+    "newopt": "Happy New Options",
+    "mass1": "Oh! Almost forgot. There’s something exciting I’d like to share with you… ",
+    "newopp": "...And one more thing",
+    "line1": "There are 354 of us in IQ Option now. And some of our staff members are not only bright and dedicated, but gorgeous as well. We wanted to share the beauty with you, so please enjoy this <a style='color: #ffcf55; text-decoration: underline;' href=''>this complimentary desktop calendar with the ladies of IQ Option.</a>"
+  }
+}

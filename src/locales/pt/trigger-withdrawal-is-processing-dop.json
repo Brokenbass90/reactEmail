@@ -1,0 +1,13 @@
+{
+	"block_00": "Solicitação de retirada bem-sucedida",
+	"block_01": "Sua solicitação de retirada de %amount_withdrawal% foi enviada com sucesso e deve ser processada em breve.",
+	"block_02": "Já que esta é sua primeira vez, gostaríamos de destacar algumas coisas importantes para você:",
+	"block_03": "Para garantir uma retirada rápida, verifique novamente se todos os campos em sua solicitação de retirada foram preenchidos corretamente.",
+	"block_04": "Se você desejar retirar para uma carteira eletrônica, certifique-se de que sua conta foi verificada com o provedor de serviços que você escolheu para a sua retirada.",
+	"block_05": "Os traders têm acesso a 1 retirada sem comissão por mês.",
+	"block_06": "Se você desejar retirar para um cartão virtual, verifique se ele é aplicável para reembolsos. Trabalhamos com quaisquer cartões Visa, MasterCard e Maestro.",
+	"block_07": "A IQ Option processa retiradas em 3 dias úteis. Dependendo de seu banco, pode levar mais tempo para que os fundos sejam refletidos em sua conta.",
+	"block_08": "Para investigações relacionadas a retiradas para cartão bancário, solicitaremos que você nos envie um extrato bancário comprovando que o dinheiro não foi creditado. Observe que alguns bancos virtuais não podem emitir tais extratos.",
+	"block_09": "A conversão será feita de acordo com a taxa do método de pagamento selecionado.",
+	"block_10": "Agradecemos por escolher a IQ Option como sua corretora de confiança!"
+}

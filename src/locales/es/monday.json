@@ -1,0 +1,51 @@
+{
+  "top": {
+    "head": "Las mejores oportunidades de Trading de esta semana",
+    "profit": "85% profitability",
+    "butt": "TRADE ALIBABA",
+    "warn": "*NOTA: El desempeño pasado no es un indicador fiable del desempeño futuro. Las previsiones no son un indicador fiable del desempeño futuro.",
+    "big-title": "Opciones Clásicas:<br>Top 3 valores para observar",
+    "ko-title": "Top-3 Operaciones con opciones clásicas",
+    "ko-text": "¡Con las opciones clásicas la rentabilidad no tiene límites! Echa un vistazo a al Top-3 de operaciones de nuestros traders con Opciones Clásicas. <br><br>Cómo puedes ver, una sola opción puede generar hasta <span style='color: #FBAA26 !important'>+8300% de rentabilidad.</span>"
+  },
+  "card-1": {
+    "name": "Las acciones de Apple pierden puntos según los analistas de Pacific Crest",
+    "date": "24 de Mayo de 2017",
+    "analytic": "Comentario Analítico:",
+    "text": "Este domingo, la firma centrada en investigación del mercado tecnológico Pacific Crest ha bajado el status de las acciones de Apple a “sobrepeso” y ha aconsejado a sus clientes que inviertan en Alphabet en su lugar.<br><br>De acuerdo al propio Andy Hargreaves de Pacific Crest, aquellos que compren el stock rompe récords no están considerando todos los posibles riesgos, tales como los márgenes brutos, elasticidad, problemas de suministro, o la probabilidad de que las ventas desciendan más allá del iPhone 8.<br><br>Merece la pena mencionar que de los 30 analistas de mercado que cubren el valor, solo cinco (incluyendo a Hargreaves) le otorgan una puntuación de “Espera” y ninguno recomienda vender.",
+    "butt": "Invertir ahora",
+    "pre": "previous"
+  },
+  "card-2": {
+    "name": "El presidente de General Motors se enfrentará a un empuje de fondos de cobertura por parte de los inversores para dividir los valores",
+    "date": "25 de Mayo de 2017",
+    "analytic": "Comentario Analítico:",
+    "text": "Este Martes los inversores de GM darán su voto al plan de Greenlight Capital para dividir las acciones de la compañía y retar a los directores de la compañía.<br><br>La propuesta es dividir las acciones de GM en dos clases, las cuales - de acuerdo a los proponentes de Greenlight Capital - podrían impulsar la capitalización de mercado de 52$ mil millones por casi 38$ mil millones. Dado que los accionistas del fondo de cobertura echan la culpa del mal desempeño de las acciones a un liderazgo débil, también proponen una iniciativa para reemplazar a tres directores de la plantilla de GM: Jane Mendillo, Michael Mullen y Carol Stephenson.<br><br>La mayoría de los expertos del mercado no creen que el plan de acciones de Greenlight llegue a obtener frutos llegados a este punto, mientras que una revisión de la plantilla es poco probable que gane la votación ya que su composición ha sido un problema para los inversores durante décadas.",
+    "butt": "Invertir ahora",
+    "pre": "previous"
+  },
+  "card-3": {
+    "name": "El nuevo fármaco contra el cáncer de piel de Regeneron Pharmaceuticals da resultados en las pruebas",
+    "date": "25 de Mayo de 2017",
+    "analytic": "Comentario Analítico:",
+    "text": "Los datos de la Fase 1 del ensayo clínico del nuevo fármaco de Regeneron Pharmaceuticals ha mostrado sus beneficios en pacientes con carcinoma escamoso de células cutáneas avanzado (un tipo de cáncer de piel).<br><br>Los pacientes tratados con la droga de estudio mostraron una tasa de respuesta general del 46.2%, lo que se considera excepcional.<br><br>El efecto secundario más común de la medicación es la fatiga (23.1%).<br><br>Ya se están reclutando pacientes para la Fase 2 del estudio. Si la segunda etapa tiene éxito también, el fármaco seguramente se pondrá en camino para obtener rápidamente la aprobación de la FDA.",
+    "butt": "Invertir ahora",
+    "pre": "previous"
+  },
+  "feed": {
+    "title": "DEJA UN COMENTARIO",
+    "text-f": "Tenga en cuenta que se trata de una versión beta y estamos trabajando duro para eliminar todos y cada uno de los posibles errores. Estaríamos muy agradecidos si pudiera informarnos sobre cualquier problema que descubra.",
+    "butt-f": "Comentar"
+  },
+  "maybe": {
+    "head-m": "Las noticias más calientes del mercado de valores de esta semana",
+    "text1": "El pasado 5 de mayo nuestro trader Lars B. predijo que en las dos próximas semanas el precio de las acciones de Apple Inc. crecería. Esa predicción era correcta y a lo largo de los próximos 10 días su Opción Clásica “Sube” generó más de un 841% de beneficio.<br><br><i style='font-size: 13px !important;'>*Cantidad que será acreditada en la cuenta de operaciones solo en caso de que la predicción sea exitosa.</i>",
+    "text-o": "Nuestro trader Derek L. invirti&oacute; en una Opci&oacute;n Cl&aacute;sica &#39;baja&#39; de Goldman Sachs el Lunes y para el Martes de noche su posici&oacute;n &nbsp;hab&iacute;a generado un 481.4% de ganancias.",
+    "text2": "&iquest;El secreto de una rentabilidad tan elevada? Una predicci&oacute;n correcta antes de la publicaci&oacute;n de los informes de ganancias. Puedes identificar f&aacute;cilmente las compa&ntilde;&iacute;as con informes de ganancias pendientes en nuestra plataforma buscando la se&ntilde;al <img src='https://images01.iqoption.com/81/3281/static-01472608156809953281.png' style='display: inline-block; max-width: 20px; float: none !important; vertical-align: middle !important;'>&nbsp;junto a su nombre.",
+    "m-butt": "Operar con opciones clásicas",
+    "title-b": "1 predicción correcta. 841% de beneficio."
+  }
+}
+
+
+

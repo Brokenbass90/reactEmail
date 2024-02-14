@@ -1,0 +1,12 @@
+{
+	"block_00": "Hallo [%first_name%],",
+	"block_01": "Wir möchten Sie darüber informieren, dass die Liste der ausschließenden Schlüsselwörter, die in Ihren kontextbezogenen Werbekampagnen in Such-Werbediensten (wie Google Ads oder Bing Ads) enthalten sein sollen, aktualisiert wurde. Die bemerkenswerteste Änderung ist, dass zusätzlich zu den Schlüsselwörtern für IQ Option-Markennamen das Schlagwort „iq“ zur Liste hinzugefügt wurde. <b class=\"block_01_0\">Bitte aktualisieren Sie Ihre Werbekampagnen bis zum 10. Dezember 2020.</b> Eine aktualisierte Liste ausschließender Schlüsselwörter sowie eine schrittweise Anleitung zum Konfigurieren der Liste für eine Google Ads-Kampagne finden Sie im",
+	"block_02": "Bereich „Ausschließende Schlüsselwörter“",
+	"block_03": "Beachten Sie, dass neben dem korrekten Einrichten der Liste der ausschließenden Schlüsselwörter für Ihre Werbekampagne auch die folgenden Kriterien erfüllt sein müssen:",
+	"block_04": "Die Werbekampagne muss für Ihre eigene Website werben, nicht direkt für die Zielseiten von IQ Option.",
+	"block_05": "Der Domain-Name Ihrer Website darf nicht den Markennamen „IQ Option“, seine Ableitungen, Schreibfehler oder andere Namen enthalten, die mit dem Markennamen „IQ Option“ verwechselt werden können.",
+	"block_06": "Ihre Website sollte genaue und nützliche Informationen für ihre Benutzer enthalten (d. h. Maklerbewertungen oder einen Maklervergleich) und nicht den Inhalt der IQ Option-Zielseiten kopieren.",
+	"block_07": "Ausführliche Informationen zu Einschränkungen für kontextbezogene Anzeigen finden Sie in den",
+	"block_08": "FAQ",
+	"block_09": "."
+}

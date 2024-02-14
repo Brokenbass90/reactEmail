@@ -1,0 +1,16 @@
+{
+	"block_00": "Aviso de Chamada de Margem",
+	"block_01": "Caro trader,",
+	"block_02": "Gostaríamos de informar que <b class=\"block_02_0\">sua conta de negociação da IQ Option incorreu em um déficit de margem</b>. A este respeito, você não pode abrir novas posições até que as posições de margem em sua conta sejam trazidas de volta aos níveis de margem exigidos.",
+	"block_03": "Seu nível de margem atual é de",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "De acordo com os",
+	"block_07": "Termos e Condições da Empresa,",
+	"block_08": "as posições com margem abertas em sua conta serão fechadas automaticamente quando o nível de margem atingir um mínimo de",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Você pode depositar fundos em sua conta para reter as posições abertas e eliminar o déficit de margem. Para ver a quantidade de fundos necessária para restaurar sua conta para conformidade com a margem, vá para a Sala de Negociação.",
+	"block_12": "Ir para a Sala de Negociação",
+	"block_13": "Se você tiver alguma dúvida, nossa {{equipe de suporte"
+}

@@ -1,0 +1,20 @@
+{
+    "block_00": "O que é o Índice de Força Relativa (IFR)?",
+    "block_01": "Uma estratégia de negociação usando o Índice de Força Relativa (IFR) é um excelente lugar para começar quando estiver negociando Forex e no day trading. Ele possui configurações padrão de 14 períodos e níveis 70/30. A configuração do IFR afetará a frequência com que o IFR fornece sinais de sobrecompra e sobrevenda, bem como sinais de <b class=\"block_01_00\">divergência</b> para comprar e vender.",
+    "block_02": "O que significa IFR 14?",
+    "block_03": "A configuração padrão do IFR é de 14 períodos. Isso significa que o indicador é calculado usando as últimas 14 velas ou as últimas 14 barras no gráfico de preços.",
+    "block_04": "Usar um <b class=\"block_04_00\">período curto</b>, por exemplo, 5 períodos, fará com que o IFR atinja valores extremos (acima de 70 ou abaixo de 30) com mais frequência. Da mesma forma, as configurações com <b class=\"block_04_01\">períodos longos</b> verão o indicador IFR atingir acima de 70 ou abaixo de 30 com menos frequência.",
+    "block_05": "A maioria dos traders profissionais usa a abordagem não convencional de IFR 60/40 e o <b class=\"block_05_00\">conceito de mudança de intervalo</b>, um fenômeno que ocorre quando o indicador IFR muda de um intervalo predefinido para outro intervalo predefinido devido à mudança no preço da ação.",
+    "block_06": "Existem diferentes intervalos para o indicador IFR, por exemplo, em um <b class=\"block_06_00\">mercado de alta</b>, 40/80, e em um <b class=\"block_06_01\">mercado de baixa</b>, 65/30. Este conceito de mudança de intervalo pode ser aplicado em qualquer período, seja intradiário, diário, semanal etc.",
+    "block_07": "Assim, o conceito de mudança de intervalo ajuda você a entender se o mercado está em alta, em baixa ou se movendo lateralmente.",
+    "block_08": "Abrir a Sala de Negociação",
+    "block_09": "Como aplicar o IFR?",
+    "block_10": "Faça login na sua conta da CapitalBear e abra a sala de negociação",
+    "block_11": "Clique no botão Indicador, no canto inferior esquerdo do gráfico",
+    "block_12": "Selecione o Índice de Força Relativa na seção de Ímpeto (Momentum)",
+    "block_13": "Configure seu indicador e aplique-o ao gráfico",
+    "block_14": "Experimente agora",
+    "block_15": "Agradecemos a sua atenção!",
+    "block_16": "Fique atento aos e-mails para não perder as dicas de negociação.",
+    "block_17": "Comece a negociar"
+}

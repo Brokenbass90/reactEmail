@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Hallo!",
+    "success": "Sie haben sich auf der Webseite von IQ Option erfolgreich registriert.",
+    "activate": "Bitte bestätigen Sie die Registrierung, um das Konto freizuschalten.",
+    "confirm": "Die Anmeldung bestätigen",
+    "code": "Oder benutzen Sie den Aktivierungscode:"
+  },
+  "bottom": {
+    "support": "Hinweis! Dies ist ein einmaliger Link, beim Versuch den Link wieder zu benutzen, wird ein Fehler angezeigt. Bei Fragen wenden Sie sich bitte an den Support",
+    "team": "Das Team von IQ Option  wünscht Ihnen viel Erfolg im Trading!",
+    "attention": "Hinweis: Diese E-Mail wurde automatisch generiert. Bitte antworten Sie nicht auf diese E-Mail!"
+  }
+}

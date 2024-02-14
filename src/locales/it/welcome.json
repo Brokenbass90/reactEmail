@@ -1,0 +1,50 @@
+{
+  "top": {
+    "hello": "Benvenuto!",
+    "happy": "Siamo felici di darLe il benvenuto tra i traders della squadra IQ Option",
+    "text": "Vorremmo ringraziarLa da parte di ognuno dei nostri collaboratori per la fiducia mostrata. Il nostro obiettivo è quello di essere per Lei il miglior broker di opzioni binarie. Le offriamo un servizio che viene già apprezzato da tutti i clienti della nostra compagnia.",
+    "team": "La squadra IQ Option lavora 24 ore al giorno, 7 giorni alla settimana, per mantenere gli standard più elevati e soddisfare tutte le Sue aspettative!",
+    "watch": "Guardi il video <br>",
+    "watch-strong": "su come negoziare <br> sulla piattaforma"
+  },
+  "rowhead": {
+    "lider": "IQ Option è un vero leader e garante di qualità nel mondo delle opzioni binarie, e i fatti lo confermano."
+  },
+  "row_one": {
+    "text": "In ogni momento sulla piattaforma IQ Option operano più di 10 mila persone"
+  },
+  "row_two": {
+    "text": "L’apertura di una posizione sulla piattaforma IQ Option è immediata"
+  },
+  "row_three": {
+    "text": "I pagamenti mensili di IQ Option ai traders ammontano a circa 5 milioni di dollari!"
+  },
+  "row_four": {
+    "text": "IQ Option è il Miglior Broker di Opzioni Binarie in Europa (Premio «Best Binary Options Broker in Europe») per l’anno 2015 secondo Global Banking & Finance Review."
+  },
+  "cta_rowhead": {
+    "first": "Primi passi sul sito"
+  },
+  "cta_row_one": {
+    "head": "Non conoscete le opzioni binarie?",
+    "text": "Usufruite subito del miglior sistema interattivo di formazione del settore ed ottenete tutte le conoscenze indispensabili per il trading.",
+    "button": "Iniziare la formazione"
+  },
+  "cta_row_two": {
+    "head": "Volete provare investimenti reali?",
+    "text": "Già ora potete iniziare a fare trading con un deposito minimo di soli $10.",
+    "button": "Depositare"
+  },
+  "cta_row_three": {
+    "head": "Avete bisogno di un approccio personale?",
+    "text": "Effettuate un deposito maggiore di $3000 e diventate cliente VIP di IQ Option!",
+    "text-two": "Ricevendo lo status di trader premium potrete usufruire di tutti i vantaggi del nostro servizio, grazie al manager personale che vi accompagnerà passo passo e fornirà tutte le informazioni necessarie nella vostra lingua madre.",
+    "button": "Informazioni su VIP"
+  },
+  "cta": {
+    "button": "PASSARE ALLA PIATTAFORMA",
+    "question": "In caso di domande, il nostro&nbsp;",
+    "support": "servizio di supporto",
+    "help": "sarà lieto di aiutarvi."
+  }
+}

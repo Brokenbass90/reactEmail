@@ -1,0 +1,14 @@
+{
+	"block_00": "Richiesta di prelievo inviata correttamente",
+	"block_01": "La tua richiesta di prelievo di %amount_withdrawal% è stata inviata correttamente e verrà presto elaborata.",
+	"block_02": "Trattandosi del tuo primo prelievo, desideriamo ricordarti alcuni aspetti importanti da tenere a mente:",
+	"block_03": "Per assicurarti che il prelievo avvenga rapidamente, verifica attentamente che tutti i campi della richiesta siano stati compilati correttamente.",
+	"block_04": "Se desideri prelevare verso un portafoglio elettronico, assicurati che il tuo conto sia stato verificato presso il fornitore del servizio che hai selezionato.",
+	"block_05": "Tutti i trader hanno diritto a 1 prelievo senza commissioni per mese di calendario.",
+	"block_06": "Se desideri prelevare verso una carta virtuale, assicurati che siano accettati i rimborsi. Lavoriamo con carte Visa, MAstercard e Maestro.",
+	"block_07": "IQ Option elabora i prelievi entro 3 giorni lavorativi. In base alla tua banca, potrebbe essere necessario un periodo superiore per vedere i fondi accreditati sul tuo conto.",
+	"block_08": "Se hai depositato con una carta di credito/debito, dovrai richiedere un prelievo con la stessa carta per un importo uguale al tuo importo di investimento, compresi i depositi eseguiti negli ultimi 90 giorni. I fondi da prelevare saranno accreditati alla tua carta entro 21 giorni al massimo.",
+	"block_09": "Per verificare i prelievi verso una carta bancaria, possiamo chiederti un estratto conto bancario che provi il mancato accredito dei fondi. Ricorda che alcune banche virtuali non forniscono questo tipo di servizio.",
+	"block_10": "La conversione verrà eseguita al tasso del metodo di pagamento selezionato.",
+	"block_11": "Ti ringraziamo per aver scelto IQ Option come broker di fiducia!"
+}

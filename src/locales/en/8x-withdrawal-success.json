@@ -1,0 +1,17 @@
+{
+    "block_00": "Withdrawal successfully processed",
+    "block_01": "Your withdrawal request",
+    "block_02": "op_id",
+    "block_03": "has been successfully processed and a total of",
+    "block_04": "amount",
+    "block_05": "currency",
+    "block_06": "has now been withdrawn from your",
+    "block_07": "embedded.brand_name",
+    "block_08": "account. Please wait for the receipt of your funds as indicated in your withdrawal request.",
+    "block_09": "Thank you for trading with",
+    "block_10": "embedded.brand_name",
+    "block_11": "!",
+    "block_12": "Go to platform",
+    "block_13": "Terms and Conditions",
+    "block_14": "Unsubscribe"
+}

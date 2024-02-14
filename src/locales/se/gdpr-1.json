@@ -1,0 +1,18 @@
+{
+	"block_00": "Begäran om att radera dina uppgifter har mottagits",
+	"block_01": "Kära kund,",
+	"block_02": "Vi bekräftar härmed mottagandet av din begäran att <b class=\"block_02_0\">RADERA</b> ditt konto och <b class=\"block_02_1\">ALLA</b> dina personuppgifter i enlighet med dina rättigheter enligt artikel 17 i GDPR. Observera att dina personuppgifter är mycket viktiga för oss och {{embedded.brand_name}} tar dataskydd på fullt allvar.",
+	"block_03": "Vi vidtar gärna åtgärder på din begäran för att ta bort dina personuppgifter, där din begäran är giltig och i enlighet med gällande lagar och förordningar.",
+	"block_04": "Vi kommer att behandla din begäran och ge dig ett slutligt svar inom <b class=\"block_04_0\">trettio (30) arbetsdagar</b>.",
+	"block_05": "Våra system är vanligtvis konfigurerade för att följa principen om nödvändighet och minimering av data. Det innebär att {{embedded.brand_name}} inte behandlar några personuppgifter från dig som inte är absolut nödvändiga för att tillhandahålla våra tjänster till dig.",
+	"block_06": "<b class=\"block_06_0\">Om du vill avbryta din begäran kan du göra det på vår webbplats under tiden din begäran behandlas. Behandlingen av din begäran kan ta från </b>1 till 30 arbetsdagar@@ beroende på antal förfrågningar som för närvarande behandlas av våra system.",
+	"block_07": "Effekter av att avbryta din begäran om radering:",
+	"block_08": "Ditt konto kommer inte att raderas;",
+	"block_09": "Du kommer att kunna komma åt ditt konto, handla och använda {{embedded.brand_name}}-tjänster; och",
+	"block_10": "Dina personuppgifter kommer inte att raderas.",
+	"block_11": "Utöver ovanstående informerar vi härmed att du får begränsad tillgång till ditt konto och endast kommer att kunna skicka in en uttagsbegäran i enlighet med uttags- och återbetalningspolicyn för uttag av ditt tillgängliga saldo (om sådant finns) (<b class=\"block_11_0\">Återstående saldo</b>).",
+	"block_12": "Efter att 14 dagar har fortlöpt från dagen härav kommer ditt konto att blockeras fullständig, du kommer inte ha några åtkomsträttigheter till det och äganderätten till <b class=\"block_12_0\">Resterande saldot kommer att överföras till företaget</b>.",
+	"block_13": "Med vänliga hälsningar, {{embedded.brand_name}}-teamet",
+	"block_14": "Om du har några frågor kan du kontakta oss på",
+	"block_15": "support@iqoption.com"
+}

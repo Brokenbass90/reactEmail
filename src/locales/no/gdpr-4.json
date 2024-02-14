@@ -1,0 +1,11 @@
+{
+	"block_00": "Data er klare for nedlasting",
+	"block_01": "Kjære kunde,",
+	"block_02": "Takk for din forespørsel om å gi deg en maskinlesbar kopi av dine personlige data under Artikkel 20 av GDPR.",
+	"block_03": "Filen du har forespurt inneholder din {{embedded.brand_name}} <b class=\"block_03_0\">data er nå klare for nedlasting. Vennligst finn den vedlagt</b>.",
+	"block_04": "Fordi filen kan inneholde privat informasjon, sp bør du holde den sikker og ta forhåndsregler når du lagrer eller sender den, eller når du laster den opp til en annen tjeneste.",
+	"block_05": "Med vennlig hilsen, {{embedded.brand_name}}-teamet",
+	"block_06": "Dersom du har flere spørsmål, vennligst la oss få vite det på e-post:",
+	"block_07": "support@iqoption.com",
+	"block_08": "og vi vil gi deg mer informasjon."
+}

@@ -1,0 +1,26 @@
+{
+  "top": {
+    "build": "Build an IQ Robot",
+    "3000": "and win up to $3000",
+    "text": "IQ Option will reward the skillful trader who builds",
+    "link": "the Best Trading Robot",
+    "text-nps": "Interested in building robots for profit? Great!",
+    "link-nps": "Tells us how",
+    "text-nps-long": "to make cooperation with IQ Robots appealing to you."
+  },
+  "cent": {
+    "1-place": "1st place",
+    "2-place": "2nd place",
+    "3-place": "3rd place"
+  },
+  "resp": {
+    "1-text": "Only holders of real accounts can take part in the tournament",
+    "2-text": "Winners are determined based on cumulative profit of all of the robot’s subscribers"
+  },
+  "cta": {
+    "butt": "Participate",
+    "text": "For the full list of Terms and Conditions please refer to the",
+    "link": "IQ Robots Tournament page",
+    "opros": "https://docs.google.com/forms/d/1_jN6xyTsyKcqK8ePCfx7-sdPao_wITFf_nWTBEZICq8/edit?usp=sharing"
+  }
+}

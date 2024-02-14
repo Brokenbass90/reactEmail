@@ -1,0 +1,14 @@
+{
+  "main": {
+    "head-o": "Sapevi di poter avere indietro",
+    "head": "il tuo investimento?",
+    "top-text": "La funzione “Vendere Opzioni Prima della Scadenza” ti permette di gestire i rischi e riavere il tuo investimento in caso di previsione errata.",
+    "title": "Ecco come funziona",
+    "one": "Puoi cancellare un’operazione nell’arco di 3 secondi oppure rivendere l’opzione alle condizioni offerte. Se cancelli l’investimento entro i primi 3 secondi dall’acquisto dell’opzione, riceverai indietro sul bilancio l’importo totale di investimento. Istantaneamente.  ",
+    "two": "Se il prezzo dell’asset si sta muovendo nella direzione “sbagliata”, il sistema ti offrirà la possibilità di limitare le perdite chiudendo l’affare prima della scadenza. Il prezzo di vendita viene calcolato automaticamente. La formula tiene in considerazione volatilità storica, deviazione del prezzo attuale dal tasso della quotazione nel momento di acquisto e il tempo rimasto alla scadenza.",
+    "row": "La vendita anticipata di opzioni è disponibile sulla piattaforma web e mobile, ma non è applicabile al trading OTC.",
+    "pre-cta": "Prova questa funzione senza rischi sul tuo account di allenamento!",
+    "butt": "Andare a IQ option",
+    "last": ""
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"block_00": "Hesap Bakiyenizle ilgili eylem gerekiyor",
+	"block_01": "Sayın işlemci,",
+	"block_02": "İşlem hesabınızın (bundan sonra “İşlem Hesabı” olarak anılacaktır) kapatılması sonrasında kalan bakiyenizi almak için lütfen bu e-postayı yanıtlayın.",
+	"block_03": "Hesabınızda talep edilmemiş olarak bekleyen para var ve bu parayı sizin adınıza saklıyoruz; size ulaşmak için tüm makul adımları attık ve İşlem Hesabınızın kapatılmasına ilişkin çeşitli bildirimler gönderdik. Buna karşın paranızı talep etmek üzere herhangi bir eylemde bulunmadınız.",
+	"block_04": "Sonuç olarak ve sözleşmeye dayalı bir yükümlülük ve/veya ilişki bulunmadığından, paranızı saklamakla yükümlü değiliz (başka bir ifadeyle, İşlem Hesabınızın kapatılmasıyla birlikte Sözleşme de sona ermiştir). Bu nedenle ve paranızı sizin adınıza tutmak zorunda olmadığımızdan, <b class=\"block_04_0\">bu bildirimi müteakip 30 takvim günü içinde</b> paranızı talep etmediğiniz takdirde aşağıdaki masraflar alınacaktır:",
+	"block_05": "<b class=\"block_05_0\">Maksimum 50 EUR tutarında bir tek seferlik ücret</b> veya (50 EUR tutarının altındaysa) mevcut bildirimin gönderilmesinden itibaren 30. gündeki kalan bakiye;",
+	"block_06": "Ardından kalan bakiyenizden <b class=\"block_06_0\">her yıl maksimum %6 olmak üzere üç aylık bir ücret</b> veya 10 EUR.",
+	"block_07": "Paranızı talep etmek için, lütfen kayıtlı e-posta adresiniz (işlem hesabınıza bağlı) aracılığıyla bu e-postayı yanıtlayın ve bize aşağıdaki banka bilgileri sunarak <b class=\"block_07_0\">paranızın iadesi için istek gönderin</b>:",
+	"block_08": "Ad ve soyad;",
+	"block_09": "IBAN numarası;",
+	"block_10": "Swift kodu;",
+	"block_11": "Bankanın bulunduğu ülke.",
+	"block_12": "Son olarak, lütfen bankanızın bu işlem için ücret uygulayabileceğini göz önünde bulundurun. Ek olarak, USD cinsindeki ödemeler 35 USD sabit ücrete tabidir ve bu nedenle, söz konusu ücretten kaçınmak için EUR/GBP cinsinden bir hesaba ait banka bilgilerini vermenizi tavsiye ederiz.",
+	"block_13": "Herhangi bir sorunuz olursa,",
+	"block_14": "Destek ekibimiz",
+	"block_15": "size yardımcı olmaktan memnuniyet duyacaktır.",
+	"block_16": "IQ Option'a Git",
+	"block_17": "Platformumuzu tercih ettiğiniz için size minnettarız ve her türlü rahatsızlıktan dolayı özür dileriz."
+}

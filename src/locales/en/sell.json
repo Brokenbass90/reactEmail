@@ -1,0 +1,14 @@
+{
+  "main": {
+    "head-o": "This function allows you to get",
+    "head": "your investment back",
+    "top-text": "The price The “Selling Options Before Expiration” feature lets you get your money back in case of a wrong prediction.",
+    "title": "General Terms:",
+    "one": "You can cancel a trade within the first 3 seconds or to sell the option back on the conditions offered. If you cancel the deal within the first 3 seconds after buying the option, you get all of your money back. Instantly.",
+    "two": "If the price is moving in the “wrong” direction, the system will offer you to cut your losses by closing the deal before it expires. The selling price is calculated automatically based on price history, time of purchase and time left untill the expiration.",
+    "row": "You can use this feature both on web and mobile platforms, but not for OTC trading.",
+    "pre-cta": "Try this feature risk-free on your practice account!",
+    "butt": "Go to IQ option",
+    "last": "The price went in the wrong direction? No problem! Just sell the option back to us and secure your capital."
+  }
+}

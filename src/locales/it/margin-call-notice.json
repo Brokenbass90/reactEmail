@@ -1,0 +1,18 @@
+{
+	"block_00": "Notifica di chiamata di margine",
+	"block_01": "Gentile trader,",
+	"block_02": "Con questa email desideriamo informarti che <b class=\"block_02_0\">il tuo conto di trading IQ Option non dispone di un margine sufficiente</b>. A causa di ciò, non potrai aprire nuove posizioni finché le posizioni con margine relative al tuo conto non saranno portate nuovamente al livello di margine richiesto.",
+	"block_03": "Il tuo attuale livello di margine è",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "Secondo quanto previsto dai",
+	"block_07": "Termini e condizioni",
+	"block_08": "della Società, le posizioni con margine aperte sul tuo conto si chiuderanno automaticamente quando il livello del margine raggiungerà una soglia minima di",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Puoi depositare dei fondi sul tuo conto per mantenere aperte le tue posizioni e riportare il margine a un livello sufficiente. Per visualizzare l'importo richiesto per riportare il tuo conto alla conformità, vai alla traderoom.",
+	"block_12": "Vai alla traderoom",
+	"block_13": "Se hai delle domande, il nostro",
+	"block_14": "team del Supporto",
+	"block_15": "sarà lieto di aiutarti."
+}

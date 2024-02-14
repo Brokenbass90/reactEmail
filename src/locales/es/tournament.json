@@ -1,0 +1,28 @@
+{
+  "top": {
+    "pic": "https://images01.iqoption.com/33/2833/static-04218716881873272833.png",
+    "text": "",
+    "br-text": "",
+    "name": "August Harvest Torneo"
+  },
+  "pre-cta": {
+    "enter": "El verano casi ya ha terminado.",
+    "enter-strong": "La diversión acaba de empezar.",
+    "long": "Duración:",
+    "date": "1-31 Agosto 2016",
+    "coast": "Coste de Participación / Recompra:",
+    "dollar": "$50"
+  },
+  "tournament": {
+    "orange": "!50%",
+    "about": "de sus pagos hechos durante el torneo se acumularán en el bote final!"
+  },
+  "cta": {
+    "butt": "Unirse al torneo"
+  },
+  "info": {
+    "start": "Inicio",
+    "finish": "Final",
+    "part": "Participación<br>Recompra"
+  }
+}

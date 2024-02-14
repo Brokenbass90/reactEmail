@@ -1,0 +1,20 @@
+{
+    "block_00": "Mobila uppdateringar 🔥",
+    "block_01": "Hej [%first_name%]!",
+    "block_02": "Under 2022 hade vi massor av mobila uppdateringar. Om du har letat efter nya sätt att driva trafik är det här nyhetsbrevet tecknet du har väntat på — hoppa i bara!",
+    "block_03": "<b class=\"block_03_00\">iOS-appuppdatering</b>",
+    "block_04": "Den uppdaterade IQ Broker iOS-appen har blivit tillgänglig för flera länder. Det här är den \"svarta\" IQ Broker-appen och finns tillgänglig för iOS-användare från länder där den klassiska \"orange\" IQ Option-appen inte finns tillgänglig: Mexiko, Saudiarabien, Malaysia, Chile, osv. Användare kommer automatiskt att omdirigeras till den \"svarta\" appen när de försöker ladda ner huvudappen.",
+    "block_05": "<b class=\"block_05_00\">Lite målsida</b>",
+    "block_06": "Vi har skapat den här målsidan för att öka omvandlingarna, särskilt inom områden med svag internetuppkoppling. Den nya målsidans superkraft är att den är kort (bara 2 skärmar) och tar användaren direkt till registreringen — se själv!",
+    "block_07": "Visa målsida",
+    "block_08": "<b class=\"block_08_00\">Målsida med mobil registreringsram</b>",
+    "block_09": "På den nya målsidan bestämde vi oss för att byta ut nedladdningsknappen från standardappen (som medför <i>installering</i> av omvandlingar) mot ett registreringsformulär (som ökar omvandlingar till <i>registrering</i>). Det innebär att användaren måste först registrera ett konto och sen ladda ner appen i butiken. Vårt experiment visade en väsentlig ökning i omvandlingar till registrering så tveka inte att prova på det.",
+    "block_10": "Visa målsida",
+    "block_11": "Observera att <b class=\"block_11_00\">alla registreringsramar kan nu omdirigera användare till Handelsrummet direkt från affiliate-sidan</b> (efter registrering på sidan från ramen).",
+    "block_12": "För att det ska fungera måste du lägga till några rader med kod när du klistrar in ramen på din sida. Så här gör du:",
+    "block_13": "I ramens kod lägger du till:",
+    "block_14": "sandlådeattribut för iframe-tagg",
+    "block_15": "Lägg till en parameter till sökvägen i själva ramen:",
+    "block_16": "Exempel:",
+    "block_17": "Lycka till med omvandlingarna! 🚀"
+}

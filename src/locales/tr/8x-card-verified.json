@@ -1,0 +1,10 @@
+{
+	"block_00": "Kart onayı teyidi",
+	"block_01": "Son dört rakamı olan kart için gönderilen kart kopyaları",
+	"block_02": "onaylanmıştır. Artık bu kartla para yatırabilir ve para çekebilirsiniz.",
+	"block_03": "Para yatırma ve para çekme işlemlerinde yeni bir kart kullanmak isterseniz, lütfen bu kartı doğrulama için yüklemeniz gerektiğini unutmayın.",
+	"block_04": "{{embedded.brand_name}}'i tercih ettiğiniz için teşekkür ederiz.",
+	"block_05": "Herhangi bir sorunuz olursa,",
+	"block_06": "Destek ekibimiz",
+	"block_07": "yardımcı olmaktan mutluluk duyacaktır."
+}

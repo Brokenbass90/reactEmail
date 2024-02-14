@@ -1,0 +1,22 @@
+{
+  "top": {
+    "head": "Support and Resistance Levels:<br> A trader’s best friend",
+    "text-massive": "Support and Resistance levels are an invaluable tool for a trader of any level. Learn to apply it correctly using our tips:"
+  },
+  "double": {
+    "head": "Double Up!",
+    "main-text": "To protect yourself from false signals think of support and resistance as areas rather than lines. Get a better idea about the price behaviour by putting up several S&R lines at the same time - for levels of major and minor support and resistance."
+  },
+  "sharp": {
+    "head": "Sharp = Long",
+    "main-text": "The strength with which the price breaks either of the levels determines how long a trend will last. The sharper the movement - the stronger the trend. "
+  },
+  "reversal": {
+    "head": "Mind the Reversal",
+    "main-text": "Don’t forget about the Support and Resistance Reversal. When the price goes below the support level, that level now becomes resistance. If the price passes the resistance level - you get a new support level. "
+  },
+  "cta": {
+    "cta": "We hope this information will help take your trading to the next level. Keep checking your mailbox for more tutorials from IQ Option!",
+    "butt": "Go to IQ Option"
+  }
+}

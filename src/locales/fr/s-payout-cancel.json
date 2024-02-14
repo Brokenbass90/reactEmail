@@ -1,0 +1,18 @@
+{
+	"block_00": "Demande de retrait refusée",
+	"block_01": "Bonjour",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Nous sommes désolés de vous informer que votre demande de retrait",
+	"block_05": "op_id",
+	"block_06": "pour un montant total de",
+	"block_07": "montant",
+	"block_08": "devise",
+	"block_09": "a été annulée.  Vous trouverez les détails ci-dessous.",
+	"block_10": "Raison:",
+	"block_11": "raison",
+	"block_12": "Si vous avez des questions, vous pouvez nous contacter à",
+	"block_13": "support@iqoption.com",
+	"block_14": ".",
+	"block_15": "Conditions d'utilisation"
+}

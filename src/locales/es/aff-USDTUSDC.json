@@ -1,0 +1,14 @@
+{
+    "block_00": "Descubre los pagos en stablecoin",
+    "block_01": "<b class=\"block_01_00\">Hola [%first_name%],</b>",
+    "block_02": "Nos alegra anunciar que hemos añadido 2 nuevos métodos de pago: <b class=\"block_02_00\">USDT y USDC</b>.",
+    "block_03": "¿Por qué los usuarios prefieren USDT y USDC?",
+    "block_04": "Tether (USDT) y USD Coin (USDC) son las stablecoins más populares. Pueden <b class=\"block_04_00\">cambiarse por dólares estadounidenses en un ratio 1:1</b>. Los stablecoins están vinculados a los dólares estadounidenses, lo que significa que disfrutan de los beneficios de ser una opción de pago rápida, segura y relativamente barata sin la extrema volatilidad asociada al Bitcoin y a otras divisas.",
+    "block_05": "Requisitos para pagos de USDT y USDC",
+    "block_06": "Solo disponibles para retiradas desde <b class=\"block_06_00\">saldo no europeo</b>",
+    "block_07": "Obligatoria la ",
+    "block_08": "<b class=\"block_08_00\">verificación KYC</b>",
+    "block_09": "Durante el período inicial, el monto mínimo de pago será de <b class=\"block_09_00\">$500</b>",
+    "block_10": "Para cambiar tu método de pago a USDT o USDC, dirígete a tu Área Personal y cambia tu método por defecto en los ajustes.",
+    "block_11": "Cambia tu método de pago"
+}

@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head-slim": "5 erreurs commerciales",
+    "head": "À ÉVITER",
+    "text-massive": "Ces erreurs commerciales sont extrêmement courantes, mais heureusement pour vous, tout aussi faciles à éviter"
+  },
+  "knowledge": {
+    "head": "Aucune connaissance du marché financier ",
+    "main-text": "onctionnement du marché financier. Il s’agit là d’une notion dangereuse. Être capable de lire un graphique n’est tout simplement pas suffisant lorsqu’il y a des facteurs politiques et économiques majeurs en jeu"
+  },
+  "emotion": {
+    "head": "Implication émotionnelle ",
+    "main-text": "Il est vrai que la négociation est passionnante. Cependant, il n’est pas rare pour les commerçants de perdre le contrôle après une série d’échanges gagnants ou perdants. L’implication émotionnelle ne devrait pas avoir de place dans le commerce ! Pour garder la tête froide, essayez de fixer une limite sur le nombre d’échanges par jour ou sur leur volume total."
+  },
+  "indicators": {
+    "head": "La surdépendance aux signaux et indicateurs ",
+    "main-text": "Aucun outil commercial ne peut analyser et prévoir le marché sans faille continuellement. Les indicateurs techniques et les signaux ne doivent être considérés que comme complémentaires à votre analyse et ne jamais dicter votre négociation."
+  },
+  "strategy": {
+    "head": "Mise à l’épreuve insuffisante de la stratégie ",
+    "main-text": "Si vous ne testez pas votre stratégie dans des conditions différentes, le risque d’échec sera nettement plus élevé. Il est conseillé d’utiliser un compte d’apprentissage avant d’appliquer votre stratégie à des fonds réels. "
+  },
+  "trend": {
+    "head": "Contre la tendance ",
+    "main-text": "Rappelez-vous le dicton : « La tendance est votre meilleur ami ». Même si vous voyez une tendance durer depuis un temps « anormalement » long, laissez-la. Ne prenez jamais une décision de négociation basée sur une intuition ou sur la volonté de déjouer le marché. "
+  },
+  "cta": {
+    "butt": "Aller à IQ Option"
+  }
+}

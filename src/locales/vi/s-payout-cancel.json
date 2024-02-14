@@ -1,0 +1,18 @@
+{
+	"block_00": "Yêu cầu rút tiền bị từ chối",
+	"block_01": "Xin chào",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Chúng tôi rất tiếc phải thông báo rằng yêu cầu rút tiền",
+	"block_05": "op_id",
+	"block_06": "của bạn với số tiền",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "đã bị hủy. Bạn có thể xem thông tin chi tiết bên dưới.",
+	"block_10": "Lý do:",
+	"block_11": "lý do",
+	"block_12": "Nếu có thắc mắc, vui lòng liên hệ với chúng tôi qua địa chỉ",
+	"block_13": "support@iqoption.com",
+	"block_14": ".",
+	"block_15": "Điều khoản và điều kiện"
+}

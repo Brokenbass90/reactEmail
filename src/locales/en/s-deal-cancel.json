@@ -1,0 +1,9 @@
+{
+	"block_00": "Cancellation of trade",
+	"block_01": "Dear Client,",
+	"block_02": "We have been unable to execute a trade",
+	"block_03": "deal_id",
+	"block_04": "you have recently placed, because it has not been accepted by the third-party Market Maker which the order was sent to for execution. This can happen for a number of reasons, including market conditions at the time of execution or the Market Maker’s own risk management framework.",
+	"block_05": "Subsequently and in line with the Company’s Terms and Conditions, which you deemed to have acknowledged and accepted upon becoming a client of the Company, your order was not processed  and the invested amount has been returned to your account balance.",
+	"block_06": "For further inquiries please refer to section (9) of the Terms and Conditions."
+}

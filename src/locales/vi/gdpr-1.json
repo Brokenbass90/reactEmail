@@ -1,0 +1,18 @@
+{
+	"block_00": "Đã Tiếp nhận Yêu Cầu Xóa Dữ Liệu",
+	"block_01": "Kính gửi quý Khách Hàng,",
+	"block_02": "Chúng tôi xác nhận đã nhận được yêu cầu <b class=\"block_02_0\">XÓA</b> tài khoản và <b class=\"block_02_1\">TẤT CẢ</b> dữ liệu cá nhân của bạn theo quyền người dùng được quy định tại Điều 17 của GDPR. Xin lưu ý rằng thông tin cá nhân của bạn rất quan trọng đối với chúng tôi và {{embedded.brand_name}} rất coi trọng công tác bảo vệ dữ liệu.",
+	"block_03": "Chúng tôi sẵn sàng thực hiện yêu cầu xóa dữ liệu cá nhân của bạn, theo đó yêu cầu của bạn hợp lệ và phù hợp với luật pháp và quy định hiện hành.",
+	"block_04": "Chúng tôi sẽ xử lý yêu cầu của bạn và gửi lại phản hồi cuối cùng trong vòng <b class=\"block_04_0\">ba mươi (30) ngày làm việc</b>.",
+	"block_05": "Hệ thống của chúng tôi được thiết đặt để tuân thủ các nguyên tắc cần thiết và tối thiểu hóa dữ liệu. Có nghĩa là, {{embedded.brand_name}} không xử lý bất kỳ dữ liệu cá nhân nào từ bạn, nếu không thực sự cần thiết cho hoạt động cung cấp dịch vụ của chúng tôi.",
+	"block_06": "<b class=\"block_06_0\">Nếu muốn HỦY</b> yêu cầu này, bạn có thể hủy thông qua trang web của chúng tôi trong thời gian yêu cầu của bạn đang được xử lý. Quá trình xử lý yêu cầu của bạn có thể mất từ ​​<b class=\"block_06_1\">1 đến 30 ngày làm việc</b> tùy thuộc vào khối lượng yêu cầu hiện đang được hệ thống của chúng tôi xử lý.",
+	"block_07": "Hiệu lực sau khi bạn hủy yêu cầu xóa dữ liệu:",
+	"block_08": "Tài khoản của bạn sẽ không bị xóa;",
+	"block_09": "Bạn sẽ có thể truy cập vào tài khoản của mình, giao dịch và sử dụng các dịch vụ {{embedded.brand_name}}; và",
+	"block_10": "Dữ liệu cá nhân của bạn sẽ không bị xóa.",
+	"block_11": "Như đã đề cập ở trên, chúng tôi thông báo cho bạn rằng hiện tại quyền truy cập vào tài khoản của bạn sẽ bị hạn chế, bạn chỉ có thể gửi yêu cầu rút tiền theo Chính sách Rút tiền và Hoàn tiền để rút số dư khả dụng của bạn (nếu có) (nếu có) (<b class=\"block_11_0\">Số dư còn lại trong tài khoản</b>).",
+	"block_12": "Sau 14 ngày kể từ ngày đề cập dưới đây, tài khoản của bạn sẽ bị chặn hoàn toàn, bạn sẽ mất quyền truy cập vào tài khoản và quyền sở hữu <b class=\"block_12_0\">Số dư còn lại sẽ được chuyển về Công ty</b>.",
+	"block_13": "Trân trọng, đội ngũ {{embedded.brand_name}}",
+	"block_14": "Nếu có bất kỳ câu hỏi nào, bạn có thể liên hệ với chúng tôi tại",
+	"block_15": "support@iqoption.com"
+}

@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Hälsningar!",
+    "success": "Du har registrerat dig på IQ Options webbplats. ",
+    "activate": "För att aktivera ditt konto, bekräfta din registrering. ",
+    "confirm": "Bekräfta registrering",
+    "code": "Eller använd följande aktiveringskod:"
+  },
+  "bottom": {
+    "support": "Var uppmärksam! Länken kan bara användas en gång. Om du försöker att omdirigera en andra gång kommer ett felmeddelande att visas. Om du har några frågor, vänligen kontakta vår supportavdelning på ",
+    "team": "Vi på IQ Option önskar dig en framgångsrik handel! ",
+    "attention": "Obs: detta brev genererades och skickas automatiskt och kräver inte något svar. "
+  }
+}

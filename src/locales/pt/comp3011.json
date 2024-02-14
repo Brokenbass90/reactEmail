@@ -1,0 +1,20 @@
+{
+	"block_00": "Notificação sobre seu saldo remanescente não retirado",
+	"block_01": "Notificação sobre seu saldo remanescente não retirado",
+	"block_02": "Caro(a) Sr./Sra.,",
+	"block_03": "Observe que após o encerramento de sua conta de negociação com a Empresa, foi identificado que <b class=\"block_03_0\">sua conta de negociação tem saldo que permaneceu não retirado até hoje</b>, ou seja, nenhuma ação foi tomada para reivindicar seus fundos.",
+	"block_04": "É altamente recomendável entrar em contato com a Empresa imediatamente e reivindicar o saldo remanescente, enviando-nos um e-mail para",
+	"block_05": "support@iqoption.com",
+	"block_06": "usando seu endereço de e-mail que estava vinculado à sua conta de negociação. Além disso, para que a Empresa devolva o seu saldo remanescente, pedimos que nos forneça os seguintes dados bancários:",
+	"block_07": "Nome e sobrenome",
+	"block_08": "Número do IBAN",
+	"block_09": "Número SWIFT",
+	"block_10": "País do banco",
+	"block_11": "Por último, esteja ciente de que a transação pode estar sujeita a cobranças. Além disso, os pagamentos em USD estão sujeitos a <b class=\"block_11_0\">uma taxa fixa de 35USD</b>, portanto, é recomendado fornecer à Empresa os dados bancários de uma conta em EUR/GBP para evitar tal taxa. O saldo remanescente em USD será devidamente convertido para EUR/GBP no momento do pagamento.",
+	"block_12": "Deve-se observar que, caso você não retire seus fundos até o final <b class=\"block_12_0\">do próximo mês</b> (ou seja, final de dezembro de 2020), as seguintes cobranças serão aplicadas pela Empresa:",
+	"block_13": "Taxa mensal de 1% de seu saldo remanescente não retirado (mínimo 5 EUR)",
+	"block_14": "Caso você já tenha entrado em contato com a Empresa a respeito do pagamento de seu saldo remanescente não retirado e/ou já tenha recebido o saldo remanescente, desconsidere o presente e-mail.",
+	"block_15": "Se você tiver alguma dúvida ou precisar de mais esclarecimentos, não hesite em entrar em contato conosco pelo e-mail",
+	"block_16": "support@iqoption.com.",
+	"block_17": "Ir para a IQ Option"
+}

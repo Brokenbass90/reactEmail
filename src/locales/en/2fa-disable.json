@@ -1,0 +1,15 @@
+{
+    "block_00": "Confirmation of disabling 2-Step Authentication",
+    "block_01": "Dear trader,",
+    "block_02": "To complete disabling 2-Step Authentication, use the secret code:",
+    "block_03": "code",
+    "block_04": "Please note, for security reasons, this code is only active for 5 minutes.",
+    "block_05": "You didn't send this request? Check and change the password of your",
+    "block_06": "embedded.brand_name",
+    "block_07": "account.",
+    "block_08": "Should you need a hand or have any questions, please feel free to contact our",
+    "block_09": "Support Team",
+    "block_10": ".",
+    "block_11": "Terms and Conditions",
+    "block_12": "Unsubscribe"
+}

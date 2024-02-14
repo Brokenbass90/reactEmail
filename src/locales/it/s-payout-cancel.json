@@ -1,0 +1,18 @@
+{
+	"block_00": "Richiesta di prelievo rifiutata",
+	"block_01": "Ciao",
+	"block_02": "NOME_COMPLETO_UTENTE",
+	"block_03": ",",
+	"block_04": "Siamo spiacenti di informarti che la tua richiesta di prelievo",
+	"block_05": "id_op",
+	"block_06": "per un totale di",
+	"block_07": "amount",
+	"block_08": "valuta",
+	"block_09": "è stata annullata. Puoi trovare i dettagli di seguito.",
+	"block_10": "Ragione:",
+	"block_11": "ragione",
+	"block_12": "Se hai domande, puoi contattarci a",
+	"block_13": "support@iqoption.com",
+	"block_14": ".",
+	"block_15": "Termini e condizioni"
+}

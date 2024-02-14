@@ -1,0 +1,49 @@
+{
+  "calendar":{
+    "retrack":"earnings_calendar",
+    "retrack-2":"earnings_calendar-2",
+    "cta":{
+      "text":"Ir para IQ Option",
+      "link":"#"
+    },
+    "title":"Como ler um Calendário de Rendimentos",
+    "subtitle":"Olhar para o histórico de rendimentos de uma empresa e suas previsões pode aumentar suas chances de sucesso quando negociando Opções Clássicas.  ",
+    "sec-1-title":"3 coisas que você deve considerar:",
+    "sec-3-title":"Confira o Calendário de Rendimentos na <br /> plataforma de trading IQ Option agora mesmo!",
+    "eps":"EPS",
+    "forecast":"Forecast",
+    "revenue":"Revenue",
+    "active-1":{
+      "name":"PayPal Holdings Inc",
+      "date":"Apr 26, 2017",
+      "num-1":"0.44",
+      "num-2":"0.41",
+      "color":"green",
+      "rev-num":"2.98B",
+      "time-img":"https://images01.iqoption.com/01/9601/static-04299877409986969601.png"
+    },
+    "active-2":{
+      "name":"Intel",
+      "date":"Apr 27, 2017",
+      "num-1":"0.66",
+      "num-2":"0.68",
+      "color":"red",
+      "rev-num":"14.79B",
+      "time-img":"https://images01.iqoption.com/85/8385/static-04047061317670928385.png"
+    },
+    "item-1":{
+      "title":"Hora do dia",
+      "text":"Traders novatos tendem a deixar passar um detalhe importante quando olhando para um Calendário de Rendimentos: a hora do relatório. Os relatórios de empresas públicas americanas vêm ou antes dos mercados americanos abrirem ou depois de seu fechamento."
+    },
+    "item-2":{
+      "title":"Previsão do EPS",
+      "text":"A taxa de Earnings Per Share (mais comumente conhecida como EPS) é possivelmente o mais importante indicador da vitalidade de financeira de uma empresa, então quaisquer mudanças nisso vai se refletir no preço da ação. Se os resultados financeiros publicados vierem abaixo do nível previsto, o preço tem mais probabilidade de cair. "
+    },
+    "item-3":{
+      "title":"Acompanhe o histórico",
+      "text":"Tire um tempo para pesquisar os resultados financeiros da empresa por vários trimestres anteriores. Tem algum histórico de decepções ou surpresas boas nos rendimentos? Se sim, a ação da empresa tem menos propensão a movimentos bruscos para qualquer direção, mas a tendência geral é mais óbvia."
+    }
+
+  }
+
+}

@@ -1,0 +1,16 @@
+{
+    "block_00": "La tua prova di identità è scaduta",
+    "block_01": "Gentile trader,",
+    "block_02": "Ti informiamo che il documento fornito come prova di identità è scaduto. Per evitare che il conto venga sottoposto a limitazioni, ti chiediamo gentilmente di caricare uno dei seguenti documenti sul tuo account:",
+    "block_03": "Carta di identità;",
+    "block_04": "Passaporto;",
+    "block_05": "Permesso di soggiorno;",
+    "block_06": "Patente di guida.",
+    "block_07": "Il documento <b class=\"block_07_00\">deve</b> essere a pagina intera, a colori, non sfocato, emesso a tuo nome e in corso di validità (non scaduto).",
+    "block_08": "Apprezziamo la tua collaborazione e restiamo a tua disposizione per eventuali chiarimenti.",
+    "block_09": "CARICA DOCUMENTO",
+    "block_10": "In caso di domande, il nostro",
+    "block_11": "Team di Supporto",
+    "block_12": "sarà felice di aiutarti.",
+    "block_13": "Ti ringraziamo per aver scelto la nostra società!"
+}

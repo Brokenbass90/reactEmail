@@ -1,0 +1,71 @@
+{
+  "header-img":"https://images01.iqoption.com/65/3265/static-03972043400244363265.png",
+  "header-img-2":"https://images01.iqoption.com/69/7569/static-04575659066096877569.png",
+  "title":"Esto. Lo Cambia. Todo.",
+  "text": "Pon a prueba to forma de pensar sobre el trading. Escoge un instrumento que podría ofrecerte MÁS: más control de riesgos y más rentabilidad al mismo tiempo*. ¡Escoge las Opciones Digitales hoy mismo!",
+  "subtitle":"Estamos orgullosos de revelar nuestro nuevo instrumento de trading -  <br /> <b>Las Opciones Digitales</b>.",
+  "title-2":"Oferta de Opciones Digitales",
+  "retrack":"digital_option",
+  "main-link":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "main-link-2":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "video-link":"https://vimeo.com/221904750",
+  "video-screen-src":"https://images01.iqoption.com/21/4321/static-03682310805593784321.jpg",
+  "cta-1":"¿Listo para un cambio?",
+  "cta-2":"Prueba las Opciones Digitales",
+  "list":{
+    "item-1":{
+      "title":"Rentabilidad <br> más alta*",
+      "text":"Hasta un 900%** de beneficios en caso de un cambio brusco del precio en tu favor",
+      "img":"https://images01.iqoption.com/61/8161/static-01414225184591708161.png",
+      "img-2":"https://images01.iqoption.com/85/6385/static-03462266086840336385.png"
+    },
+    "item-2":{
+      "title":"Más <br> flexibilidad*",
+      "text":"Vende la opción en cualquier momento para asegurar el beneficio",
+      "img":"https://images01.iqoption.com/45/9345/static-01395644636378169345.png",
+      "img-2":"https://images01.iqoption.com/41/9441/static-00260606600350269441.png"
+    },
+    "item-3":{
+      "title":"Menor <br> riesgo*",
+      "text":"Las opciones de precios strike variables permiten minimizar los riesgos",
+      "img":"https://images01.iqoption.com/45/8545/static-01423283609921388545.png",
+      "img-2":"https://images01.iqoption.com/97/8897/static-00930395576804048897.png"
+    }
+  },
+  "feedback":"Leave Feedback",
+  "note":"Let us know what you think of Digital Options, so we can make it perfect for you.",
+  "asterisk-1":"*Comparado con nuestra oferta corriente de Opciones Binarias.",
+  "asterisk-2":"**Cantidad acreditada solo en caso de una predicción exitosa.",
+  "b-vs-c":{
+    "main-link":"https://iqoption.com/traderoom?aff=7&afftrack=mail&retrack=binary_vs_classic",
+    "retrack":"binary_vs_classic",
+    "img-link":"https://images01.iqoption.com/85/0385/static-00882440024971280385.jpg",
+    "text-1":"<span>Las opciones Binarias y las Cl&aacute;sicas</span> son instrumentos de tradin con cualidades &uacute;nicas y debilidades. Solo cuando se tienen en cuenta esas peculiaridades se puede operar de forma efectiva con ellas.",
+    "binary":"Opciones Binarias",
+    "classic":"Opciones Clásicas",
+    "line-1":{
+      "left":"Ideales para reaccionar a cambios repentinos del precio",
+      "right":"Perfectas para predicciones a largo plazo"
+    },
+    "line-2":{
+      "left":"Tiempo de expiración más corto",
+      "right":"Tiempo de expiración más largo"
+    },
+    "line-3":{
+      "left":"<span>Rentabilidad limitada</span><br /> hasta el 92%*",
+      "right":"<span>Rentabilidad ilimitada</span> en caso de una predicción exitosa"
+
+    },
+    "line-4":{
+      "left":"Min. inversión — <span>$1</span>",
+      "right":"Min. inversión — <span>$0.01</span>"
+    },
+    "line-5":{
+      "left":"Ofrece activos de FX, índices, materias primas,  y muchas opciones basadas en valores",
+      "right":"Opciones de valores desde el Índice FTSE 500: marcas famosas a nivel mundial y líderes de la industria"
+    },
+    "text-2":"Como puedes ver, las opciones Binarias funcionan perfectamente cuando esperas picos en el precio a corto plazo, cuando sigues las publicaciones de noticias o los informes de resultados. Sin embargo, si estás invirtiendo en el crecimiento lento pero firme de una compañía, nada puede superar a las Opciones Clásicas tanto en términos de rentabilidad como de la flexibilidad con la que puedes invertir.",
+    "text-3":"¿Listo para aplicar tus nuevos conocimientos al trading?",
+    "cta":"Ir a IQ Option"
+  }
+}

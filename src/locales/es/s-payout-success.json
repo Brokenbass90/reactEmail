@@ -1,0 +1,16 @@
+{
+	"block_00": "Solicitud de retirada procesada correctamente",
+	"block_01": "Hola",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Tu solicitud de retirada",
+	"block_05": "op_id",
+	"block_06": "ha sido procesada con éxito y la cantidad total de",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "ha sido retirada de tu cuenta de IQ Option. Tus fondos serán enviados como se ha indicado en la solicitud de retirada.",
+	"block_10": "Si tienes cualquier pregunta, puedes contactar con nosotros en",
+	"block_11": "support@iqoption.com",
+	"block_12": ".",
+	"block_13": "Términos y Condiciones"
+}

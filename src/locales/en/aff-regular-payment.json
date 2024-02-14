@@ -1,0 +1,12 @@
+{
+    "block_00": "Dear <b class=\"block_00_00\">[%first_name%]</b>,",
+    "block_01": "We would like to inform you that there has been a change in our payment schedule.",
+    "block_02": "Starting from the end of February, your payments will be made:",
+    "block_03": "Within 3 business days after the <b class=\"block_03_00\">10th of each month</b>",
+    "block_04": "Within 3 business days after the <b class=\"block_04_00\">25th of each month</b>",
+    "block_05": "The next regular payment period will start on February 24th (due to a shorter month) and your payments will be created automatically and processed within <b class=\"block_05_00\">3 business days</b>, as usual.",
+    "block_06": "The schedule is changed to have a faster payment processing time, and we believe that this change will be more beneficial for you. We are committed to provide you with the best affiliate experience and we apologise for any inconvenience.",
+    "block_07": "If you have any questions, please do not hesitate to",
+    "block_08": "contact your manager.",
+    "block_09": "We are excited to continue working with you and helping you achieve even greater success!"
+}

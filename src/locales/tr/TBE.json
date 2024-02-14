@@ -1,0 +1,17 @@
+{
+	"block_00": "Faturalama Hatası: Ödemeniz reddedildi",
+	"block_01": "Ödemeniz işlenemiyor gibi görünüyor. Faturalama hatalarının farklı nedenleri vardır. En yaygın nedenler aşağıda verilmiştir:",
+	"block_02": "<b class=\"block_02_0\">Banka hesabınızdaki para yetersiz.</b> USD tutarını para biriminiz cinsinden doğru hesaplayıp hesaplamadığınızı kontrol edin. Her ihtimale karşı hesabınızda ihtiyacınızdan biraz daha fazla para bulundurmanızı tavsiye ederiz.",
+	"block_03": "<b class=\"block_03_0\">Yetkiiz işlem.</b> 3D Secure işlemlerin etkin olup olmadığını öğrenmek için bankanıza başvurun.",
+	"block_04": "<b class=\"block_04_0\">Ödeme ayrıntıları yanlış.</b> Ödeme ayrıntılarını doğru girip girmediğinize bakın.",
+	"block_05": "<b class=\"block_05_0\">Ödeme süresi dolmuş.</b> Ödemeyi yeniden deneyin ve 3D kodunu zamanında girin.",
+	"block_06": "<b class=\"block_06_0\">Ödeme banka tarafından reddedildi.</b> Bunun nedenini öğrenmek ve sorunu düzeltmek için bankanıza başvurun.",
+	"block_07": "<b class=\"block_07_0\">Banka hesabınızda işlemlerle ilgili iç sınırlamalar var.</b> Lütfen başka bir yöntem kullanın veya bankanıza başvurun.",
+	"block_08": "<b class=\"block_08_0\">Windows 7'de sertifika güncel değil.</b>",
+	"block_09": "Yönergeleri",
+	"block_10": "izleyerek yeni bir sertifika yükleyin.",
+	"block_11": "<b class=\"block_11_0\">Çin'den işlem yapıyorsanız, bir güvenlik duvarı sorunu yaşıyor olabilirsiniz.</b> Yeniden deneyin veya Alipay'i kullanın.",
+	"block_12": "Banka hesabınızın ve ödeme ayrıntılarınızın uygun olup olmadığını kontrol edin veya başka bir ödeme yöntemi deneyin.",
+	"block_13": "YENİDEN DENEYİN",
+	"block_14": "Herhangi bir sorunuz olursa, support@iqoption.com adresinden bize başvurabilirsiniz."
+}

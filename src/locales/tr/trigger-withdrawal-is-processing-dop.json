@@ -1,0 +1,14 @@
+{
+	"block_00": "Para çekme isteği başarılı",
+	"block_01": "%amount_withdrawal% tutarındaki para çekme isteğiniz başarıyla alındı ve kısa zamanda işleme konulacaktır.",
+	"block_02": "Bu ilk para çekme işleminiz olduğundan bilmeniz gereken bazı önemli konuları vurgulamak istiyoruz:",
+	"block_03": "Çekim işleminin hızlı olmasını sağlamak için para çekme isteği formundaki tüm alanların doğru şekilde doldurulduğundan emin olun.",
+	"block_04": "Bir e-cüzdana çekim yapıyorsanız, hesabınızın çekim için seçtiğiniz hizmet sağlayıcı tarafından doğrulandığından emin olun",
+	"block_05": "İşlemciler bir takvim ayı içinde 1 kez komisyonsuz çekim hakkına sahiptir.",
+	"block_06": "Bir sanal karta çekim yapıyorsanız, bu kartın para iadesine uygun olduğundan emin olun. Tüm Visa, Mastercard ve Maestro kartları kullanabilirsiniz.",
+	"block_07": "IQ Option para çekme işlemlerini 3 iş günü içinde işleme koymaktadır. Bankanıza bağlı olarak, paranızın hesabınıza geçmesi daha uzun sürebilir.",
+	"block_08": "Bir kredi/banka kartıyla para yatırdıysanız, son 90 gün içinde yapılan para yatırma işlemleri dahil, ilk yatırım tutarına eşit tutarda parayı aynı karta çekme isteğinde bulunabilirsiniz. Çektiğiniz para en fazla 21 gün içinde kartınıza aktarılır.",
+	"block_09": "Banka kartına çekimle ilgili incelemelerde, sizden paranın hesabınıza geçmediğini kanıtlayan bir banka ekstresi göndermeniz istenecektir. Bazı sanal bankaların bu tür ekstreler vermediğini unutmayın.",
+	"block_10": "Seçilen ödeme yöntemi için geçerli olan kurdan dönüşüm yapılır.",
+	"block_11": "Güvenilir brokeriniz olarak IQ Option'ı seçtiğiniz için minnettarız!"
+}

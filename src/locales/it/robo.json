@@ -1,0 +1,26 @@
+{
+  "top": {
+    "build": "Crea un IQ Robot",
+    "3000": "e vinci fino a $3000",
+    "text": "IQ Option premierà l'abile trader che creerà",
+    "link": "il Miglior Trading Robot.",
+    "text-nps": "Interessato a creare robot per guadagno? Fantastico!",
+    "link-nps": "Raccontaci come",
+    "text-nps-long": "fare cooperazione con IQ Robots adatta a te."
+  },
+  "cent": {
+    "1-place": "1 posto",
+    "2-place": "2 posto",
+    "3-place": "3 posto"
+  },
+  "resp": {
+    "1-text": "Possono partecipare solo account reali. ",
+    "2-text": "I vincitori vengono determinati in base al profitto cumulativo di tutti gli abbonati al robot"
+  },
+  "cta": {
+    "butt": "Partecipare",
+    "text": "Per l'elenco completo dei Termini e Condizioni preghiamo di fare riferimento alla",
+    "link": "pagina Torneo IQ Robots",
+    "opros": "https://docs.google.com/forms/d/1XPS4_gOMLyiEMSVj2n6wa4axZNMNvP3aDQ_T63RXs1c/edit?usp=sharing"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"block_00": "比特币存款",
+	"block_01": "一种为您的交易帐户注资的新安全方式",
+	"block_02": "立即存款",
+	"block_03": "对于所有加密爱好者，我们很高兴地宣布，<b class=\"block_03_0\">比特币存款现已在IQ Option交易平台</b>上提供。 从现在开始，您可以从持有的加密钱包中通过一次比特币转账@@为交易账户注资@。 无需四处寻找IBAN，也无需迅速进行国际交易，也无需支付高昂的银行手续费。 听起来很吸引人，不是吗？",
+	"block_04": "如何存款",
+	"block_05": "登录到您的IQ Option帐户，然后单击“存款”按钮。",
+	"block_06": "在打开的窗口中，选择比特币作为存款选项，设置您愿意存款的金额，然后继续付款。",
+	"block_07": "在下一个打开的窗口中，指定您的BTC钱包地址，如有必要，我们将在该地址进行退款。",
+	"block_08": "在下一步中，查看交易摘要，从框中复制代码，并在进行存款时将其指定为收件人地址。",
+	"block_09": "就是这样。 仅为您生成了一个快速代码，交易就完成了。 准备开始您的第一笔比特币存款了吗？",
+	"block_10": "转到 IQ OPTION",
+	"block_11": "<b class=\"block_11_0\">还没有购买任何比特币吗？</b>",
+	"block_12": "好吧，成为比特币投资者就像一到两三分一样简单：",
+	"block_13": "<b class=\"block_13_0\">在任何流行的加密货币交易所（例如Kraken，Coinbase或Bittrex）上创建并验证</b>您的帐户；",
+	"block_14": "<b class=\"block_14_0\">用法定货币为您的比特币帐户</b>注资（您会找到在特定交易所进行交易的详细说明）；",
+	"block_15": "<b class=\"block_15_0\">使用2FA保护您的帐户</b>，以免日后遭受黑客攻击。",
+	"block_16": "<b class=\"block_16_0\">Risk warning:</b> Please note that all kinds of financial operations conducted on third-party exchanges are undertaken at your own risk and responsibility. IQ Option doesn’t carry any responsibility for the legitimacy of such operations."
+}

@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head": "IQ ROBOTS",
+    "text-one": "Die welterste Plattform des automatisierten Handels mit binären Optionen",
+    "text-orange": "Nutzen Sie den exklusiven Zugang",
+    "text-two": " zu dem revolutionären Service bevor dieser für alle verfügbar sein wird.",
+    "start": "PROGRAMMIEREN SIE DEN ROBOTER IN DREI SCHRITTEN",
+    "offline": "und handeln Sie sogar offline!"
+  },
+  "first": {
+    "step": "SCHRITT #1",
+    "step-text": "Programmieren sie eigenen Roboter mit Ihrer Strategie oder folgen Sie einem anderen"
+  },
+  "second": {
+    "step": "SCHRITT #2",
+    "step-text": "Prüfen Sie, wie Ihr Roboter funktioniert anhand von den historischen Notierungen"
+  },
+  "third": {
+    "step": "SCHRITT #3",
+    "step-text": "Schalten Sie den Roboter frei, um zu sehen, wie er Gewinne macht"
+  },
+  "button": {
+    "butt": "ZU IQ ROBOTS"
+  },
+  "review": {
+    "head": "EINEN FEEDBACK ÜBER DIE PLATTFORM HINTERLASSEN",
+    "review-text": "Bitte beachten Sie, dass es nur eine Beta-Version ist und wir arbeiten daran die eventuellen Fehler zu beheben. Wir würden Ihnen sehr dankbar sein, wenn Sie uns über die entstandene Fehler mitteilen würden.",
+    "leave": "Feedback geben"
+  }
+}

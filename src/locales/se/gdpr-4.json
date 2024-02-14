@@ -1,0 +1,11 @@
+{
+	"block_00": "Uppgifter redo att laddas ner",
+	"block_01": "Kära kund,",
+	"block_02": "Tack för din förfrågan att tillhandahålla dig en maskinläsbar kopia av dina personuppgifter enligt artikel 20 i GDPR.",
+	"block_03": "Filen du har begärt som innehåller dina {{embedded.brand_name}} <b class=\"block_03_0\">-uppgifter är nu redo att laddas ner. Den bifogas här</b>.",
+	"block_04": "Eftersom filen kan innehålla privat information bör du hålla den säker och vidta försiktighetsåtgärder när du lagrar eller skickar den eller laddar upp den till en annan tjänst.",
+	"block_05": "Med vänliga hälsningar, {{embedded.brand_name}}-teamet",
+	"block_06": "Om du har ytterligare frågor kan du kontakta oss på",
+	"block_07": "support@iqoption.com",
+	"block_08": "så ger vi dig ytterligare information."
+}

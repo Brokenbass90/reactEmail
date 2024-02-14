@@ -1,0 +1,8 @@
+{
+  "title": "Limited Orders Malfunction",
+  "dear": "Dear trader,",
+  "text-1": "This message is to inform you that yesterday, February 5th, 2018, a system malfunction occurred in the trading engine and disabled the processing of limit orders activation.",
+  "text-2": "We have identified the orders that have been affected and refunded your losses to your trading account.",
+  "text-3": "The malfunction has since been fixed and appropriate precautions are being taken to prevent such errors from happening in the future.",
+  "regards": "Please accept our apologies for this inconvenience.<br>Kindest regards,<br>The IQ Option Team"
+}

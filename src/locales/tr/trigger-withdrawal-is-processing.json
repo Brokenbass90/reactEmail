@@ -1,0 +1,12 @@
+{
+	"block_00": "Birikim çekme isteği başarılı",
+	"block_01": "%amount_withdrawal%",
+	"block_02": "miktarındaki birikim çekme talebiniz",
+	"block_03": "başarıyla alındı ve en kısa zamanda işleme konacak.",
+	"block_04": "Birikiminizi ilk kez çekeceğiniz için bilmeniz gereken bazı önemli konuları sizinle paylaşmak istiyoruz:",
+	"block_05": "Birikiminizi hızla çekebilmek için birikim çekme istek formunda tüm alanların uygun şekilde doldurulduğundan emin olun.",
+	"block_06": "Bir e-cüzdana aktaracaksanız, hesabınızın çekim için seçtiğiniz hizmet sağlayıcıda doğrulandığından emin olun.",
+	"block_07": "İşlem yapan kullanıcılar bir takvim ayı içerisinde üç kez ücretsiz çekme işlemi yapabilir.",
+	"block_08": "IQ Option çekme işlemini üç iş günü içerisinde işleyecektir. Bankanıza bağlı olarak birikiminizin hesabınıza aktarılması daha uzun sürebilir.",
+	"block_09": "Güvenilir aracınız olarak IQ Option'ı seçtiğiniz için teşekkür ederiz!"
+}

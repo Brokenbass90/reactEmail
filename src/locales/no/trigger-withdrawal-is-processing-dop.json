@@ -1,0 +1,14 @@
+{
+	"block_00": "Vellykket forespørsel om uttak",
+	"block_01": "Din forespørsel om uttak på %amount_withdrawal% er vellykket innsendt og vil snart behandles.",
+	"block_02": "Siden det er ditt første uttak,, vil vi gjøre deg oppmerksom på følgende:",
+	"block_03": "For å sikre raskt uttak bør du dobbeltsjekke at alle felter for forespørsel om uttak er riktig utfylt.",
+	"block_04": "Dersom du tar det ut til en e-wallet, sørg for at kontoen er verifisert med tjenesteleverandøren du har valgt for ditt uttak.",
+	"block_05": "Tradere har tilgang til et gebyrfritt uttak per måned.",
+	"block_06": "Dersom du gjør uttak, sørg for at det kan ta imot refusjon. Vi tar ethvert Visa, Mastercard og Maestro-kort.",
+	"block_07": "IQ Option behandler uttak i løpet av tre virkedager. Avhengig av banken din, kan det ta lenger tid før midlene dine vises på kontoen.",
+	"block_08": "Dersom du har satt inn penger med et kreditt-/bankkort, må du gjøre en forespørsel om uttak med det samme kortet som du brukte til din første opprinnelige investering, inkludert innskudd som er utført de siste 90 dagene. Uttaket ditt vil bli kreditert kortet ditt innen 21 dager.",
+	"block_09": "For undersøkelser om uttak med bankkort, ber vi deg om å sende kontoutskriften som viser at pengene ikke ble kreditert. Merk at noen virtuelle banker ikke utsteder dokumenter.",
+	"block_10": "Konvertering vil skje med den valgte betalingsmetoden.",
+	"block_11": "Vi setter pris på at du velger IQ Option som din pålitelige megler!"
+}

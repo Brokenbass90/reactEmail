@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Greetings!",
+    "success": "You have successfully registered on the IQ Option website.",
+    "activate": "To activate your account, please confirm your registration.",
+    "confirm": "Confirm registration",
+    "code": "Or use the following activation code:"
+  },
+  "bottom": {
+    "support": "Caution! The link can only be used once. If you attempt to redirect a second time, an error will appear. If you have any questions, please email our support department at",
+    "team": "The IQ Option team wishes you successful trading!",
+    "attention": "Note: this letter was generated and sent automatically and does not require any response."
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"block_00": "提款请求已成功处理",
+	"block_01": "您好",
+	"block_02": "USER_FULL_NAME",
+	"block_03": "，",
+	"block_04": "您的提款请求",
+	"block_05": "op_id",
+	"block_06": "已成功处理，总金额",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "已从您的IQ Option帐户中提取。 您的资金将按照提款请求中的内容转出。",
+	"block_10": "如果您有任何疑问，可以通过以下方式与我们联系",
+	"block_11": "support@iqoption.com",
+	"block_12": "。",
+	"block_13": "条款和条件"
+}

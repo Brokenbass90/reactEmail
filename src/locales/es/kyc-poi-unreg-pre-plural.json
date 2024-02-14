@@ -1,0 +1,19 @@
+{
+	"block_00": "Tu documento de identidad expira pronto",
+	"block_01": "<b class=\"block_01_0\">El documento de identidad expira pronto</b>",
+	"block_02": "<b class=\"block_02_0\">Estimado trader,</b>",
+	"block_03": "Parece que <b class=\"block_03_0\">tu documento de identidad expirará en</b>",
+	"block_04": "<b class=\"block_04_0\">días</b>, después de lo cual tu cuenta ya no estará verificada. Por requerimiento de nuestro regulador, todas las pruebas de identidad deben ser actualizadas una vez expiran.",
+	"block_05": "<b class=\"block_05_0\">Por favor proporcionanos copias a página completa y a color de uno de los siguientes documentos válidos emitidos a tu nombre:</b>",
+	"block_06": "Carnet de Identidad;",
+	"block_07": "Pasaporte;",
+	"block_08": "Permiso de residencia;",
+	"block_09": "Permiso de conducir.",
+	"block_10": "El documento debe ser a página completa, a color, emitida a tu nombre y válido.",
+	"block_11": "<b class=\"block_11_0\">Apreciamos tu cooperación en este asunto y estamos a tu disposición.</b>",
+	"block_12": "SUBIR DOCUMENTO",
+	"block_13": "En caso de que tengas cualquier duda, nuestro",
+	"block_14": "equipo de Soporte",
+	"block_15": "estará encantado de ayudarte.",
+	"block_16": "<b class=\"block_16_0\">¡Gracias por escoger nuestra compañía!</b>"
+}

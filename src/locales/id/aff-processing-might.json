@@ -1,0 +1,9 @@
+{
+    "block_00": "Pemrosesan dapat memakan waktu hingga 7 hari",
+    "block_01": "Penundaan sementara transfer bank lokal",
+    "block_02": "<b class=\"block_02_00\">Halo [%first_name%],</b>",
+    "block_03": "Perhatikan bahwa transfer bank lokal saat ini sedang dalam proses dengan penundaan </br>karena alasan di luar kendali kami. Kami sedang berusaha meningkatkan kecepatan transaksi </br>— untuk sementara waktu, harap diperhatikan bahwa proses ini dapat memakan waktu </br><b class=\"block_03_00\">hingga 7 hari</b> .",
+    "block_04": "Jika Anda menetapkan transfer bank lokal sebagai metode pembayaran, mungkin ada baiknya </br>Anda mengubahnya untuk sementara waktu.",
+    "block_05": "Ubah metode pembayaran",
+    "block_06": "Kami mohon maaf atas ketidaknyamanan ini. Terima kasih atas pengertian Anda!"
+}

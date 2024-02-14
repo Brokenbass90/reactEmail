@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head-slim": "5 errores al operar",
+    "head": "A EVITAR",
+    "text-massive": "Estos errores al operar son extremadamente comunes, pero afortunadamente para ti - muy fáciles de evitar"
+  },
+  "knowledge": {
+    "head": "Desconocimiento de los mercados financieros",
+    "main-text": "Muchos creen estar preparados para tener éxito a pesar de no saber nada sobre cómo funciona el mercado financiero. Es un concepto peligroso. Ser capaz de leer una gráfica no es suficiente, cuando hay grandes factores políticos y económicos en juego."
+  },
+  "emotion": {
+    "head": "Implicación emocional",
+    "main-text": "Es cierto que operar es emocionante. Sin embargo, es bastante común entre los traders perder el control después de una racha ganadora o perdedora. ¡La implicación emocional no tiene lugar en el trading! Para mantener la entereza, intenta establecer un número límite de operaciones al día o un volumen total."
+  },
+  "indicators": {
+    "head": "Sobre confianza en indicadores y señales",
+    "main-text": "Ninguna herramienta de trading puede analizar y prever el mercado impecablemente en cada ocasión. Los indicadores técnicos y señales deberían ser únicamente usados como suplementarios para tus análisis y nunca dictaminar tus operaciones."
+  },
+  "strategy": {
+    "head": "No probar la estrategia lo suficiente",
+    "main-text": "Si no pruebas tu estrategia bajo diferentes condiciones, el riesgo de fallar será significativamente más alto. Es recomendable usar una cuenta de práctica antes de aplicar tu estrategia con fondos reales. "
+  },
+  "trend": {
+    "head": "Ir en contra de la tendencia",
+    "main-text": "Recuerda el dicho: “La tendencia es tu amiga”. Incluso si ves la tendencia durar un tiempo “sospechosamente” largo - déjalo estar. Nunca tomes una decisión de trading basada en una corazonada o intentes ser más listo que el mercado."
+  },
+  "cta": {
+    "butt": "Ir a IQ Option"
+  }
+}

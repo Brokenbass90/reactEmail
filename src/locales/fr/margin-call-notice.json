@@ -1,0 +1,18 @@
+{
+	"block_00": "Avis d'appel de marge",
+	"block_01": "Cher trader,",
+	"block_02": "Nous souhaitons par cet email vous informer que <b class=\"block_02_0\">votre compte de trading IQ Option a enregistré un déficit de marge</b>. À cet égard, vous ne pouvez pas ouvrir de nouvelles positions tant que les positions de marge de votre compte ne sont pas ramenées aux niveaux de marge requis.",
+	"block_03": "Votre niveau de marge actuel est",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "Selon les",
+	"block_07": "Conditions générales de l'entreprise,",
+	"block_08": "les positions de marge ouvertes dans votre compte se clôtureront automatiquement lorsque le niveau de marge atteindra un minimum de",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Vous pouvez déposer des fonds sur votre compte pour conserver les positions ouvertes afin d'éliminer le déficit de marge. Pour voir le montant des fonds requis pour rétablir la conformité de votre compte à la marge, veuillez accéder à la salle des marchés.",
+	"block_12": "Accéder à la salle des marchés",
+	"block_13": "Si vous avez des questions, notre",
+	"block_14": "équipe d'assistance",
+	"block_15": "se fera un plaisir de vous aider."
+}

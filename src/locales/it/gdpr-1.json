@@ -1,0 +1,18 @@
+{
+	"block_00": "Richiesta per la cancellazione dei dati ricevuta",
+	"block_01": "Gentile Cliente,",
+	"block_02": "Con la presente confermiamo la ricezione della tua richiesta per l'<b class=\"block_02_0\">ELIMINAZIONE</b> del tuo account e di <b class=\"block_02_1\">TUTTI</b> i tuoi dati personali in conformità con i tuoi diritti ai sensi dell'articolo 17 del GDPR. Ti ricordiamo che le tue informazioni personali sono molto importanti per noi e {{embedded.brand_name}} prende molto sul serio la protezione dei dati.",
+	"block_03": "Adotteremo volentieri azioni in seguito alla tua richiesta di cancellazione dei dati personali, laddove la tua richiesta sia valida e conforme alle leggi e ai regolamenti applicabili.",
+	"block_04": "Elaboreremo la tua richiesta e ti forniremo una risposta definitiva entro <b class=\"block_04_0\">trenta (30) giorni lavorativi</b>.",
+	"block_05": "I nostri sistemi sono generalmente configurati per aderire al principio di necessità e minimizzazione dei dati. Ciò significa che {{embedded.brand_name}} non elabora alcun dato personale dell'utente che non sia assolutamente necessario per fornire i nostri servizi all'utente.",
+	"block_06": "<b class=\"block_06_0\">Se desideri ANNULLARE</b> la tua richiesta, puoi farlo attraverso il nostro sito durante il periodo di elaborazione della richiesta. L'elaborazione della tua richiesta può richiedere da <b class=\"block_06_1\">1 a 30 giorni lavorativi</b> a seconda del volume di richieste che sono attualmente in fase di elaborazione dai nostri sistemi.",
+	"block_07": "Effetti dell'annullamento della richiesta di eliminazione:",
+	"block_08": "Il tuo account non verrà eliminato;",
+	"block_09": "Sarai in grado di accedere al tuo account, fare trading e usufruire dei servizi {{embedded.brand_name}}; e",
+	"block_10": "I tuoi dati personali non verranno eliminati.",
+	"block_11": "Ti informiamo inoltre che avrai accesso limitato al tuo account e che potrai inoltrare una richiesta di prelievo in conformità con la Politica di prelievo e rimborso per il prelievo del saldo disponibile (se presente) (<b class=\"block_11_0\">Saldo rimanente</b>).",
+	"block_12": "Alla scadenza di 14 giorni dalla data del presente documento, il tuo account verrà completamente bloccato, non avrai diritti di accesso ad esso e i diritti sul <b class=\"block_12_0\">Saldo residuo saranno trasferiti alla Società </b>.",
+	"block_13": "Cordiali saluti, il Team di {{embedded.brand_name}}",
+	"block_14": "Per eventuali domande non esitare a contattarci all'indirizzo",
+	"block_15": "support@iqoption.com"
+}

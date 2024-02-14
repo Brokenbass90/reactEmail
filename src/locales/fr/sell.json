@@ -1,0 +1,14 @@
+{
+  "main": {
+    "head-o": "Saviez-vous que vous pouvez",
+    "head": "récupérer votre investissement?",
+    "top-text": "La fonction «Options de vente avant expiration» vous permet de gérer les risques et de retourner votre investissement en cas de mauvaise prédiction.",
+    "title": "Voici comment cela fonctionne",
+    "one": "Vous pouvez annuler une opération dans les 3 premières secondes ou vendre l'option sur les conditions offertes. Si vous annulez l'opération dans les 3 premières secondes après l'achat de l'option, vous recevez le montant total de votre investissement sur votre solde. Immédiatement.",
+    "two": "Si le prix de l'actif se déplace dans la direction «fausse», le système vous permettra de réduire vos pertes en fermant l'opération avant la date d'expiration. Le prix de vente est calculé automatiquement. La formule tient compte de la volatilité historique, de l'écart du taux de cotation actuel du taux de cotation au moment de l'achat et du temps restant à expiration.",
+    "row": "Les options de vente avant expiration sont disponibles à la fois sur les plateformes Web et mobiles, mais elles ne s'appliquent pas aux transactions OTC.",
+    "pre-cta": "Essayez cette fonctionnalité sans risque sur votre compte pratique!",
+    "butt": "Aller à IQ Option",
+    "last": ""
+  }
+}

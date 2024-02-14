@@ -1,0 +1,23 @@
+{
+  "number": "920",
+  "retrack": "perfect_insight",
+  "cta": "Participate",
+  "top": {
+    "pic": "https://images01.iqoption.com/33/2433/static-04568465893524242433.png",
+    "text": "Growing prize fund",
+    "prize": "$15 000"
+  },
+  "bottom": {
+    "asterisk": "*One will get a share of the prize fund only in case of winning the tournament.",
+    "text":"80% of your payments during the tournament will go to the prize pool! All participating traders will start the tournament with a special account with a balance of 100 USD"
+  },
+  "info": {
+    "duration": "duration",
+    "participation": "participation",
+    "fee": "re-buy fee",
+    "date": "8-12",
+    "month": "may, 2017",
+    "price": "$5",
+    "center-text": "Do you have the perfect insight into the market’s future?"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "header-img":"https://images01.iqoption.com/65/3265/static-03972043400244363265.png",
+  "header-img-2":"https://images01.iqoption.com/69/7569/static-04575659066096877569.png",
+  "title":"This. Changes. Everything.",
+  "text": "Challenge the way you think about option trading. Choose an instrument that could offer you MORE: more control over risk and more profitability at the same time*. Choose Digital Options today!",
+  "subtitle":"We are proud to unveil our newest trading instrument <br /> - <b>The Digital Options</b>.",
+  "title-2":"Digital Options offer:",
+  "retrack":"digital_option",
+  "main-link":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "main-link-2":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "video-link":"https://vimeo.com/221904750",
+  "video-screen-src":"https://images01.iqoption.com/21/4321/static-03682310805593784321.jpg",
+  "cta-1":"Ready for a change?",
+  "cta-2":"Try Digital Options",
+  "list":{
+    "item-1":{
+      "title":"Higher <br /> profitability*",
+      "text":"Up to 900%** of profit  in case of sharp price  movements in your favor",
+      "img":"https://images01.iqoption.com/61/8161/static-01414225184591708161.png",
+      "img-2":"https://images01.iqoption.com/85/6385/static-03462266086840336385.png"
+    },
+    "item-2":{
+      "title":"More <br> flexibility*",
+      "text":"Sell the option at any point to secure profit",
+      "img":"https://images01.iqoption.com/45/9345/static-01395644636378169345.png",
+      "img-2":"https://images01.iqoption.com/41/9441/static-00260606600350269441.png"
+    },
+    "item-3":{
+      "title":"Lower <br> risk*",
+      "text":"Varied strike price options allow for lower risk",
+      "img":"https://images01.iqoption.com/45/8545/static-01423283609921388545.png",
+      "img-2":"https://images01.iqoption.com/97/8897/static-00930395576804048897.png"
+    }
+  },
+  "feedback":"Leave Feedback",
+  "note":"Let us know what you think of Digital Options, so we can make it perfect for you.",
+  "asterisk-1":"*Compared to our regular Binary Options offering",
+  "asterisk-2":"**Amount credited only in case of a successful prediction.",
+  "b-vs-c":{
+    "main-link":"https://iqoption.com/traderoom?aff=7&afftrack=mail&retrack=binary_vs_classic",
+    "retrack":"binary_vs_classic",
+    "img-link":"https://images01.iqoption.com/69/3569/static-00402035602062573569.jpg",
+    "text-1":"<span>Binary and Classic options</span> are trading instruments with their unique sets of strengths and weaknesses. Only when all of those peculiarities are taken into account can either be traded effectively.",
+    "binary":"Binary Options",
+    "classic":"Classic Options",
+    "line-1":{
+      "left":"Ideal for reacting to sudden price changes",
+      "right":"Perfect for long-term predictions"
+    },
+    "line-2":{
+     "left":"Shorter expiration time ",
+      "right":"Longer expiration time"
+    },
+    "line-3":{
+    "left":"<span>Limited profitability</span><br /> of up to 92%*",
+      "right":"<span>Unlimited profitability</span> in case of a successful prediction"
+
+    },
+    "line-4":{
+     "left":"Min.investment — <span>$1</span>",
+      "right":"Min.investment — <span>$0.01</span>"
+    },
+    "line-5":{
+     "left":"Offers FX-assets, indices, commodities,  and several stock-based options",
+      "right":"Stock options from the FTSE 500 Index: world-famous brands and industry leaders"
+    },
+    "text-2":"As you can see, <span>Binary options work perfectly</span> when you’re expecting a short-term price spike, following a news release or an earnings report. However, if you’re banking on a slow but steady growth from a company, <span>nothing beats Classic Options</span> both in terms of profitability and the flexibility with which you can invest.",
+    "text-3":"Ready to apply the new knowledge to trading?",
+    "cta":"Go to IQ Option"
+
+  }
+
+}

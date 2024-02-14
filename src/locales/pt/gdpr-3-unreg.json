@@ -1,0 +1,19 @@
+{
+	"block_00": "Solicitação de Exclusão de Dados",
+	"block_01": "Caro Cliente,",
+	"block_02": "Em relação ao seu pedido datado de",
+	"block_03": "DD.MM.AAAA.",
+	"block_04": "Obrigado por sua solicitação para EXCLUIR sua conta e TODOS os seus dados pessoais. Suas informações pessoais são muito importantes para nós e a {{embedded.brand_name}} leva a proteção de dados muito a sério. Nosso objetivo é oferecer os melhores serviços aos nossos clientes.",
+	"block_05": "Exclusão de Conta / Rescisão da Relação Contratual",
+	"block_06": "Com relação à sua solicitação, procedemos ao fechamento e bloqueio de sua conta a partir de",
+	"block_07": "DD.MM.AAAA",
+	"block_08": "e nossa relação contratual foi rescindida de fato imediatamente a partir desta data.",
+	"block_09": "Exclusão de Dados Pessoais",
+	"block_10": "Nossos sistemas geralmente são configurados para aderir ao princípio de necessidade e minimização de dados para que a {{embedded.brand_name}} não processe nenhum dado pessoal seu que não seja absolutamente necessário para fornecer nossos serviços a você ou para atender aos requisitos de uma lei ou regulamento ao qual somos sujeitos.",
+	"block_11": "Tendo analisado sua solicitação e nossos sistemas com seus dados pessoais, observamos que todas as informações atualmente mantidas devem ser retidas por sete anos após a rescisão de nosso relacionamento contratual, de acordo com nossa Política de Privacidade, leis contra a lavagem de dinheiro e financiamento ao terrorismo e outras leis e regulamentos aplicáveis aos quais somos sujeitos (<b class=\"block_11_0\">Regulamentos</b>). De acordo com os Regulamentos, temos uma obrigação legal de manter seus dados por no mínimo sete anos.",
+	"block_12": "Se você tiver alguma dúvida ou se acreditar que seus dados pessoais ainda estão sendo processados pela {{embedded.brand_name}} sem levar em conta o princípio da necessidade, informe-nos seguindo as etapas descritas na Política de Privacidade.",
+	"block_13": "Reservamos todos os nossos direitos e recursos.",
+	"block_14": "Atenciosamente, Equipe da {{embedded.brand_name}}",
+	"block_15": "Para quaisquer esclarecimentos e/ou qualquer outra informação de que possa precisar, não hesite em entrar em contato conosco pelo e-mail",
+	"block_16": "support@iqoption.com"
+}

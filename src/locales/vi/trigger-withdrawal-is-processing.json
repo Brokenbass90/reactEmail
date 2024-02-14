@@ -1,0 +1,12 @@
+{
+	"block_00": "Yêu cầu rút tiền thành công",
+	"block_01": "Yêu cầu rút",
+	"block_02": "%amount_withdrawal%",
+	"block_03": "của bạn đã được gửi thành công và sẽ được xử lý sớm.",
+	"block_04": "Vì đây là lần đầu tiên bạn rút tiền, chúng tôi muốn lưu ý một số điểm quan trọng bạn cần lưu tâm như sau:",
+	"block_05": "Để đảm bảo rút tiền nhanh chóng, hãy kiểm tra lại lần nữa đã điền chính xác những mục được yêu cầu trong yêu cầu rút tiền.",
+	"block_06": "Nếu bạn rút tiền về ví điện tử, hãy đảm bảo đã xác thực tài khoản của bạn với nhà cung cấp dịch vụ bạn đã chọn để rút tiền.",
+	"block_07": "Trader được phép rút tiền 3 lần không tính phí mỗi tháng dương lịch.",
+	"block_08": "IQ Option xử lý yêu cầu rút tiền trong vòng 3 ngày làm việc. Tùy thuộc vào ngân hàng của bạn, có thể mất thêm thời gian để tiền về tài khoản.",
+	"block_09": "Rất cảm ơn bạn đã chọn lựa IQ Option là broker uy tín của bạn!"
+}

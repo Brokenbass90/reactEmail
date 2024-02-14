@@ -1,0 +1,22 @@
+{
+  "top": {
+    "profit": "Special profitability* <br> on USD/JPY",
+    "butt": "Trade on US Election",
+    "date": "November 8th <strong>only</strong>",
+    "mini-head-o": "US Election Day Trading",
+    "mini-head": "What you need to know",
+    "slogan": "Can the US Election bring you a great trading opportunity? Absolutely."
+  },
+  "card-1": {
+    "head": "The Expectations",
+    "text": "Last Wednesday the dollar slumped when polls showed Trump leading Clinton. It’s a good hint to how the market might react if the exit polling data show similar results. A Clinton victory is widely seen as more favorable for the US dollar, so traders can expect a bullish trend in that case. And should Trump win, there might be a significant dip in price for the USD."
+  },
+  "card-2": {
+    "head": "The Safe Haven",
+    "text": "With just one day to go before the Election, the US dollar is getting increasingly volatile. But remember: there’s nothing the markets hate more than uncertainty. That’s why investors might be fleeting to the safe haven assets like the Japanese Yen, increasing its value against the greenback. "
+  },
+  "cta": {
+    "butt": "Trade USD/JPY",
+    "warn": "*The amount to be credited to the balance in case of successful investment. The offer is valid on November 8th from 12:00 to 21:00 GMT."
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "block_00": "Nu kan du ta ut $350 istället för $500",
+    "block_01": "Nytt minsta uttagsbelopp för stablecoins",
+    "block_02": "<b class=\"block_02_00\">Hej [%first_name%]!</b>",
+    "block_03": "För din bekvämlighet har vi <b class=\"block_03_00\">uttagsgränsen för USDT/USDC till $250</b> (i jämförelse med den tidigare gränsen på $500).",
+    "block_04": "Om du vill få regelbundna utbetalningar till en kryptoplånbok konfigurerar du utbetalningar till Tether eller USDC i ditt personliga konto.",
+    "block_05": "Gå till Utbetalningsinställningar"
+}

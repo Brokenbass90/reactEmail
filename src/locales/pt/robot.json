@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head": "IQ ROBOTS",
+    "text-one": "A primeira plataforma de automatização das negociações em opções binárias",
+    "text-orange": "Aproveite o acesso exclusivo",
+    "text-two": " um serviço revolucionário antes que se torne acessível a todos.",
+    "start": "ACIONE O ROBÔ EM TRÊS PASSOS E FAÇA",
+    "offline": "negócios mesmo enquanto estiver off-line"
+  },
+  "first": {
+    "step": "PASSO #1",
+    "step-text": "Crie um robô pela sua estratégia ou assine a estratégia de outra pessoa"
+  },
+  "second": {
+    "step": "PASSO #2",
+    "step-text": "Confira o algoritmo do funcionamento do robô nas cotações históricas"
+  },
+  "third": {
+    "step": "PASSO #3",
+    "step-text": "Ative o funcionamento do robô e acompanhe a rentabilidade"
+  },
+  "button": {
+    "butt": "IR PARA IQ ROBOTS"
+  },
+  "review": {
+    "head": "DEIXE SEU FEEDBACK SOBRE A PLATAFORMA",
+    "review-text": "Atenção: esta é uma versão beta, e agora estamos trabalhando na eliminação de possíveis erros. Nós ficaremos muito gratos se você nos informar de quaisquer erros encontrados.",
+    "leave": "Deixar feedback"
+  }
+}

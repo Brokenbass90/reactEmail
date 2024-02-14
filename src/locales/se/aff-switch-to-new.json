@@ -1,0 +1,16 @@
+{
+	"block_00": "<b class=\"block_00_0\">Hej ‌[%first_name%]!</b>",
+	"block_01": "Detta är en påminnelse om att fr.o.m. 15 december kommer vi inte längre stödja postbacks som skapats i det gamla gränssnittet. Uppdatera alla postbacks som du skapade före 7 september eftersom du inte längre kommer att ta emot evenemang för dem efter förfallodatumet.",
+	"block_02": "De nya postbacks ger dig mer information om dina omvandlingar på grund av utökade inställningar.",
+	"block_03": "Nya evenemang: <b class=\"block_03_0\">CPA-lead och installation</b>",
+	"block_04": "Nya parametrar: <b class=\"block_04_0\">Event-ID, Vinst, Plattform</b>",
+	"block_05": "Nytt filter: <b class=\"block_05_0\">efter afftrack</b>",
+	"block_06": "Med dessa alternativ till hands kommer du att kunna analysera dina omvandlingar med högsta precision och bättre hantera din kampanjbudget. Skynda dig och byt till de nya postbacks senast 15 december!",
+	"block_07": "UPPDATERA POSTBACKS",
+	"block_08": "Om du har några frågor på vägen",
+	"block_09": "kontaktar du din manager",
+	"block_10": "eller",
+	"block_11": "kontrollerar fliken Postback i avsnittet Vanliga frågor.",
+	"block_12": "<b class=\"block_12_0\">Få fantastiska omvandlingar med den uppdaterade postback-funktionen!</b>",
+	"block_13": "https://static.cdnpub.info/files/storage/public/5f/c0/b59aeff6f7b3j0e3f3/SV.png"
+}

@@ -1,0 +1,10 @@
+{
+	"block_00": "Confirmación de aprobación de tarjeta",
+	"block_01": "Las copias de la tarjeta enviadas con los cuatro últimos cuatro dígitos",
+	"block_02": "han sido aprobadas. Ya puedes depositar y retirar con esta tarjeta.",
+	"block_03": "Por favor, ten en cuenta que si quieres usar una nueva tarjeta para depositar o retirar, necesitarás subirla para su verificación.",
+	"block_04": "Gracias por escoger {{embedded.brand_name}}.",
+	"block_05": "Nuestro",
+	"block_06": "Equipo de Soporte",
+	"block_07": "estará encantado de ayudarte si tienes cualquier duda."
+}

@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head-slim": "5 Handelsfehler",
+    "head": "VERMEIDEN",
+    "text-massive": "Diese Handelsfehler treten sehr häufig vor, aber glücklicherweise für Sie - sind genauso einfach zu vermeiden."
+  },
+  "knowledge": {
+    "head": "Keine Finanzmarkt-Kenntnisse",
+    "main-text": "Viele glauben, man wird erfolgreich sein, obwohl man keine Ahnung hat, wie der Finanzmarkt funktioniert. Das ist eine gefährliche Vorstellung. In der Lage zu sein, ein Diagramm zu verstehen,ist einfach nicht genug, wenn große politische und wirtschaftliche Faktoren mitwirken."
+  },
+  "emotion": {
+    "head": "Emotionale Beteiligung",
+    "main-text": "Es ist wahr, dass der Handel spannend ist. Allerdings ist es nicht ungewöhnlich für Händler, die Kontrolle nach einer Reihe von entweder erfolgreichen oder erfolglosen Trades zu verlieren. Emotionales Engagement sollte keinen Platz im Handel haben! Um auf dem Niveau zu bleiben, versuchen Sie, eine Grenze für die Anzahl der Trades pro Tag oder für ihre Gesamtmenge zu setzen."
+  },
+  "indicators": {
+    "head": "Übermäßige Abhängigkeit von Indikatoren und Signalen",
+    "main-text": "Kein Trading-Tool kann den Markt jedes Mal korrekt analysieren und prognostizieren. Technische Indikatoren und Signale sollen nur als Ergänzung zu Ihrer Analyse beitragen und sollen nie Ihren Handel bestimmen."
+  },
+  "strategy": {
+    "head": "Unzureichende Prüfung der Strategie",
+    "main-text": "Wenn Sie Ihre Strategie nicht unter verschiedenen Bedingungen testen, ist das Risiko eines Misserfolgs deutlich höher. Es ist ratsam, im Übungskonto zu arbeiten, bevor Sie Ihre Strategie auf dem Realkonto anwenden."
+  },
+  "trend": {
+    "head": "Gegen den Trend handeln",
+    "main-text": "Erinnern Sie sich an das Sprichwort: Trend ist Ihr bester Freund. Auch wenn Sie den Trend sehen, der für eine verdächtig lange Zeit anhält - lassen Sie es sein. Machen Sie nie eine Handelsentscheidung auf der Grundlage einer Ahnung oder versuchen den Markt auszutricksen ."
+  },
+  "cta": {
+    "butt": "Zu IQ-Option wechseln"
+  }
+}

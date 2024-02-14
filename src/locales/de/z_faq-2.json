@@ -1,0 +1,26 @@
+{
+  "main": {
+    "head": "Händler FAQs:",
+    "head-big": "Wie funktioniert",
+    "head-tiny": "der Handel?",
+    "pre": "Heute möchten wir die am häufigsten gestellten Fragen über die Besonderheiten des Handels mit binären Optionen beantworten."
+  },
+  "one": {
+    "title": "Wie verdient IQ Option Geld?",
+    "text": "Wir glauben, dass das folgende Video die beste Erklärung liefert.",
+    "video": "Video"
+  },
+  "two": {
+    "title": "Was passiert, wenn der Schlusskurs demjenigen entspricht, zu dem die Option ursprünglich gekauft wurde?",
+    "text": "In diesem Fall wird die Option At-the-money (Null Gewinn und Null Verlust) geschlossen und der Investitionsbetrag wird an den Investor zurückgegeben."
+  },
+  "three": {
+    "title": "Wird die Kursnotierung von IQ-Option manipuliert?",
+    "text": "Absolut nicht. Wir erhalten die Kursnotierungen von unserem Prime Broker Thomson Reuters, dann verarbeiten wir die Daten und zeigen die Kursnotierung in Übereinstimmung mit der Formel Bid+ Ask/2,da wir keinen Spread haben. Um zu beweisen, dass wir die Ergebnisse nicht manipulieren, haben wir die 'Historischen Kursnotierungen' auf unserer Plattform erstellt, die die Kursnotierungsdaten von Thomson Reuters für 2 Jahre speichern. Sie können sich sicher sein, dass IQ Option ein transparenter Broker ist und den höchsten Geschäftsforderungen entspricht."
+  },
+  "cta": {
+    "pre": "Haben Sie noch Fragen? Zögern Sie nicht, unser Support Team zu",
+    "link": "kontaktieren!",
+    "butt": "Wechseln zu IQ-Option"
+  }
+}

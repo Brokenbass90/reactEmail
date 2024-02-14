@@ -1,0 +1,14 @@
+{
+	"block_00": "Auszahlungsanfrage erfolgreich",
+	"block_01": "Ihre Auszahlungsanfrage über %amount_withdrawal% wurde erfolgreich gesendet und wird in Kürze bearbeitet.",
+	"block_02": "Da dies Ihre erste Auszahlung ist, möchten wir einige wichtige Punkte hervorheben:",
+	"block_03": "Prüfen Sie gründlich, ob alle Felder in Ihrer Auszahlungsanfrage korrekt ausgefüllt sind, um eine schnelle Auszahlung zu gewährleisten.",
+	"block_04": "Wenn Sie auf ein E-Wallet auszahlen lassen, stellen Sie sicher, dass Ihr Konto durch den Serviceprovider verifiziert wurde, den Sie für Ihre Auszahlung gewählt haben.",
+	"block_05": "Händlern steht 1 provisionsfreie Auszahlung pro Kalendermonat zur Verfügung.",
+	"block_06": "Wenn Sie auf eine virtuelle Karte auszahlen lassen, stellen Sie sicher, dass diese für Rückerstattungen verfügbar ist. Wir arbeiten mit allen Karten von Visa, Mastercard und Maestro.",
+	"block_07": "IQ Option bearbeitet Auszahlungen innerhalb von 3 Werktagen. Abhängig von Ihrer Bank kann es länger dauern, bis die Mittel Ihrem Konto gutgeschrieben sind.",
+	"block_08": "Wenn Sie über eine Kredit-/Debitkarte eingezahlt haben, müssen Sie die Auszahlung über dieselbe Karte in Höhe Ihres ursprünglichen Anlagebetrags anfordern, einschließlich der Einzahlungen, die innerhalb der letzten 90 Tage vorgenommen wurden. Ihre ausgezahlten Mittel werden Ihrer Karte innerhalb von 21 Tagen gutgeschrieben.",
+	"block_09": "Für Recherchen zu Bankkartenauszahlungen werden wir Sie bitten, uns einen Kontoauszug zu senden, der die Gutschrift des Geldes bestätigt. Beachten Sie, dass einige virtuelle Kreditinstitute solche Auszüge nicht erstellen können.",
+	"block_10": "Die Umrechnung erfolgt zum Kurs der gewählten Zahlungsmethode.",
+	"block_11": "Wir bedanken uns bei Ihnen, dass Sie IQ Option als vertrauenswürdigen Broker gewählt haben!"
+}

@@ -1,0 +1,12 @@
+{
+  "body": {
+    "head-dark": "Perdita dei dati del sondaggio,",
+    "head": "necessario il feedback dei clienti",
+    "name": "Gentile %%name%%,",
+    "text-one": "Ieri le abbiamo chiesto di rispondere ad alcune domande sulla qualità della nostra piattaforma di trading. Ci duole ammetterlo, ma a causa di un malfunzionamento tecnico tutti i dati del sondaggio sono andati persi.",
+    "text-two": "Il Suo feedback è assolutamente fondamentale per aiutarci a creare la migliore piattaforma di trading possibile. Per queste chiediamo gentilmente di dedicare un momento per completare nuovamente l'indagine.",
+    "butt": "Partecipare al sondaggio",
+    "thanks": "Grazie per il suo tempo!",
+    "link": "http://goo.gl/forms/7rmZ0UfUS1BZiB632"
+  }
+}

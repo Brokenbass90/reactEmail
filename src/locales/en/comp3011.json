@@ -1,0 +1,20 @@
+{
+	"block_00": "Notification regarding your remaining unclaimed balance",
+	"block_01": "Notification regarding your remaining unclaimed balance",
+	"block_02": "Dear Sir/Madam,",
+	"block_03": "Please note that following the closure of your trading account with the Company, it has been identified that <b class=\"block_03_0\">your trading account has balance that remained unclaimed to this day</b> i.e no actions have been taken in order to claim your funds.",
+	"block_04": "You are strongly recommended to contact the Company immediately and claim such remaining balance by sending us an e-mail at",
+	"block_05": "support@iqoption.com",
+	"block_06": "using your registered email address that was linked to your trading account. In addition, in order for the Company to send you back your remaining balance, we kindly ask you to provide us with the following bank details:",
+	"block_07": "Name and surname",
+	"block_08": "IBAN number",
+	"block_09": "Swift number",
+	"block_10": "Country of the bank",
+	"block_11": "Lastly, please kindly be aware that the transaction might be subject to charges. Also, payments in USD are subject to <b class=\"block_11_0\">a flat 35USD fee</b> and therefore, it is recommended to provide the Company with bank details of an account in EUR/GBP in order to avoid such fee; the remaining balance in USD will be converted to EUR/GBP accordingly upon the relevant payment.",
+	"block_12": "It should be noted that in case you fail to claim your funds until the end of <b class=\"block_12_0\">the next month</b> (i.e end of December 2020), the following charges will be applied by the Company:",
+	"block_13": "Monthly fee of 1% from your remaining unclaimed balance (minimum 5EUR)",
+	"block_14": "In case you have already contacted the Company regarding the payment of your unclaimed remaining balance and/or you have already received your remaining balance, please disregard the present email.",
+	"block_15": "Should you have any questions or need further clarifications please feel free to contact us via e-mail at",
+	"block_16": "support@iqoption.com.",
+	"block_17": "Go to IQ Option"
+}

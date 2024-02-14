@@ -1,0 +1,17 @@
+{
+	"block_00": "Error de Facturación: Tu pago ha sido rechazado",
+	"block_01": "Parece que no podemos procesar tu pago. Hay diferentes razones para los errores de facturación. A continuación están los más comunes:",
+	"block_02": "<b class=\"block_02_0\">Fondos en tu cuenta bancaria</b>. Comprueba si has calculado correctamente el balance de USD en tu divisa. Te recomendado añadir un poco más de dinero del necesario a tu cuenta solo por si acaso.",
+	"block_03": "<b class=\"block_03_0\">Transacción no autorizada</b>. Contacta tu banco para saber si las transacciones 3D secure están activadas.",
+	"block_04": "<b class=\"block_04_0\">Los detalles del pago son incorrectos</b>. Comprueba si has introducido los detalles de pago correctamente.",
+	"block_05": "<b class=\"block_05_0\">El tiempo del pago ha expirado</b>. Vuelve a intentar el pago e introduce el código 3D dentro del tiempo requerido.",
+	"block_06": "<b class=\"block_06_0\">El pago ha sido rechazado por el banco</b>. Contacta tu banco para saber la razón y solucionarlo.",
+	"block_07": "<b class=\"block_07_0\">Tu cuenta tiene límites de retirada</b> para las transacciones por internet. Usa otro método de pago para evitarlas.",
+	"block_08": "Comprueba y mira si tu cuenta bancaria y detalles de pago están en orden, o prueba otro método de pago.",
+	"block_09": "Prueba de nuevo",
+	"block_10": "Muchos métodos de depósito disponibles",
+	"block_11": "La mayoría de los traders prefieren el siguiente método de pago:",
+	"block_12": "Deposita Ahora",
+	"block_13": "Si tienes cualquier pregunta, puedes contactar con nosotros en",
+	"block_14": "support@iqoption.com"
+}

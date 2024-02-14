@@ -1,0 +1,13 @@
+{
+	"block_00": "我们终止对iOS 9.x版本设备的支持",
+	"block_01": "不再支持iOS 9.x版本的设备",
+	"block_02": "尊敬的交易者，",
+	"block_03": "从2020年10月开始，<b class=\"block_03_0\">由于技术原因超出了我们的控制范围，将终止在iOS版本低于10.x </b>的Apple设备上运行的IQ Option iOS应用程序支持。",
+	"block_04": "为了继续使用您的交易应用程序，<b class=\"block_04_0\">请在2020年10月之前更新到iOS 10.x（或更高版本）。</b>",
+	"block_05": "您可以在下方找到与iOS 10兼容的Apple设备列表：",
+	"block_06": "iPhone 5及更高版本；",
+	"block_07": "iPad 4，iPad mini 2及更高版本；",
+	"block_08": "第6代及之后的iPod touch。",
+	"block_09": "有关更新iOS的说明，请访问",
+	"block_10": "Apple支持网站。"
+}

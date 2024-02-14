@@ -1,0 +1,20 @@
+{
+  "block_00": "Meddelande om ditt resterande outtagna saldo",
+  "block_01": "Bästa kund,",
+  "block_02": "observera att efter stängningen av ditt handelskonto hos företaget har vi upptäckt att ditt handelskonto har ett saldo som fortfarande är oanvänt, dvs. att inga åtgärder har vidtagits för att kräva dina medel.",
+  "block_03": "{Vi rekommenderar att du omedelbart kontaktar företaget och begär det resterande saldot genom att skicka oss ett e-postmeddelande på",
+  "block_04": "support@eu.iqoption.com",
+  "block_05": "med din registrerade e-postadress som var kopplad till ditt handelskonto. För att företaget ska kunna skicka dig ditt resterande saldo ber vi dig dessutom att tillhandahålla oss följande bankuppgifter:",
+  "block_06": "{Namn och efternamn",
+  "block_07": "IBAN-nummer",
+  "block_08": "Swift-nummer",
+  "block_09": "Bankens land",
+  "block_10": "Ditt bankkontos valuta",
+  "block_11": "Observera att transaktionen kan bli föremål för avgifter. Betalningar i USD är dessutom föremål för en fast avgift på 35 USD och därför rekommenderar vi att du tillhandahåller företaget bankuppgifter till ett konto i EUR/GBP för att undvika en sådan avgift; det resterande saldot i USD kommer att omvandlas till EUR/GBP i enlighet med detta vid den relevanta utbetalningen. Vi ber dig att tillhandahålla oss ett annat bankkonto <b class=\"block_11_0\">@ än Revolut.</b>",
+  "block_12": "Slutligen, för eventuella avgifter efter att ditt konto stängts, se klausul 3 i företagets",
+  "block_13": "Allmänna avgiftspolicy.",
+  "block_14": "Om du redan har kontaktat företaget angående utbetalning av ditt resterande saldo och/eller du har redan fått ditt resterande saldo kan du ignorera detta e-postmeddelande.",
+  "block_15": "Om du har några frågor eller behöver ytterligare förtydliganden får du gärna kontakta oss via e-post på",
+  "block_16": "support@eu.iqoption.com.",
+  "block_17": "Gå till IQ Option"
+}

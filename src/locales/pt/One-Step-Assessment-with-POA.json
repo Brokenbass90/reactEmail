@@ -1,0 +1,14 @@
+{
+    "block_00": "Você atingiu sua meta de lucro",
+    "block_01": "Conta [account.sabioEmail]",
+    "block_02": "Olá, [customer.FirstName]!",
+    "block_03": "Temos o prazer de informar que você passou com sucesso na avaliação. Sua conta de avaliação foi fechada em preparação para sua conta financiada. Agora é a hora de assinar o Acordo do Trader, passar na verificação AML/KYC e configurar sua conta real.",
+    "block_04": "Você encontrará anexado a esse e-mail o Acordo do Trader. Faça o download, imprima, assine à mão e envie para <b class=\"block_04_00\">kyc@sabiotrade.com</b> junto com os seguintes documentos:",
+    "block_05": "1- Uma foto original da sua Identificação, Passaporte ou Carteira de Habilitação. O documento não deve estar vencido, deve conter sua data de nascimento e uma fotografia recente.",
+    "block_06": "2- Um extrato bancário que mostre o seu endereço, uma conta de serviços públicos como água, luz ou internet, um certificado de residência do município ou uma nota fiscal. Este documento não pode ter mais de 6 meses desde que foi emitido.",
+    "block_07": "Você receberá as credenciais de sua conta financiada dentro de 24 a 72 horas após passar na verificação e assinar o Acordo.",
+    "block_08": "¿ Tem perguntas?",
+    "block_09": "Entre em contato conosco via",
+    "block_10": "[support@sabiotrade.com]",
+    "block_11": ""
+}

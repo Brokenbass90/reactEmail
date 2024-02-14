@@ -1,0 +1,12 @@
+{
+	"block_00": "Hola [%first_name%],",
+	"block_01": "Nos gustaría informarte de que la lista de palabras clave negativas que puedes incluir en tu publicidad contextual y tus campañas de anuncios en servicios de búsqueda (como Google Ads o Bing Ads) ha sido actualizada. El cambio más notable es que, además de las palabras clave del nombre de la marca IQ Option, la palabra “iq” ha sido añadida a la lista. <b class=\"block_01_0\">Por favor asegúrate de actualizar tus campañas antes del 10 de diciembre de 2020.</b> Una lista actualizada de palabras clave así como una guía paso a paso sobre cómo configurar la lista para las campañas de Google Ads, puede ser encontrada en la sección de",
+	"block_02": "Palabras Clave negativas",
+	"block_03": "Por favor ten en cuenta que aparte de tener la lista de palabras clave negativas preparada correctamente en tu campaña publicitaria, también debes cumplir con los siguientes criterios:",
+	"block_04": "La campaña publicitaria debe promocionar tu propio sitio web, no las páginas de inicio de IQ Option directamente.",
+	"block_05": "El nombre de dominio de tu sitio web no debe incluir el nombre de la marca IQ Option, sus derivados, errores de deletreo, o cualquier otro nombre que pueda ser confundido con la marca IQ Option.",
+	"block_06": "Tu sitio web, deberá contener información precisa y útil para sus usuarios (por ejemplo, una reseña del broker o una comparativa de brokers) y no copiar contenido de las páginas de destino de IQ Option.",
+	"block_07": "Para conocer la información al completo sobre las restricciones de publicidad contextual, por favor",
+	"block_08": "visite las FAQ",
+	"block_09": "."
+}

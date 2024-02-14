@@ -1,0 +1,12 @@
+{
+	"block_00": "Hej [%first_name%]!",
+	"block_01": "Vi vill informera dig om att listan med negativa sökord som ska inkluderas i dina kontextuella reklamkampanjer för sökreklamtjänster (som t.ex. Google Ads och Bing Ads) har uppdaterats. Den mest anmärkningsvärda förändringen är att sökordet \"iq\" har lagts till i listan utöver IQ Option sökord för varumärket. <b class=\"block_01_0\">Se till att du uppdaterar dina reklamkampanjer senast den 10 december 2020.</b> En uppdaterad lista med negativa sökord samt en steg-för-steg-guide för hur du konfigurerar listan för en Google Ads-kampanj finns i avsnittet",
+	"block_02": "Negativa sökord",
+	"block_03": "Observera att följande kriterier måste också uppfyllas utöver att du har korrekt konfigurerat din reklamkampanj med negativa sökord:",
+	"block_04": "Reklamkampanjen måste marknadsföra din egen webbplats, inte IQ Options egna målsidor.",
+	"block_05": "Ditt webbplatsdomännamn får inte innehålla varumärket IQ Option, dess derivat, felstavningar eller andra namn som kan förväxlas med IQ Option-varumärket.",
+	"block_06": "Din webbplats måste innehålla korrekt och användbar information för dess användare (dvs., en mäklare eller liknande) och inte kopiera innehållet på IQ Option målsidor.",
+	"block_07": "Se",
+	"block_08": "Vanliga Frågor",
+	"block_09": "för fullständig information om begränsningar för kontextuella annonser."
+}

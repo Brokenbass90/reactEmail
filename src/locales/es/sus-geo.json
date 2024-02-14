@@ -1,0 +1,10 @@
+{
+	"block_00": "Se ha detectado un inicio de sesión sospechoso en tu cuenta",
+	"block_01": "Estimado trader,",
+	"block_02": "Hemos detectado un inicio de sesión sospechoso en tu cuenta desde una nueva geolocalización. ¿Has sido tú? Si es así, por favor no hagas caso a este email. Si no has sido tú, por favor sigue los enlaces siguientes:",
+	"block_03": "Cambia tu contraseña",
+	"block_04": "Activa la 2fa",
+	"block_05": "En caso de que tengas cualquier duda, nuestro",
+	"block_06": "Equipo de soporte",
+	"block_07": "estará encantado de ayudarte."
+}

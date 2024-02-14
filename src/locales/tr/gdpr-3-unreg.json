@@ -1,0 +1,19 @@
+{
+	"block_00": "Veri Silme İsteği",
+	"block_01": "Sayın Müşterimiz,",
+	"block_02": "tarihli isteğiniz hakkında.",
+	"block_03": "DD.MM.YYYY",
+	"block_04": "Hesabınızı ve TÜM kişisel verilerinizi SiLME isteğiniz için teşekkür ederiz. Kişisel bilgileriniz bizim için çok önemlidir ve {{embedded.brand_name}} veri korumayı çok ciddiye alır. Amacımız, müşterilerimize en iyi hizmetleri sunmaktır.",
+	"block_05": "Hesap Silme / Sözleşme İlişkisini Sonlandırma",
+	"block_06": "İsteğinize istinaden",
+	"block_07": "DD.MM.YYYY",
+	"block_08": "itibarıyla hesabınızı kapatma ve engelleme işlemini başlattık ve sözleşme ilişkimiz belirtilen tarih itibarıyla hemen geçerli olmak üzere sona erdirilmiştir.",
+	"block_09": "Kişisel Verileri Silme",
+	"block_10": "Sistemlerimiz genel olarak veri minimizasyonu ve gereklilik ilkeleri ile uyumlu olacak şekilde yapılandırılmaktadır. Dolayısıyla, {{embedded.brand_name}} hizmetlerimizi size sunmak için veya bağlı olduğumuz yasa veya yönetmelikler yararına kesinlikle gerekli olmayan sizden gelen hiçbir kişisel veriyi işlemez.",
+	"block_11": "Kişisel verilerinizle ilgili isteğinizin ve sistemlerimizin incelenmesi sonrasında, Gizlilik Politikamız, Kara Para Aklama ve Terörizmin Finansmanı ile Mücadele yasaları ve yönetmelikleri ve bağlı olduğumuz yürürlükteki diğer yasa ve yönetmelikler uyarınca ve bunlara uygun olarak, halihazırda tutulan tüm bilgilerin sözleşme ilişkimizin sona ermesini müteakip yedi yıl süreyle saklanması gerektiğini unutmayın (<b class=\"block_11_0\">Yönetmelikler</b>). Yönetmelikler uyarınca verilerinizi en az yedi yıl saklamak yasal yükümlülüğümüzdür.",
+	"block_12": "Herhangi bir sorunuz olursa veya kişisel verilerinizin gereklilik ilkesi hesaba katılmadan {{embedded.brand_name}} tarafından hala işlendiğini düşünüyorsanız, lütfen Gizlilik Politikası'nda belirtilen adımları izleyerek bize bildirin.",
+	"block_13": "Tüm haklarımız ve yasal başvuru yollarımız saklıdır.",
+	"block_14": "Saygılarımızla, {{embedded.brand_name}} Ekibi",
+	"block_15": "Her türlü açıklama ve/veya ihtiyaç duyabileceğiniz başka herhangi bir bilgi için,",
+	"block_16": "support@iqoption.com"
+}

@@ -1,0 +1,20 @@
+{
+    "block_00": "Pembaruan seluler 🔥",
+    "block_01": "Halo [%first_name%],",
+    "block_02": "Pada tahun 2022, ada banyak pembaruan seluler. Jika selama ini Anda mencari cara baru mendatangkan trafik, buletin ini adalah pertanda yang telah Anda nantikan — lanjutkan membaca!",
+    "block_03": "<b class=\"block_03_00\">Pembaruan aplikasi iOS</b>",
+    "block_04": "Aplikasi IQ Broker untuk iOS yang telah diperbarui telah tersedia untuk lebih banyak negara. Aplikasi IQ Broker \"hitam\" ini tersedia bagi pengguna iOS dari negara-negara yang tidak didukung aplikasi IQ Option \"oranye\": Meksiko, Saudi Arabia, Malaysia, Chili, dsb. Saat mengunduh aplikasi utama, pengguna akan secara otomatis dialihkan ke aplikasi \"hitam\".",
+    "block_05": "<b class=\"block_05_00\">Halaman arahan Ringan</b>",
+    "block_06": "Kami telah membuat halaman arahan ini untuk meningkatkan konversi, khususnya di wilayah dengan koneksi internet lemah. Kelebihan halaman arahan yang baru ini adalah pendek (hanya 2 layar) dan langsung membawa pengguna ke pendaftaran — buktikan sendiri!",
+    "block_07": "Lihat halaman arahan",
+    "block_08": "<b class=\"block_08_00\">Halaman arahan dengan bingkai pendaftaran seluler</b>",
+    "block_09": "Pada halaman arahan yang baru, kami memutuskan mengganti tombol standar unduh dari app store (yang menyumbang konversi <i>menginstal</i>) dengan formulir pendaftaran (yang meningkatkan konversi <i>pendaftaran</i>). Jadi, pengguna harus mendaftar akun terlebih dahulu kemudian mengunduh aplikasi dari app store. Eksperimen kami menunjukkan peningkatan signifikan dalam konversi pendaftaran, jadi jangan ragu-ragu mencobanya.",
+    "block_10": "Lihat halaman arahan",
+    "block_11": "Perhatikan bahwa <b class=\"block_11_00\">semua bingkai pendaftaran kini dapat mengalihkan pengguna langsung ke Ruang Trading dari halaman afiliasi</b> (setelah mendaftar di halaman dari bingkai).",
+    "block_12": "Agar berfungsi, Anda harus menambahkan beberapa baris kode saat menempelkan bingkai ke halaman Anda. Berikut caranya:",
+    "block_13": "Pada kode bingkai, tambahkan:",
+    "block_14": "atribut sandbox untuk tag iframe",
+    "block_15": "Tambahkan parameter ke jalur bingkai itu sendiri:",
+    "block_16": "Misalnya:",
+    "block_17": "Semoga Anda mendapatkan konversi terbaik! 🚀"
+}

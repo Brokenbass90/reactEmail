@@ -1,0 +1,20 @@
+{
+    "block_00": "Mobile updates 🔥",
+    "block_01": "Hello [%first_name%],",
+    "block_02": "In 2022, we had plenty of mobile updates. If you’ve been searching for new ways to drive traffic, then this letter is the sign that you’ve been waiting for — dive in!",
+    "block_03": "<b class=\"block_03_00\">iOS app update</b>",
+    "block_04": "This is the IQ Broker app, and it’s available for the iOS users from countries where the classic “orange” IQ Option app is unavailable: Mexico, Saudi Arabia, Malaysia, Chile, etc. When trying to download the main app, users will automatically be redirected to the available \"black\" one.",
+    "block_05": "<b class=\"block_05_00\">Lite landing page</b>",
+    "block_06": "We’ve created this landing page in order to increase conversions, especially in geos with weak internet connection. The new landing page’s superpower is that it is short (only 2 screens) and brings the user straight to registration — see for yourself!",
+    "block_07": "View landing page",
+    "block_08": "<b class=\"block_08_00\">Landing page with mobile registration frame</b>",
+    "block_09": "On the new landing page, we decided to replace the standard app store download button (that contributes to conversions to <i>install</i>) with a registration form (that boosts conversions to <i>registration</i>).  That is, the user has to register an account first, and download the app in the store second. Our experiment showed a significant increase in conversions to registration, so don't hesitate to give it a try.",
+    "block_10": "View landing page",
+    "block_11": "Note that <b class=\"block_11_00\">all registration frames can now redirect the user to the Traderoom directly from the affiliate page</b> (after registering on the page from the frame).",
+    "block_12": "To make it work, you need to add a couple of lines of code when you paste the frame into your page. Here's how to do it:",
+    "block_13": "In the frame code, add:",
+    "block_14": "sandbox attribute for iframe tag",
+    "block_15": "Add a parameter to the path of the frame itself:",
+    "block_16": "Example:",
+    "block_17": "We wish you the best conversions! 🚀"
+}

@@ -1,0 +1,29 @@
+{
+  "dear": "尊敬的交易者，",
+  "text-1": "Please be informed that according to our Terms and Conditions of Service ",
+  "strong-1": "the Client must provide KYC documents to the Company within a period not exceeding 7 days",
+  "text-2": "from the moment of depositing funds.",
+  "text-3": "If you have not already done so, we kindly request that you upload the necessary identification documents as soon as possible. Otherwise, we’ll be forced to",
+  "strong-2": "&nbsp;restrict your access to trading&nbsp;",
+  "text-4": "and/or other services we provide.",
+  "cta": "验证账户",
+  "strong-3": "为什么我们需要您的证件？",
+  "text-5": "IQ Option Europe Ltd 公司由CySEC（塞浦路斯证券和交易委员会）监管，所以根据法律，我们有义务旅行有关打击洗钱和恐怖融资的斗争基本要求。采取规范的市场优势，您需要提供信息或文件以来验证您的账户。",
+  "support": "如果您有任何疑问，请联系我",
+  "link": "们的客服团队。",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "感谢您选择 IQ Option！",
+  "answer": "注意：此信件为系统自动发送，请勿进行回复。",
+
+  "after": {
+    "text-1": "我们提醒您，根据我们的条款（“客户担保”第6条）客户必须在开户存款后7天内，向公司提交KYC文件。 ",
+    "strong-1": "",
+    "text-2": "",
+    "text-3": "如果您还没有发送文件进行账户认证，那么您的交易平台访问将被暂停。如果您在存款后7天内没有验证您的账户，您的账户将被冻结，账户资金将自动返还给您。",
+    "strong-2": "",
+    "text-4": ""
+  }
+}
+
+

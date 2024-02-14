@@ -1,0 +1,89 @@
+{
+  "retrack":"trading-battle",
+  "tour-1": {
+    "date": "1 giugno",
+    "duration": "Durata: 30 giorni",
+    "title": "Off to the Races",
+    "up-to":"fino a",
+    "prize": "$100 000*",
+    "prize-text": "in Montepremi",
+    "part": "$20",
+    "re": "$20",
+    "additional-prize": "Il vincitore del primo premio ottiene un biglietto per <a href='https://blog.iqoption.com/traders-aston-martin-drive-day/' style='color: #ff7700 !important; text-decoration: underline !important;'>l’Aston Martin Drive Day</a>",
+    "number":"949"
+  },
+  "tour-2": {
+    "date": "1 giugno",
+    "duration": "Durata: 9 giorni",
+    "title": "Bulls and Bears",
+    "up-to":"",
+    "prize": "$15 000*",
+    "prize-text": "Montepremi in Espandimento",
+    "part": "$5",
+    "re": "$5",
+    "additional-prize": "",
+    "number":"959"
+  },
+  "tour-3": {
+    "date": "12 giugno",
+    "duration": "Durata: 19 giorni",
+    "title": "Trading Wizard",
+    "up-to":"",
+    "prize": "$20 000*",
+    "prize-text": "Montepremi in Espandimento",
+    "part": "$10",
+    "re": "$10",
+    "additional-prize": "",
+    "number":"960"
+  },
+  "tour-4": {
+    "date": "Ogni lunedì",
+    "duration": "Durata: 1 ora",
+    "title": "IQ Satellite",
+    "up-to":"",
+    "prize": "Ingresso GRATUITO al",
+    "prize-text": "Torneo di durata mensile",
+    "part": "GRATUITA",
+    "re": "$1",
+    "additional-prize": "",
+    "number":"971"
+  },
+  "tour-5": {
+    "date": "Ogni lunedì",
+    "duration": "Durata: 5 giorni",
+    "title": "IQ Launch",
+    "up-to":"fino a",
+    "prize": "30 000*",
+    "prize-text": "in Montepremi",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"963"
+  },
+  "tour-6": {
+    "date": "Ogni venerdì",
+    "duration": "Durata: 1 ora",
+    "title": "The Winner Takes it All",
+    "prize": "$500*",
+    "up-to":"",
+    "prize-text": "per il vincitore",
+    "part": "$1",
+    "re": "Non ammesso",
+    "additional-prize": "",
+    "number":"970"
+  },
+  "tour-7": {
+    "date": "Ogni giovedì",
+    "duration": "Durata: 1 giorno",
+    "title": "Salary in a Day",
+    "prize": "$3000*",
+    "up-to":"",
+    "prize-text": "Montepremi",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"958"
+  },
+  "asterisk":"*Si riceve parte del montepremi solo in caso di vincita del torneo."
+
+}

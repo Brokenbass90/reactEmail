@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head": "IQ ROBOTS",
+    "text-one": "La prima piattaforma di automatizzazione del trading con opzioni binarie al mondo",
+    "text-orange": "Usufruisca dell’accesso esclusivo ",
+    "text-two": " a questo servizio rivoluzionario prima che esso diventi accessibile a tutti",
+    "start": "LANCIATE IL ROBOT IN TRE PASSI",
+    "offline": "ed eseguite transazioni anche quando siete off-line!"
+  },
+  "first": {
+    "step": "PASSO #1",
+    "step-text": "Create un robot in base alla vostra strategia oppure sottoscrivetevi al robot di un altro utente"
+  },
+  "second": {
+    "step": "PASSO #2",
+    "step-text": "Verificate l'algoritmo di funzionamento del robot nelle quotazioni storiche"
+  },
+  "third": {
+    "step": "PASSO #3",
+    "step-text": "Lanciatelo e seguite la redditività"
+  },
+  "button": {
+    "butt": "PASSARE A IQ ROBOTS"
+  },
+  "review": {
+    "head": "LASCIATE UN COMMENTO SULLA PIATTAFORMA",
+    "review-text": "Richiamiamo la vostra attenzione al fatto che si tratta della versione-beta e che attualmente siamo impegnati a risolvere eventuali errori. Vi saremo molto grati se, nel caso in cui riscontraste degli errori, ce lo comunicherete.",
+    "leave": "Lasciare un commento"
+  }
+}

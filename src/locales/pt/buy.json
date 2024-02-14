@@ -1,0 +1,23 @@
+{
+  "top": {
+    "new": "Nova função na plataforma:",
+    "sell": "VENDA DAS OPÇÕES",
+    "option": "A IQ Option tem a satisfação de apresentar a você a mais nova possibilidade da nossa plataforma: a",
+    "name": "«venda das opções antes do prazo».",
+    "video": "https://vimeo.com/174230692"
+  },
+  "center": {
+    "what": "O que é a",
+    "option": "«venda das opções antes do prazo»?",
+    "sec": "Dentro de três segundos",
+    "moment": "do momento da abertura do negócio, você tem a opção de cancelá-lo antes do tempo de expiração.",
+    "100": "Ao fazer isso voce recebe de volta 100% dos fundos investidos,",
+    "coast": "se o preço do ativo não se alterar nesses 3 segundos.",
+    "secc": "Após terem-se esgotado os três segundos,",
+    "selll": "você pode comprar a opção de volta pelo preço oferecido na tela."
+  },
+  "bottom": {
+    "cta": "Com a função de «venda das opções antes do prazo» você diminui os riscos e protege os seus investimentos.",
+    "button": "Ir para a IQ Option"
+  }
+}

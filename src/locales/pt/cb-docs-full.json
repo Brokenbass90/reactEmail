@@ -1,0 +1,21 @@
+{
+	"block_00": "Solicitação de documento para verificação da conta",
+	"block_01": "Para concluir a verificação da sua conta, solicitamos que você envie uma cópia colorida das páginas principais do seu passaporte ou uma cópia colorida dos dois lados do seu documento de identidade. O documento deve ser válido e as seguintes informações devem estar claramente visíveis:",
+	"block_02": "Seu nome completo",
+	"block_03": "Sua foto",
+	"block_04": "Sua data de nascimento",
+	"block_05": "A data de validade do documento",
+	"block_06": "O número oficial do documento",
+	"block_07": "Sua assinatura",
+	"block_08": "Verifique os exemplos de tipos de documentos aceitos e como eles devem ser enviados. Você pode enviar o seu documento clicando abaixo.",
+	"block_09": "Enviar cópias do documento",
+	"block_10": "Propriedade do cartão",
+	"block_11": "De acordo com nossos Termos e Condições, também solicitamos que você confirme a propriedade do seu cartão, enviando cópias do cartão de crédito/débito usado para depositar em sua conta. Verifique o cartão",
+	"block_12": "por meio do link abaixo.",
+	"block_13": "Enviar cópias do cartão",
+	"block_14": "Importante: O cartão deve estar assinado.",
+	"block_15": "Obrigado por escolher a CapitalBear!",
+	"block_16": "Nossa",
+	"block_17": "Equipe de Suporte",
+	"block_18": "está sempre feliz em ajudar se você tiver alguma dúvida."
+}

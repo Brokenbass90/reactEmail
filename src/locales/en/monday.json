@@ -1,0 +1,62 @@
+{
+  "top": {
+    "big-title": "Classic Options: <br>Top-3 Stocks to Watch",
+    "big-title-ko": "Classic Options:<br> Ideas for a perfect investment",
+    "head": "This Week’s Best<br>Trading Opportunities",
+    "offer": "Exclusive offer:",
+    "profit": "Special profitability",
+    "asset": "on EUR/GBP",
+    "small-title": "Market events to watch for:",
+    "warn": "*NOTE: Past performance is not a reliable indicator of future performance. Forecasts are not reliable indicator of future performance.",
+    "use-title": "Here's how you use it:",
+    "use-text": "Trying times for the Euro: the Italian referendum is sure to cause a reassessment of the European currency’s value. Follow the latest news on the subject to never miss a trading opportunity!",
+    "ko-title": "Top-3 Classic Option Deals",
+    "ko-text": "With Classic Options <span style='color: #FBAA26 !important'>profitability is limitless!</span> Take a look at the Top-3 deals our traders made using Classic Options.<br><br>As you can see, a single option can generate as much as <span style='color: #FBAA26 !important'>+8300% of profit.</span>"
+  },
+  "card-1": {
+    "name": "Apple stock downgraded by Pacific Crest analysts",
+    "date": "25 May 2017",
+    "analytic": "Analytical commentary:",
+    "text": "This Sunday, technology-focused market research firm Pacific Crest has downgraded the status of Apple shares to “overweight” and advised their clients to invest in Alphabet instead.<br><br>According to Pacific Crest’s own Andy Hargreaves, those buying the record-breaking stock are not considering all possible risks, such as gross margins, elasticity, supply issues, or the likelihood for sales declines beyond the iPhone 8.<br><br>It’s worth mentioning that out of 30 market analysts covering the stock, only five (including Hargreaves) give it a “Hold” rating and none are advising to sell. ",
+    "butt": "Invest now",
+    "pre": "previous"
+  },
+  "card-2": {
+    "name": "General Motors chief to face hedge-fund investor’s push to split up stock",
+    "date": "25 May 2017",
+    "analytic": "Analytical commentary:",
+    "text": "This Tuesday GM shareholders will cast their votes on Greenlight Capital's plan to split up General Motors stock and to challenge the company's board of directors.<br><br>The proposal is to divide GM shares into two classes, which - according to the proponents at Greenlight Capital - could boost the automaker's $52 billion market capitalization by as much as $38 billion. Since the hedge-fund shareholders blame the stock’s poor performance on weak leadership, they’ve also put forth an initiative to replace three GM board directors: Jane Mendillo, Michael Mullen and Carol Stephenson.<br><br>Most market experts don’t believe Greenlight’s stock plan will come to fruition at this point, while a board overhaul is very likely to get the votes as its composition has been an issue for investors for decades. ",
+    "butt": "Invest now",
+    "pre": "previous"
+  },
+  "card-3": {
+    "name": "Regeneron Pharmaceuticals’ new skin cancer drug shows treatment effect",
+    "date": "25 May 2017",
+    "analytic": "Analytical commentary:",
+    "text": "Data from a Phase 1 clinical trial of of Regeneron Pharmaceuticals’ new drug has shown treatment benefit in patients with advanced cutaneous squamous cell carcinoma (a form of skin cancer).<br><br>Patients treated with the study drug showed an overall response rate of 46.2%, which is considered outstanding.The most common side effect of the medication is fatigue (23.1%).<br><br>A Phase 2 study is currently recruiting patients. If the second leg of it is a success as well, the drug will most likely get on the fast track to getting an FDA approval.",
+    "butt": "Invest now",
+    "pre": "previous"
+  },
+  "feed": {
+    "title": "Leave feedback",
+    "text-f": "Please note that this is a beta version and we are working hard to eliminate any and all possible errors. We would be very grateful if you could let us know about any problems you uncover.",
+    "butt-f": "Give feedback"
+  },
+  "maybe": {
+    "head-m": "Hottest stock market news for the week ahead",
+    "text1": "Last week we spoke about a possibility of an earnings beat for Autodesk Inc. Our trader Nathan A.H. placed his faith in a  “Call” Classic Option for the company and that position delivered <strong>823.61% of profit in 4 days</strong>. <br><br><i style='font-size: 13px !important;'>*Amount credited to a trading account only in case of a successful prediction.</i>",
+    "text-o": "Our trader Derek L. invested in a &lsquo;Put&rsquo; Classic Option on Goldman Sachs &nbsp;on Monday and by Tuesday night that position has generated 481.4% of profit.",
+    "text2": "The secret to such high profitability? A correct prediction ahead of an earnings report release. You can easily identify companies with pending earnings reports on our platform by spotting a <img src='https://images01.iqoption.com/81/3281/static-01472608156809953281.png' style='display: inline-block; max-width: 20px; float: none !important; vertical-align: middle !important;'> sign next to their names.",
+    "m-butt": "Invest in Apple",
+    "title-b": "1 correct prediction. 823.61% of profit."
+  }
+}
+
+
+
+
+
+
+
+
+

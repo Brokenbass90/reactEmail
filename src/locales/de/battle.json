@@ -1,0 +1,89 @@
+{
+  "retrack":"trading-battle",
+  "tour-1": {
+    "date": "1. Juni",
+    "duration": "Dauer: 30 Tage",
+    "title": "Off to the Races",
+    "up-to":"bis zu",
+    "prize": "$100 000*",
+    "prize-text": "im Preispool",
+    "part": "$20",
+    "re": "$20",
+    "additional-prize": "Der Hauptgewinner erhält ein Ticket für den Aston Martin Drive Day",
+    "number":"949"
+  },
+  "tour-2": {
+    "date": "1. Juni",
+    "duration": "Dauer: 9 Tage",
+    "title": "Bulls and Bears",
+    "up-to":"",
+    "prize": "$15 000*",
+    "prize-text": "expandierender Preisfonds",
+    "part": "$5",
+    "re": "$5",
+    "additional-prize": "",
+    "number":"959"
+  },
+  "tour-3": {
+    "date": "12. Juni",
+    "duration": "Dauer: 19 Tage ",
+    "title": "Trading Wizard",
+    "up-to":"",
+    "prize": "$20 000*",
+    "prize-text": "Expandierender Preisfonds ",
+    "part": "$10",
+    "re": "$10",
+    "additional-prize": "",
+    "number":"960"
+  },
+  "tour-4": {
+    "date": "Jeden Monta",
+    "duration": "Dauer: 1 Stunde",
+    "title": "IQ Satellite",
+    "up-to":"",
+    "prize": "KOSTENLOSE Teilnahme am Turnier",
+    "prize-text": "1 Monat dauerndes Turnier ",
+    "part": "KOSTENLOS",
+    "re": "$1",
+    "additional-prize": "",
+    "number":"971"
+  },
+  "tour-5": {
+    "date": "Jeden zweiten Montag",
+    "duration": "Dauer: 5 Tage",
+    "title": "IQ Launch",
+    "up-to":"bis zu",
+    "prize": "30 000*",
+    "prize-text": "im Preispool",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"963"
+  },
+  "tour-6": {
+    "date": "Jeden Freitag",
+    "duration": "Dauer: 1 Stunde",
+    "title": "The Winner Takes it All",
+    "prize": "$500*",
+    "up-to":"",
+    "prize-text": "für den großen Sieger",
+    "part": "$1",
+    "re": "Nicht erlaubt",
+    "additional-prize": "",
+    "number":"970"
+  },
+  "tour-7": {
+    "date": "Jeden Donnerstag",
+    "duration": "Dauer: 1 Tag",
+    "title": "Salary in a Day",
+    "prize": "$3000*",
+    "up-to":"",
+    "prize-text": "Preispool",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"958"
+  },
+  "asterisk":"*The amount to be credited to the balance in case of successful investment. The offer is valid on November 15th 2016 from 08:00 to 17:00 GMT."
+
+}

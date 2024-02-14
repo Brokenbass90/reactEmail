@@ -1,0 +1,12 @@
+{
+  "main": {
+    "amount": "https://images01.iqoption.com/13/4113/static-03311159658374234113.png",
+    "fund": "Montepremi:",
+    "when": "Quando:",
+    "date": "Dicembre 9, 16:00 – 16:30 GMT",
+    "rebuy": "Quota di riacquisto:",
+    "butt": "Partecipare",
+    "warn-o": "75% dei pagamenti durante il torneo vanno al montepremi!",
+    "warn": "*Si ottiene parte del montepremi solo in caso di vincita del torneo.<br><br>Tutti i trader partecipanti inizieranno il torneo con un account appositamente dedicato con bilancio di 100 USD."
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"block_00": "Långsamt internet på användarnas sida?",
+	"block_01": "4 idéer om hur man minskar förluster och ökar omvandlingar.",
+	"block_02": "<b class=\"block_02_0\">Hej [%first_name%]!</b>",
+	"block_03": "Din webbplats kanske är perfekt men vad spelar det för roll om dina potentiella användare inte kan uppskatta det på grund av långsam internetanslutning? Du kan inte förbättra deras anslutning men du kan optimera din webbplats så att den fungerar snabbare!",
+	"block_04": "Här är några idéer om hur du kan förbättra webbplatsens prestanda för användare som har dålig anslutning.",
+	"block_05": "Komprimera innehållet",
+	"block_06": "Ju mindre dina filer är desto snabbare laddas de. Du kan åtminstone minska bildernas storlek manuellt.",
+	"block_07": "En annan lösning är komprimering med",
+	"block_08": "Gzip.",
+	"block_09": "Denna app hittar och ersätter strängar med liknande kod i dina filer för att förminska dem. Den här metoden fungerar bra med CSS och HTML och de flesta webbservrar kan komprimera filer i Gzip-format innan de skickas för nedladdning. Komprimering kan minska nedladdningstiden med cirka 70%.",
+	"block_10": "Byt till en snabbare DNS-leverantör",
+	"block_11": "Sidornas laddningstid beror huvudsakligen på hur lång tid din DNS-sökning tar. Om du använder en långsam DNS ökar tiden det tar för webbläsare att hitta din webbplats. Att byta till en snabbare leverantör kan påskynda processen.",
+	"block_12": "Prova på lat laddning",
+	"block_13": "Vanligtvis måste webbläsaren ladda ner sidans hela innehåll innan något visas för användaren. Du kan använda särskilda plugins för att visa det översta avsnittet (överst på sidan) och sedan resten av innehållet. På så sätt behöver användarna inte vänta på att se sidan och bilderna laddas medan de bläddrar nedåt.",
+	"block_14": "Du kan aktivera lat laddning med Lazy Load, BJ Lazy Load, WP Rocket eller andra plugins.",
+	"block_15": "Investera i AMP",
+	"block_16": "Du kan justera din webbplats till att fungera snabbare eller så kan du prova särskilda lösningar som är utformade för att fungera med en dålig internetanslutning.",
+	"block_17": "AMP (Accelererad mobilsida) är en sådan lösning. Det är en teknik som utvecklats av Google för att påskynda sidladdning och visa webbplatser på mobila enheter. Hemligheten med hastigheten är att sådana sidor bara lagrar huvudinnehållet medan de offrar vissa element till snabba nedladdningshastigheter. Dessutom har AMP-sidor en större chans att hamna högst upp på sökmotorernas listor för att de beräknar laddningshastigheten i deras rankningar.",
+	"block_18": "Vi önskar dig lycka till i dina omvandlingar! 🚀"
+}

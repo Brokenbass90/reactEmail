@@ -1,0 +1,9 @@
+{
+	"block_00": "Annullamento dell'operazione",
+	"block_01": "Gentile Cliente,",
+	"block_02": "Non siamo stati in grado di eseguire l'operazione",
+	"block_03": "deal_id",
+	"block_04": "che hai recentemente chiesto di eseguire, perché non è stata accettata dal Market Maker terzo a cui l'ordine è stato inviato per l'esecuzione. Questo può accadere per varie ragioni, fra cui le condizioni di mercato al momento dell'esecuzione o il quadro di gestione del rischio del Market Maker.",
+	"block_05": "Di conseguenza, e in linea con i Termini e condizioni della Società, che hai letto e accettato nel momento in cui sei divenuto cliente della Società, il tuo ordine non è stato elaborato e l'importo di investimento è stato riaccreditato al tuo saldo del conto.",
+	"block_06": "Per maggiori informazioni, consulta la sezione (9) dei Termini e condizioni."
+}

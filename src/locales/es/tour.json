@@ -1,0 +1,23 @@
+{
+  "number": "920",
+  "retrack": "perfect_insight",
+  "cta": "Participar",
+  "top": {
+    "pic": "https://images01.iqoption.com/33/2433/static-04568465893524242433.png",
+    "text": "Bote de premios creciente",
+    "prize": "$15 000"
+  },
+  "bottom": {
+    "asterisk": "*Se ganará una parte del bote de premios solo en caso de ganar el torneo.",
+    "text":"¡El 80% de los pagos durante el torneo irán a parar directamente al bote del premio! Todos los traders participantes comenzarán el torneo con un balance especial en la cuenta de 10 000 USD"
+  },
+  "info": {
+    "duration": "Duración",
+    "participation": "Participación",
+    "fee": "re-comprae",
+    "date": "8-12",
+    "month": "Mayo de 2017",
+    "price": "$5",
+    "center-text": "¿Tienes la intuición perfecta sobre el futuro del mercado?"
+  }
+}

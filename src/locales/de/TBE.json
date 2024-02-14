@@ -1,0 +1,17 @@
+{
+	"block_00": "Abrechnungsfehler: Ihre Zahlung wurde abgelehnt",
+	"block_01": "Es scheint, dass wir Ihre Zahlung nicht verarbeiten können. Es gibt verschiedene Gründe für Abrechnungsfehler. Hier sind die häufigsten:",
+	"block_02": "<b class=\"block_02_0\">Unzureichende Mittel auf Ihrem Bankkonto.</b> Prüfen Sie, ob Sie den Dollarbetrag richtig in Ihrer Währung berechnet haben. Wir empfehlen, dass in Ihrem Konto etwas mehr Geld vorhanden ist, als gerade benötigt wird.",
+	"block_03": "<b class=\"block_03_0\">Nicht autorisierte Transaktion.</b> Wenden Sie sich an Ihre Bank, um zu erfahren, ob sichere 3D-Transaktionen aktiviert sind.",
+	"block_04": "<b class=\"block_04_0\">Falsche Zahlungsdetails.</b> Prüfen Sie, ob Sie die Zahlungsdetails richtig eingegeben haben.",
+	"block_05": "<b class=\"block_05_0\">Die Zeit für die Zahlung ist abgelaufen.</b> Wiederholen Sie die Zahlung und geben Sie den 3D-Code ohne lange Wartezeit ein.",
+	"block_06": "<b class=\"block_06_0\">Die Zahlung wurde durch die Bank abgelehnt.</b> Wenden Sie sich an Ihre Bank für den Grund und korrigieren Sie diesen.",
+	"block_07": "<b class=\"block_07_0\">Ihr Bankkonto hat eine interne Beschränkung für Zahlungsvorgänge.</b> Verwenden Sie eine andere Methode oder wenden Sie sich an Ihre Bank.",
+	"block_08": "<b class=\"block_08_0\">Abgelaufenes Zertifikat unter Windows 7.</b> Folgen Sie",
+	"block_09": "den Anweisungen",
+	"block_10": "zur Installation eines neuen Zertifikats.",
+	"block_11": "<b class=\"block_11_0\">Wenn Sie in China tätig sind, kann es Firewall-Probleme geben.</b> Versuchen Sie es erneut oder nutzen Sie Alipay.",
+	"block_12": "Prüfen Sie, ob Ihr Bankkonto und die Zahlungsdetails richtig sind oder versuchen Sie eine andere Zahlungsmethode.",
+	"block_13": "ERNEUT VERSUCHEN",
+	"block_14": "Falls Sie Fragen haben, wenden Sie sich an uns unter support@iqoption.com."
+}

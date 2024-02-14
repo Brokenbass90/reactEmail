@@ -1,0 +1,17 @@
+{
+	"block_00": "Errore di fatturazione: Il tuo pagamento è stato rifiutato",
+	"block_01": "Non siamo in grado di elaborare il tuo pagamento. Gli errori di fatturazione hanno diverse cause. Di seguito indichiamo le più comuni:",
+	"block_02": "<b class=\"block_02_0\">Fondi insufficienti sul conto corrente.</b> Verifica di aver calcolato correttamente l'importo in USD nella tua valuta. Per ogni evenienza, consigliamo di disporre di un importo lievemente superiore.",
+	"block_03": "<b class=\"block_03_0\">Transazione non autorizzata.</b> Contatta la tua banca per verificare che le transazioni con 3D secure siano state abilitate.",
+	"block_04": "<b class=\"block_04_0\">Dettagli di pagamento non corretti.</b> Verifica di aver inserito correttamente i dettagli di pagamento.",
+	"block_05": "<b class=\"block_05_0\">Il tempo a disposizione per confermare il pagamento è scaduto.</b> Prova a chiedere nuovamente il pagamento e inserisci tempestivamente il codice 3D secure.",
+	"block_06": "<b class=\"block_06_0\">Il pagamento è stato rifiutato dalla banca.</b> Contatta la tua banca per scoprire il motivo e risolverlo.",
+	"block_07": "<b class=\"block_07_0\">Il tuo conto corrente prevede delle limitazioni interne alle operazioni.</b> Utilizza un altro metodo o contatta la tua banca.",
+	"block_08": "<b class=\"block_08_0\">Certificato di Windows 7 scaduto.</b> Segui le",
+	"block_09": "istruzioni",
+	"block_10": "per installare un nuovo certificato.",
+	"block_11": "<b class=\"block_11_0\">Se svolgi la tua attvività in Cina, potrebbe trattarsi un problema di firewall.</b> Prova di nuovo o usa Alipay.",
+	"block_12": "Verifica che il tuo conto corrente e i dettagli di pagamento siano corretti o prova con un altro metodo di pagamento.",
+	"block_13": "RIPROVA",
+	"block_14": "Se hai domande, contattaci all'indirizzo support@iqoption.com."
+}

@@ -1,0 +1,21 @@
+{
+    "block_00": "Hãy mở giao dịch đầu tiên",
+    "block_01": "<b class=\"block_01_00\">Chúc mừng bạn đã nạp tiền thành công 🎉</b>",
+    "block_02": "Cánh cổng bước vào thị trường giao dịch thực tế đã mở ra! Bắt đầu đầu tư bất cứ khi nào bạn sẵn sàng.",
+    "block_03": "Để tạo động lực cho bạn, chúng tôi xin chia sẻ một <b class=\"block_03_00\">chiến lược giao dịch theo xu hướng</b> đơn giản mà lợi hại ⬇",
+    "block_04": "Lên đường nào!",
+    "block_05": "<b class=\"block_05_00\">Đường trung bình động</b>",
+    "block_06": "<b class=\"block_06_00\">Độ khó:</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Công cụ:</b>",
+    "block_09": "Quyền chọn nhị phân/kỹ thuật số, Ngoại hối, cổ phiếu, tiền mã hóa, ETF, hàng hóa",
+    "block_10": "<b class=\"block_10_00\">Thời gian:</b>",
+    "block_11": "Tất cả",
+    "block_12": "Đường trung bình động giúp các nhà giao dịch xác nhận xu hướng dựa trên những biến động giá trước đó. Có 2 loại đường trung bình động: đường trung bình động giản đơn (SMA) và đường trung bình động hàm số mũ (EMA).",
+    "block_13": "<b class=\"block_13_00\">SMA</b> thường dựa vào giá đóng cửa của thị trường nên tốc độ phản ứng thường chậm. Do đó, các nhà giao dịch dùng SMA cho <b class=\"block_13_01\">các hợp đồng dài hạn</b>.",
+    "block_14": "<b class=\"block_14_00\">EMA</b> cũng dựa vào dữ liệu về giá trước đó nhưng sẽ có trọng số đối với những mức giá mới hơn. Yếu tố này khiến EMA <b class=\"block_14_01\">phù hợp với các nhà giao dịch nhị phân và kỹ thuật số hơn.</b>",
+    "block_15": "<b class=\"block_15_00\">Cách sử dụng</b>",
+    "block_16": "Khi đường chỉ báo cắt nến đỏ theo hướng <b class=\"block_16_00\">từ trên xuống</b> trên đồ thị nghĩa là giá của tài sản đang giảm và xu hướng giảm này có thể tiếp diễn. Đây là tín hiệu <b class=\"block_16_01\">BÁN</b>.",
+    "block_17": "Khi đường chỉ báo cắt nến xanh theo hướng <b class=\"block_17_00\">từ dưới lên</b> thì đây là dấu hiệu cho biết xu hướng đảo chiều và là tín hiệu <b class=\"block_17_01\">MUA</b>.",
+    "block_18": "Thử trên nền tảng"
+}

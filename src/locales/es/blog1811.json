@@ -1,0 +1,16 @@
+{
+	"block_00": "Un método para los traders del corto plazo",
+	"block_01": "A muchos traders les encantan las estrategias con un único indicador, porque son <b class=\"block_01_0\">sencillas de configurar y cómodas de seguir</b>. El rebote de la media móvil es exactamente así: para usarlo, solo necesitarás una herramienta y algo de práctica leyendo sus señales.",
+	"block_02": "Esta estrategia funciona en intervalos de tiempo cortos (1-5 minutos) para cualquier instrumento. El rebote de la MA busca las tendencias fuertes que podrían rebotar de nuevo al precio medio del activo. Después de rebote, la tendencia continúa desplazándose en la dirección original y esta estrategia te ayuda a no perder la <b class=\"block_02_0\">oportunidad de entrar.</b>",
+	"block_03": "Para entender mejor cómo se usa esta estrategia, revisa el artículo completo en el blog de IQ Option.",
+	"block_04": "Lee el artículo",
+	"block_05": "Ve a IQ Option",
+	"block_06": "Más publicaciones relacionadas",
+	"block_07": "​​Divergencia: ¿Amigo o Enemigo?",
+	"block_08": "Operando con el Indicador Envelopes",
+	"block_09": "Heiken Ashi. Gráfico de velas con Esteroides",
+	"block_10": "https://blog.iqoption.com/es/operando-con-la-estrategia-del-rebote-de-la-media-movil/",
+	"block_11": "https://blog.iqoption.com/es/divergencia-amiga-o-enemiga/",
+	"block_12": "https://blog.iqoption.com/es/encontrar-oportunidades-de-inversion-con-el-indicador-envelopes/",
+	"block_13": "https://blog.iqoption.com/es/las-heiken-ashi-son-lo-mejor-para-tus-graficos/"
+}

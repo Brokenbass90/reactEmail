@@ -1,0 +1,11 @@
+{
+	"block_00": "Daten bereit für den Download",
+	"block_01": "Werter Kunde,",
+	"block_02": "danke, dass Sie die Bereitstellung einer maschinenlesbaren Kopie Ihrer persönlichen Daten gemäß Artikel 20 der DSGVO beantragt haben.",
+	"block_03": "Die von Ihnen beantragte Datei mit Ihren <b class=\"block_03_0\">Daten bei {{embedded.brand_name}} steht jetzt zum Download bereit. Sie finden sie im Anhang</b>.",
+	"block_04": "Da diese Datei sensible Informationen enthalten kann, sollten Sie auf ihre Sicherheit achten und entsprechende Vorsicht walten lassen, wenn Sie sie speichern, versenden oder zu einem anderen Dienst hochladen.",
+	"block_05": "Mit freundlichen Grüßen, das Team von {{embedded.brand_name}}",
+	"block_06": "Bei weiteren Fragen wenden Sie sich an",
+	"block_07": "support@iqoption.com",
+	"block_08": "und wir geben gern Auskunft."
+}

@@ -1,0 +1,19 @@
+{
+	"block_00": "Forespørsel om sletting av data",
+	"block_01": "Kjære kunde,",
+	"block_02": "Når det gjelder din forespørsel datert",
+	"block_03": "DD.MM.YYYY.",
+	"block_04": "Takk for din forespørsel om å SLETTE kontoen din og ALLE dine personlige data. Din personlige informasjon er veldig viktig for oss og {{embedded.brand_name}} tar databeskyttelse veldig seriøst. Vårt mål er å levere gode tjenester til kundene våre.",
+	"block_05": "Sletting av konto/Oppsigelse av kontraktsforhold",
+	"block_06": "I henhold til din forespørsel, har vi lukket og blokkert kontoen din per",
+	"block_07": "DD.MM.YYYY",
+	"block_08": "og ditt kontraktsforhold er oppsagt med umiddelbar virkning fra denne datoen.",
+	"block_09": "Sletting av personlig informasjon",
+	"block_10": "Systemet vårt er generelt konfigurert for å overholde prinsippene for dataminimering og nødvendighet, slik at {{embedded.brand_name}} ikke behandler personlig data som ikke er nødvendig for å  tilby deg tjenester eller støtter lov og reguleringer som vi er bundet til.",
+	"block_11": "Etter å ha vurdert din forespørsel og våre systemer for dine personlige data, merker vi at all informasjon for øyeblikket skal lagres i syv år etter sletting av ditt kontraktsforhold og i henhold til vår personvernpolitikk,  anti-hvitvasking av penger og lover mot finansiering av terrorisme, reguleringer og andre gjeldende lover som vi er bundet til (<b class=\"block_11_0\">Reguleringer</b>). Under Reguleringer har vi en juridisk forpliktelse til å lagre dine data i minst syv år.",
+	"block_12": "Dersom du har spørsmål eller tror at dine data fortsatt behandles av {{embedded.brand_name}} uten å ta hensyn til nødvendighet, vennligst la oss få vite det ved å følge stegene som beskrevet i vår Personvernpolitikk.",
+	"block_13": "Vi reserverer alle våre rettigheter og virkemidler.",
+	"block_14": "Vennlig hilsen, {{embedded.brand_name}}-teamet",
+	"block_15": "For enhver avklaring og/eller annen informasjon du kanskje trenger, ikke nøl med å kontakte oss på",
+	"block_16": "support@iqoption.com"
+}

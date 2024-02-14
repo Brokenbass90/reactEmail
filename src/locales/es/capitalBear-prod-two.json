@@ -1,0 +1,20 @@
+{
+    "block_00": "¿Qué es el Índice de Fuerza Relativa (RSI)?",
+    "block_01": "La estrategia de trading RSI usando el Índice de Fuerza Relativa es un punto de partida estupendo para el trading diario y el trading de forex. Tiene unos ajustes por defecto de 14 periodos y niveles 70/30. Los ajustes del RSI afectarán a la frecuencia con la que el RSI proporciona señales de sobrecompra y sobreventa, así como una <b class=\"block_01_00\">divergencia</b>proporciona señales de compra y venta.",
+    "block_02": "¿Qué significa RSI 14?",
+    "block_03": "Los ajustes por defecto del RSI son de 14 periodos. Esto significa que el indicador está calculado usando velas de 14 o las últimas 14 barras del gráfico de precio.",
+    "block_04": "Usar un <b class=\"block_04_00\">intervalo más corto</b>, por ejemplo, de 5 periodos, provocará que el RSI alcance valores extremos (por encima de 70 y por debajo de 30) más a menudo. De igual forma, un <b class=\"block_04_01\">intervalo mayor</b> hará que el indicador RSI pase por encima de 70 y por debajo de 30 con más frecuencia.",
+    "block_05": "La mayoría de los traders PRO usan un enfoque no convencional del RSI de 60/40 y el <b class=\"block_05_00\">concepto del cambio de rango</b> – un fenómeno que tiene lugar cuando el indicador RSI cambia su rango predefinido por otro debido al cambio en el precio de las acciones.",
+    "block_06": "Hay diferentes rangos para el indicador RSI, por ejemplo, en un <b class=\"block_06_00\">mercado alcista</b> - 40/80, y en un <b class=\"block_06_01\">mercado bajista</b> - 65/30. Este concepto de cambio de rango se puede aplicar en cualquier período de tiempo, ya sea intradiario, diario, semanal, etc.",
+    "block_07": "Por lo tanto, el concepto de cambio de rango te puede ayudar a comprender si el mercado es alcista, bajista o lateral.",
+    "block_08": "Abrir la sala de operaciones",
+    "block_09": "¿Cómo se aplica el RSI?",
+    "block_10": "Inicia sesión en tu cuenta de CapitalBear y abre la sala de operaciones",
+    "block_11": "Haz clic en el botón del Indicador en la esquina inferior del gráfico",
+    "block_12": "Selecciona el Índice de Fuerza Relativa en la sección de Momento",
+    "block_13": "Configura tu indicador y aplícalo al gráfico",
+    "block_14": "Pruébalo ahora",
+    "block_15": "¡Gracias por tu atención!",
+    "block_16": "Sigue atento a los emails, para no perderte consejos de trading.",
+    "block_17": "Empieza a Operar"
+}

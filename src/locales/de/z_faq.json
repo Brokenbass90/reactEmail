@@ -1,0 +1,31 @@
+{
+  "main": {
+    "head": "Händler FAQ:",
+    "head-long": "Auszahlung",
+    "pre": "Heute möchten wir die am häufigsten gestellten Fragen über den Auszahlungsvorgang beantworten."
+  },
+  "one": {
+    "title": "Wie hoch ist der Mindest- und Höchstbetrag, den ich abheben kann?",
+    "text": "Der auszahlbare Mindestbetrag beträgt $10 und das Maximum liegt bei $1.000.000, wir hoffen, dass Ihnen dies eine gute Entscheidungsfreiheit gibt."
+  },
+  "two": {
+    "title": "Wie schnell nachdem ich meinen ersten Gewinn gemacht habe, kann ich abheben?",
+    "text": "Sofort! Ihr Geld gehört immer Ihnen und Sie sind nicht durch irgendwelche Bedingungen, in dieser Hinsicht, eingeschränkt."
+  },
+  "three": {
+    "title": "Muss ich die selbe Zahlungsoption verwenden, um abzuheben, die ich bei der Einzahlung verwendet habe?",
+    "text": "Ja, es ist wichtig, dass Sie auf die gleiche Karte oder E-Wallet abheben, welche Sie ursprünglich verwendet haben, ansonsten storniert das System die Anfrage. Der Auszahlungsbetrag kann nicht größer sein, als der von dieser Karte eingezahlte Betrag (es gibt jedoch kein Betragslimit für das E-Wallet)."
+  },
+  "four": {
+    "title": "In welcher Währung wird meine Auszahlung sein?",
+    "text": "Wenn Ihre IQ Option Kontowährung anders ist, als die Währung des Bankkontos, werden die Fonds durch Ihr Zahlungssystem, nach dem aktuellen Wechselkurs, umgewechselt."
+  },
+  "five": {
+    "title": "Wie schnell erhalte ich mein Geld?",
+    "text": "Wir benötigen bis zu 3 Tage, um eine Auszahlungsanfrage zu verarbeiten (1 Tag für VIPs).  Der Zeitpunkt der Auszahlung hängt auch von der Bank oder dem E-Wallet-System, dass Sie verwenden, ab (angefangen von 1 Tag für die E-Wallets und bis zu 7-9 Tage für Banken)."
+  },
+  "cta": {
+    "pre": "Haben Sie noch Fragen? Zögern Sie nicht, unser Support-Team zu kontaktieren!",
+    "butt": "Weiter IQ Option"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "main": {
+    "head-o": "Wussten Sie, dass Sie Ihre Investition ",
+    "head": "zurückbekommen können?",
+    "top-text": "Die Vorverkauf -Funktion ermöglicht es Ihnen, die Risiken zu minimieren und Ihre Investition im Falle einer falschen Prognose zurückzubekommen.",
+    "title": "So funktioniert das",
+    "one": "Sie können einen Trade innerhalb der ersten 3 Sekunden widerrufen oder die Option wieder zu angebotenen Bedingungen verkaufen. Wenn Sie den Deal innerhalb der ersten 3 Sekunden nach dem Kauf der Option stornieren, erhalten Sie den vollen Betrag Ihrer Investition zurück auf Ihren Kontostand gutgeschrieben. Sofort.",
+    "two": "Wenn sich der Vermögenspreis in die falsche Richtung bewegt, bietet das System Ihnen an, Ihre Verluste durch den Abschluss der Transaktion vor der Ablaufzeit zu minimieren. Der Verkaufspreis wird automatisch berechnet. Die Formel berücksichtigt die historische Volatilität, die Abweichung der aktuellen Notierung von der Notierung zum Zeitpunkt des Kaufs und die Zeit bis zum Verfallsdatum.",
+    "row": "Vorverkauf-Funktion vor der Ablaufzeit ist sowohl in der Web-als auch in der mobilen Version zur Verfügung gestellt, ist es jedoch nicht beim OTC-Handel verfügbar.",
+    "pre-cta": "Testen Sie diese Funktion risikofrei auf Ihrem Demokonto!",
+    "butt": "Wechseln zu IQ-Option",
+    "last": ""
+  }
+}

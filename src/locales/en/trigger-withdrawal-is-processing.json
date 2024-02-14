@@ -1,0 +1,12 @@
+{
+	"block_00": "Withdrawal request successful",
+	"block_01": "Your withdrawal request of",
+	"block_02": "%amount_withdrawal%",
+	"block_03": "has been successfully submitted and should be processed soon.",
+	"block_04": "Since this is your first time withdrawing, we’d like to highlight some important things you should know:",
+	"block_05": "To ensure a speedy withdrawal, double check all the fields in your withdrawal request have been filled out correctly.",
+	"block_06": "If you are withdrawing to an e-wallet, make sure your account is verified with the service provider you have chosen for your withdrawal.",
+	"block_07": "Traders have access to 3 commission-free withdrawals per calendar month.",
+	"block_08": "IQ Option processes withdrawals within 3 business days. Depending on your bank, it may take longer for the funds to be reflected in your account.",
+	"block_09": "We appreciate you choosing IQ Option as your trusted broker!"
+}

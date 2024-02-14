@@ -1,0 +1,16 @@
+{
+	"block_00": "Your proof of identity has expired",
+	"block_01": "<b class=\"block_01_0\">Identity document has expired</b>",
+	"block_02": "<b class=\"block_02_0\">Dear trader,</b>",
+	"block_03": "Your proof of identity has expired. This means that <b class=\"block_03_0\">you will no longer be able to trade or deposit with us.</b>",
+	"block_04": "However, if you wish to continue trading with us, please upload a full page, colored copy of one of the following to your account:",
+	"block_05": "Identity card;",
+	"block_06": "Passport;",
+	"block_07": "Residence permit;",
+	"block_08": "Driver’s license.",
+	"block_09": "UPLOAD DOCUMENT",
+	"block_10": "Should you have any questions, our",
+	"block_11": "Support team",
+	"block_12": "will be happy to help.",
+	"block_13": "<b class=\"block_13_0\">Thank you for choosing our company!</b>"
+}

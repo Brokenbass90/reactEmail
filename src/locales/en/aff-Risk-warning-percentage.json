@@ -1,0 +1,17 @@
+{
+    "block_00": "Hello [%first_name%],",
+    "block_01": "With this email, we would like to notify you about the change in the risk warnings to be used in the materials targeting traders from the EEA countries. Namely, the percentage in the risk warning text has been updated to 74%. The full text of the marketing guidelines, including risk warnings, is available for review in",
+    "block_02": "your account",
+    "block_03": ".",
+    "block_04": "From now on, please make sure to use the following wording in all of your marketing materials:",
+    "block_05": "CFDs are complex instruments and entail a high risk of losing money rapidly due to leverage.",
+    "block_06": "<b class=\"block_06_00\">74% of retail investor accounts lose money when trading CFDs with this provider.</b>",
+    "block_07": "You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.",
+    "block_08": "For cases where there is not enough space for the full risk warning text, you can use the shortened risk warning:",
+    "block_09": "<b class=\"block_09_00\">74% of retail investor accounts lose money when trading CFDs with this provider.</b>",
+    "block_10": "You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.",
+    "block_11": "For cases where the available character limit prevents you from using the full risk warning text, e.g., the registration buttons, you can use the following risk warning:",
+    "block_12": "<b class=\"block_12_00\">74% of retail investor accounts lose money when trading CFDs with this provider.</b>",
+    "block_13": "Please be advised that the percentage to be used in the risk warnings will be updated every three months and you will be notified accordingly. Should you have any questions, please contact your personal manager.",
+    "block_14": "CONTACT MANAGER"
+}

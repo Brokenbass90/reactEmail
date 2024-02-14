@@ -1,0 +1,53 @@
+{
+  "top": {
+    "head": "Diese Woche bei IQ Handel",
+    "text": "Schauen Sie sich diese beeindruckenden Statistiken aus der vergangenen Woche an"
+  },
+  "trade": {
+    "subhead":"BESTER TRADER",
+    "head": "TRADER DER WOCHE"
+  },
+  "tour": {
+    "subhead":"TOP 3 GEWINNER",
+    "head": "Turniersieger"
+  },
+  "option": {
+    "head": "BESTE OPTION",
+    "in": "Investition",
+    "out": "Rendite"
+  },
+  "with": {
+    "subhead":"AUSZAHLUNG",
+    "head": "Größte Auszahlung "
+  },
+  "market": {
+    "subhead": "MARKET MOVER",
+    "head": "Größter Market Mover "
+  },
+  "robo": {
+    "iq": "IQ ROBOTS",
+    "iq-2": "Best of the best",
+    "ind-1": "GS comb T000",
+    "review-1": "Most Profitable",
+    "profit-1": "+49.94% profit",
+    "ind-2": "Death or Glory",
+    "review-2": "Most Popular",
+    "profit-2": "+$151 profit"
+  },
+  "cta": {
+    "butt": "WECHSELN ZUR IQ-OPTION"
+  },
+  "otc": {
+    "subhead": "Wochenenden",
+    "head": "Der Handel an den Wochenenden ",
+    "text": "Wir möchten Sie daran erinnern, dass die IQ Option Plattform den Handel ohne einer Unterbrechung am Wochenende ermöglicht. "
+  },
+  "bg": {
+    "trader": "https://images01.iqoption.com/45/3345/static-01937992705422393345.jpg",
+    "option": "https://images01.iqoption.com/49/6849/static-01453197408597966849.jpg",
+    "market": "https://images01.iqoption.com/97/1297/static-02481439908137271297.jpg",
+    "otc": "https://images01.iqoption.com/57/1457/static-03748340198283411457.jpg",
+    "tourn": "https://images01.iqoption.com/09/7409/static-02882389319413137409.jpg",
+    "with": "https://images01.iqoption.com/73/4673/static-04113331978000924673.jpg"
+  }
+}

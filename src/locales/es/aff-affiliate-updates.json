@@ -1,0 +1,20 @@
+{
+    "block_00": "Actualizaciones para los dispositivos móviles 🔥",
+    "block_01": "Hola [%first_name%],",
+    "block_02": "Durante el 2022, hemos tenido muchas actualizaciones para los dispositivos móviles. Si estás interesado en encontrar nuevas maneras de generar tráfico, entonces, esta carta es la señal del destino que tanto has estado esperando, ¡aprovecha y entérate de todo!",
+    "block_03": "<b class=\"block_03_00\">actualización de la aplicación para iOS</b>",
+    "block_04": "La aplicación IQ Broker para iOS, ha sido actualizada y se encuentra disponible en una lista de países mucho más amplia. En este caso, nos referimos a la aplicación IQ Broker con el icono de color «negro», la cual, se encuentra disponible para todos los usuarios de iOS que pertenecen a aquellos países, en los que la aplicación clásica de IQ Option, no está disponible. Esta última aplicación, tiene el icono de color «naranja» y los países a los que nos referimos son: México, Arabia Saudita, Malasia, Chile, etc. Al intentar descargar la aplicación principal, los usuarios se redirigirán, de manera automática, a la aplicación que está disponible, con el icono de color «negro».",
+    "block_05": "<b class=\"block_05_00\">Página de destino más liviana</b>",
+    "block_06": "El objetivo de haber creado esta página de destino es el de aumentar los cambios, pensando especialmente, en aquellas zonas geográficas en las que existe una mala conexión a Internet. La potencia de esta nueva página de destino radica en su tamaño reducido (tan solo 2 pantallas), gracias a lo cual, es capaz de llevar directamente al usuario a la página de registro. ¡Compruébalo tú mismo!",
+    "block_07": "Visitar la página de destino",
+    "block_08": "<b class=\"block_08_00\">Página de destino con una estructura de marco, pensada para el registro con dispositivos móviles</b>",
+    "block_09": "En la nueva página de destino, hemos decidido reemplazar el botón habitual para la descarga desde la tienda de aplicaciones (el cual, contribuye a los cambios mencionados en relación a la <i>instalación</i>) con un formulario de registro (gracias al cual, se incrementan dichos cambios de cara al registro). Todo esto se resume en que, el usuario, debe registrar primero una cuenta, para posteriormente pasar a descargar la aplicación en la tienda. Nuestro experimento se ha traducido en un aumento muy importante, en lo relativo a los cambios de cara al registro, así que te recomendamos que no dudes en probarlo.",
+    "block_10": "Visitar la página de destino",
+    "block_11": "Ten en cuenta que, ahora, <b class=\"block_11_00\">todas las estructuras de registro de tipo marco, pueden redirigir al usuario a la sala de inversiones, directamente desde la página del afiliado</b> (después de registrarse en la página desde la propia estructura del marco).",
+    "block_12": "Para que realmente funcione, debes añadir un par de líneas de código cuando pegues una estructura de tipo marco en tu página. Aquí tienes cómo se hace:",
+    "block_13": "En el código del marco, añade lo siguiente:",
+    "block_14": "sandbox attribute for iframe tag",
+    "block_15": "Posteriormente, añade un parámetro a la ruta del propio marco:",
+    "block_16": "Ejemplo:",
+    "block_17": "¡Te deseamos que efectúes los mejores cambios! 🚀"
+}

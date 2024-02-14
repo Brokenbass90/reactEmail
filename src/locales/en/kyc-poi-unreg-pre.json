@@ -1,0 +1,18 @@
+{
+	"block_00": "Your identity document will expire soon",
+	"block_01": "<b class=\"block_01_0\">Identity document expiring soon</b>",
+	"block_02": "<b class=\"block_02_0\">Dear trader,</b>",
+	"block_03": "We are contacting you as <b class=\"block_03_0\">your document will expire in 1 day</b> and your account will no longer be verified. As per our regulator, all proofs of identity must be updated once they expire.",
+	"block_04": "<b class=\"block_04_0\">Kindly provide us with one of following valid documents to your account:</b>",
+	"block_05": "Identity Card;",
+	"block_06": "Passport;",
+	"block_07": "Residence permit;",
+	"block_08": "Driving Licence.",
+	"block_09": "The document must be full page, coloured, issued on your name and valid.",
+	"block_10": "<b class=\"block_10_0\">We appreciate your cooperation and remain at your disposal.</b>",
+	"block_11": "UPLOAD DOCUMENT",
+	"block_12": "Should you have any questions, our",
+	"block_13": "Support team",
+	"block_14": "will be happy to help.",
+	"block_15": "<b class=\"block_15_0\">Thank you for choosing our company!</b>"
+}

@@ -1,0 +1,10 @@
+{
+	"block_00": "Muy Solicitada:",
+	"block_01": "Stop-Loss con Arrastre",
+	"block_02": "<b class=\"block_02_0\">El Stop-Loss con Arrastre</b> ajusta automáticamente el límite de tu stop-loss, siempre y cuando el precio tienda a tu favor.",
+	"block_03": "Pruébalo ahora mismo",
+	"block_04": "¿Cómo funciona?",
+	"block_05": "<b class=\"block_05_0\">El TSL</b> desplazará automáticamente el límite de tu stop-loss hacia arriba (en caso de que sea una opción SUBE) o hacia abajo (en caso de que sea una opción BAJA). La operación se cerrará cuando ya haya generado cierto nivel de beneficio, pero antes de que la tendencia se invierta.",
+	"block_06": "Pruébalo ahora mismo",
+	"block_07": "https://images01.iqoption.com/21/3521/static-02832305424454123521.png"
+}

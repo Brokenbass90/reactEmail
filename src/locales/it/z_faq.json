@@ -1,0 +1,31 @@
+{
+  "main": {
+    "head": "Le FAQ dei trader:",
+    "head-long": "Prelievo",
+    "pre": "Oggi vogliamo rispondere alle domande più frequenti sul processo di prelievo."
+  },
+  "one": {
+    "title": "Qual è l'importo minimo e quello massimo che posso prelevare?",
+    "text": "L'importo minimo per il prelievo è di $10 e il massimo è di $1 000 000, speriamo di darti una sufficiente libertà di scelta."
+  },
+  "two": {
+    "title": "Quanto tempo dopo aver guadagnato il mio primo profitto posso prelevare?",
+    "text": "Immediatamente! Il tuo denaro è subito tuo e non esistono restrizioni a riguardo."
+  },
+  "three": {
+    "title": "Per il prelievo devo usare lo stesso metodo di pagamento che ho selezionato per il deposito?",
+    "text": "Sì, è importante che tu trasferisca il denaro sulla stessa carta o conto online che hai usato inizialmente, altrimenti il sistema annullerà la richiesta. L'importo del prelievo non deve essere superiore a quello del deposito effettuato dalla stessa carta (tuttavia, non esiste nessun limite per il conto online)."
+  },
+  "four": {
+    "title": "In che valuta sarà effettuato il mio prelievo?",
+    "text": "Se la valuta del tuo conto IQ Option è diversa dalla valuta del tuo conto corrente, i fondi verranno convertiti dal tuo sistema di pagamento in base al cambio attuale."
+  },
+  "five": {
+    "title": "Quando riceverò il mio denaro?",
+    "text": "L'elaborazione della richiesta di prelievo richiede fino a 3 giorni (1 giorno per i conti VIP). Il momento del pagamento dipende anche dalla banca o dal sistema di conti online che utilizzi (va da 1 giorno per i conti online e fino a 7-9 giorni per le banche)."
+  },
+  "cta": {
+    "pre": "Hai ancora delle domande? Non esitare a contattare il nostro Team di supporto!",
+    "butt": "Vai a IQ Option"
+  }
+}

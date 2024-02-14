@@ -1,0 +1,18 @@
+{
+    "block_00": "With social login and adaptive language!",
+    "block_01": "Time to refresh your registration frames!",
+    "block_02": "<b class=\"block_02_00\">Hello [%first_name%],</b>",
+    "block_03": "We are happy to introduce new registration frames for our affiliates! The new frames compare favorably with the old ones due to several features:",
+    "block_04": "<b class=\"block_04_00\">Social login.</b> Now, users can register with their existing login information from a social network provider like Facebook or Google.",
+    "block_05": "<b class=\"block_05_00\">Adaptive language.</b> The frame will automatically switch to the user's browser language.",
+    "block_06": "<b class=\"block_06_00\">\"Already have an account? Log in\"</b> button for registered users, so that they do not use the registration frame as a login form.",
+    "block_07": "<b class=\"block_07_00\">2 frames with social buttons</b> (light and dark), as well as a more compact frame without social buttons.",
+    "block_08": "View registration frames",
+    "block_09": "How will you benefit from new registration frames?",
+    "block_10": "If you use <b class=\"block_10_00\">your own landing pages</b>, our frames will simplify registration and increase the chances of conversion. Just keep in mind that custom landings must",
+    "block_11": "comply with our marketing guidelines.",
+    "block_12": "If you use <b class=\"block_12_00\">mobile apps</b> and for some reason don't want to send the user away for the app download, the new frames will allow in-browser trading without redirecting to the app store. The user will get straight to the Traderoom, which might boost conversion to trading.",
+    "block_13": "Be aware that the old frames will only remain functional for the next 3 months. Make sure to update them before long!",
+    "block_14": "<b class=\"block_14_00\">Waste no time, change your registration frames today</b> 👇",
+    "block_15": "Go to the Personal Area"
+}

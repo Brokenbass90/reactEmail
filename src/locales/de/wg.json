@@ -1,0 +1,12 @@
+{
+  "main": {
+    "amount": "https://images01.iqoption.com/01/8401/static-00064898673829478401.png",
+    "fund": "Preispool",
+    "when": "Wann:",
+    "date": "9. Dezember, 16:00 - 16:30 Uhr",
+    "rebuy": "Rückkaufgebühr: ",
+    "butt": "Teilnehmen",
+    "warn-o": "75% von Ihren Anzahlungen während des Turniers gehen in den Preispool!",
+    "warn": "Man erhält einen Anteil des Preispools nur im Fall eines Gewinns im Turnier. Alle teilnehmenden Trader starten das Turnier mit einem Sonderkonto mit einem Guthaben von 100 USD."
+  }
+}

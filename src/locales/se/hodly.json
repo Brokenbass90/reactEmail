@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Välkommen!",
+    "subtitle": "Ditt HODLY-konto är nästan klart.",
+    "text-1": "Vi behöver bara bekräfta din e-postadress och sen är allt klart.",
+    "cta": "Bekräfta e-postadress"
+  },
+  "password": {
+    "title": "Hallå där!",
+    "subtitle": "Någon har begärt att återställa lösenordet till ditt HODLY-konto.",
+    "text-1": "Om det var du kan du ange ett nytt lösenord genom att klicka på knappen nedan:",
+    "cta": "Konfigurera nytt lösenord",
+    "text-2": "Om du inte vill ändra ditt lösenord eller inte begärt det ignorerar du och kastar bort det här meddelandet.",
+    "orange": "Ha en bra dag!"
+  },
+  "email": {
+    "title": "Hallå där!",
+    "subtitle": "Antingen har du eller någon annan begärt att få ändra e-postadressen till ditt HODLY-konto.",
+    "text-1": "För att ändra e-postadressen klickar du nedan",
+    "cta": "Ändra e-post",
+    "text-2": "Om du inte vill ändra din e-postadress eller om du inte begärt det ignorerar du det bara och kastar detta meddelande.",
+    "orange": "Ha en bra dag!"
+  },
+  "auto": "Detta meddelande genererades och skickades automatiskt och kräver inget svar."
+}

@@ -1,0 +1,21 @@
+{
+  "top": {
+    "forex": "Più semplice di Forex!",
+    "pip": "1 pip è tutto ciò che serve",
+    "head": "Come funziona? "
+  },
+  "first": {
+    "strong":"Passo 1:",
+    "head": "Fai una previsione:",
+    "text": "il prezzo sarà più alto o più basso di quello attuale?"
+  },
+  "second": {
+    "strong":"Passo 2:",
+    "head": "Raccogli i tuoi profitti:",
+    "text": "Se la previsione è corretta anche di 1 pip, aumenti il tuo investimento",
+    "persent": "del 90%!"
+  },
+  "resp": {
+    "button": "Prova gratuitamente"
+  }
+}

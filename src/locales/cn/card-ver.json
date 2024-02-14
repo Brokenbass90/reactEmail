@@ -1,0 +1,15 @@
+{
+	"block_00": "银行卡审核通过确认",
+	"block_01": "您好",
+	"block_02": "USER_FULL_NAME",
+	"block_03": "，",
+	"block_04": "您为此银行卡所提交的最后四位数字副本",
+	"block_05": "card_last_digits",
+	"block_06": "已审核通过。",
+	"block_07": "请注意，如果您想使用新的银行卡进行存款或取款，则需要上传以进行验证。",
+	"block_08": "前往 IQ Option",
+	"block_09": "如果您有任何疑问，可以通过以下方式与我们联系",
+	"block_10": "support@iqoption.com",
+	"block_11": "。",
+	"block_12": "条款和条件"
+}

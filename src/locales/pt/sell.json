@@ -1,0 +1,14 @@
+{
+  "main": {
+    "head-o": "Sabia que você pode obter o seu",
+    "head": "investimento de volta?",
+    "top-text": "O recurso de 'Venda Antecipada' permite-lhe gerir riscos e receber de volta o seu investimento em caso de uma previsão errada.",
+    "title": "Veja como ele funciona",
+    "one": "Você pode cancelar uma operação nos primeiros 3 segundos ou pode vender a opção de volta nas condições oferecidas. Se você cancelar a operação dentro dos 3 primeiros segundos após a compra da opção, você receberá o valor total do seu investimento de volta ao seu saldo. Imediatamente.",
+    "two": "Se o preço do ativo está se movendo na direção 'errada', o sistema irá lhe oferecer para reduzir suas perdas  fechando o negócio antes do tempo de expiração. O preço de venda é calculado automaticamente. A fórmula considera a volatilidade histórica, o desvio da atual taxa de cotação à partir da taxa de cotação no momento da compra e o tempo restante para a expiração do ativo.",
+    "row": "A venda de opções antes do tempo de expiração está disponível tanto em plataformas web e móveis, no entanto, não é aplicável à negociação em modo OTC.",
+    "pre-cta": "Experimente este recurso sem riscos em sua conta de treinamento!",
+    "butt": "Ir para IQ Option",
+    "last": ""
+  }
+}

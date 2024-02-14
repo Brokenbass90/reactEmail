@@ -1,0 +1,50 @@
+{
+  "top": {
+    "hello": "Bienvenue!",
+    "happy": "Nous sommes heureux de vous accueillir parmi les traders de l'équipe IQ&nbsp;Option",
+    "text": "Au nom de chaque employé, nous tenons à vous remercier pour votre confiance. Notre objectif est d'être pour vous le meilleur broker en options binaires. Nous vous offrons un service qui est déjà apprécié par tous les clients de notre société. ",
+    "team": "L'équipe IQ Option travaille 24 heures par jour, 7 jours par semaine, afin de maintenir les normes les plus élevées et répondre à toutes vos attentes!",
+    "watch": "Regardez la vidéo <br> ",
+    "watch-strong": "pour voir comment trade <br> sur la plate-forme"
+  },
+  "rowhead": {
+    "lider": "IQ Option est un vrai leader, le garant de qualité dans le monde des options binaires, et les faits le prouvent."
+  },
+  "row_one": {
+    "text": "A tout moment, sur la plate-forme IQ Option, plus de 10 mille personnes sont en train de trader"
+  },
+  "row_two": {
+    "text": "L'ouverture d'une position sur la plate-forme IQ Option se fait en un clin d'oeil"
+  },
+  "row_three": {
+    "text": "Les versements mensuels d'IQ Option à ses traders sont de l'ordre de 5 millions de dollars!"
+  },
+  "row_four": {
+    "text": "IQ Option est le Meilleur Broker en Options Binaires d'Europe (Récompense «Best Binary Options Broker in Europe») en 2015 selon le Global Banking & Finance Review"
+  },
+  "cta_rowhead": {
+    "first": "Premiers pas sur le site"
+  },
+  "cta_row_one": {
+    "head": "Vous ne connaissez pas encore les options binaires?",
+    "text": "Profitez du meilleur système d'apprentissage interactif de l'industrie dès maintenant et obtenez toutes les connaissances nécessaires au trading.",
+    "button": "L'apprentissage"
+  },
+  "cta_row_two": {
+    "head": "Voulez-vous essayer les deals réels?",
+    "text": "Vous pouvez dès maintenant commencer à trader, avec un dépôt minimum de seulement 10$.",
+    "button": "Faire un dépôt"
+  },
+  "cta_row_three": {
+    "head": "Avez-vous besoin d'une approche personnelle?",
+    "text": "Faites un dépôt de plus de 3000$ et devenez un client VIP d'IQ Option!",
+    "text-two": "En obtenant le statut de trader premium, vous ressentirez tous les avantages de notre service, grâce au manager personnel qui vous guidera pas à pas et vous fournira toutes les informations nécessaires, dans votre langue maternelle.",
+    "button": "VIP en détail"
+  },
+  "cta": {
+    "button": "ALLER SUR LA PLATE-FORME",
+    "question": "Si vous avez des questions, notre&nbsp;",
+    "support": "équipe de soutien",
+    "help": "se fera un plaisir de vous aider."
+  }
+}

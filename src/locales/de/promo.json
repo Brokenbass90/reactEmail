@@ -1,0 +1,71 @@
+{
+  "header-img":"https://images01.iqoption.com/65/3265/static-03972043400244363265.png",
+  "header-img-2":"https://images01.iqoption.com/69/7569/static-04575659066096877569.png",
+  "title":"Das. Ändert. Alles.",
+  "text": "Eine Herausforderung, wie Sie über Optionshandel denken. Wählen Sie ein Instrument, dass Ihnen MEHR bieten könnte: mehr Kontrolle über Risiken und gleichzeitig mehr Rentabilität*. Wählen Sie digitale Optionen noch heute!",
+  "subtitle":"Wir sind stolz, Ihnen unser neuestes Handelsinstrument vorstellen zu können- <br /> <b>Die Digitalen Optionen</b>.",
+  "title-2":"Digitale Optionen bieten:",
+  "retrack":"digital_option",
+  "main-link":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "main-link-2":"https://play.google.com/store/apps/details?id=com.iqoption",
+  "video-link":"https://vimeo.com/221904750",
+  "video-screen-src":"https://images01.iqoption.com/21/4321/static-03682310805593784321.jpg",
+  "cta-1":"Bereit für eine Veränderung?",
+  "cta-2":"Testen Sie die Digitalen Optionen",
+  "list":{
+    "item-1":{
+      "title":"Höhere <br> Rentabilität*",
+      "text":"Gewinn bis zu 900%** im Falle von scharfen Kursbewegungen zu Ihrem Gunsten",
+      "img":"https://images01.iqoption.com/61/8161/static-01414225184591708161.png",
+      "img-2":"https://images01.iqoption.com/85/6385/static-03462266086840336385.png"
+    },
+    "item-2":{
+      "title":"Mehr<br /> Flexibilität*",
+      "text":"Verkauf von Optionen zum beliebigen Zeitpunkt, um den Gewinn abzusichern",
+      "img":"https://images01.iqoption.com/45/9345/static-01395644636378169345.png",
+      "img-2":"https://images01.iqoption.com/41/9441/static-00260606600350269441.png"
+    },
+    "item-3":{
+      "title":"Geringeres <br> Risiko*",
+      "text":"Unterschiedliche Ausübungspreise für Optionen sorgen für geringeres Risiko",
+      "img":"https://images01.iqoption.com/45/8545/static-01423283609921388545.png",
+      "img-2":"https://images01.iqoption.com/97/8897/static-00930395576804048897.png"
+    }
+  },
+  "feedback":"Leave Feedback",
+  "note":"Let us know what you think of Digital Options, so we can make it perfect for you.",
+  "asterisk-1":"*Verglichen mit unserem regulären Angebot für Binäre Optionen.",
+  "asterisk-2":"**Betrag nur im Falle einer erfolgreichen Vorhersage.",
+  "b-vs-c":{
+    "main-link":"https://iqoption.com/traderoom?aff=7&afftrack=mail&retrack=binary_vs_classic",
+    "retrack":"binary_vs_classic",
+    "img-link":"https://images01.iqoption.com/05/2305/static-00025269596852322305.jpg",
+    "text-1":"<span>Binäre und Klassische Optionen</span> sind Handelsinstrumente mit ihren eigenen einzigartigen Stärken und Schwächen. Man kann den Handel effektiver gestalten,nur, wenn alle diese Besonderheiten berücksichtigt werden.",
+    "binary":"Binäre Optionen",
+    "classic":"Klassische Optionen",
+    "line-1":{
+      "left":"Ideal für den Fall drastischer Preisbewegungen",
+      "right":"Perfekt für langfristige Vorhersagen"
+    },
+    "line-2":{
+      "left":"Kürzere Ablaufzeit",
+      "right":"Längere Ablaufzeit"
+    },
+    "line-3":{
+      "left":"<span>Eingeschränkte Rentabilität</span><br /> von bis zu 92%*",
+      "right":"<span>Unbegrenzte Rentabilität</span> im Falle einer erfolgreichen Vorhersage"
+
+    },
+    "line-4":{
+      "left":"Min.Investition — <span>$1</span>",
+      "right":"Min.Investition — <span>$0.01</span>"
+    },
+    "line-5":{
+      "left":"Bietet FX-Vermögenswerte, Indizes, Rohstoffe und verschiedene Aktienoptionen",
+      "right":"Aktienoptionen aus dem FTSE-500-Index: weltbekannte Marken und Branchenführer"
+    },
+    "text-2":"Wie Sie sehen können, funktionieren die binären Optionen perfekt, wenn Sie eine kurzfristige Preisspitze erwarten und den Pressemitteilungen sowie den Ergebnisberichten folgen. Allerdings, wenn Sie auf einen langsamen, aber stetigen Wachstum von einem Unternehmen setzen, übertrifft nichts die Klassischen Optionen,auch im Hinblick auf die Wirtschaftlichkeit und die Flexibilität, mit denen Sie investieren können. ",
+    "text-3":"Sind Sie bereit die neuen Wissen im Handel anzuwenden?",
+    "cta":"Wechseln zur IQ-Option"
+  }
+}

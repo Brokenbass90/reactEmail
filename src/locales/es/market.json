@@ -1,0 +1,12 @@
+{
+	"block_00": "Nueva Función:",
+	"block_01": "Órdenes A-la-Apertura del mercado",
+	"block_02": "¿Esperas un cambio de precio al comienzo del próximo día de trading?<br>Establece una operación para que se produzca inmediatamente una vez se abra el mercado.",
+	"block_03": "Operar con CFDs",
+	"block_04": "Por qué necesitas las ordenes A-la-Apertura del mercado:",
+	"block_05": "Supongamos que un informe de resultados decepcionante de una compañía sale a la luz después del cierre del mercado. <b class=\"block_05_0\">Todo apunta a que el precio de sus acciones abrirá a la baja</b>.",
+	"block_06": "Te diriges a la plataforma de trading de IQ Option, escoges un CFD para los valores de la compañía y eliges <b class=\"block_06_0\">Comprar o Vender al precio de apertura</b>",
+	"block_07": "Realizar una orden de trading al precio de apertura te permite <b class=\"block_07_0\">tomar ventaja de los grandes cambios de precio</b> que tienen lugar al comienzo de la sesión.",
+	"block_08": "Operar con CFDs",
+	"block_09": "https://images01.iqoption.com/21/2721/static-01633861426185502721.png"
+}

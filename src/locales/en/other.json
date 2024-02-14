@@ -1,0 +1,49 @@
+{
+  "calendar":{
+    "retrack":"earnings_calendar",
+    "retrack-2":"earnings_calendar-2",
+    "cta":{
+      "text":"Go to IQ Option",
+      "link":"#"
+    },
+    "title":"How to read<br />an Earnings Calendar",
+    "subtitle":"Looking into a company's earnings history and forecasts may increase your chances of success when trading Classic Options.",
+    "sec-1-title":"3 things to be mindful of:",
+    "sec-3-title":"Check the Earnings Calendar on the <br /> IQ Option trading platform right now!",
+    "eps":"EPS",
+    "forecast":"Forecast",
+    "revenue":"Revenue",
+    "active-1":{
+      "name":"PayPal Holdings Inc",
+      "date":"Apr 26, 2017",
+      "num-1":"0.44",
+      "num-2":"0.41",
+      "color":"green",
+      "rev-num":"2.98B",
+      "time-img":"https://images01.iqoption.com/01/9601/static-04299877409986969601.png"
+    },
+    "active-2":{
+      "name":"Intel",
+      "date":"Apr 27, 2017",
+      "num-1":"0.66",
+      "num-2":"0.68",
+      "color":"red",
+      "rev-num":"14.79B",
+      "time-img":"https://images01.iqoption.com/85/8385/static-04047061317670928385.png"
+    },
+    "item-1":{
+      "title":"Time of day",
+      "text":"Rookie traders tend to overlook one major detail when looking at an Earnings Calendar: <b>the time of the report</b>. The reports for American public companies either come in before the US markets open or after they close."
+    },
+    "item-2":{
+      "title":"EPS forecast",
+      "text":"The Earnings Per Share rate (more commonly know as EPS) is arguably <b>the most important indicator</b> of a company’s financial vitality, so any changes to it will reflect on the stock price. If the published financial results come in below the forecasted level, the price is more likely to gap down."
+    },
+    "item-3":{
+      "title":"Trackrecord",
+      "text":"Take the time to research the financial results of the company for several preceding quarters. Is there any history of consistent earnings beats or flops? If so, the company’s <b>stock is less prone to sharp moves in either direction</b>, but the overall trend is more obvious."
+    }
+
+  }
+
+}

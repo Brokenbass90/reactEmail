@@ -1,0 +1,21 @@
+{
+    "block_00": "Concluez votre première transaction",
+    "block_01": "<b class=\"block_01_00\">Félicitations pour le dépôt réussi 🎉</b>",
+    "block_02": "La porte du vrai marché vous est désormais ouverte ! Commencez à investir dès que vous êtes prêt.",
+    "block_03": "Pour vous aider à démarrer, nous partageons une <b class=\"block_03_00\">stratégie de trading de tendance</b> un peu simpliste, mais très utile ⬇",
+    "block_04": "Amusez-vous bien !",
+    "block_05": "<b class=\"block_05_00\">Moyennes mobiles</b>",
+    "block_06": "<b class=\"block_06_00\">Niveau de difficulté :</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Instruments :</b>",
+    "block_09": "options binaires/digitales, Forex, actions, crypto, FNB, matières premières",
+    "block_10": "<b class=\"block_10_00\">Cadres temporels :</b>",
+    "block_11": "tous",
+    "block_12": "Les moyennes mobiles (Moving Averages, MA) sont utilisées pour aider les traders à confirmer une tendance en utilisant l'action des prix précédente. Il existe deux types de MA : les moyennes mobiles simples (SMA) et les moyennes mobiles exponentielles (EMA).",
+    "block_13": "La <b class=\"block_13_00\">SMA</b> s'appuie généralement sur le cours de clôture d'un marché, ce qui peut ralentir sa réaction. Pour cette raison, les traders utilisent la SMA pour les <b class=\"block_13_01\">contrats à plus long terme</b>.",
+    "block_14": "Les <b class=\"block_14_00\">EMA</b> s'appuient également sur des données de prix passées, mais plus de poids est accordé aux prix plus récents. Cela rend l'EMA plus <b class=\"block_14_01\">pertinente pour les traders d'options binaires et digitales.</b>",
+    "block_15": "<b class=\"block_15_00\">Comment les utiliser</b>",
+    "block_16": "Lorsque le graphique croise l'indicateur <b class=\"block_16_00\">par en haut</b> avec des chandeliers rouges, cela signifie que le prix de l'actif baisse et que la chute peut se poursuivre. C'est le signal pour <b class=\"block_16_01\">VENDRE</b>.",
+    "block_17": "Lorsque les chandeliers verts franchissent la ligne de l'indicateur <b class=\"block_17_00\">par en dessous</b>, c'est le signe d'un renversement de tendance et un signal pour <b class=\"block_17_01\">ACHETER</b>.",
+    "block_18": "Essayer sur la plateforme"
+}

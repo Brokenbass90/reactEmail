@@ -1,0 +1,18 @@
+{
+	"block_00": "Solicitud de Eliminación de Información recibida",
+	"block_01": "Estimado Cliente,",
+	"block_02": "Por la presente le confirmamos que hemos recibido su solicitud de <b class=\"block_02_0\">ELIMINACIÓN</b> de su cuenta y de <b class=\"block_02_1\">TODA</b> la información personal de acuerdo a sus derechos bajo el artículo 17 de la GDPR. Por favor tenga en cuenta que su información personal es muy importante para nosotros y que {{embedded.brand_name}} se toma la protección de datos muy en serio.",
+	"block_03": "Estaremos encantados de emprender acción respecto a su solicitud de eliminación de información personal, si su solicitud es válida y de acuerdo a las leyes y regulaciones aplicables.",
+	"block_04": "Procesaremos su solicitud y le procesaremos una respuesta final en <b class=\"block_04_0\">treinta (30) días laborables</b>.",
+	"block_05": "Nuestros sistemas están generalmente configurados para adherirse a los principios de necesidad y minimización de datos. Lo que significa que {{embedded.brand_name}} no procesa ninguna información personal que no sea absolutamente necesaria para proporcionarle nuestros servicios.",
+	"block_06": "<b class=\"block_06_0\">Si desea CANCELAR</b> su solicitud, podrá hacerlo a través de nuestro sitio web mientras la solicitud esté siendo procesada. Procesar su solicitud podría tardar entre <b class=\"block_06_1\">1 y 30 días laborales</b> dependiendo del volumen de solicitudes que estén siendo procesadas actualmente por nuestros sistemas",
+	"block_07": "Efectos de cancelar la solicitud de eliminación:",
+	"block_08": "Su cuenta no será eliminada;",
+	"block_09": "Será capaz de acceder a su cuenta, operar y hacer uso de los servicios de {{embedded.brand_name}}; y",
+	"block_10": "Su información personal no será eliminada.",
+	"block_11": "Dicho lo anterior, por la presente le informamos de que tendrá acceso limitado a su cuenta y solo podrá enviar solicitudes de retirada de acuerdo a la Política de Retirada y Reembolso de su balance disponible (si lo hubiera)<br> (<b class=\"block_11_0\">Balance Restante</b>).",
+	"block_12": "Después de 14 días desde la fecha presente, su cuenta será bloqueada por completo, no tendrá derecho a acceder a ella y la totalidad del <b class=\"block_12_0\">Balance Restante será transferido a la Compañía</b>.",
+	"block_13": "Atentamente, El Equipo de {{embedded.brand_name}}",
+	"block_14": "Si tiene cualquier otra duda, puede contactar con nosotros en",
+	"block_15": "support@iqoption.com"
+}

@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Velkommen",
+    "subtitle": "Din HODLY-konto er nesten klar.",
+    "text-1": "Vi må verifisere e-postadressen din, så er du klar",
+    "cta": "Verify e-mail address"
+  },
+  "password": {
+    "title": "Hei der!",
+    "subtitle": "Noen har kommet med en forespørsel om å tilbakestille passordet til din HODLY-konto.",
+    "text-1": "Hvis dette var deg, kan du lage et nytt passord ved å klikke på knappen nedenfor:",
+    "cta": "Set new password",
+    "text-2": "Hvis du ikke ønsker å endre passordet ditt eller ikke kom med en forespørsel om å endre dette, kan du ignorere og slette denne meldingen.",
+    "orange": "Ha en flott dag!"
+  },
+  "email": {
+    "title": "Hei der!",
+    "subtitle": "Enten har du eller noen andre forespurt å endre e-postadressen til din HODLY-konto.",
+    "text-1": "For å endre e-postadressen klikk nedenfor",
+    "cta": "Change e-mail",
+    "text-2": "Hvis du ikke ønsker å endre e-postadressen din eller ikke har kommet med en forespørsel om dette, så kan du ignorere og slette denne meldingen.",
+    "orange": "Ha en flott dag!"
+  },
+  "auto": "Dette brevetble generert og sendt automatisk, så det krever ikke noe svar."
+}

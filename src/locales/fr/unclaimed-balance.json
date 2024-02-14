@@ -1,0 +1,20 @@
+{
+  "block_00": "Notification concernant votre solde non réclamé",
+  "block_01": "Cher Monsieur / Madame,",
+  "block_02": "Veuillez noter qu'à la suite de la fermeture de votre compte de trading avec la Société, il a été identifié que votre compte de trading a un solde non réclamé à ce jour, c'est-à-dire qu'aucune mesure n'a été prise pour réclamer vos fonds.",
+  "block_03": "Il vous est fortement recommandé de contacter immédiatement la Société et de réclamer le solde restant en nous envoyant un e-mail à",
+  "block_04": "support@eu.iqoption.com",
+  "block_05": "en utilisant l’adresse e-mail enregistrée qui était liée à votre compte de trading. De plus, afin que la Société vous renvoie votre solde restant, nous vous prions de bien vouloir nous fournir les coordonnées bancaires suivantes :",
+  "block_06": "Prénom et nom",
+  "block_07": "Numéro IBAN",
+  "block_08": "Numéro Swift",
+  "block_09": "Pays de la banque",
+  "block_10": "Devise de votre compte bancaire",
+  "block_11": "Veuillez noter que la transaction peut être soumise à des frais. De plus, les paiements en USD sont soumis à des frais fixes de 35 USD et, par conséquent, il est recommandé de fournir à la Société les coordonnées bancaires d'un compte en EUR/GBP afin d'éviter de tels frais ; le solde restant en USD sera converti en EUR/GBP en conséquence lors du paiement correspondant. Nous vous prions de bien vouloir nous fournir un compte bancaire <b class=\"block_11_0\">autre que Revolut.</b>",
+  "block_12": "Enfin, pour tous les frais applicables après la fermeture de votre compte, veuillez vous référer à la clause 3 de la",
+  "block_13": "Politique générale des frais.",
+  "block_14": "Si vous avez déjà contacté la Société concernant le paiement de votre solde non réclamé et/ou si vous avez déjà reçu votre solde, veuillez ne pas tenir compte du présent e-mail.",
+  "block_15": "Si vous avez des questions ou avez besoin de précisions supplémentaires, n'hésitez pas à nous contacter par e-mail à l'adresse",
+  "block_16": "support@eu.iqoption.com.",
+  "block_17": "Aller à IQ Option"
+}

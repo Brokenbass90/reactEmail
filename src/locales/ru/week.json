@@ -1,0 +1,53 @@
+{
+  "top": {
+    "head": "Эта неделя на IQ&nbsp;trading",
+    "text": "Статистика за прошедшую неделю впечатляет"
+  },
+  "trade": {
+    "subhead":"ЛУЧШИЙ ТРЕЙДЕР",
+    "head": "ТРЕЙДЕР НЕДЕЛИ"
+  },
+  "tour": {
+    "subhead":"3 ПОБЕДИТЕЛЯ",
+    "head": "Триумфаторы турниров"
+  },
+  "option": {
+    "head": "ЛУЧШИЙ ОПЦИОН",
+    "in": "инвестиция",
+    "out": "ПРИБЫЛЬ"
+  },
+  "with": {
+    "subhead":"ВЫВОД СРЕДСТВ",
+    "head": "Крупнейший вывод средств"
+  },
+  "market": {
+    "subhead": "Двигатели рынка",
+    "head": "Главные активы недели"
+  },
+  "robo": {
+    "iq": "IQ ROBOTS",
+    "iq-2": "Best of the best",
+    "ind-1": "GS comb T000",
+    "review-1": "Most Profitable",
+    "profit-1": "+49.94% profit",
+    "ind-2": "Death or Glory",
+    "review-2": "Most Popular",
+    "profit-2": "+$151 profit"
+  },
+  "cta": {
+    "butt": "ПЕРЕЙТИ НА IQ OPTION"
+  },
+  "otc": {
+    "subhead": "Выходные",
+    "head": "Торговля на выходных",
+    "text": "Отличный повод напомнить, что на платформе IQ Option можно спокойно торговать на выходных."
+  },
+  "bg": {
+    "trader": "https://images01.iqoption.com/45/5345/static-03675782644282425345.jpg",
+    "option": "https://images01.iqoption.com/37/2337/static-03626738260258062337.jpg",
+    "market": "https://images01.iqoption.com/25/4625/static-02268420881854234625.jpg",
+    "otc": "https://images01.iqoption.com/81/9281/static-00627391073647329281.jpg",
+    "tourn": "https://images01.iqoption.com/33/4833/static-02439954028751224833.jpg",
+    "with": "https://images01.iqoption.com/69/3969/static-04264526105404243969.jpg"
+  }
+}

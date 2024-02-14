@@ -1,0 +1,32 @@
+{
+  "top": {
+    "build": "Construa o melhor IQ Robot",
+    "4000": "e ganhe até $4000",
+    "text": "A IQ Option vai recompensar o trader mais habilidoso, que construir o",
+    "link": "Melhor Robô de Trading.",
+    "winner": "3 vencedores",
+    "white": "serão selecionados em",
+    "category": " 2 categorias:"
+  },
+  "profit": {
+    "title": "O Robô Mais Lucrativo:",
+    "1-amount": "$2000",
+    "1-place": "1° lugar",
+    "2-amount": "$1000",
+    "2-place": "2° lugar",
+    "3-amount": "$500",
+    "3-place": "3° lugar"
+  },
+  "efficient": {
+    "title": "O Robô Mais Eficiente:"
+  },
+  "resp": {
+    "1-text": "Somente quem possui uma conta real pode participar",
+    "2-text": "Número mínimo de transações por robô"
+  },
+  "cta": {
+    "button": "Participar",
+    "text": "Para a lista completa dos Termos e Condições, por favor, acesse a página",
+    "link": "Torneios IQ Robot."
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"block_00": "Begäran om databorttagning",
+	"block_01": "Kära klient,",
+	"block_02": "Med hänsyn till din begäran daterad",
+	"block_03": "DD.MM.ÅÅÅÅ.",
+	"block_04": "Tack för din begäran om att ta bort ditt konto och ALLA dina personuppgifter. Dina personuppgifter är mycket viktiga för oss och {{embedded.brand_name}} tar dataskydd på högsta allvar. Vårt mål är att leverera bästa möjliga tjänsterna till våra kunder.",
+	"block_05": "Borttaning av konto/avslutande av avtalsförhållanden",
+	"block_06": "Vidare till din begärna har vi fortskridit med att stänga och blockera ditt konto från och med",
+	"block_07": "DD.MM.ÅÅÅÅ",
+	"block_08": "och vårt avtalsförhållande avslutas från och med datumet härav.",
+	"block_09": "Borttagning av personuppgifter",
+	"block_10": "Våra system är i allmänhet konfigurerade för att följa principerna för minimering och nödvändighet av data så att {{embedded.brand_name}} inte behandlar några personuppgifter från dig som inte är absolut nödvändiga för att tillhandahålla våra tjänster till dig eller för att följa en lag eller förordning som vi är bundna till.",
+	"block_11": "Efter att ha granskat din begäran och våra system för dina personuppgifter vill vi notera att all information som för vi för närvarande innehar kommer att lagras i sju år efter att vår avtalsförhållande har upphör i enlighet med vår sekretesspolicy, lagar och förordningar mot penningtvätt och terrorismfinansiering och andra tillämpliga lagar och förordningar som vi är bundna till (<b class=\"block_11_0\">Förordningar</b>). Enligt förordningarna har vi en rättslig skyldighet att lagra dina uppgifter i minst sju år.",
+	"block_12": "Om du har några frågor eller om du tror att dina personuppgifter fortfarande behandlas av {{embedded.brand_name}} utan att ta hänsyn till principen om nödvändighet kontaktar du oss genom att följa stegen som föreskrivs i sekretesspolicyn.",
+	"block_13": "Vi förbehåller oss alla våra rättigheter och åtgärder.",
+	"block_14": "Vänliga hälsningar, {{embedded.brand_name}}-teamet",
+	"block_15": "För alla förtydliganden och/eller annan information du kan behöva får du gärna kontakta oss på",
+	"block_16": "http://support@iqoption.com"
+}

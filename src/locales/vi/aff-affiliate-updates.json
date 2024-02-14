@@ -1,0 +1,20 @@
+{
+    "block_00": "Bản cập nhật cho thiết bị di động 🔥",
+    "block_01": "Xin chào [%first_name%],",
+    "block_02": "Trong năm 2022, chúng tôi đã phát hành rất nhiều bản cập nhật cho thiết bị di động. Nếu bạn vẫn còn tìm kiếm giải pháp để thu hút lưu lượng truy cập thì bức thư này có thông tin bạn cần đấy – đọc ngay!",
+    "block_03": "<b class=\"block_03_00\">Bản cập nhật ứng dụng cho iOS</b>",
+    "block_04": "Bản cập nhật ứng dụng IQ Broker cho iOS đã được phát hành ra nhiều nước. Đây là phiên bản \"màu đen\" của ứng dụng IQ Broker, được cung cấp cho người dùng iOS ở những nước không sử dụng được phiên bản \"màu cam\" cổ điển của ứng dụng IQ Option: Mexico, Ả Rập Xê Út, Malaysia, Chile, v.v. Khi tải ứng dụng chính xuống, người dùng sẽ tự động được chuyển hướng đến phiên bản \"màu đen\" hiện có.",
+    "block_05": "<b class=\"block_05_00\">Trang đích tinh gọn</b>",
+    "block_06": "Chúng tôi triển khai trang đích này để giúp gia tăng số lượt chuyển đổi, đặc biệt là ở những khu vực địa lý có tốc độ internet chậm. Điểm mạnh của trang đích mới là ngắn gọn (chỉ có 2 trang) và đưa người dùng thẳng đến bước đăng ký — hãy xem thử!",
+    "block_07": "Xem trang đích",
+    "block_08": "<b class=\"block_08_00\">Trang đích có khung đăng ký dành cho người dùng thiết bị di dộng</b>",
+    "block_09": "Trên trang đích mới, chúng tôi quyết định thay nút tải xuống ứng dụng từ cửa hàng tiêu chuẩn (tăng lượt chuyển đổi từ lượt cài đặt) thành biểu mẫu đăng ký (tăng lượt chuyển đổi từ lượt đăng ký). Nghĩa là, người dùng cần đăng ký tài khoản trước, sau đó tải ứng dụng xuống từ cửa hàng. Kết quả thử nghiệm của chúng tôi cho thấy số lượt chuyển đổi từ lượt đăng ký tăng đáng kể nên bạn đừng ngần ngại dùng thử.",
+    "block_10": "Xem trang đích",
+    "block_11": "Lưu ý rằng <b class=\"block_11_00\">mọi khung đăng ký giờ đây có thể chuyển hướng người dùng từ trang tiếp thị liên kết thẳng đến Phòng giao dịch</b> (sau khi đăng ký bằng khung trên trang này).",
+    "block_12": "Để sử dụng, bạn cần thêm một vài dòng mã khi dán khung vào trang. Sau đây là cách thực hiện:",
+    "block_13": "Trong phần mã của khung, hãy thêm vào:",
+    "block_14": "thuộc tính thử nghiệm cho thẻ iframe",
+    "block_15": "Thêm tham số vào đường dẫn của khung:",
+    "block_16": "Ví dụ:",
+    "block_17": "Chúc các bạn thu được thật nhiều lượt chuyển đổi! 🚀 "
+}

@@ -1,0 +1,16 @@
+{
+	"block_00": "인출 요청이 성공적으로 처리되었습니다.",
+	"block_01": "안녕하세요",
+	"block_02": "USER_FULL_NAME",
+	"block_03": "님,",
+	"block_04": "귀하의 인출 요청",
+	"block_05": "op_id",
+	"block_06": "이 성공적으로 처리되었으며 총 금액",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "이 귀하의 IQ Option 계정에서 인출되었습니다. 인출 요청에서 입력한 곳으로 자금이 송금됩니다.",
+	"block_10": "질문이 있으신 경우",
+	"block_11": "support@iqoption.com",
+	"block_12": "으로 문의해주세요.",
+	"block_13": "이용 약관"
+}

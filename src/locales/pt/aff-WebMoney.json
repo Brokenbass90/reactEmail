@@ -1,0 +1,14 @@
+{
+	"block_00": "Escolha uma carteira eletrônica temporária para seus pagamentos",
+	"block_01": "<b class=\"block_01_0\">Olá [%first_name%],</b>",
+	"block_02": "Informamos que, devido a problemas técnicos, estamos suspendendo temporariamente os pagamentos para carteiras WebMoney.",
+	"block_03": "Estamos trabalhando para resolver esse problema e esperamos trazer de volta os pagamentos via WebMoney o mais rápido possível. Até lá, escolha uma carteira eletrônica alternativa para receber seus pagamentos durante o período de manutenção.",
+	"block_04": "Crie um novo método de pagamento na seção",
+	"block_05": "Configurações de Pagamento",
+	"block_06": "Escolha um novo método de pagamento",
+	"block_07": "para os pagamentos regulares",
+	"block_08": "Fique atento: nós o notificaremos assim que o problema for resolvido e também estamos trabalhando para adicionar novos métodos de pagamento.",
+	"block_09": "Agradecemos a sua compreensão.",
+	"block_10": "Escolha um novo método de pagamento",
+	"block_11": "Se nenhuma das alternativas de carteiras eletrônicas sugeridas funcionar para você, e você tiver dinheiro remanescente no saldo do Programa de Afiliados, entre em contato com seu gerente."
+}

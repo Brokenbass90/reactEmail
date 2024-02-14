@@ -1,0 +1,21 @@
+{
+	"block_00": "Hesap doğrulama için belge isteği",
+	"block_01": "Hesap doğrulama işleminizi tamamlamak için, pasaportunuzun ana sayfalarının renkli birer kopyasını veya kimlik kartınızın her iki yüzünün renkli birer kopyasını yüklemenizi rica ediyoruz. Belge geçerli olmalı ve aşağıdaki bilgiler net şekilde görülmelidir:",
+	"block_02": "Tam adınız",
+	"block_03": "Fotoğrafınız",
+	"block_04": "Doğum tarihiniz",
+	"block_05": "Belgenin son kullanma tarihi",
+	"block_06": "Resmi belge numarası",
+	"block_07": "İmzanız",
+	"block_08": "Lütfen kabul edilen belge türlerine ait örneklere ve bu belgelerin nasıl yüklenmesi gerektiğine göz atın. Belgenizi aşağıya tıklayarak yükleyebilirsiniz",
+	"block_09": "Belge kopyalarını yükle",
+	"block_10": "Kart sahipliği",
+	"block_11": "Hüküm ve Koşullarımız uyarınca, ayrıca sizden hesabınıza para yatırmak için kullandığınız kredi/banka kartının kopyalarını yükleyerek kartın sahibi olduğunuzu onaylamanızı rica ediyoruz. Aşağıdaki bağlantı aracılığıyla",
+	"block_12": "kartı doğrulayın.",
+	"block_13": "Kart kopyalarını yükle",
+	"block_14": "Önemli: Kart imzalı olmalıdır.",
+	"block_15": "{{embedded.brand_name}}'i tercih ettiğiniz için teşekkür ederiz!",
+	"block_16": "Herhangi bir sorunuz olursa,",
+	"block_17": "Destek ekibimiz",
+	"block_18": "yardımcı olmaktan mutluluk duyar."
+}

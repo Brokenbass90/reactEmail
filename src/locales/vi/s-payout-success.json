@@ -1,0 +1,16 @@
+{
+	"block_00": "Yêu cầu rút tiền đã được xử lý thành công",
+	"block_01": "Xin chào",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Yêu cầu rút tiền",
+	"block_05": "op_id",
+	"block_06": "của bạn đã được xử lý thành công và số tiền",
+	"block_07": "amount",
+	"block_08": "currency",
+	"block_09": "đã được rút khỏi tài khoản IQ Option của bạn. Tiền sẽ được chuyển theo đúng thông tin trong yêu cầu rút tiền của bạn.",
+	"block_10": "Nếu có thắc mắc, vui lòng liên hệ với chúng tôi qua địa chỉ",
+	"block_11": "support@iqoption.com",
+	"block_12": ".",
+	"block_13": "Điều khoản và điều kiện"
+}

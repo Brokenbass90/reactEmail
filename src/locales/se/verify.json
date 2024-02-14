@@ -1,0 +1,26 @@
+{
+  "dear": "Kära trader,",
+  "text-1": "Vi vill informera dig om att enligt våra användarvillkor (punkt 6 \"kundens garantier\")",
+  "strong-1": "måste kunden tillhandahålla KYC-dokument till företaget senast 7 dagar",
+  "text-2": "från insättnings tillfället.",
+  "text-3": "Om du inte redan har gjort det ber vi dig att ladda upp nödvändiga identifierande handlingar så fort som möjligt. Om inte, blir vi tvungna att",
+  "strong-2": "&nbsp;begränsa din åtkomst till handel&nbsp;",
+  "text-4": "och/eller tjänsterna som vi erbjuder.",
+  "cta": "Verifiera konto",
+  "strong-3": "Varför behöver vi din dokumentation?",
+  "text-5": "Eftersom IQ Option Ltd regleras av CySEC (Cyprus Securities & Exchange Commission), kräver lagen att vi uppfyller de grundläggande kraven för bekämpning av penningtvätt och finansiering av terroristverksamheter. För att dra nytta av att handla med en reglerad enhet är det viktigt att du tillhandahåller information och/eller dokumentation som verifierar ditt konto.",
+  "support": "Om du har några frågor får du gärna kontakta vårt",
+  "link": "support team.",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "Tack för att du har valt IQ Option som din mäklare!",
+  "answer": "Obs: detta brev genererades och skickas automatiskt och kräver inte något svar.",
+  "after": {
+    "text-1": "Detta meddelande är till att påminna dig om att enligt våra användarvillkor (Punkt 6 \"Kundens garantier\")",
+    "strong-1": "ska kunden skicka in KYC-dokumentation till företaget inom en period som inte är längre än 7 dagar",
+    "text-2": "från insättningsögonblicket.",
+    "text-3": "Eftersom du ännu inte har skickat in dessa dokument för kontoverifiering",
+    "strong-2": "&nbsp;har din handel på handelsplattformen avbrutits.&nbsp;",
+    "text-4": "Om du inte verifierar kontot inom 7 dagar kommer kontot att avslutas och ditt handelssaldo kommer då att återbetalas till dig."
+  }
+}

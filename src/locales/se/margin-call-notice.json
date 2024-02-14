@@ -1,0 +1,18 @@
+{
+	"block_00": "Meddelande om marginalanrop",
+	"block_01": "Bästa trader,",
+	"block_02": "Med det här meddelandet vill vi informera dig om att <b class=\"block_02_0\">ditt IQ Option-handelskonto har ådragit sig ett marginalunderskott</b>. I detta avseende kan du inte öppna några nya positioner förrän marginalpositionerna i ditt konto har återställts till de krävda marginalnivåerna.",
+	"block_03": "Din nuvarande marginalnivå är",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "Enligt företagets",
+	"block_07": "Villkor",
+	"block_08": "kommer öppnade marginalpositioner i ditt konto att stängas automatiskt när marginalnivån når ett lägsta värde på",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Du kan sätta in pengar på ditt konto för att bibehålla öppnade positioner och få bort marginalunderskottet. För att se vilket belopp som krävs för att återställa ditt konto till efterlevnadsstandard för marginaler går du till handelsrummet.",
+	"block_12": "Gå till handelsrum",
+	"block_13": "Om du har några frågor hjälper vårt",
+	"block_14": "Supportteam",
+	"block_15": "dig gärna."
+}

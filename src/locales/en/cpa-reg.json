@@ -1,0 +1,60 @@
+{
+  "main": {
+    "hello": "Hello!",
+    "top-text": "You have successfully signed up with IQ Option CPA. To activate your account, please confirm your registration by clicking on the button below.",
+    "butt": "Confirm Registration",
+    "about": "The link is single-use and any subsequent clicks will result in an error. Should you have any questions, don’t hesitate to contact our support team at",
+    "team": "The IQ Option CPA team is looking forward to our fruitful partnership!",
+    "warn": "Please note: this letter was generated automatically and there’s no need to reply"
+  },
+  "title":"Automated anti-fraud protection",
+  "subtitle":"IQ Option Affiliate program is happy to introduce the new affiliate cooperation program – IQ option CPA.",
+  "title-2":"Good news everyone!",
+  "subtitle-2":"We have finally released a sophisticated service of user verification.",
+  "cta":"Details",
+  "cta-2":"Our commission rates",
+  "sec-2":{
+    "title":"CPA is easy to use",
+    "item-1":"As you already know, our FTD payout can be 13 times more than the minimum deposit required to get the CPA payout: you can get up to <b>$130</b> for a user depositing from the following regulated countries <b>DE</b>, <b>LU</b>, <b>SE</b>, <b>GB</b>, <b>NO</b> or from these non-regulated countries <b>HK</b>, <b>SA</b>, <b>SG</b>, <b>CH</b>.",
+    "item-2":"In order to prevent user fraud, we have developed our own antifraud system. As a financial services provider we are obliged to record every step a user is registering on our platform.",
+    "item-3":"Based on the results of an analysis of 15 million users and their behavior, we have developed <b>a scoring system</b> that helps us to understand whether the user has been incentivized or not.",
+    "item-4":"<b>We pay promptly and quickly.</b> Large selection of payment systems. Payouts can be done on demand."
+  },
+  "sec-3":{
+    "title":"The scoring system is a simple achievements list",
+    "tier":"Tier/OS",
+    "web":"Web",
+    "ios":"iOS",
+    "android":"Android",
+    "incentive":"Incentive",
+    "bottom":"Personal rates are negotiable!",
+    "text-1":"Thus, when a user is using our platform: <b>trading, depositing, watching videos, train, chatting, adjusting, account verification and further more</b> — we get signals about each step that is made.",
+    "text-2":"These actions are compiled in activity groups that have generate value points. When the user earns enough value points it is being approved by our micro service with right to full payout.",
+    "text-3":"If the user is not active enough (i.e. made a minimum deposit, only 3 trades and no other activity) <b>we approve the payout, but with incentive rate</b>."
+  },
+  "sec-4":{
+    "title":"3 click conversion flow",
+    "item-1":"Our creatives",
+    "item-2":"Your traffic",
+    "item-3":"IQ Service",
+    "item-4":"IQ Platform",
+    "min-dep":"Minimum deposit $10",
+    "cpa":"CPA FTD",
+    "cta":"User registration"
+  },
+  "sec-5":{
+    "title":"CPA is made for you if you are looking for:",
+    "item-1-title":"MEDIABUYING EXPERTIZE",
+    "item-1":"Our managers are professional media buyers with many years experience.They wil be happy to share their secrets with you.",
+    "item-2-title":"POSTBACK",
+    "item-2":"We inform you about all events on the platform, user registration, app installation, first deposit and more.",
+    "item-3-title":"ROI FOCUS",
+    "item-3":"With IQOption CPA you can concentrate only on your ROI goals.",
+    "item-4-title":"MODERN STATISTICS",
+    "item-4":"Specialy designed to meet expectations of most experienced afiliates."
+  },
+  "sec-6":{
+    "title":"Join <br />IQ Option CPA",
+    "cta":"REGISTER"
+  }
+}

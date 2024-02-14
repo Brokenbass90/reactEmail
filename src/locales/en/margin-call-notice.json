@@ -1,0 +1,18 @@
+{
+	"block_00": "Margin Call Notice",
+	"block_01": "Dear trader,",
+	"block_02": "With this email, we would like to inform you that <b class=\"block_02_0\">your IQ Option trading account has incurred a margin deficit</b>. In this regard, you cannot open new positions until margin positions in your account are brought back to the required margin levels.",
+	"block_03": "Your current margin level is",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "According to the Company’s",
+	"block_07": "Terms and Conditions,",
+	"block_08": "the opened margin positions in your account will auto-close when the margin level reaches a low of",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "You may deposit funds to your account to retain the opened positions to eliminate the margin deficiency. To see the amount of funds required to restore your account to margin compliance, please proceed to the traderoom.",
+	"block_12": "Go to Traderoom",
+	"block_13": "Should you have any questions, our",
+	"block_14": "Support team",
+	"block_15": "will be happy to help."
+}

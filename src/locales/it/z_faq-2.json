@@ -1,0 +1,26 @@
+{
+  "main": {
+    "head": "FAQ dei trader:",
+    "head-big": "Come funziona",
+    "head-tiny": "il trading?",
+    "pre": "Oggi vogliamo rispondere alla domanda che ci viene posta più di frequente sulle peculiarità del trading di opzioni binarie."
+  },
+  "one": {
+    "title": "Come guadagna IQ Option?",
+    "text": "Crediamo che il seguente video possa fornire la più chiara spiegazione.",
+    "video": "Video"
+  },
+  "two": {
+    "title": "Cosa succede se il prezzo alla scadenza corrisponde al prezzo iniziale di acquisto dell’opzione?",
+    "text": "In questo caso l’opzione si conclude At-the-money (senza profitti e senza perdite) e l’importo investito viene restituito all’investitore."
+  },
+  "three": {
+    "title": "IQ Option manipola le quotazioni?",
+    "text": "Assolutamente no. Riceviamo i dati delle quotazioni dal nostro prime broker Thomson Reuters, quindi elaboriamo i numeri e rappresentiamo le quotazioni secondo la formula Bid+ Ask/2  visto che non abbiamo spread.<br><br>Per dimostrare che non manipoliamo i risultati, abbiamo creato sulla piattaforma la Storia Finanziaria delle Quotazioni, con 2 anni di dati Thomson Reuter in archivio. Puoi stare certo che IQ Option è un broker trasparente con i più alti standard aziendali."
+  },
+  "cta": {
+    "pre": "Hai ancora domande? Non esitare a contattare il nostro",
+    "link": "Team di Supporto!",
+    "butt": "Andare a IQ Option"
+  }
+}

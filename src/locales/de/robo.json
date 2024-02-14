@@ -1,0 +1,32 @@
+{
+  "top": {
+    "build": "Bauen Sie einen IQ-Roboter und gewinnen",
+    "4000": "Sie bis zu $4000",
+    "text": "IQ Option wird den geschicktesten Händler, der den besten",
+    "link": "Trading-Roboter erstellt, belohnen.",
+    "winner": "3 Gewinner",
+    "white": " werden in",
+    "category": "2 Kategorien gewählt:"
+  },
+  "profit": {
+    "title": "Der profitabelste Roboter:",
+    "1-amount": "$2000",
+    "1-place": "1. Platz:",
+    "2-amount": "$1000",
+    "2-place": "2. Platz:",
+    "3-amount": "$500",
+    "3-place": "3. Platz:"
+  },
+  "efficient": {
+    "title": "Der effizienteste Roboter"
+  },
+  "resp": {
+    "1-text": "Nur die Inhaber der realen Konten können daran teilnehmen",
+    "2-text": "Minimale Anzahl der Transaktionen pro einen Roboter"
+  },
+  "cta": {
+    "button": "Teilnehmen",
+    "text": "Die vollständige Liste der allgemeinen Geschäftsbedingungen können Sie  der",
+    "link": "IQ-Roboter-Turnier-Seite entnehmen."
+  }
+}

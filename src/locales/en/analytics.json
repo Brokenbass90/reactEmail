@@ -1,0 +1,34 @@
+{
+  "top": {
+    "pic": "https://images01.iqoption.com/33/2833/static-02711920216303992833.png",
+    "header-info": "WEEKLY ANALYTICAL REVIEW",
+    "period": "October 24 - October 28"
+  },
+  "first": {
+      "name-news": "HP Inc. <br class='hide-for-desktop'> Earnings Report",
+    "date": "22 February <br class='hide-for-desktop'> <strong>(After Markets Close)</strong>",
+    "opinion": "Vision of IQ Option analytical team:",
+    "news-text": "For the last quarter of 2016 the company posted in-line earnings. The consensus estimates for 1Q17 call for EPS of $0.37 - a marginal improvement over the previous $0.36. Additionally, HP has a Zacks Rank of #4, meaning a sell-off is advisable.",
+    "link": "link",
+    "more": "Read more»",
+    "trade": "Invest in HP"
+  },
+  "second": {
+    "name-news": "US GDP Changes",
+    "date": "28 October, 12:30 GMT",
+    "opinion": "Vision of IQ Option analytical team:",
+    "news-text": "Soon, on November 8th, there will be a presidential election in the United States of America and traders are paying extra attention on it. Many experts believe that Hillary Clinton is the favourite to win this race and it is expected that the same internal and international policy will be kept. Meanwhile, Donald Trump’s ratings are a bit lower, but according to the latest polls his popularity is increasing. He is well known as a businessman who emphasizes economic development and increasing trade turnover with other countries. Even though fundamental factors prevail at the moment, market participants should not neglect the economic factors as this is one of the key aspect that impact the value of US dollar.",
+    "link": "link",
+    "more": "Read more»",
+    "trade": "TRADE EUR/USD"
+  },
+  "third": {
+    "name-news": "Publication of the Canadian inflation report",
+    "date": "October 21, 15:30 GMT",
+    "opinion": "Vision of IQ Option analytical team:",
+    "news-text": "Canada is one of the world's leaders in oil production, and the Canadian dollar is one of the main commodity currencies strongly affected by the price of oil. After recent meetings and agreements between OPEC country representatives, the price for black gold held out at over $50 for a considerable time, which had an extremely positive effect on the Canadian currency. The greater the supply of money in the country, the more likely it is that inflation will accelerate. If inflation turns out to be higher than anticipated, this will have a positive impact on the value of the Canadian dollar.",
+    "link": "link",
+    "more": "Read more»",
+    "trade": "TRADE USD/CAD"
+  }
+}

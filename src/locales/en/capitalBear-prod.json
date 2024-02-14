@@ -1,0 +1,17 @@
+{
+    "block_00": "What is Simple Moving Average (SMA)?",
+    "block_01": "A simple moving average is a popular tool that can benefit both short-term traders and long-term investors. The SMA smooths out price data by averaging a security’s price over a certain length of time. It is drawn as a single line on a chart and is helpful in identifying trends. The benefit of the SMA is that it quickly enables a trader or investor to determine whether a security is trending up or down.",
+    "block_02": "Two of the most popular signals traders look for are bullish and bearish crossovers.",
+    "block_03": "<b class=\"block_03_00\">A bullish crossover</b> occurs when a security’s price moves back above the SMA after being below it. This action signals that the downtrend or correction is over, and a possible uptrend is starting. A bullish crossover can be used as a signal to enter a long trade.",
+    "block_04": "<b class=\"block_04_00\">A bearish crossover</b> occurs when a security’s price falls below the SMA after trading above it. This action signals that the uptrend is over, and the trend may now be downward. A bearish crossover can be used as a signal to exit a long position or, alternatively, enter a short position.",
+    "block_05": "Open traderoom",
+    "block_06": "How to apply SMA?",
+    "block_07": "Log in to your CapitalBear account and open the traderoom",
+    "block_08": "Click the Indicator button in the bottom-left corner of the chart",
+    "block_09": "Select Moving Average from the Moving Averages section",
+    "block_10": "Set up your indicator and apply it to the chart",
+    "block_11": "Try it now",
+    "block_12": "Thanks for your attention!",
+    "block_13": "Stay tuned for emails, so you don't miss the trading tips.",
+    "block_14": "Start trading"
+}

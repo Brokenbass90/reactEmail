@@ -1,0 +1,11 @@
+{
+	"block_00": "Здравствуйте, [%first_name%]!",
+	"block_01": "Мы рады сообщить, что Вы снова можете получать выплаты на ePayments. Если Вы желаете использовать этот метод, перейдите в раздел",
+	"block_02": "Настройки выплат",
+	"block_03": "Вашего аккаунта и добавьте его.",
+	"block_04": "Также не забудьте выбрать ePayments для каждого баланса в разделе",
+	"block_05": "Регулярные выплаты",
+	"block_06": ".",
+	"block_07": "https://static.cdnpub.info/files/storage/public/5d/80/fd552e4d17b1i4g2b7/ePayments_RU.jpg",
+	"block_08": "https://static.cdnpub.info/files/storage/public/5d/82/4db5e8f3c1d4c3b0i6/RU.gif"
+}

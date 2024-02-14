@@ -1,0 +1,9 @@
+{
+	"block_00": "Pembatalan trading",
+	"block_01": "Klien yang Terhormat,",
+	"block_02": "Kami tidak dapat mengeksekusi trading",
+	"block_03": "deal_id",
+	"block_04": "yang baru-baru ini Anda pasang, karena tidak diterima oleh Market Maker pihak ketiga yang seharusnya menerima dan mengeksekusinya. Hal ini dapat terjadi karena beberapa alasan, termasuk situasi pasar pada saat eksekusi atau kerangka kerja manajemen risiko Market Maker.",
+	"block_05": "Setelah itu dan sesuai dengan Syarat dan Ketentuan Perusahaan, yang telah Anda ketahui dan terima pada saat menjadi klien Perusahaan, perintah Anda tidak diproses dan jumlah yang Anda investasikan telah dikembalikan ke saldo akun anda.",
+	"block_06": "Untuk lebih jelasnya, lihat bagian (9) dari Syarat dan Ketentuan."
+}

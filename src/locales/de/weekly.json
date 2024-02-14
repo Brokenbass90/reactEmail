@@ -1,0 +1,136 @@
+{
+  "retrack":"iq-weekly",
+  "date":"Donnerstag, 13. Juli 2017",
+  "columns":{
+    "name":"NAME",
+    "change":"VERÄNDERUNG in %",
+    "net":"NETTOVERÄNDERUNG",
+    "value":"BETRAG",
+    "imp":"Imp.",
+    "actual":"Actual",
+    "forecast":"Forecast",
+    "add":"ADD"
+  },
+  "line":{
+    "item-1":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent":"0.30%"
+    },
+    "item-2":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent":"0.30%"
+    },
+    "item-3":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent":"0.30%"
+    },
+    "item-4":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent":"0.30%"
+    }
+  },
+  "section-1":{
+    "title":"TOP-MOVERS DIESER WOCHE"
+  },
+  "section-2":{
+  "title":"Key economic events"
+},
+  "section-3":{
+    "title":"Die wichtigsten Nachrichten des Tages vom Aktienmarkt"
+  },
+  "movers":{
+    "item-1": {
+      "img": "https://images01.iqoption.com/81/2881/static-01313882701173882881.png",
+      "name": "DuPont",
+      "subname": "",
+      "change": "2.75%",
+      "net": "$2.27",
+      "value": "$84.84"
+    },
+    "item-2": {
+      "img": "https://images01.iqoption.com/17/4817/static-01668169038682914817.png",
+      "name": "JPMorgan Chase",
+      "subname": "",
+      "change": "-0.34%",
+      "net": "-$0.32",
+      "value": "$92.51"
+    },
+    "item-3":{
+      "img":"https://images01.iqoption.com/93/6993/static-01781124395792596993.jpg",
+      "name":"Discovery Inc.",
+      "subname":"NASDAQ: DISCA",
+      "change":"3,68 %",
+      "net":"+ 1,37",
+      "value":"$22"
+    }
+  },
+  "events":{
+    "item-1":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    },
+    "item-2":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    },
+    "item-3":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    }
+  },
+  "reports": {
+    "item-1": {
+      "title": "Colgate-Palmolive Ergebnisbericht",
+      "date": "21. Juli 2017",
+      "img-link": "https://images01.iqoption.com/61/5361/static-00835245124731535361.png",
+      "text": "21 июля перед открытием торгов о своих доходах поведает компания Colgate-Palmolive. Учитывая, что консенсус-прогноз по EPS составил 0,72 доллара, что на 2 цента больше, чем в этом же квартале прошлого года, курсовая стоимость акций компании может возрасти*. <br><br>Colgate славится широким ассортиментом продукции. Кроме того, компания занимает лидирующие позиции в сфере товаров по уходу за полостью рта и средств личной гигиены. Как в области разработки продуктов, так и в маркетинге Colgate опирается на технологические инновации. Курс на сокращение расходов привел к тому, что компании удалось увеличить скорректированный валовый доход на 70 базисных пунктов. В то же время Colgate-Palmolive столкнулась с проблемой мягких продаж и не смогла выполнить прогнозы по продажам в 15 из 16 последних кварталов*. Еще один момент, который негативно сказывается на прибыльном потенциале компании, — разница в валютных курсах. <br><br>Последние семь кварталов компания подтверждала или даже превосходила ожидания инвесторов*. Получится ли на этот раз? Эксперты полагают, что вполне возможно*.",
+      "cta": "Jetzt investieren",
+      "link": "https://iqoption.com/traderoom/asset/365?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-2": {
+      "title": "Moody's Ergebnisbericht",
+      "date": "21. Juli 2017",
+      "img-link": "https://images01.iqoption.com/25/5025/static-01146281057817985025.png",
+      "text": "Moody's wird erwartet, um seinen zweiten Quartal Ergebnis Bericht am Freitag vor dem Markt zu eröffnen. Die Konsens-EPS-Prognose für das Quartal ist $ 1,33, das ist 3 Cent mehr als im gleichen Quartal letzten Jahr * <br><br>Das Unternehmen verfügt über eine marktbeherrschende Stellung im Kreditmarkt. Moody's und Standard & Poor's kombinierte Kontrolle 80% der Branche. Moody's setzt auf Akquisitionen als Hauptquelle für Umsatzwachstum Das Unternehmen zeigte im letzten Jahr eine ordentliche Leistung und wuchs um 20,4% über einen Zeitraum von zwölf Monaten. Nach der globalen Finanzkrise standen die Rating-Unternehmen jedoch der öffentlichen Kontrolle gegenüber. Sie wurden später gezwungen, eine strengere Regulierung einzuhalten. Die wachsenden betrieblichen Aufwendungen verletzen die Profitabilität, vor allem aufgrund hoher Vergütungspakete für Mitarbeiter. <br><br>Nach Aussage von Experten kann Moody's eine positive Aktienkursdynamik nachweisen, wenn die im Bericht aufgeführten Daten den Anlegern * entsprechen.",
+      "cta": "Jetzt investieren",
+      "link": "https://iqoption.com/traderoom/asset/560?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-3": {
+      "title": "Alphabet Ergebnisbericht",
+      "date": "24. Juli 2017",
+      "img-link": "https://images01.iqoption.com/61/4561/static-02839119347119554561.png",
+      "cta": "Jetzt investieren",
+      "text": "Das Unternehmen hinter Google wird am 24. Juli 2017 nach der Schlussglocke berichten. Nach den Schätzungen wäre es möglich, das EPS um 91 Cent YoY * zu erhöhen. <br><br>Die jüngste Umstrukturierung der operativen Struktur soll die Rechenschaftspflicht des Unternehmens verbessern. Google ist Marktführer im Desktop- und mobilen Suchmarkt mit einem Marktanteil von 72,5% bzw. 94,9%. Mehr als das, in den vergangenen fünf Jahren ist der Umsatz bei einem CAGR von 14,6% * gestiegen. Auf der anderen Seite sind die Eskalation der Kosten, die Unfähigkeit, im sozialen Segment zu konkurrieren, und der harte Wettbewerb ein schwieriges Problem. <br><br>Experten glauben, dass in der langfristigen GOOGL-Aktie dazu bestimmt sind, zu wachsen *. Kurzfristige Gewinne, im Gegenteil, kann nicht versprochen werden.",
+      "link": "https://iqoption.com/traderoom/asset/276?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    }
+  },
+  "warn": {
+    "warn": "* Ziffer 2.6 der Allgemeinen Gesch&auml;ftsbedingungen gilt"
+  }
+}

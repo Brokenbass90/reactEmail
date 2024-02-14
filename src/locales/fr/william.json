@@ -1,0 +1,12 @@
+{
+	"block_00": "Prévoyez les renversements de prix",
+	"block_01": "avec le Williams %R",
+	"block_02": "Qu'est-ce que c'est?",
+	"block_03": "Le William %R est un outil d'analyse technique simple mais efficace connu pour déterminer les niveaux de surachat et de survente.  Bien qu'il existe plusieurs façons de faire fonctionner cet indicateur de type oscillateur, il est <b class=\"block_03_0\">le plus souvent utilisé pour confirmer le momentum</b>.",
+	"block_04": "Les traders utilisent le Williams %R pour <b class=\"block_04_0\">prédire la direction d'une tendance de prix</b>.  La clé, c'est de savoir lire son échelle, qui va de 0 à -100.",
+	"block_05": "Comment l'appliquer au trading?",
+	"block_06": "Imaginez que vous avez repéré une nouvelle tendance haussière.",
+	"block_07": "Si le %R atteint -20 et reste au-dessus, la tendance actuelle durera probablement.  Si le contraire est vrai et que le %R reste en dessous, la tendance pourrait s'essouffler et on peut s'attendre à ce qu'elle s'inverse.",
+	"block_08": "Dites-m'en plus",
+	"block_09": "https://blog.iqoption.com/fr/faites-la-connaissance-du-williams-r-un-tout-nouvel-oscillateur/"
+}

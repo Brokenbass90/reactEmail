@@ -1,0 +1,21 @@
+{
+    "block_00": "Faça sua primeira negociação",
+    "block_01": "<b class=\"block_01_00\">Parabéns pelo depósito bem-sucedido 🎉</b>",
+    "block_02": "O portão para o mercado real agora está aberto para você! Comece a investir quando estiver pronto.",
+    "block_03": "Para ajudá-lo a decolar, compartilhamos uma <b class=\"block_03_00\">estratégia de negociação de tendências</b> simples, mas muito útil ⬇",
+    "block_04": "Aproveite o passeio!",
+    "block_05": "<b class=\"block_05_00\">Médias Móveis</b>",
+    "block_06": "<b class=\"block_06_00\">Nível de dificuldade:</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Instrumentos:</b>",
+    "block_09": "Opções Binárias/Digitais, Forex, Ações, Criptomoedas, ETFs e Commodities",
+    "block_10": "<b class=\"block_10_00\">Períodos:</b>",
+    "block_11": "Todos",
+    "block_12": "As médias móveis são usadas para ajudar os traders a confirmar uma tendência usando a ação do preço anterior. Existem dois tipos de MMs: médias móveis simples (MMS) e médias móveis exponenciais (MME).",
+    "block_13": "A <b class=\"block_13_00\">MMS</b> geralmente depende do preço de fechamento de um mercado, o que pode torná-la mais lenta para reagir. Por esse motivo, os traders usam a MMS para <b class=\"block_13_01\">contratos de longo prazo</b>.",
+    "block_14": "<b class=\"block_14_00\">MMEs</b> também dependem de dados de preços anteriores, mas é dado mais peso aos preços mais recentes. Isso torna a MME mais <b class=\"block_14_01\">relevante para traders de Opções Binárias e Digitais.</b>",
+    "block_15": "<b class=\"block_15_00\">Como usar</b>",
+    "block_16": "Quando o gráfico cruza o indicador <b class=\"block_16_00\">de cima para baixo</b> com velas vermelhas, isso significa que o preço do ativo cai e a queda pode continuar. Este é o sinal para <b class=\"block_16_01\">VENDER</b>.",
+    "block_17": "Quando as velas verdes cruzam a linha do indicador <b class=\"block_17_00\">de baixo para cima</b>, isso é um sinal de reversão de tendência e um sinal para <b class=\"block_17_01\">COMPRAR</b>.",
+    "block_18": "Experimente na plataforma"
+}

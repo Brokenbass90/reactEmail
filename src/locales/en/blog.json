@@ -1,0 +1,30 @@
+{
+  "cta":" ",
+  "locale":"en",
+  "top": {
+    "new": "Currency Trends<br>with IQ Option",
+    "text":"Stay on top of the latest currency trends with the help of our comprehensive market overview. "
+  },
+  "main": {
+    "title-1": "Euro",
+    "date-1": "",
+    "content-1": "Euro Currency Index depreciated against the basket of currencies on Monday.* Euro-Zone Construction Output demonstrated month-on-month growth but year-on-year decline. Construction activity is usually connected to consumer spending and accelerating economic development, which may not be the case for the euro area…",
+    "butt-1": "Trade EUR/USD",
+    "title-2": "United States Dollar",
+    "date-2": "",
+    "content-2": "The USD has slightly appreciated against other currencies in the beginning of this week.* The dollar fell somewhat on Friday but reestablished its position on Monday.* Amid market tranquility the future behavior of the American currency can be affected by macroeconomic news and events…",
+    "butt-2": "Trade GBP/USD",
+    "title-3": "Japanese Yen",
+    "date-3": "",
+    "content-3": "The JPY currently trades slightly lower than it closed on Friday.* The exchange rate of the Japanese yen remains relatively unchanged even after the Bank of Japan has announced its benchmark interest rate to remain the same…",
+    "butt-3": "Trade EUR/JPY",
+    "title-4": "Yapanese Yen",
+    "date-4": "",
+    "content-4": "USD/JPY moved higher from 109.73 to 110.81. USD/JPY trended up for 3 consecutive days, and this could be explained as positioning of trades ahead of the Fed monetary policy decision later this week...",
+    "butt-4": "Trade USD/JPY",
+    "risk": "*NOTE: Past performance is not a reliable indicator of future performance. Forecasts are not reliable indicator of future performance. This material is not an investment advice."
+  }
+}
+
+
+

@@ -1,0 +1,10 @@
+{
+	"block_00": "Confirmation of card approval",
+	"block_01": "The card copies submitted for the card with the last four digits",
+	"block_02": "have been approved. You may now deposit and withdraw with this card.",
+	"block_03": "Please note that if you would like to use a new card for deposits and withdrawals, you will need to upload it for verification.",
+	"block_04": "Thank you for choosing {{embedded.brand_name}}.",
+	"block_05": "Our",
+	"block_06": "Support team",
+	"block_07": "will be happy to help should you have any questions."
+}

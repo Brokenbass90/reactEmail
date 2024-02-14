@@ -1,0 +1,20 @@
+{
+  "block_00": "Notificación respecto a su saldo no reclamado",
+  "block_01": "Estimado Sr/Sra,",
+  "block_02": "Por favor tenga en cuenta que tras el cierre de su cuenta de trading con la Compañía, se ha observado que su cuenta de trading dispone de un saldo que continúa sin ser reclamado a día de hoy, es decir, no se han tomado acciones para reclamar sus fondos.",
+  "block_03": "Le recomendamos encarecidamente que contacte de inmediato con la Compañía para reclamar dicho saldo enviando un correo electrónico a",
+  "block_04": "support@eu.iqoption.com",
+  "block_05": "usando la dirección de correo electrónico con la que se registró y que está enlazada a su cuenta de trading. Además, para que la Compañía le puede devolver el saldo restante, le solicitamos que nos proporcione los siguientes detalles bancarios:",
+  "block_06": "Nombre y apellidos",
+  "block_07": "Número IBAN",
+  "block_08": "Número Swift",
+  "block_09": "País del banco",
+  "block_10": "Divisa de su cuenta bancaria",
+  "block_11": "Por favor sea consciente de que la transacción podría estar sujeta a cargos. Además, los pagos en USD están sujetos a una comisión fija de 35USD y por tanto, es recomendable proporcionar a la Compañía detalles bancarios de una cuenta en EUR/GBP para evitar dicha comisión; el saldo restante en USD será convertido a EUR/GBP en consecuencia durante el pago relevante. Le pedimos amablemente que nos proporcione una cuenta bancaria <b class=\"block_11_0\">que no sea Revolut.</b>",
+  "block_12": "Por último, para conocer cualquier comisión posterior al cierre de su cuenta, por favor lea la Cláusula 3 de la",
+  "block_13": "Política General de Comisiones de la Compañía.",
+  "block_14": "En caso de haber contactado ya con la Compañía respecto al pago de su saldo restante no reclamado, y/o ya haya recibido su saldo restante, por favor descarte este email.",
+  "block_15": "Si tiene cualquier duda o necesita más aclaraciones, por favor contacte con nosotros a través del email",
+  "block_16": "support@eu.iqoption.com.",
+  "block_17": "Ir a IQ Option"
+}

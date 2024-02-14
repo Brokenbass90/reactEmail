@@ -1,0 +1,12 @@
+{
+  "main": {
+    "amount": "https://images01.iqoption.com/37/1937/static-00838350626604711937.png",
+    "fund": "Prize fund:",
+    "when": "When:",
+    "date": "December 9th, 16:00 – 16:30 GMT",
+    "rebuy": "Participation / re-buy fee:",
+    "butt": "Participate",
+    "warn-o": "75% of your payments during the tournament will go to the prize pool!",
+    "warn": "All participating traders will start the tournament with a special account with a balance of 100 USD.<br><br>*One will get a share of the prize fund only in case of winning the tournament."
+  }
+}

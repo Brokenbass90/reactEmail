@@ -1,0 +1,18 @@
+{
+	"block_00": "İşlemci SSS: Para çekme",
+	"block_01": "Bugün para çekme işlemi hakkında en sık sorulan soruları yanıtlamak istiyoruz.",
+	"block_02": "Çekebileceğim minimum ve maksimum para tutarı nedir?",
+	"block_03": "Minimum çekim tutarı 10 $ ve maksimum çekim tutarı 1.000.000 $'dır; bunların size geniş bir seçim özgürlüğü vereceğini umuyoruz.",
+	"block_04": "İlk kazancımı elde ettikten ne kadar süre sonra para çekebilirim?",
+	"block_05": "Hemen! Paranız her zaman size aittir ve bu konuda herhangi bir koşulla getirilmiş bir kısıtlama yoktur.",
+	"block_06": "Para çekerken para yatırmak için kullandığım ödeme seçeneğinin aynısını mı kullanmam gerekiyor?",
+	"block_07": "Evet, parayı başlangıçta kullandığınız aynı karta veya e-cüzdana çekmeniz önemlidir, aksi takdirde sistem çekim isteğini iptal eder. Çekim tutarı ilgili kartla yatırılan para tutarından büyük olmamalıdır (buna karşın, e-cüzdanlar için tutar limiti yoktur.",
+	"block_08": "Yaptığım çekim hangi para biriminde olacaktır?",
+	"block_09": "IQ Option hesabınızın para birimi banka hesabının para biriminden farklıysa, para ödeme sisteminiz tarafından geçerli döviz kuruna göre çevrilecektir.",
+	"block_10": "Paramı ne kadar süre sonra alabilirim?",
+	"block_11": "Bir çekim isteğinin işleme konulması 3 güne kadar çıkabilir (VIP hesaplarda 1 gün). Ödeme tarihi de kullandığınız bankaya veya e-cüzdan sistemine bağlıdır (e-cüzdanlar için 1 gün iken, bankalar için 7-9 güne kadar çıkabilir).",
+	"block_12": "Hala bazı sorularınız mı var?",
+	"block_13": "Destek Ekibimize",
+	"block_14": "başvurmaktan çekinmeyin!",
+	"block_15": "IQ Option'a Git"
+}

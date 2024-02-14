@@ -1,0 +1,137 @@
+{
+  "retrack":"iq-weekly",
+  "date":"Jueves, 13 de julio de 2017",
+  "columns":{
+    "name":"Compa&ntilde;&iacute;a",
+    "change":"% Cambio",
+    "net":"Cambio neto",
+    "value":"Valor",
+    "imp":"Imp.",
+    "actual":"Actual",
+    "forecast":"Forecast",
+    "add":"ADD"
+  },
+  "line":{
+    "item-1":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent":"0.30%"
+    },
+    "item-2":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent":"0.30%"
+    },
+    "item-3":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent":"0.30%"
+    },
+    "item-4":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent":"0.30%"
+    }
+  },
+  "section-1":{
+    "title":"MAYORES MOTORES DEL MERCADO DE LA SEMANA"
+  },
+  "section-2":{
+  "title":"Key economic events"
+},
+  "section-3":{
+    "title":"Los Pr&oacute;ximos Informes de Resultados"
+  },
+  "movers":{
+    "item-1": {
+      "img": "https://images01.iqoption.com/77/2977/static-00965822260210302977.png",
+      "name": "Signet Jewelers",
+      "subname": "SIG",
+      "change": "7.9%",
+      "net": "$4.64",
+      "value": "$63.05"
+    },
+    "item-2": {
+      "img": "https://images01.iqoption.com/49/4049/static-00854687327136514049.png",
+      "name": "Seagate Technology",
+      "subname": "STX",
+      "change": "5.8%",
+      "net": "$2.49",
+      "value": "$40.18"
+    },
+    "item-3":{
+      "img":"https://images01.iqoption.com/93/6993/static-01781124395792596993.jpg",
+      "name":"Discovery Inc.",
+      "subname":"NASDAQ: DISCA",
+      "change":"3,68 %",
+      "net":"+ 1,37",
+      "value":"$22"
+    }
+  },
+  "events":{
+    "item-1":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    },
+    "item-2":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    },
+    "item-3":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    }
+  },
+  "reports": {
+    "item-1": {
+      "title": "Informe de Resultados de Colgate-Palmolive",
+      "date": "21 de Julio de 2017",
+      "img-link": "https://images01.iqoption.com/61/5361/static-00835245124731535361.png",
+      "text": "Colgate-Palmolive presentará sus resultados el 21 de Julio antes del toque de campana. Con una previsión de BpA de 0.72$, o 2 céntimos más que el mismo trimestre del año pasado, la compañía puede mostrar un incremento en el precio de las acciones*. <br><br>Colgate puede presumir de un gran abanico de productos. La compañía también ostenta una posición líder en el segmento de el cuidado oral y personal. Colgate depende fuertemente en la innovación, tanto en el desarrollo de productos como en el marketing.  Gracias a las iniciativas de recorte de costos la compañía se las ha arreglado para ajustar el margen bruto por 70 bps. En estos momentos Colgate-Palmolive se enfrenta al problema de las pobres ventas y ya ha fallado a las estimaciones de ventas en 15 de los 16 últimos trimestres*. Las conversiones negativas de la moneda tampoco ayudan a generar más beneficios potenciales. <br><br>En los últimos siete trimestres la compañía ha alcanzado o incluso sobrepasado las expectativas de los inversores*. Pero, ¿será capaz de hacerlo una vez más? Los expertos creen que es muy posible*.",
+      "cta": "Invertir ahora",
+      "link": "https://iqoption.com/traderoom/asset/365?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-2": {
+      "title": "Informe de Resultados de Moody’s",
+      "date": "21 de Julio de 2017",
+      "img-link": "https://images01.iqoption.com/25/5025/static-01146281057817985025.png",
+      "text": "Moody’s tiene previsto publicar su informe de resultados para el segundo trimestre este Viernes antes de la apertura del mercado. Las previsiones preliminares para el trimestre son de 1.33$, lo que supera en 3 céntimos al mismo trimestre del pasado año*. <br><br>La compañía disfruta de una posición dominante en el mercado de calificación crediticia. Moody’s y Standard & Poor’s combinados controlan el 80% de la industria. Moody’s depende de las adquisiciones como fuente fundamental de crecimiento de ganancias. La compañía ha mostrado un desempeño decente en el último año, creciendo un 20.4% en un período de 12 meses*. Sin embargo, tras la crisis global financiera las compañías crediticias se han tenido que enfrentar al escrutinio público. Han sido forzadas a cumplir con una regulación más estricta. Los crecimientos en los gastos operacionales han dañado sus beneficios, más que nada debido a los altos paquetes de compensación para empleados. <br><br>De acuerdo a los expertos, Moody’s podría mostrar una dinámica del precio de las acciones positiva en caso de que los datos revelados en el informe logren satisfacer a los inversores.*",
+      "cta": "Invertir ahora",
+      "link": "https://iqoption.com/traderoom/asset/560?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-3": {
+      "title": "Informe de Resultados de Alphabet",
+      "date": "24 de Julio de 2017",
+      "img-link": "https://images01.iqoption.com/61/4561/static-02839119347119554561.png",
+      "cta": "Invertir ahora",
+      "text": "La compañía detrás de Google publicará sus resultados el 22 de Julio de 2017 después del cierre. De acuerdo a las estimaciones, será capaz de aumentar sus BpA por 91 Año tras Año*. <br><br>La reciente reestructuración de su estructura operacional tiene como objetivo mejorar la contabilidad de la compañía. Google es líder en el mercado tanto de búsquedas de escritorio como de móvil con una cuota de mercado de 72.5% y 94.9% respectivamente. Además de esto, a lo largo de los cinco pasados años sus beneficios han crecido en un CAGR de 14.6%*. Por otra parte, el escalado en costes, la incapacidad de competir en el segmento social y la dura competencia continúan siendo un problema desalentador. <br><br>Los expertos creen que las acciones a largo plazo de GOOGL están destinadas a crecer*. De las ganancias a corto plazo, por el contrario, no pueden prometer nada.",
+      "link": "https://iqoption.com/traderoom/asset/276?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    }
+  },
+  "warn": {
+    "warn": "* Se aplica el P&aacute;rrafo 2.6 de los T&eacute;rminos y Condiciones"
+  }
+}
+

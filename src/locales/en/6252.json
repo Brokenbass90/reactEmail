@@ -1,0 +1,22 @@
+{
+    "block_00": "Your account has been charged a service fee",
+    "block_01": "Dear trader,",
+    "block_02": "This email is to notify you that your trading account with",
+    "block_03": "embedded.brand_name",
+    "block_04": "has not been active for 90 days. Consequently, your account has been charged a",
+    "block_05": "commission_sum",
+    "block_06": "service fee(or the equivalent amount in another currency) as per our General Fees policy.",
+    "block_07": "According",
+    "block_08": "to the General Fee section of our Terms and Conditions",
+    "block_09": ", in case no operations are performed on a trading account in the span of 90 (Ninety) calendar days, the account shall be considered Inactive and the Company is entitled to apply a monthly service fee of 10 Euro (or the equivalent amount in another currency on the day of deduction of the fee) to the remaining balance of the Client’s account.",
+    "block_10": "Restore your Active status",
+    "block_11": "If you would like to continue doing business with us, simply place a deal on the",
+    "block_12": "embedded.brand_name",
+    "block_13": "platform to restore your account back to Active. Kindly note your account may be subject to further service fees if it remains under Inactivity status.",
+    "block_14": "If you do not wish to continue using our services, please visit your account and withdraw your funds.",
+    "block_15": "Proceed to",
+    "block_16": "embedded.brand_name",
+    "block_17": "Thank you for your understanding!",
+    "block_18": "Terms and Conditions",
+    "block_19": "Unsubscribe"
+}

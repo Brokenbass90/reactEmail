@@ -1,0 +1,23 @@
+{
+  "top": {
+    "head": "E i Vincitori del Torneo IQ Robot",
+    "head-next": "sono…",
+    "left-text": "In agosto abbiao cercato di trovare i più abili ingegneri di IQ Robot per onorarli con fantastici premi.",
+    "mass-1": "Dai un’occhiata ai",
+    "green": "nostri vincitori",
+    "mass-2": "e alle loro incredibili e redditizie creazioni! "
+  },
+  "profit": {
+    "head": "Miglior Profitto"
+  },
+  "ef": {
+    "head": "Miglior Efficienza",
+    "prize": "Premio"
+  },
+  "cta": {
+    "text-1": "Copia uno di questi",
+    "green": "Top IQ Robots",
+    "text-2": "oppure crea il tuo personale per automatizzare il tuoi profitti! ",
+    "butt": "Vai a IQ Robots"
+  }
+}

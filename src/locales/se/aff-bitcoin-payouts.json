@@ -1,0 +1,23 @@
+{
+	"block_00": "Hur du kommer igång med att få utbetalningar i Bitcoin: Förklarat",
+	"block_01": "Hej [%first_name%],",
+	"block_02": "Om du råkat missa några av våra senaste nyheter vill vi påminna dig om en ny utbetalningsmetod som kan vara ett bra alternativ till banköverföringar eller e-plånböcker - utbetalningar i BTC. Fastän Bitcoin inte kan skryta med någon prisstabilitet minskar vi risken för att förlora värdet på dina medel på grund av ett plötsligt prisfall så mycket som möjligt (mer om det nedan).",
+	"block_03": "För att göra det enkelt har vi delat upp utbetalningsprocessen för affiliate-provisionerna i BTC i olika faser. Det här är vad du behöver göra:",
+	"block_04": "Läs igenom villkoren för BTC-utbetalningar.",
+	"block_05": "Läs noggrant",
+	"block_06": "alla krav",
+	"block_07": "för att försäkra dig om att Bitcoin-utbetalningar passar dig. Observera att betalningsmetoden endast är tillgänglig för det icke-reglerade saldot. Det är också värt att notera att även om utbetalningsbehandlingen kan ta upp till tre arbetsdagar fastställs Bitcoin-växelkursen 15 till 30 minuter innan transaktionen skickas till blockkedjan. Därför kommer dollarvärdet för BTC du får att vara så nära det ursprungliga uttagningsbeloppet i USD.",
+	"block_08": "Få godkänt på KYC.",
+	"block_09": "För att börja få utbetalningar i BTC ser du till att du har fått godkänt på",
+	"block_10": "KYC",
+	"block_11": "(som står för känn-din-kund) proceduren, vilket är ganska enkelt och tar mindre än fem minuter att slutföra. Att få godkänt på KYC krävs eftersom alla transaktioner i en blockkedja är helt anonyma så vi måste se till att det var du som angav den mottagande kryptovaluta-adressen i ditt affiliate-konto.",
+	"block_12": "Konfigurera en Bitcoin-plånbok.",
+	"block_13": "Det finns hundratals Bitcoin-plånböcker på marknaden, allt från mobilappar till hårdvara som ser ut som flash-enheter. En Bitcoin-plånbok kan också se ut som ett papper eftersom den endast tjänar till att bevara din privata nyckel på en säker plats eller i krypterad form (beroende på plånbokstyp). Om du väljer en personlig kryptoplånbok rekommenderar vi att du förvarar din privata nyckel på en säker plats där bara du kan komma åt den. Förvara inte den i en handväska på något papper eller nedskriven i anteckningsappen på din mobil. Om du planerar att omvandla BTC till fiat-valuta direkt efter att du fått en utbetalning kan du välja att ta emot utbetalningar på ett utbyteskonto för kryptovalutor (de populäraste metoderna för Bitcoin-utbetalningar beskrivs nedan).",
+	"block_14": "Ange din BTC-adress på affiliate-kontot.",
+	"block_15": "Bitcoin-adressen kallas även för en offentlig nyckel. Det ser ut som en slumpmässig kombination av siffror och bokstäver och motsvarar en virtuell plats i en blockkedja där dina bitcoin förvaras. En sådan adress är allmänt tillgänglig på internet och tillåter oss att spåra transaktionshistoriken och fungerar som mottagaradress för ägaren. Blanda inte ihop den med en privat nyckel som endast krävs när du behöver få tillgång till din kryptovaluta för ytterligare manipulationer. Adressfältet placeras i",
+	"block_16": "Utbetalningsinställningar",
+	"block_17": "på ditt affiliate-konto. Se till att du anger rätt plånboksadress. Kopiera därför adressen från din plånbok och klistra sedan in adressfältet istället för att ange den manuellt eftersom kryptotransaktioner är oåterkalleliga och det går inte att avbryta en transaktion när den har påbörjats i en blockkedja.",
+	"block_18": "Omvandla dina BTC till fiat-valuta om det behövs.",
+	"block_19": "Med utvecklingarna i Bitcoin-ekosystemet har de moderna metoderna för utbetalningar av BTC blivit lika bekväma och allmänt använda som betalningsöverföringar online som Skrill eller WebMoney. Som vi redan har nämnt finns det kryptovaluta-börser som tillåter deras användare att skicka Bitcoin till ett bankkonto genom att länka det till kontot för ett särskilt börs. För att ta ut din Bitcoin direkt till kontanter använder du en Bitcoin-bankomat. Det finns bankomat-radarappar för kryptovalutor som hjälper dig hitta en bankomat nära dig. Precis som med vanliga bankomater måste du ha ett bankomatkort för att ta ut fiat-valutor (dvs. USD, BRL, osv.). Ett annat alternativ för att ta ut Bitcoin är att använda en peer-2-peer-plattform. Den största fördelen med denna utbetalningsmetod är att den låter dig ta ut pengar helt anonymt.",
+	"block_20": "Och det är allt. Vi hoppas verkligen att den här lilla guiden var hjälpsam."
+}

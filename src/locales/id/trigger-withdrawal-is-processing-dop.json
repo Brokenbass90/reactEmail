@@ -1,0 +1,14 @@
+{
+	"block_00": "Permintaan penarikan berhasil",
+	"block_01": "Penarikan Anda sebesar %amount_withdrawal% berhasil dikirimkan dan akan segera diproses.",
+	"block_02": "Karena ini adalah untuk pertama kalinya Anda melakukan penarikan, kami ingin menggarisbawahi beberapa hal penting yang harus Anda ketahui:",
+	"block_03": "Untuk memastikan penarikan cepat, periksa ulang apakah semua kolom pada permintaan penarikan Anda telah diisi dengan benar.",
+	"block_04": "Jika Anda melakukan penarikan ke e-wallet, pastikan akun Anda telah diverifikasi penyedia layanan yang Anda pilih untuk penarikan.",
+	"block_05": "Trader berhak mendapatkan 1 penarikan bebas biaya per bulan.",
+	"block_06": "Jika Anda melakukan penarikan ke kartu virtual, pastikan dapat digunakan untuk pengembalian dana. Kami menerima kartu Visa, Mastercard, dan Maestro.",
+	"block_07": "IQ Option memproses penarikan dalam 3 hari kerja. Tergantung pada bank Anda, mungkin diperlukan waktu lebih lama hingga dana Anda masuk ke rekening.",
+	"block_08": "Jika Anda melakukan deposit dengan kartu debit/kredit, Anda harus meminta penarikan dengan kartu yang sama sejumlah investasi awal, termasuk deposit yang dilakukan dalam 90 hari terakhir. Dana penarikan Anda akan dikreditkan ke kartu Anda dalam waktu hingga 21 hari.",
+	"block_09": "Untuk investigasi penarikan kartu bank, kami akan meminta laporan mutasi rekening yang membuktikan uang tersebut belum dikreditkan. Harap diperhatikan bahwa beberapa bank virtual tidak dapat menerbitkan laporan mutasi tersebut.",
+	"block_10": "Konversi akan dilakukan menggunakan nilai tukar metode pembayaran.",
+	"block_11": "Terima kasih telah memilih IQ Option sebagai broker kepercayaan Anda!"
+}

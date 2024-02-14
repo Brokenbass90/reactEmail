@@ -1,0 +1,12 @@
+{
+	"block_00": "Demande de retrait réussie",
+	"block_01": "Votre demande de retrait de",
+	"block_02": "%amount_withdrawal%",
+	"block_03": "a bien été transmise et devrait bientôt être traitée.",
+	"block_04": "Puisqu'il s'agit de votre premier retrait, nous souhaitons insister sur certains éléments importants :",
+	"block_05": "Afin de garantir un retrait rapide, vérifiez bien que tous les champs de votre demande de retrait ont été remplis correctement.",
+	"block_06": "Si vous effectuez un retrait vers un portefeuille électronique, assurez-vous que votre compte est vérifié auprès du fournisseur de services que vous avez choisi pour votre retrait.",
+	"block_07": "Les traders ont accès à 3 retraits sans commission par mois civil.",
+	"block_08": "IQ Option traite les retraits dans un délai de 3 jours ouvrables. En fonction de votre banque, plus de temps peut être nécessaire pour que les fonds apparaissent dans votre compte.",
+	"block_09": "Nous apprécions que vous ayez choisi IQ Option comme courtier de confiance !"
+}

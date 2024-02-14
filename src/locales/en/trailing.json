@@ -1,0 +1,10 @@
+{
+	"block_00": "Highly Requested:",
+	"block_01": "Trailing Stop-Loss",
+	"block_02": "<b class=\"block_02_0\">Trailing Stop Loss</b> automatically adjusts your stop-loss threshold, as long as the price is trending favorably.",
+	"block_03": "Try right now",
+	"block_04": "How does it work?",
+	"block_05": "<b class=\"block_05_0\">TSL</b> will automatically move your stop-loss threshold up (in case of a CALL option) or down (in case of a PUT option). The deal will close when it has already generated a certain level of profit, but before the trend reverses.",
+	"block_06": "Try right now",
+	"block_07": "https://images01.iqoption.com/77/5777/static-00534577693669195777.png"
+}

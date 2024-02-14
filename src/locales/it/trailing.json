@@ -1,0 +1,10 @@
+{
+	"block_00": "A grande richiesta:",
+	"block_01": "Trailing Stop-Loss",
+	"block_02": "Il <b class=\"block_02_0\">Trailing Stop Loss</b> regola automaticamente la tua soglia stop loss fintanto che il prezzo mantiene un andamento favorevole.",
+	"block_03": "Provalo subito",
+	"block_04": "Come funziona?",
+	"block_05": "Il <b class=\"block_05_0\">TSL</b> sposterà automaticamente la tua soglia stop loss verso l'alto (nel caso di un'opzione CALL) o verso il basso (nel caso di un'opzione PUT). L'operazione verrà chiusa dopo aver generato un determinato livello di profitto, ma prima che il trend subisca un'inversione.",
+	"block_06": "Provalo subito",
+	"block_07": "https://images01.iqoption.com/89/5889/static-01944727381646245889.png"
+}

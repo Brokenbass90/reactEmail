@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Merhabalar!",
+    "success": "IQ Option websitesine başarıyla kaydoldunuz.",
+    "activate": "Hesabınızı aktif hale getirmek için, lütfen kaydınızı onaylayın.",
+    "confirm": "Kayıt onaylama",
+    "code": "Ya da aşağıdaki aktivasyon kodunu kullanın:"
+  },
+  "bottom": {
+    "support": "Dikkat! Link yalnızca bir kere kullanılabilir. Eğer ikinci kez yönlendirilmeye çalışırsanız, hata görünecektir. Eğer herhangi bir sorunuz varsa posta adresinde destek departmanımızla kontak kurun.",
+    "team": "IQ Option size başarılı ticaretler diler!",
+    "attention": "Not : Bu posta size otomatik olarak gönderilmiştir ve cevap gerektirmemektedir."
+  }
+}

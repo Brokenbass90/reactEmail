@@ -1,0 +1,18 @@
+{
+	"block_00": "Pemberitahuan Margin Call",
+	"block_01": "Trader yang Terhormat,",
+	"block_02": "Bersama email ini kami informasikan bahwa <b class=\"block_02_0\">akun trading IQ Option Anda mengalami defisit margin</b>. Karenanya, Anda tidak dapat membuka posisi baru hingga posisi margin pada akun Anda kembali ke tingkat margin yang diperlukan.",
+	"block_03": "Tingkat margin Anda saat ini adalah",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "Sesuai dengan",
+	"block_07": "Syarat dan Ketentuan",
+	"block_08": "Perusahaan, posisi margin terbuka pada akun akan ditutup otomatis saat tingkat margin mencapai serendah",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Anda dapat melakukan deposit ke akun untuk mempertahankan posisi terbuka dan menghilangkan kekurangan margin. Untuk melihat jumlah dana yang diperlukan untuk mengembalikan akun Anda ke batas kepatuhan margin, masuk ke ruang trading.",
+	"block_12": "Masuk ke Ruang Trading",
+	"block_13": "Jika ada pertanyaan,",
+	"block_14": "tim Dukungan",
+	"block_15": "kami dengan senang hati akan membantu."
+}

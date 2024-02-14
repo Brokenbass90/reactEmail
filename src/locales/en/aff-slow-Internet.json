@@ -1,0 +1,21 @@
+{
+	"block_00": "Slow Internet on the users’ side?",
+	"block_01": "4 ideas on how to minimize loss and maximize conversions.",
+	"block_02": "<b class=\"block_02_0\">Hello [%first_name%],</b>",
+	"block_03": "Your website might be pitch-perfect, but what’s the point in that if your potential users can’t appreciate it because of the slow Internet? You can’t speed up their connection, but you can optimize your website to work faster!",
+	"block_04": "Here are some ideas on how to improve website performance for low-bandwidth users.",
+	"block_05": "Compress the contents",
+	"block_06": "The smaller your files, the faster they’ll load. At a minimum, you can manually reduce your images’ size.",
+	"block_07": "Another solution is compression with",
+	"block_08": "Gzip.",
+	"block_09": "This application finds and replaces strings of similar code in your files to make them smaller. This method works well with CSS and HTML, and most web servers can compress files in Gzip format before sending them for download. Compression can reduce download time by about 70%.",
+	"block_10": "Switch to a faster DNS provider",
+	"block_11": "Your page load time massively depends on the amount of time your DNS lookup takes. If you’re using a slow DNS, this increases the time it takes for browsers to locate your site. Switching to a faster provider can speed up the process.",
+	"block_12": "Try lazy loading",
+	"block_13": "Usually, the browser needs to download the whole page's contents before displaying anything to the user. You can try special plugins to make it load your above-the-fold (top of the page) section first, and then the rest of the contents. This way, the users don't have to wait to access the page, and the images will load as they scroll.",
+	"block_14": "You can enable lazy loading with Lazy Load, BJ Lazy Load, WP Rocket, or other plugins.",
+	"block_15": "Invest in AMP",
+	"block_16": "You can tweak your existing website to work faster, or you can try special solutions designed to work with a poor Internet connection.",
+	"block_17": "AMP (Accelerated Mobile Page) is one of such solutions. It is a technology developed by Google to speed up page loading and display websites on mobile devices. The secret to speed is that such pages only store the main content while sacrificing some elements to high download speeds. Moreover, AMP pages have a higher chance of getting to the top search engine positions because they take loading speed into account when ranking.",
+	"block_18": "Wishing you great conversions! 🚀"
+}

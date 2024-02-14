@@ -1,0 +1,21 @@
+{
+    "block_00": "Concludi la tua prima operazione",
+    "block_01": "<b class=\"block_01_00\">Congratulazioni per il tuo deposito 🎉</b>",
+    "block_02": "La porta del mercato reale si è aperta! Inizia a investire non appena sarai pronto per farlo.",
+    "block_03": "Per aiutarti a decollare, condividiamo con te una strategia di <b class=\"block_03_00\">trading sulla tendenza semplice ma molto utile </b> ⬇",
+    "block_04": "Goditi il viaggio!",
+    "block_05": "<b class=\"block_05_00\">Medie mobili</b>",
+    "block_06": "<b class=\"block_06_00\">Livello di difficoltà:</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Strumenti:</b>",
+    "block_09": "Opzioni Binarie/Digitali, Forex, azioni, crypto, ETF, materie prime",
+    "block_10": "<b class=\"block_10_00\">Intervalli temporali:</b>",
+    "block_11": "Tutti",
+    "block_12": "Le medie mobili vengono utilizzate per aiutare i trader a confermare una tendenza utilizzando la precedente azione del prezzo. Esistono due tipi di MA: medie mobili semplici (SMA) e medie mobili esponenziali (EMA).",
+    "block_13": "<b class=\"block_13_00\">SMA</b> di solito si basa sul prezzo di chiusura di un mercato, il che può renderne più lenta la reazione. Per questo motivo, i trader usano la SMA per <b class=\"block_13_01\">contratti a più lungo termine</b>.",
+    "block_14": "Anche le <b class=\"block_14_00\">EMA</b> fanno affidamento ai dati passati del prezzo, ma viene assegnato un peso maggiore ai prezzi più recenti. Ciò rende l'EMA più <b class=\"block_14_01\">adatta per i trader di opzioni binarie e digitali.</b>",
+    "block_15": "<b class=\"block_15_00\">Come si usano</b>",
+    "block_16": "Quando il grafico incrocia l'indicatore <b class=\"block_16_00\">dall'alto</b> con le candele rosse, significa che il prezzo dell'asset sta scendendo e la caduta potrebbe continuare. Si tratta di un segnale di <b class=\"block_16_01\">VENDITA</b>.",
+    "block_17": "Quando le candele verdi attraversano la linea dell'indicatore <b class=\"block_17_00\">dal basso</b>, è un segnale di un'inversione di tendenza e quindi un segnale di <b class=\"block_17_01\">ACQUISTO</b>.",
+    "block_18": "Prova sulla piattaforma"
+}

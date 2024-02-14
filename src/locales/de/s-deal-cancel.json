@@ -1,0 +1,9 @@
+{
+	"block_00": "Stornierung eines Geschäfts",
+	"block_01": "Sehr geehrter Kunde,",
+	"block_02": "wir konnten das kürzlich von Ihnen platzierte Geschäft",
+	"block_03": "deal_id",
+	"block_04": "nicht ausführen, da es von dem Market Maker (Drittpartei), an den der Auftrag zur Ausführung gesendet wurde, nicht akzeptiert wurde. Dafür kann es verschiedene Gründe geben, einschließlich der Marktbedingungen zum Zeitpunkt der Ausführung oder das eigene Risikomanagement-System des Market Makers.",
+	"block_05": "Infolge dessen und gemäß den AGB des Unternehmens, die Sie anerkannt und akzeptiert haben, als Sie Kunde des Unternehmens wurden, wurde Ihr Auftrag nicht ausgeführt und der investierte Betrag Ihrem Kontoguthaben zurückgebucht.",
+	"block_06": "Für weitere Rückfragen verweisen wir auf Kapitel (9) der AGB."
+}

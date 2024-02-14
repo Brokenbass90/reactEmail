@@ -1,0 +1,7 @@
+{
+	"block_00": "Para çekme isteği başarıyla işlendi",
+	"block_01": "Para çekme isteğiniz",
+	"block_02": "başarıyla işlendi ve toplam",
+	"block_03": "{{embedded.brand_name}} hesabınızdan çekildi. Lütfen para çekme isteğinizde belirtilen tutara ilişkin dekontu bekleyin.",
+	"block_04": "{{embedded.brand_name}} ile işlem yaptığınız için teşekkür ederiz!"
+}

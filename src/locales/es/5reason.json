@@ -1,0 +1,16 @@
+{
+  "main": {
+    "title": "razones para operar",
+    "company": "con Criptomonedas",
+    "desc":"Aquí tienes 5 razones por las que deberías considerar operar con Criptomonedas en IQ Option:",
+    "one": "<strong>24/7/365</strong><br>No existen los intercambios oficiales de Criptomonedas, debido a que estos activos digitales se comercializan alrededor de todo el globo y a todas horas. Eso quiere decir que, ¡puedes abrir o cerrar una operación siempre que quieras!",
+    "two": "<strong>Accesibles</strong><br>No se necesita seguir un complicado registro o un procedimiento de verificación, no hay transacciones desconcertantes ni altas tasas de compra o transferencia. Todo puede hacerse o al instante o en un par de clics.",
+    "three": "<strong>Controlables</strong><br>La Opción de Auto-cierre te permitirá llevar a cabo una mejor gestión de riesgos estableciendo una red de seguridad para contener las pérdidas (Stop-loss) y parámetros para llevarte las ganancias (Take-profit) de cada operación. Tienes el control de todas tus operaciones incluso si no estás presente.",
+    "four": "<strong>Seguras</strong><br>No existe riesgo alguno de que tu cripto-monedero vaya a ser hackeado o de que roben tus fondos por comprar criptomonedas de un proveedor fraudulento.",
+    "five": "<strong>Escalables</strong><br>Cuando operas con Criptomonedas en IQ Option, puedes usar un Multiplicador de la Inversión. Eso significa que puedes invertir hasta 10 veces la cantidad de la que dispones. ¿Y la mejor parte? ¡Tus ganancias se multiplicaran del mismo modo!*",
+    "blog": "blog",
+    "blog-text": "Lea la información más completa sobre la actividad de los mercados en el blog de IQ&nbsp;Option.",
+    "butt": "Operar con Cripto",
+    "asterisk":"*Nótese: Aplicar un multiplicador de la inversión aumenta la cantidad perdida en caso de que la predicción sea incorrecta. Tus pérdidas, sin embargo, nunca superarán la cantidad invertida."
+  }
+}

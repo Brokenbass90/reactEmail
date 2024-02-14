@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Bienvenue!",
+    "subtitle": "Votre compte HODLY est presque prêt.",
+    "text-1": "Nous avons juste besoin de vérifier votre adresse courriel et vous êtes prêt.",
+    "cta": "Vérifier l’adresse courriel"
+  },
+  "password": {
+    "title": "Bonjour!",
+    "subtitle": "Quelqu’un a demandé de réinitialiser le mot de passe sur votre compte HODLY.",
+    "text-1": "Si c’était vous, vous pouvez définir un nouveau mot de passe en cliquant sur le bouton ci-dessous:",
+    "cta": "définir un nouveau mot de passe",
+    "text-2": "Si vous ne voulez pas changer votre mot de passe ou si vous n’en avez pas fait la demande, veuillez ignorer et supprimer ce message.",
+    "orange": "Passez une bonne journée!"
+  },
+  "email": {
+    "title": "Bonjour!",
+    "subtitle": "Soit vous ou quelqu’un d’autre a demandé de changer l’adresse courriel de votre compte HODLY.",
+    "text-1": "Pour changer l’adresse courriel, cliquez ci-dessous",
+    "cta": "Changer de courriel",
+    "text-2": "Si vous ne souhaitez pas modifier votre adresse courriel ou si vous n’avez pas demandé cette modification, il vous suffit d’ignorer et de supprimer ce message.",
+    "orange": "Passez une bonne journée!"
+  },
+  "auto": "Cette lettre a été générée et envoyée automatiquement et ne nécessite aucune réponse."
+}

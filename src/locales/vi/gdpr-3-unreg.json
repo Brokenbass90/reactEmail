@@ -1,0 +1,19 @@
+{
+	"block_00": "Yêu cầu xóa Dữ liệu",
+	"block_01": "Kính gửi quý khách hàng,",
+	"block_02": "Liên quan đến yêu cầu của quý khách ngày",
+	"block_03": "DD.MM.YYYY.",
+	"block_04": "Cảm ơn quý khách đã yêu cầu XÓA tài khoản cùng TẤT CẢ dữ liệu cá nhân của mình. Thông tin cá nhân của quý khách rất quan trọng đối với chúng tôi và {{embedded.brand_name}} rất coi trọng công tác bảo vệ dữ liệu. Mục tiêu của chúng tôi là cung cấp dịch vụ tốt nhất cho khách hàng của mình.",
+	"block_05": "Xóa Tài khoản/Chấm dứt Quan hệ Hợp đồng",
+	"block_06": "Ngoài yêu cầu của quý khách, chúng tôi đã tiến hành đóng và chặn tài khoản của quý khách kể từ",
+	"block_07": "DD.MM.YYYY",
+	"block_08": "và mối quan hệ hợp đồng của chúng tôi và quý khách đã chấm dứt, có hiệu lực ngay lập tức kể từ ngày này.",
+	"block_09": "Xóa Dữ liệu Cá nhân",
+	"block_10": "Hệ thống của chúng tôi thường được định cấu hình để tuân thủ các nguyên tắc tối thiểu và cần thiết đối với dữ liệu, để {{embedded.brand_name}} không xử lý bất kỳ dữ liệu cá nhân nào của quý khách mà không thực sự cần thiết đối với hoạt động cung cấp dịch vụ của chúng tôi cho quý khách hoặc để tuân thủ luật pháp hoặc quy định mà chúng tôi bị ràng buộc.",
+	"block_11": "Sau khi xem xét yêu cầu của quý khách và kiểm tra dữ liệu cá nhân của quý khách trên hệ thống, chúng tôi xin thông báo rằng tất cả thông tin hiện đang lưu trữ sẽ được giữ lại trong 07 năm kể từ thời điểm chấm dứt quan hệ hợp đồng giữa chúng tôi và quý khách theo quy định của Chính sách Quyền riêng tư, luật Chống rửa tiền và Chống khủng bố cũng như các quy định và luật pháp hiện hành khác mà chúng tôi bị ràng buộc (<b class=\"block_11_0\">Quy định</b>). Theo Quy định, chúng tôi có nghĩa vụ pháp lý phải giữ lại dữ liệu của quý khách trong tối thiểu 07 năm.",
+	"block_12": "Nếu bạn có thắc mắc hoặc nếu bạn tin rằng dữ liệu cá nhân của mình vẫn đang được {{embedded.brand_name}} xử lý mà không tuân thủ nguyên tắc cần thiết, vui lòng thông báo cho chúng tôi biết bằng cách thực hiện theo các bước được quy định trong Chính sách Quyền riêng tư.",
+	"block_13": "Chúng tôi bảo lưu tất cả các quyền và biện pháp khắc phục của mình.",
+	"block_14": "Trân trọng, Đội ngũ {{embedded.brand_name}}",
+	"block_15": "Nếu cần làm rõ và/hoặc cần thêm thông tin, đừng ngần ngại liên hệ với chúng tôi theo địa chỉ",
+	"block_16": "support@iqoption.com"
+}

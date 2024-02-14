@@ -1,0 +1,18 @@
+{
+	"block_00": "Nachschussmitteilung",
+	"block_01": "Sehr geehrter Händler,",
+	"block_02": "mit dieser E-Mail möchten wir Sie darüber informieren, <b class=\"block_02_0\">dass in Ihrem Konto bei IQ Option ein Margindefizit entstanden ist</b>. Unter diesen Umständen können Sie keine neue Positionen eröffnen, bis die Marginpositionen in Ihrem Konto wieder auf die geforderten Marginniveaus gebracht wurden.",
+	"block_03": "Ihr aktuelles Marginniveau beträgt",
+	"block_04": ".event_margin_level",
+	"block_05": "%.",
+	"block_06": "Gemäß den",
+	"block_07": "Allgemeinen Geschäftsbedingungen",
+	"block_08": "werden die geöffneten Marginpositionen in Ihrem Konto automatisch geschlossen, wenn das Marginniveau folgende Untergrenze erreicht:",
+	"block_09": ".event_stop_out_margin_level",
+	"block_10": "%.",
+	"block_11": "Sie können Mittel in Ihr Konto nachschießen, um das Margindefizit auszugleichen und die eröffneten Positionen zu behalten. Um den Betrag zu sehen, der für die Erfüllung der Marginanforderungen erforderlich ist, wechseln Sie bitte zum Handelsraum.",
+	"block_12": "Zum Handelsraum",
+	"block_13": "Bei Fragen steht unser",
+	"block_14": "Supportteam",
+	"block_15": "bereit, Ihnen zu helfen."
+}

@@ -1,0 +1,14 @@
+{
+	"block_00": "Upload new Proof of Identity",
+	"block_01": "This email is to inform you that your proof of identity has expired. <b class=\"block_01_0\">Your account is now unverified</b>, which means that you no longer have access to trade or deposit with us.",
+	"block_02": "If you wish to continue trading, please upload one of the following documents to your account:",
+	"block_03": "Passport",
+	"block_04": "Residence permit",
+	"block_05": "Driving License",
+	"block_06": "The document must be full-page, in color, issued to your name, and valid.",
+	"block_07": "Upload Document",
+	"block_08": "We appreciate your cooperation and understanding.",
+	"block_09": "Our",
+	"block_10": "Support team",
+	"block_11": "is happy to help should you have any questions."
+}

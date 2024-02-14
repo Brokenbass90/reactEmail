@@ -1,0 +1,12 @@
+{
+  "body": {
+    "head-dark": "Los datos de las encuestas se han perdido,",
+    "head": "Necesitamos, de nuevo, su opinión.",
+    "name": "Estimado %%name%%,",
+    "text-one": "Ayer le solicitamos responder  algunas preguntas acerca de la calidad de nuestra plataforma de trading. Nos duele admitirlo, pero debido a un fallo técnico, todos los datos de la encuesta se han perdido.",
+    "text-two": "Su opinión es fundamental para ayudar a crear la mejor plataforma de trading posible. Es por ello que le rogamos  un momento para realizar la encuesta una vez más.",
+    "butt": "Acceder a la encuesta",
+    "thanks": "Gracias por su tiempo!",
+    "link": "http://goo.gl/forms/3h63F2lHYduEVgyo2"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "main": {
+    "eyes": "En el centro de atención:",
+    "asset": "USD/CAD",
+    "date": "19 de octubre",
+    "time": "13:00-15:30 GMT",
+    "title": "Canadá decide el Tipo  de Interés",
+    "raise": "Rentabilidad aumentada",
+    "raise-asset": "para el activo USD/CAD ",
+    "text": "Hoy el Consejo de Gobierno del Banco de Canadá publicará su decisión sobre el tipo de interés de referencia del país. Los traders muy atentos a la parte de los datos económicos determinantes en la valoración de la moneda.",
+    "cta": "Operar con USD/CAD",
+    "warn": "*Importe que se sumará al saldo en caso de operación exitosa. La oferta es válida 13:00 - 15:30 GMT."
+  },
+  "extra": {
+    "text-s": "Tomando en cuenta todas las cosas, ¡merece la pena prestar atención a este evento que agitará mucho el mercado!"
+  },
+  "content":{
+    "title":"US Nonfarm <br> Payrolls",
+    "subtitle":"92%* Rentabilidad aumentada en USD/JPY",
+    "date":"7 de Abril de 2017",
+    "time":"12:30 GMT",
+    "cta":"Operar con USD/JPY",
+    "text-1":"El departamento Estadounidense de Estadísticas de trabajo está a punto de revelar los últimos cambios en el empleo del sector privado y se espera que los resultados tengan un gran impacto en el dólar americano.",
+    "text-2":"El par USD/JPY ha estado orientado al sur desde la última subida de las tasas de interés, pero un informe fuerte de las nóminas no agrícolas podría devolverlo a encima de la vela 112. El último informe ADP de Empleo Nacional alegaba que fueron creados 263,000 entre Febrero y Marzo y si las figuras finales coinciden con las estimaciones independientes deberá tomarse como una señal positiva para el dólar.",
+    "text-3":"¡Convierte esta ocasión en una oportunidad para operar con un 92%* de rentabilidad en USD/JPY!",
+    "note-title":"¿Buscas invertir con los dólares?",
+    "note-text":"Puedes encontrar útil este análisis del mercado",
+    "follow":"Follow us",
+    "asterisk":"*La cantidad será acreditada al balance en caso de que la inversión sea exitosa. La oferta es válida en desde las 12:30 hasta las 15:30 GMT."
+  }
+}

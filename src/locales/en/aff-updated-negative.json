@@ -1,0 +1,12 @@
+{
+	"block_00": "Hello [%first_name%],",
+	"block_01": "We’d like to inform you that the list of the negative keywords to be included in your contextual ad campaigns in search advertising services (such as Google Ads or Bing Ads) has been updated. The most notable change is that, on top of the IQ Option brand name keywords, the keyword “iq” has been added to the list. <b class=\"block_01_0\">Please make sure to update your ad campaigns until December 10, 2020</b>. An updated list of negative keywords, as well as the step-by-step guide on how to configure the list for a Google Ads campaign, can be found in the",
+	"block_02": "Negative Keywords section",
+	"block_03": "Please note that besides having the negative keywords list correctly set up for your ad campaign, the following criteria have to be met as well:",
+	"block_04": "The ad campaign must promote your own website, not the IQ Option landing pages directly.",
+	"block_05": "Your website domain name must not include the IQ Option brand name, its derivatives, misspellings, or any other names that can be confused with the IQ Option brand name.",
+	"block_06": "Your website should contain accurate and useful information for its users (i.e., a broker review or a comparison of brokers) and not copy the content of the IQ Option landing pages.",
+	"block_07": "For full information on contextual ads restrictions, please refer",
+	"block_08": "to the FAQ",
+	"block_09": "."
+}

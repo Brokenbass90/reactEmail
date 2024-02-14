@@ -1,0 +1,12 @@
+{
+	"block_00": "Solicitud de retirada completada con éxito",
+	"block_01": "Su solicitud de retirada de",
+	"block_02": "%amount_withdrawal%",
+	"block_03": "se ha enviado correctamente y debería procesarse pronto.",
+	"block_04": "Dado que esta es la primera vez que realiza una retirada, nos gustaría resaltar algunos aspectos importantes que debe conocer:",
+	"block_05": "Para garantizar que la retirada se lleve a cabo de forma rápida, verifique que todos los campos en su solicitud de retirada se hayan rellenado correctamente.",
+	"block_06": "Si está retirando hacia una cartera electrónica (e-wallet), asegúrese de que su cuenta ya esté verificada, con el proveedor de los servicios que ha elegido para dicha retirada.",
+	"block_07": "Los inversores podrán disfrutar, por cada mes natural, de 3 retiradas sin comisiones",
+	"block_08": "IQ Option procesa las retiradas en un plazo de 3 días hábiles. Dependiendo de su banco, los fondos pueden tardar más en llegar a su cuenta.",
+	"block_09": "¡Le agradecemos que haya elegido a IQ Option como su bróker de confianza!"
+}

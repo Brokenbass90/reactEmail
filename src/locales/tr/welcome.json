@@ -1,0 +1,50 @@
+{
+  "top": {
+    "hello": "Hoş geldiniz!",
+    "happy": "Sizi IQ Option traderları arasında görmekten mutluluk duyarız",
+    "text": "Şirketimizin bütün partnerlerine, göstermiş oldukları güven için teşekkür ederiz. Amacımız, sizin için dünyanın en iyi ikili opsiyon broker'ı olmak. Size, şirketimizin bütün müşterilerinin haklı olarak değerlendirdiği hizmetimizi sunuyoruz.",
+    "team": "IQ Option takımı haftanın 7 günü, günün 24 saati sizin standartlarınızı yüksekte tutmak ve tüm beklentilerinize cevap vermek için çalışıyor!",
+    "watch": "Platformda nasıl ticaret <br> yapıldığını ",
+    "watch-strong": "öğrenmek için <br> videoyu izleyiniz"
+  },
+  "rowhead": {
+    "lider": "IQ Option ikili opsiyon dünyasının kalite garantisi ve gerçek lideridir; ve tüm durumlar bunu kanıtlıyor."
+  },
+  "row_one": {
+    "text": "IQ Option platformunda her an, 10.000'den fazla kişi ticaret yapmakta."
+  },
+  "row_two": {
+    "text": "Açık pozisyonlar, IQ Option platformunda anlık olarak geçmektedir."
+  },
+  "row_three": {
+    "text": "Her ay IQ Option trader'larına 5 milyon dolardan fazla ödeme yapmaktadır!"
+  },
+  "row_four": {
+    "text": "IQ Option Global Banking & Finance Review verilerine göre, 2015 yılının Avrupa'nın en iyi ikili opsiyon broker'ı (Avrupa'daki En İyi İkili Opsiyon Broker'ı) seçilmiştir."
+  },
+  "cta_rowhead": {
+    "first": "Sitedeki ilk adımlar"
+  },
+  "cta_row_one": {
+    "head": "Ikili opsiyonlara aşina değil misiniz?",
+    "text": "Hemen şimdi endüstrideki en iyi interaktif eğitim sistemini kullanın ve ticaret bilgisi için gerekli herşeyi edinin.",
+    "button": "Eğitime başlamak"
+  },
+  "cta_row_two": {
+    "head": "Gerçek ticaretleri mi denemek istiyorsunuz?",
+    "text": "Hemen şu anda, sadece 10$ gibi bir miktarla, minimum depozitla ticarete başlayabilirsiniz.",
+    "button": "Hesabı doldurmak"
+  },
+  "cta_row_three": {
+    "head": "Kişisel yardım mı lazım?",
+    "text": "3000$'dan fazla depozit yatırın ve IQ Option'ın VIP müşterisi olun!",
+    "text-two": "Premium trader olarak, sizi adım adım yönlendirecek ve bütün gerekli olan bilgiyi sizin ana dilinizde size verecek olan kişisel danışmanlarımız sayesinde, hizmetimizin bütün avantajlarını hissedeceksiniz.",
+    "button": "VIP hakkında daha fazla bilgi"
+  },
+  "cta": {
+    "button": "PLATFORMA GEÇİŞ",
+    "question": "Herhangi bir probleminiz varsa,destek&nbsp;",
+    "support": "ekibimiz size yardımcı",
+    "help": "olmaktan mutluluk duyacaktır."
+  }
+}

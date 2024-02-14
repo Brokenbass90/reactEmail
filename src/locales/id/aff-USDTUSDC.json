@@ -1,0 +1,14 @@
+{
+    "block_00": "Pembayaran dengan stablecoin telah hadir",
+    "block_01": "<b class=\"block_01_00\">Halo [%first_name%],</b>",
+    "block_02": "Dengan gembira kami kabarkan bahwa kami telah menambahkan 2 metode pembayaran baru: <b class=\"block_02_00\">USDT dan USDC</b>.",
+    "block_03": "Mengapa pengguna lebih suka dengan USDT & USDC?",
+    "block_04": "Tether (USDT) dan USD Coin (USDC) adalah stablecoin yang paling populer. Keduanya dapat <b class=\"block_04_00\">ditukarkan dengan Dolar AS dengan rasio 1:1</b>. Stablecoin dipatok dengan Dolar AS, yang berarti keduanya mendapatkan keuntungan dalam hal kecepatan, keamanan, dan menjadi opsi pembayaran yang relatif murah tanpa volatilitas ekstrem yang terkait dengan Bitcoin dan mata yang kripto lainnya.",
+    "block_05": "Persyaratan untuk pembayaran USDT dan USDC",
+    "block_06": "Hanya tersedia untuk penarikan dari <b class=\"block_06_00\">saldo non-Eropa</b>",
+    "block_07": "Wajib",
+    "block_08": "<b class=\"block_08_00\">verifikasi KYC</b>",
+    "block_09": "Selama periode awal, jumlah pembayaran minimum adalah <b class=\"block_09_00\">$500</b>",
+    "block_10": "Untuk beralih ke metode pembayaran USDT atau USDC, masuk ke Area Pribadi dan ubah metode default Anda dalam pengaturan.",
+    "block_11": "Ubah metode pembayaran"
+}

@@ -1,0 +1,12 @@
+{
+  "body": {
+    "head-dark": "Survey data lost,",
+    "head": "Customer feedback needed",
+    "name": "Dear %%name%%,",
+    "text-one": "Yesterday we asked you to answer a few questions about the quality of our trading platform. It pains us to admit it, but due to a technical malfunction, all of the survey data was lost.",
+    "text-two": "Your feedback is absolutely instrumental in helping us create the best trading platform possible. That is why we kindly ask you to take a moment to fill out the survey once again.",
+    "butt": "Take the survey",
+    "thanks": "Thank you for your time!",
+    "link": "http://goo.gl/forms/QpPuIdtAcAorArkJ3"
+  }
+}

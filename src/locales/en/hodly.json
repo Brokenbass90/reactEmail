@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Welcome!",
+    "subtitle": "Your HODLY account is almost ready.",
+    "text-1": "We just need to verify your e-mail address and you’re good to go.",
+    "cta": "Verify e-mail address"
+  },
+  "password": {
+    "title": "Welcome!",
+    "subtitle": "Someone has requested to restore the password to your HODLY account.",
+    "text-1": "If this was you, you can set a new password by clicking on the button below:",
+    "cta": "Set new password",
+    "text-2": "If you don't want to change your password or didn't request this, just ignore and delete this message.",
+    "orange": "Have a great day!"
+  },
+  "email": {
+    "title": "Hey there!",
+    "subtitle": "Either you or someone else has requested to change the e-mail address for your HODLY account.",
+    "text-1": "To change the e-mail address, click below",
+    "cta": "Change e-mail",
+    "text-2": "If you don't want to change your e-mail address or you didn't request this, just ignore this and delete the message.",
+    "orange": "Have a great day!"
+  },
+  "auto": "This letter was generated and sent automatically and does not require any response."
+}

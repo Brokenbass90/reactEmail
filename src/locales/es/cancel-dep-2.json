@@ -1,0 +1,11 @@
+{
+	"block_00": "Сancelación del depósito",
+	"block_01": "Estimado Cliente,",
+	"block_02": "Te informamos de que tu depósito por la cantidad de",
+	"block_03": "amount",
+	"block_04": "currency",
+	"block_05": "ha sido cancelado y tu balance ha sido ajustado en consecuencia. Te pedimos encarecidamente que evites ese tipo de actividad, dado que puede tener como resultado la limitación/el cierre de la cuenta.",
+	"block_06": "En caso de tener cualquier otra duda, nuestro",
+	"block_07": "Equipo de soporte",
+	"block_08": "estará encantado de ayudarte."
+}

@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "¡Bienvenido!",
+    "subtitle": "Tu cuenta HODLY está casi lista.",
+    "text-1": "Solo necesitamos verificar tu dirección de e-mail y ya está.",
+    "cta": "Verificar tu dirección e-mail"
+  },
+  "password": {
+    "title": "¡Muy buenas!",
+    "subtitle": "Alguien o tu mismo has solicitado recuperar la contraseña de tu cuenta de HODLY.",
+    "text-1": "Si has sido tu, por favor establece una nueva contraseña haciendo clic en el botón inferior:",
+    "cta": "Establecer nueva contraseña",
+    "text-2": "Si no quieres restablecer tu contraseña o no has sido tú quién lo ha solicitado, simplemente ignora y borra este mensaje.",
+    "orange": "¡Que tengas un buen día!"
+  },
+  "email": {
+    "title": "¡Muy buenas!",
+    "subtitle": "Alguien o tu mismo has solicitado cambiar la dirección de e-mail de tu cuenta de HODLY.",
+    "text-1": "Haz clic aquí para cambiar tu dirección de correo electrónico",
+    "cta": "Cambiar e-mail",
+    "text-2": "Si no quieres cambiar tu dirección de e-mail o no has sido tú quién lo ha solicitado, simplemente ignora y borra este mensaje.",
+    "orange": "¡Que tengas un buen día!"
+  },
+  "auto": "Este correo ha sido generado y enviado automáticamente y no requiere ninguna respuesta."
+}

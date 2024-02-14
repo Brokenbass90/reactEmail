@@ -1,0 +1,14 @@
+{
+    "block_00": "You've hit your Profit Target",
+    "block_01": "Account [account.sabioEmail]",
+    "block_02": "Hello, [customer.FirstName]!",
+    "block_03": "You have successfully passed the Assessment! Your assessment account has been closed in preparation for your Funded Account. Now it’s time to sign the Trader’s Agreement, pass the AML/KYC verification, and set up your live account.",
+    "block_04": "You will find attached to this email the Traders Agreement. We kindly ask you to download it, print it, sign it by hand, and send it to <b class=\"block_04_00\">kyc@sabiotrade.com</b> along with the following documents:",
+    "block_05": "1- An original picture of your ID, Passport, or Driving License. The document should not be expired, it should contain your date of birth and a recent picture.",
+    "block_06": "2- A bank statement showing your address, a utility bill, a residence certificate from the municipality, or a Tax bill. This document shouldn't be older than 6 months.",
+    "block_07": "You'll receive your live account credentials within 24-72 hours after passing the verification and signing the Agreement.",
+    "block_08": "Any questions left?",
+    "block_09": "Reach us at",
+    "block_10": "[support@sabiotrade.com]",
+    "block_11": "."
+}

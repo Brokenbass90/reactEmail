@@ -1,0 +1,13 @@
+{
+	"block_00": "Veriler indirilmeye hazır",
+	"block_01": "Sayın Müşterimiz,",
+	"block_02": "GDPR'nin 20. Maddesi uyarınca kişisel verilerinizin makine tarafından okunabilir bir kopyasının verilmesi isteğiniz için teşekkür ederiz.",
+	"block_03": "İştemiş olduğunuz ve",
+	"block_04": "verilerinizi içeren dosya şu anda indirmeniz için hazırdır. İndirmek için lütfen",
+	"block_05": "buraya",
+	"block_06": "tıklayın. Güvenlik nedeniyle, dosya bu e-postayı almanızı müteakip sadece 7 gün indirilebilir durumda olacaktır.",
+	"block_07": "Bu dosya özel bilgiler içerebileceğinden, dosyayı güvende tutmanız ve depolarken veya gönderirken ya da başka bir hizmete yüklerken önlem almanız gerekir.",
+	"block_08": "Saygılarımızla,<br>{{embedded.brand_name}} Ekibi",
+	"block_09": "Başka herhangi bir sorunuz olursa, lütfen",
+	"block_10": "adresinden bize bildirin ve daha ayrıntılı bilgi alın."
+}

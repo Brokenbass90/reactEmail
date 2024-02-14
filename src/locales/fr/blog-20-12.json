@@ -1,0 +1,9 @@
+{
+	"block_00": "Trouver des points d'entrée et d'inversion avec l'indicateur Enveloppes",
+	"block_01": "Étant une excellente alternative aux bandes de Bollinger, cet indicateur trace trois moyennes mobiles autour du graphique des prix afin de suivre la tendance et d'indiquer les niveaux de surachat et de survente.",
+	"block_02": "Vous pouvez configurer l'indicateur en fonction de la volatilité de l'actif ou utiliser les paramètres par défaut.  Cet indicateur est largement <b class=\"block_02_0\">utilisé pour trouver des entrées, ainsi que des inversions de prix potentielles</b>, ce qui en fait un outil utile en soi ou combiné avec d'autres indicateurs.",
+	"block_03": "Consultez l'article complet pour savoir comment utiliser l'indicateur Enveloppes dans votre trading quotidien.",
+	"block_04": "Lire l'article",
+	"block_05": "Passer à IQ Option",
+	"block_06": "https://blog.iqoption.com/fr/le-trading-avec-lindicateur-enveloppes/"
+}

@@ -1,0 +1,50 @@
+{
+  "top": {
+    "hello": "¡Bienvenido!",
+    "happy": "Nos alegramos mucho de darle la bienvenida en la plataforma IQ&nbsp;Option",
+    "text": "En nombre de cada empleado de la compañía nos gustaría agradecerle por confiar en nosotros. nuestro objetivo principal es ser el mejor broker de opciones binarias para usted. Le ofrecemos nuestro servicio que todos los clientes apreciaron en su justo virtud.",
+    "team": "¡El equipo de IQ Option trabaja 24 horas 7 días a la semana para mantener los altos estándares y estar conforme con sus expectativas!",
+    "watch": "Ver vídeo de cómo <br>",
+    "watch-strong": "se opera en la <br> plataforma"
+  },
+  "rowhead": {
+    "lider": "IQ Option es un verdadero líder y garante de cualidad en el mundo de opciones binarias, lo que confirman los hechos."
+  },
+  "row_one": {
+    "text": "A cualquier hora en la plataforma de IQ Option operan más de diez mil personas"
+  },
+  "row_two": {
+    "text": "La apertura de las posiciones se efectúa instantáneamente"
+  },
+  "row_three": {
+    "text": "¡Los pagos mensuales de IQ Option a los traders llegan hasta cinco millones de dólares!"
+  },
+  "row_four": {
+    "text": "IQ Option es el mejor broker de opciones binarias en Europa (premio «Best Binary Options Broker in Europe») en el año 2015 según la opinión de Global Banking & Finance Review."
+  },
+  "cta_rowhead": {
+    "first": "Primeros pasos en la web"
+  },
+  "cta_row_one": {
+    "head": "¿No está familiarizado con las opciones binarias?",
+    "text": "Recurra al mejor sistema interactivo de aprendizaje y obtenga todos los conocimientos necesarios para arrancar en el trading.",
+    "button": "Empezar la formación"
+  },
+  "cta_row_two": {
+    "head": "¿Le apetece probar las operaciones reales?",
+    "text": "Puede empezar a operar desde ya con el depósito mínimo de $10.",
+    "button": "Depositar"
+  },
+  "cta_row_three": {
+    "head": "¿Le hace falta un trato especial?",
+    "text": "¡Deposite más de $ 3000 y conviértase en un cliente VIP de IQ Option!",
+    "text-two": "Al lograr la cuenta premium, experimentará todas las ventajas de nuestro servicio gracias a la labor de los asesores personales que le van a guiar paso a paso y abastecerán de toda la información en su idioma natal.",
+    "button": "Información sobre VIP"
+  },
+  "cta": {
+    "button": "Acceder a la plataforma",
+    "question": "Si tiene preguntas, nuestro&nbsp;",
+    "support": "servicio de soporte",
+    "help": "estará encantado de ayudarle."
+  }
+}

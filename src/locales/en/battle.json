@@ -1,0 +1,56 @@
+{
+  "retrack":"trading-battle",
+  "tour-1": {
+    "date": "1 June",
+    "duration": "Duration: 30 days",
+    "title": "Off to the Races",
+    "up-to":"up to",
+    "prize": "$100 000*",
+    "prize-text": "in the Prize Fund",
+    "part": "$20",
+    "re": "$20",
+    "additional-prize": "Grand winner gets a ticket to the <a href='https://blog.iqoption.com/traders-aston-martin-drive-day/' style='color: #ff7700 !important; text-decoration: underline !important;'>Aston Martin Drive Day</a>",
+    "number":"949"
+  },
+  "tour-2": {
+    "date": "1 June",
+    "duration": "Duration: 9 days",
+    "title": "Bulls and Bears",
+    "up-to":"",
+    "prize": "$15 000*",
+    "prize-text": "Expanding Prize Fund",
+    "part": "$5",
+    "re": "$5",
+    "additional-prize": "",
+    "number":"959"
+  },
+  "tour-3": {
+    "date": "12 June",
+    "duration": "Duration: 19 days",
+    "title": "Trading Wizard",
+    "up-to":"",
+    "prize": "$20 000*",
+    "prize-text": "Expanding Prize Fund",
+    "part": "$10",
+    "re": "$10",
+    "additional-prize": "",
+    "number":"960"
+  },
+    "tour-4": {
+      "date": "Every other Monday",
+      "duration": "Duration: 5 days",
+      "title": "IQ Launch",
+      "up-to":"up to",
+      "prize": "30 000*",
+      "prize-text": "in the Prize Fund",
+      "part": "$4",
+      "re": "$4",
+      "additional-prize": "",
+      "number":"963"
+    },
+  "asterisk":"*One will get a share of the prize fund only in case of winning the tournament."
+}
+
+
+
+

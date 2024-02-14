@@ -1,0 +1,28 @@
+{
+  "top": {
+    "pic": "https://images01.iqoption.com/41/4641/static-03467536327392624641.png",
+    "text": "",
+    "br-text": "",
+    "name": "August Harvest Tournament"
+  },
+  "pre-cta": {
+    "enter": "The summer is almost over.",
+    "enter-strong": "The fun has just begun.",
+    "long": "Duration:",
+    "date": "1 - 31 August 2016",
+    "coast": "Participation / rebuy fee:",
+    "dollar": "$50"
+  },
+  "tournament": {
+    "orange": "50%",
+    "about": " of your payments during the tournament will go to the prize pool!"
+  },
+  "cta": {
+    "butt": "join the tournament"
+  },
+  "info": {
+    "start": "Start",
+    "finish": "Finish",
+    "part": "Participation <br> Re-buy fee"
+  }
+}

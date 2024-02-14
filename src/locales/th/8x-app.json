@@ -1,0 +1,13 @@
+{
+	"block_00": "รับแอป {{embedded.brand_name}}",
+	"block_01": "ดาวน์โหลดแอปสำหรับ Android เพื่อเทรดได้ตลอดเวลา ทั้งที่บ้านหรืออยู่ข้างนอก เดสก์ท็อปแอปสำหรับ Windows และ macOS เร็วๆ นี้!",
+	"block_02": "{{embedded.brand_name}} สำหรับ Android",
+	"block_03": "ดาวน์โหลด",
+	"block_04": "แอปมือถือ",
+	"block_05": "{{embedded.brand_name}} สำหรับ Windows",
+	"block_06": "เร็วๆ นี้",
+	"block_07": "เดสก์ท็อปแอป",
+	"block_08": "{{embedded.brand_name}} สำหรับ macOS",
+	"block_09": "เร็วๆ นี้",
+	"block_10": "เดสก์ท็อปแอป"
+}

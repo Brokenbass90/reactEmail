@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Xoş gəlmisiniz!",
+    "subtitle": "Sizin HODLY hesabınız artıq hazırdır.",
+    "text-1": "E-meil ünvanınızın təsdiqlənməsi tələb olunur.",
+    "cta": "E-mail ünvanını təsdiqlə"
+  },
+  "password": {
+    "title": "Salam!",
+    "subtitle": "Siz və ya bir başqası HODLY hesabınızın parolunun bərpası haqqında müraciət etmişdir.",
+    "text-1": "Əgər bu sizsinizsə, aşağıdakı düyməyə vurmaqla yeni parol təyin edə bilərsiniz:",
+    "cta": "Yeni parol təyin et",
+    "text-2": "Əgər parolunuzu dəyişmək istəmir və ya bu barədə müraciət etməmisinizsə, bu məktuba məhəl qoymayın və onu silin.",
+    "orange": "Gününüz uğurlu olsun!"
+  },
+  "email": {
+    "title": "Salam!",
+    "subtitle": "Siz və ya bir başqası HODLY hesabınız üçün e-meil ünvanının dəyişdirilməsi haqqında müraciət etmişdir.",
+    "text-1": "Bu e-meil ünvanını dəyişmək üçün linkə vurun",
+    "cta": "E-meili dəyiş",
+    "text-2": "Əgər e-meil ünvanınızı dəyişmək istəmir və ya bu barədə müraciət etməmisinizsə, bu məktuba məhəl qoymayın və onu silin.",
+    "orange": "Gününüz uğurlu olsun!"
+  },
+  "auto": "Bu məktub avtomatik hazırlanıb və göndərilib, məktuba cavab vermək tələb olunmur."
+}

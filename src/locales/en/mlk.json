@@ -1,0 +1,23 @@
+{
+	"block_00": "Upcoming trading schedule changes",
+	"block_01": "Dear trader,",
+	"block_02": "We would like to inform you that <b class=\"block_02_0\">January 20, 2020, Martin Luther King Day, is a public holiday in the United States</b>. Several trading instruments will be affected on this day.",
+	"block_03": "For your convenience, changes to the trading schedule are highlighted below. All times are in GMT.",
+	"block_04": "Platinum",
+	"block_05": "Normal Hours",
+	"block_06": "Gold",
+	"block_07": "00:00 – 18:00",
+	"block_08": "Silver",
+	"block_09": "00:00 – 18:00",
+	"block_10": "WTI",
+	"block_11": "00:00 – 17:30",
+	"block_12": "US Stocks",
+	"block_13": "Closed",
+	"block_14": "Brent",
+	"block_15": "Normal Hours",
+	"block_16": "Forex",
+	"block_17": "Normal Hours",
+	"block_18": "<b class=\"block_18_0\">Note</b>:  Binary and Digital Options markets will operate as usual. Depending on market conditions, Over the Counter (OTC) assets may become available for trading.",
+	"block_19": "<b class=\"block_19_0\">Note</b>: The FX Options market will open as usual, but may close early depending on market conditions.",
+	"block_20": "Should you have any questions, do not hesitate to get in touch with our Support team."
+}

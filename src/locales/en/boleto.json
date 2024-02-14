@@ -1,0 +1,10 @@
+{
+	"block_00": "Complete your deposit",
+	"block_01": "It looks like your recent Boleto deposit is still pending. <b class=\"block_01_0\">To complete your deposit, please pay your Boleto invoice</b>. You can view your invoice by following",
+	"block_02": "this link",
+	"block_03": "or clicking the button below.",
+	"block_04": "View invoice",
+	"block_05": "<b class=\"block_05_0\">Note</b>: Payment should be made before the expiration date indicated on the ticket. As soon as the invoice is paid, your funds will be credited to your account.",
+	"block_06": "We wish you successful trading!",
+	"block_07": "If you have any questions, our Support team is ready to help."
+}

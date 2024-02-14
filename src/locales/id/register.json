@@ -1,0 +1,14 @@
+{
+  "top": {
+    "hello": "Halo!",
+    "success": "Anda melakukan registrasi di situs IQ Option dengan sukses.",
+    "activate": "Supaya mengaktifkan akun anda, silakan lakukanlah konfirmasi registrasi anda.",
+    "confirm": "Konfirmasi registrasi",
+    "code": "Atau pakailah kode aktivasi yang berikut: "
+  },
+  "bottom": {
+    "support": "Hati-hati! Link bisa dipakai hanya satu kali. Kalau anda coba pakainya kali kedua, kesalahan akan terjadi. Kalau anda punya pertanyaan, silakan email kepada support kami via",
+    "team": "Tim IQ Option semoga-moga trading sukses!",
+    "attention": "Note: surat ini dibuat dan dikirim secara otomatis dan tidak harus dijawabkan."
+  }
+}

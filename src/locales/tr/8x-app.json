@@ -1,0 +1,13 @@
+{
+	"block_00": "{{embedded.brand_name}} Uygulamasını Edinin",
+	"block_01": "Android uyumlu uygulamayı indirin ve evde veya hareket halinde yatırım yapın. Windows ve macOS masaüstü uygulamaları çok yakında geliyor!",
+	"block_02": "Android uyumlu {{embedded.brand_name}}",
+	"block_03": "İndir",
+	"block_04": "Mobil Uygulama",
+	"block_05": "Windows uyumlu {{embedded.brand_name}}",
+	"block_06": "Çok Yakında",
+	"block_07": "Masaüstü Uygulaması",
+	"block_08": "macOS uyumlu {{embedded.brand_name}}",
+	"block_09": "Çok Yakında",
+	"block_10": "Masaüstü Uygulaması"
+}

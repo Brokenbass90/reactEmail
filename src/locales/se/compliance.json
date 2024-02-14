@@ -1,0 +1,23 @@
+{
+	"block_00": "Påminnelse angående din återstående oanvända balans",
+	"block_01": "Påminnelse angående din återstående oanvända balans",
+	"block_02": "Bästa kund,",
+	"block_03": "Nedanstående meddelande är en påminnelse om vårt meddelande som skickades till dig den 30/11/2020 (\"Meddelandet\")",
+	"block_04": "Observera att efter stängningen av ditt handelskonto hos företaget har det identifierats att ditt handelskonto har en balans som förblivit oanvänt fram till idag, dvs. inga åtgärder har vidtagits i för att begära dina medel. Ditt handelskonto har stängts enligt vårt avtal eftersom du inte har tillhandahållit företaget alla nödvändiga KYC/verifieringsdokument/ information inom den krävda tidsramen.",
+	"block_05": "Vi rekommenderar att du kontaktar oss omedelbart och gör anspråk på din återstående balans genom att skicka oss ett e-postmeddelande till",
+	"block_06": "support@iqoption.com",
+	"block_07": "<b class=\"block_07_0\">från din registrerade e-postadress som var länkat till ditt handelskonto.</b> För att företaget ska kunna skicka tillbaka dig din återstående balans ber vi dig att även <b class=\"block_07_1\">tillhandahålla oss följande bankuppgifter:</b>",
+	"block_08": "För- och efternamn",
+	"block_09": "IBAN-nummer *",
+	"block_10": "Swift-nummer *",
+	"block_11": "Bankens land",
+	"block_12": "Valutan på ditt bankkonto (t.ex. EUR/GBP/USD. m.m.)",
+	"block_13": "*Vi kan inte behandla ovanstående betalning med ditt clearing- och/eller kontonummer. Därför ber vi dig att tillhandahålla oss informationen som krävs i listan ovan (1-5).",
+	"block_14": "Slutligen vill vi påminna dig om att transaktionen kan bli föremål för avgifter. Betalningar i USD är även föremål för en fast avgift på 35 USD och därför rekommenderar vi att du tillhandahåller företaget bankuppgifter till ett konto i EUR/GBP för att undvika en sådan avgift. Det återstående saldot i USD kommer att omvandlas till EUR/GBP i enlighet med motsvarande betalning.",
+	"block_15": "Observera att om du inte gör anspråk på dina pengar senast slutet på nästa månad (dvs. slutet på december 2020) kommer följande avgifter att debiteras av företaget:",
+	"block_16": "Månadsavgift på 1% från ditt återstående outkrävda saldo (minst 5EUR)",
+	"block_17": "Om du redan har kontaktat företaget angående betalning av ditt återstående outkrävda saldo och/eller om du redan har fått ditt återstående saldo kan du bortse från detta e-postmeddelande.",
+	"block_18": "Om du har några frågor eller behöver ytterligare förtydliganden får du gärna kontakta oss via e-post på",
+	"block_19": "support@iqoption.com.",
+	"block_20": "Gå till IQ Option"
+}

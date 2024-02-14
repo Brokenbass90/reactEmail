@@ -1,0 +1,20 @@
+{
+    "block_00": "Aggiornamenti della versione mobile 🔥",
+    "block_01": "Ciao [%first_name%],",
+    "block_02": "Nel 2022 abbiamo introdotto molti aggiornamenti della versione mobile. Se sei alla ricerca di nuovi modi per guidare il tuo traffico, questa email è il segnale che stavi aspettando - non perdere tempo e continua a leggere!",
+    "block_03": "<b class=\"block_03_00\">Aggiornamento dell'app per iOS</b>",
+    "block_04": "L'applicazione per iOS IQ Broker aggiornata è stata resa disponibile per una più ampia selezione di paesi. È la versione \"nera\" dell'app IQ Broker, ed è disponibile per gli utenti iOS provenienti dai paesi in cui la classica app IQ Option, quella \"arancione\", non è disponibile: Messico, Arabia Saudita, Malesia, Cile, ecc. Quando tentano di scaricare l'app principale, gli utenti verranno automaticamente reindirizzati all'app \"nera\".",
+    "block_05": "<b class=\"block_05_00\">Landing page leggera</b>",
+    "block_06": "Abbiamo creato questa landing page per aumentare le conversioni, in particolare in quelle zone geografiche con connessioni internet più lente. Il superpotere di questa nuova landing page è la brevità (solo 2 schermate), inoltre, porta gli utenti direttamente alla registrazione - provare per credere!",
+    "block_07": "Visualizza la pagina di destinazione",
+    "block_08": "<b class=\"block_08_00\">Landing page con cornice di registrazione in versione mobile</b>",
+    "block_09": "Abbiamo deciso di posizionare sulla nuova landing page il pulsante standard per il download dall'app store (che contribuisce alle conversioni in termini di <i>installazione</i>) con un modulo per la registrazione (che aumenta le conversioni in termini di <i>registrazione</i>). In questo modo, l'utente dovrà prima registrare un account, quindi scaricare l'app dallo store in un secondo momento. I nostri test hanno dimostrato un significativo aumento nelle conversioni in termini di registrazione, perciò non esitare a metterla alla prova.",
+    "block_10": "Visualizza la pagina di destinazione",
+    "block_11": "Si noti che <b class=\"block_11_00\">tutte le cornici di registrazione possono ora reindirizzare l'utente alla Traderoom direttamente dalla pagina dell'affiliato</b> (dopo aver eseguito la registrazione sulla pagina, tramite la cornice).",
+    "block_12": "Per farla funzionare, dovrai aggiungere un paio di righe di codice quando copi la cornice sulla tua pagina. Ecco come fare:",
+    "block_13": "Nel codice della cornice, aggiungi:",
+    "block_14": "sandbox attribute for iframe tag",
+    "block_15": "Aggiungi un parametro al percorso della cornice stessa:",
+    "block_16": "Esempio:",
+    "block_17": "Ti auguriamo le migliori conversioni! 🚀"
+}

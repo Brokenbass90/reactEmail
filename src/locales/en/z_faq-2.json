@@ -1,0 +1,26 @@
+{
+  "main": {
+    "head": "Trader FAQs:",
+    "head-big": "How does",
+    "head-tiny": "trading work?",
+    "pre": "Today we’d like to answer the most frequently asked questions about the peculiarities of binary options trading."
+  },
+  "one": {
+    "title": "How does IQ Option make money?",
+    "text": "We believe the following video provides the most clear explanation. ",
+    "video": "Video"
+  },
+  "two": {
+    "title": "What happens if the expiration price matches the one the option was initially purchased at? ",
+    "text": "In such case the option expires At-the-money (zero profit and zero loss) and the investment amount is returned to the investor."
+  },
+  "three": {
+    "title": "Does IQ Option manipulate quotes?",
+    "text": "Absolutely not. We receive the quotes data from our prime broker Thomson Reuters, then we process the numbers and depict the quotes in accordance with the formula Bid+ Ask/2 as we do not have spread. <br><br> In order to prove that we do not manipulate the outcomes, we have created a Financial Quotes History on our platform, storing 2 years worth of Thomson Reuters price data. You can rest assured that IQ Option is a transparent broker with the highest business standards"
+  },
+  "cta": {
+    "pre": "Still have some questions? Don’t hesitate to contact our",
+    "link": "Support Team!",
+    "butt": "Go to IQ Option"
+  }
+}

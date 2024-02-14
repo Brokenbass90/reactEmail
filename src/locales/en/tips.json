@@ -1,0 +1,30 @@
+{
+  "top": {
+    "head-slim": "5 trading mistakes",
+    "head": "TO AVOID",
+    "text-massive": "These trading mistakes are extremely common, but fortunately for you – equally as easy to avoid"
+  },
+  "knowledge": {
+    "head": "No knowledge of the Financial Market",
+    "main-text": "Many believe they are all set for success despite knowing nothing about how the Financial Market works. That’s a dangerous notion. Being able to read a chart simply isn’t enough, when there are major political and economic factors at play."
+  },
+  "emotion": {
+    "head": "Emotional Involvement",
+    "main-text": "It’s true that trading is exciting. However, it’s not uncommon for traders to lose control after a series of either winning or losing trades. Emotional involvement should have no place in trading! To stay level–headed, try setting a limit on the number of trades per day or on their total volume. "
+  },
+  "indicators": {
+    "head": "Over-reliance on indicators and signals",
+    "main-text": "No trading tool can analyze and forecast the market flawlessly each and every time. Technical indicators and signals should only be treated as supplementary to your analysis and never dictate your trading to a T."
+  },
+  "strategy": {
+    "head": "Insufficient testing of the strategy",
+    "main-text": "Insufficient testing of the strategy. If you don’t test your strategy under different conditions, the risk of failure will be significantly higher. It’s advisable to use a practice account prior to applying your strategy to real funds. "
+  },
+  "trend": {
+    "head": "Going against the trend",
+    "main-text": "Remember the saying: «Trend is your best friend». Even if you see the trend lasting for a «suspiciously» long while – let it be. Never make a trading decision based on a hunch or try to outsmart the market."
+  },
+  "cta": {
+    "butt": "Go to IQ Option"
+  }
+}

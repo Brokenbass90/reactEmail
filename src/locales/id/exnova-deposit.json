@@ -1,0 +1,21 @@
+{
+    "block_00": "Buka transaksi pertama",
+    "block_01": "<b class=\"block_01_00\">Selamat atas deposit yang berhasil 🎉</b>",
+    "block_02": "Gerbang menuju pasar sebenarnya telah terbuka! Mulai berinvestasi jika Anda sudah siap.",
+    "block_03": "Untuk membantu memulai, berikut <b class=\"block_03_00\">strategi trading berdasarkan tren </b> yang sederhana tetapi sangat berguna⬇",
+    "block_04": "Semoga pengalaman trading Anda menyenangkan!",
+    "block_05": "<b class=\"block_05_00\">Moving Averages</b>",
+    "block_06": "<b class=\"block_06_00\">Tingkat kesulitan:</b>",
+    "block_07": "1/10",
+    "block_08": "<b class=\"block_08_00\">Instrumen:</b>",
+    "block_09": "Opsi biner/digital, Valas, saham, kripto, ETF, komoditas",
+    "block_10": "<b class=\"block_10_00\">Jangka waktu:</b>",
+    "block_11": "Semua",
+    "block_12": "Moving averages digunakan untuk membantu trader mengonfirmasi tren menggunakan aksi harga sebelumnya. Ada dua jenis MA: simple moving averages (SMA) dan exponential moving averages (EMA).",
+    "block_13": "<b class=\"block_13_00\">SMA</b> biasanya bergantung pada harga penutupan pasar dan cenderung lebih lambat bereaksi. Karena alasan ini, trader menggunakan SMA untuk <b class=\"block_13_01\">kontrak jangka panjang</b>.",
+    "block_14": "<b class=\"block_14_00\">EMA</b> juga bergantung pada data harga di waktu lampau tetapi lebih menitikberatkan pada harga yang lebih baru. Ini membuat EMA lebih <b class=\"block_14_01\">relevan trader opsi biner dan digital.</b>",
+    "block_15": "<b class=\"block_15_00\">Cara menggunakan</b>",
+    "block_16": "Saat grafik berpotongan dengan indikator <b class=\"block_16_00\">dari atas</b> dengan grafik lilin merah, artinya harga aset turun dan penurunan mungkin akan berlanjut. Ini adalah sinyal untuk <b class=\"block_16_01\">JUAL</b>.",
+    "block_17": "Saat grafik lilin hijau berpotongan dengan garis indikator <b class=\"block_17_00\">dari bawah</b>, ini adalah tanda pembalikan tren dan sinyal untuk <b class=\"block_17_01\">BELI</b>.",
+    "block_18": "Coba di platform"
+}

@@ -1,0 +1,11 @@
+{
+  "l": {
+    "asset": "on AUD/USD"
+  },
+  "c": {
+    "asset": "on USD/CAD"
+  },
+  "r": {
+    "asset": "on EUR/USD"
+  }
+}

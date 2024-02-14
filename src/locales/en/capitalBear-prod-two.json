@@ -1,0 +1,20 @@
+{
+    "block_00": "What is Relative Strength Index (RSI)?",
+    "block_01": "An RSI trading strategy using the Relative Strength Index is a great place to start when day trading and forex trading. It has default settings of 14 periods and 70/30 levels. The RSI setting will affect how frequently the RSI gives overbought and oversold signals, as well as <b class=\"block_01_00\">divergence</b> signals to buy and sell.",
+    "block_02": "What does RSI 14 mean?",
+    "block_03": "The default RSI setting is 14-periods. That means the indicator is calculated using the last 14 candles or the last 14 bars on the price chart.",
+    "block_04": "Using a <b class=\"block_04_00\">shorter timeframe</b>, for example, 5-periods, will cause the RSI to reach extreme values (above 70 or below 30) more often. By the same token, <b class=\"block_04_01\">longer timeframe</b> settings will see the RSI indicator reach above 70 or below 30 less frequently.",
+    "block_05": "Most of the PRO traders use the unconventional approach of 60/40 RSI and <b class=\"block_05_00\">range shift concept</b> – a phenomenon that occurs when the RSI indicator shifts from a predefined range to another predefined range due to the change in the price of the stock.",
+    "block_06": "There are different ranges for RSI Indicator, for example in a <b class=\"block_06_00\">bullish market</b> – 40/80, and in a <b class=\"block_06_01\">bearish market</b> – 65/30. This range shift concept can be applied in any timeframe, whether intraday, daily, weekly, etc.",
+    "block_07": "Thus, the range shift concept helps you understand whether the market is bullish, bearish, or sideways.",
+    "block_08": "Open traderoom",
+    "block_09": "How to apply SMA?",
+    "block_10": "Log in to your CapitalBear account and open the traderoom",
+    "block_11": "Click the Indicator button in the bottom-left corner of the chart",
+    "block_12": "Select Relative Strength Index from the Momentum section",
+    "block_13": "Set up your indicator and apply it to the chart",
+    "block_14": "Try it now",
+    "block_15": "Thanks for your attention!",
+    "block_16": "Stay tuned for emails, so you don't miss the trading tips.",
+    "block_17": "Start trading"
+}

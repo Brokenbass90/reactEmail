@@ -1,0 +1,26 @@
+{
+  "dear": "Estimado operador:",
+  "text-1": "Le informamos que de conformidad con nuestros Términos y Condiciones de Servicio (Punto 6 \"Garantías del Cliente\"), ",
+  "strong-1": "el Cliente debe proporcionar a la Compañía los documentos concernientes a la política \"Conoce a Tu Cliente (KYC por sus siglas en ingles: Know Your Client) en el plazo no mayor de 7 días",
+  "text-2": "desde el momento del depósito de fondos.",
+  "text-3": "Si aún no lo ha hecho, suba por favor los documentos de identificación necesarios lo antes posible. De lo contrario, nos veremos obligados a",
+  "strong-2": "&nbsp;restringir su acceso al trading&nbsp;",
+  "text-4": "y/o a otros servicios que ofrecemos.",
+  "cta": "Verificar Cuenta",
+  "strong-3": "¿Por qué necesitamos sus documentos?",
+  "text-5": "Como IQ Option Europe Ltd es una entidad regulada por CySEC (Cyprus Securities & Exchange Commission), estamos obligados por ley a cumplir con los requerimientos básicos relacionados con la represión del lavado de dinero y del financiamiento del terrorismo. Para aprovechar las ventajas de negociar con una entidad regulada, es importante tener en cuenta que debe proporcionar información y/o documentación para verificar su cuenta.",
+  "support": "Si tiene alguna pregunta, no dude en ponerse en contacto con nuestro",
+  "link": "Equipo de Soporte.",
+  "support-2": "",
+  "address": "Address: <br>Iqoption Europe Ltd. Address: Yiannis Nicolaides Business Center, Agiou Athanasiou Avenue 33, 4102, Agios Athanasios, Limassol, Cyprus",
+  "thanks": "¡Gracias por elegir a IQ Option como su bróker de confianza!",
+  "answer": "Atención: este documento fue enviado automáticamente y no requiere una respuesta.",
+  "after": {
+    "text-1": "Este mensaje es para recordarle que de conformidad con nuestros Términos y Condiciones de Servicio (Punto 6 \"Garantías del Cliente\"),",
+    "strong-1": "el Cliente debe proporcionar a la Compañía los documentos concernientes a la política \"Conoce a Tu Cliente (KYC por sus siglas en ingles: Know Your Client) en el plazo no mayor de 7 días",
+    "text-2": "desde el momento del depósito de fondos.",
+    "text-3": "Como usted aún no ha enviado los documentos para la verificación de",
+    "strong-2": "&nbsp;su cuenta, se le ha suspendido el acceso a la plataforma de trading.&nbsp;",
+    "text-4": "Se le informa además que, a menos que verifique su cuenta en los próximos 7 días, su cuenta será cancelada y saldo de trading le será reembolsado."
+  }
+}

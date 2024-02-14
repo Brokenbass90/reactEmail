@@ -1,0 +1,17 @@
+{
+	"block_00": "Faktureringsfeil: Din betaling ble avvist",
+	"block_01": "Det ser ut til at vi ikke kan behandle din betaling. Det er forskjellige årsaker til faktureringsfeil. Nedenfor er de vanligste:",
+	"block_02": "<b class=\"block_02_0\">Utilstrekkelige midler på bankkontoen din</b>. Sjekk om du har beregnet USD riktig i din valuta. Vi anbefaler at du har litt mer penger på kontoen enn du trenger for sikkerhets skyld.",
+	"block_03": "<b class=\"block_03_0\">Uautorisert transaksjon</b>. Kontakt banken din for å finne ut om 3D-sikre transaksjoner er aktivert.",
+	"block_04": "<b class=\"block_04_0\">Betalingsdetaljene var uriktige</b>. Sjekk om du skrev inn riktig betalingsdetaljer.",
+	"block_05": "<b class=\"block_05_0\">Tiden for betaling har utløpt</b>. Prøv å betale igjen og skriv inn 3D-koden innen rimelig tid.",
+	"block_06": "<b class=\"block_06_0\">Betalingen ble avvist av banken</b>. Kontakt banken din for å finne ut hvordan du kan ordne det.",
+	"block_07": "<b class=\"block_07_0\">Kontoen din har uttaksgrense</b> for nettransaksjoner. Buk en annen betalingsmetode for å unngå det.",
+	"block_08": "Sjekk og se om bankkontoen din og betalingsdetaljene er riktig eller prøv å finne en annen betalingsmetode.",
+	"block_09": "Prøv igjen",
+	"block_10": "Mange innskuddsmetoder er tilgjengelig",
+	"block_11": "De fleste tradere foretrekker følgende betalingsmetoder:",
+	"block_12": "Sett inn penger nå",
+	"block_13": "Dersom du har spørsmål kan du kontakte oss på",
+	"block_14": "support@iqoption.com"
+}

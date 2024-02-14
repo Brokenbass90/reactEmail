@@ -1,0 +1,13 @@
+{
+	"block_00": "Dejamos de soportar los dispositivos con las versiones de iOS 9.x",
+	"block_01": "Fin del soporte para dispositivos con las versiones de iOS 9.x",
+	"block_02": "Estimado trader,",
+	"block_03": "A partir de Octubre de 2020, <b class=\"block_03_0\">terminaremos el soporte de la aplicación iOS de IQ Option para dispositivos Apple que usen versiones de iOS inferiores a 10.x</b> debido a razones técnicas que escapan a nuestro control.",
+	"block_04": "Para poder continuar usando la aplicación tu trading, <b class=\"block_04_0\">por favor actualiza a una versión de iOS 10.x (o superior) antes de Octubre del 2020.</b>",
+	"block_05": "A continuación podrás encontrar una lista de los dispositivos Apple compatibles con iOS 10:",
+	"block_06": "iPhone 5 y posteriores;",
+	"block_07": "iPad 4th generation, iPad mini 2 y posteriores;",
+	"block_08": "iPod touch 6th generation y posteriores.",
+	"block_09": "Podrás encontrar instrucciones sobre cómo actualizar tu iOS en",
+	"block_10": "el sitio web de Soporte de Apple."
+}

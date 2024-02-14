@@ -1,0 +1,18 @@
+{
+    "block_00": "¡Con login social e idioma adaptativo!",
+    "block_01": "¡Hora de refrescar tus formularios de registro!",
+    "block_02": "<b class=\"block_02_00\">Hola [%first_name%],</b>",
+    "block_03": "¡Nos alegra presentarte los nuevos formularios de registro para nuestros afiliados! Los nuevos </br>formularios superan favorablemente a los antiguos con muchas nuevas funcionalidades::",
+    "block_04": "<b class=\"block_04_00\">Login social.</b> Ahora, los usuarios puede registrarse con la información de login ya existente de proveedores de redes sociales como Facebook o Google.",
+    "block_05": "<b class=\"block_05_00\">Idioma adaptativo.</b> El marco cambiará automáticamente al idioma del navegador del usuario.",
+    "block_06": "<b class=\"block_06_00\">\"¿Ya tienes una cuenta? Inicia sesión\"</b> botón para usuarios registrados, para que no tengan que usar el formulario de registro como formulario de login.",
+    "block_07": "<b class=\"block_07_00\">2 formularios con botones sociales</b> (claro y oscuro), además de un formulario más compacto sin botones sociales.",
+    "block_08": "Ver los formularios de registro",
+    "block_09": "¿Cómo te benefician de los nuevos formularios de registro?",
+    "block_10": "Si usas <b class=\"block_10_00\">tus propias landing pages</b>, nuestros formularios simplificarán el registro y aumentarán la tasa de conversión. Solo debes tener en cuenta que las landing pages personalizadas deben",
+    "block_11": "cumplir con nuestras pautas de marketing.",
+    "block_12": "Si usas <b class=\"block_12_00\">apps móviles</b> y por alguna razón no quieres enviar al usuario a descargar la app, los nuevos formularios les permitirán operar desde el navegador sin redirigirlos a la app store. El usuario entrará directo a la Sala de Operaciones, lo que podría impulsar la conversión de operar.",
+    "block_13": "Ten en cuenta que los formularios antiguos solo permanecerán funcionales durante los </br>próximos 3 meses. ¡Asegúrate de actualizarlos con antelación!",
+    "block_14": "<b class=\"block_14_00\">No pierdas el tiempo, cambia tus formularios de registro hoy mismo</b> 👇",
+    "block_15": "Ir al Area Personal"
+}

@@ -1,0 +1,137 @@
+{
+  "retrack":"iq-weekly",
+  "date":"Quinta-feira, 13 de julho",
+  "columns":{
+    "name":"Empresa",
+    "change":"% Varia&ccedil;&atilde;o",
+    "net":"Varia&ccedil;&atilde;o L&iacute;quida",
+    "value":"Valor",
+    "imp":"Imp.",
+    "actual":"Actual",
+    "forecast":"Forecast",
+    "add":"ADD"
+  },
+  "line":{
+    "item-1":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent":"0.30%"
+    },
+    "item-2":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/41/7441/static-03888119335553597441.png",
+      "percent":"0.30%"
+    },
+    "item-3":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent":"0.30%"
+    },
+    "item-4":{
+      "name":"DJIA",
+      "price":"21076.48",
+      "src":"https://images01.iqoption.com/09/9409/static-03284704811609489409.png",
+      "percent":"0.30%"
+    }
+  },
+  "section-1":{
+    "title":"Last week’s top movers"
+  },
+  "section-2":{
+  "title":"Key economic events"
+},
+  "section-3":{
+    "title":"Pr&oacute;ximos Relat&oacute;rios Financeiros"
+  },
+  "movers":{
+    "item-1":{
+      "img":"https://images01.iqoption.com/81/1281/static-00777912765938401281.png",
+      "name":"Alexion Pharmaceuticals",
+      "subname":"ALXN",
+      "change":"9.2%",
+      "net":"10.0",
+      "value":"$118.00"
+    },
+    "item-2":{
+      "img":"https://images01.iqoption.com/69/1969/static-02753225898189651969.png",
+      "name":"Albemarle Corporation",
+      "subname":"ALB",
+      "change":"3.00%",
+      "net":"3.38",
+      "value":"$109.27"
+    },
+    "item-3":{
+      "img":"https://images01.iqoption.com/93/6993/static-01781124395792596993.jpg",
+      "name":"Discovery Inc.",
+      "subname":"NASDAQ: DISCA",
+      "change":"3,68 %",
+      "net":"+ 1,37",
+      "value":"$22"
+    }
+  },
+  "events":{
+    "item-1":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    },
+    "item-2":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    },
+    "item-3":{
+      "name":"German Manufacturing PMI (May)",
+      "date":"27 May 8:30",
+      "active":"EUR",
+      "active-img":"https://images01.iqoption.com/41/3841/static-03249342110331043841.jpg",
+      "actual":"0.5%",
+      "forecast":"0.7%",
+      "calendar-link":"",
+      "imp":"3"
+    }
+  },
+  "reports": {
+    "item-1": {
+      "title": "Relatórios Financeiros da Colgate-Palmolive",
+      "date": "21 de julho de 2017",
+      "img-link": "https://images01.iqoption.com/61/5361/static-00835245124731535361.png",
+      "text": "A Colgate-Palmolive irá divulgar os seus resultados no dia 21 de julho, antes do sino da abertura dos mercados. Com um EPS consensual de 72 cêntimos do dólar, ou seja 2 cêntimoa acima do valor do trimestre homólogo do ano passado, a empresa pode demonstrar um aumento no preço das sua ações*. <br><br>A Colgate pode orgulhar-se de uma ampla gama de produtos. A empresa também detém uma posição de liderança nos segmentos dos cuidados oral e pessoal. A Colgate aposta fortemente na inovação, tanto em marketing como no desenvolvimento de produtos. Devido a iniciativas de corte de custos a empresa conseguiu aumentar a margem bruta ajustada por 70 bps. Ao mesmo tempo, a Colgate-Palmolive enfrenta o problema das vendas fracas e já falhou nas estimativas de vendas de 15 dos 16 últimos trimestres *. As conversões negativas de moedas também não têm ajudado no potencial de geração de lucros. <br><br>Durante os últimos sete trimestres a empresa tem atingido ou mesmo superado as expectativas dos investidores*. Mas será capaz de voltar a fazer o mesmo? Os especialistas acreditam muito nessa possibilidade*.",
+      "cta": "Investir agora",
+      "link": "https://iqoption.com/traderoom/asset/365?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-2": {
+      "title": "Relatórios Financeiros da Moody's",
+      "date": "21 de julho de 2017",
+      "img-link": "https://images01.iqoption.com/25/5025/static-01146281057817985025.png",
+      "text": "A Moody's deverá divulgar os seus resultados relativos ao segundo trimestre nesta sexta-feira antes da abertura do mercado. A previsão de EPS consensual para o trimestre é de 1,33 dólares, ou seja 3 cêntimos acima do valor apresentado no trimestre homólogo do ano passado*. <br><br>A empresa goza de uma posição dominante no mercado de notação de crédito. A Moody's e a Standard & Poor's combinadas controlam de 80% do setor. A Moody's conta com as aquisições como uma importante fonte de crescimento das suas receitas. A empresa demonstrou desempenho decente no último ano, 20,4% de crescimento ao longo de um período de 12 meses *. No entanto, após a crise financeira global, as empresas de rating de crédito enfrentaram o escrutínio público. Posteriormente, foram obrigadas a cumprir com um Regulamento mais rigoroso. As crescentes despesas operacionais prejudicaram a rentabilidade, principalmente devido aos pacotes elevados de compensação atribuídos aos funcionários. <br><br>Segundo os especialistas, a Moody's pode demonstrar uma dinâmica de preços das ações positiva caso os dados revelados nos reletórios satisfaçam os investidores*.",
+      "cta": "Investir agora",
+      "link": "https://iqoption.com/traderoom/asset/560?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    },
+    "item-3": {
+      "title": "Relatórios Financeiros da Alphabet",
+      "date": "24 de julho de 2017",
+      "img-link": "https://images01.iqoption.com/61/4561/static-02839119347119554561.png",
+      "text": "A empresa por trás do Google irá divulgar os seus resultados em 24 de julho de 2017 após o encerramento. De acordo com as estimativas, poderia aumentar o EPS em 91 cêntimos do dólar relativamente ao ano anterior*. <br><br>A reestruturação recente da estrutura operacional destina-se a melhorar a responsabilização da empresa. O Google é um líder de mercado nos setores de pesquisa em desktop e móvel com uma participação de mercado de 72,5% e 94,9%, respetivamente. Mais do que isso, nos últimos cinco anos, a receita cresceu a um CAGR de 14,6%*. Por outro lado, o escalonamento dos custos, a incapacidade de competir no segmento social e a difícil concorrência permanecem um grande problema. <br><br>Especialistas acreditam que, no longo prazo as ações da GOOGL deverão vir a crescer*. Por outro lado, não podem ser prometidos ganhos de curto prazo.",
+      "cta": "Investir agora",
+      "link": "https://iqoption.com/traderoom/asset/276?aff=7&afftrack=mail&retrack=iq_thursday-n"
+    }
+  },
+  "warn": {
+    "warn": "* Aplica-se o par&aacute;grafo 2.6 dos Termos e Condi&ccedil;&otilde;e"
+  }
+}
+

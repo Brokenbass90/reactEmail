@@ -1,0 +1,22 @@
+{
+	"block_00": "Comment faire plus de profit en moins de temps?",
+	"block_01": "Selon les statistiques, 93% des transactions réussies sont clôturées à l'aide d'outils graphiques et d'indicateurs. IQ Option propose une variété de ces instruments, mais la moyenne mobile simple (MMS) reste universelle.",
+	"block_02": "Exemple de trading de tendance réussi à l'aide d'indicateurs",
+	"block_03": "Trade le plus rentable de la semaine",
+	"block_04": "Actif:",
+	"block_05": "AUD/USD",
+	"block_06": "$149",
+	"block_07": "Bénéfice:",
+	"block_08": "886%",
+	"block_09": "$1,320",
+	"block_10": "La MMS peut être appliquée au graphique sur n'importe quel actif et sur n'importe quelle période. Elle peut être utilisée comme multi-indicateur dans la stratégie de trading <b class=\"block_10_0\">GoldenCross</b>.",
+	"block_11": "Ouvrir le graphique",
+	"block_12": "Comment ça marche?",
+	"block_13": "L'indicateur MMS est appliqué au graphique deux fois avec des paramètres de période différents. Les périodes standard sont <b class=\"block_13_0\">50 (rapide)</b> et <b class=\"block_13_1\">200 (lente)</b>, mais vous pouvez choisir <b class=\"block_13_2\">5 et 15 pour les transactions courtes</b>.",
+	"block_14": "Regarder un tutoriel",
+	"block_15": "Si la <b class=\"block_15_0\">MMS rapide croise la lente</b> à la hausse et que les deux augmentent, le prix de l'actif est susceptible d'augmenter également.",
+	"block_16": "Il est temps de vérifier les paramètres d'investissement. Si tout est correct, vous pouvez faire un <b class=\"block_16_0\">trade à la hausse</b>.",
+	"block_17": "Cette stratégie peut être combinée avec d'autres indicateurs pour obtenir des informations plus analytiques avant de prendre une décision.",
+	"block_18": "Entraînons-nous à la stratégie GoldenCross",
+	"block_19": "Essayez-la maintenant"
+}

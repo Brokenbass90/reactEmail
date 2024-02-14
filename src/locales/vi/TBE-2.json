@@ -1,0 +1,18 @@
+{
+	"block_00": "Lỗi thanh toán: Khoản thanh toán của bạn bị từ chối",
+	"block_01": "Có vẻ như chúng tôi không thể xử lý yêu cầu thanh toán của bạn được. Có nhiều nguyên nhân gây ra lỗi thanh toán. Sau đây là một số lý do phổ biến nhất:",
+	"block_02": "<b class=\"block_02_0\">Tài khoản của bạn không có đủ tiền.</b> Hãy kiểm tra lại xem bạn đã quy đổi đúng số tiền bằng USD ra đơn vị tiền tệ của bạn chưa. Chúng tôi khuyến nghị bạn nên để số dư trong tài khoản nhiều hơn mức cần thiết một ít.",
+	"block_03": "<b class=\"block_03_0\">Giao dịch trái phép.</b> Hãy liên hệ với ngân hàng của bạn để tìm hiểu xem họ có sử dụng tính năng giao dịch bảo mật 3D hay không.",
+	"block_04": "<b class=\"block_04_0\">Thông tin thanh toán không đúng.</b> Kiểm tra xem thông tin thanh toán mà bạn nhập đã đúng chưa.",
+	"block_05": "<b class=\"block_05_0\">Yêu cầu thanh toán đã hết thời gian.</b> Hãy thử thanh toán lại và nhập mã xác thực 3D trong thời gian cho phép.",
+	"block_06": "<b class=\"block_06_0\">Ngân hàng từ chối thanh toán.</b> Hãy liên hệ ngân hàng của bạn để biết lý do và cách khắc phục.",
+	"block_07": "<b class=\"block_07_0\">Tài khoản ngân hàng của bạn bị hạn chế hoạt động.</b> Hãy dùng phương thức thanh toán khác hoặc liên hệ ngân hàng của bạn.",
+	"block_08": "<b class=\"block_08_0\">Chứng chỉ trên Windows 7 hết hạn.</b> Hãy làm theo",
+	"block_09": "hướng dẫn",
+	"block_10": "để cài đặt chứng chỉ mới.",
+	"block_11": "<b class=\"block_11_0\">Nếu bạn làm việc ở Trung Quốc, bạn có thể gặp phải vấn đề với tường lửa.</b> Hãy thử lại hoặc dùng Alipay.",
+	"block_12": "<b class=\"block_12_0\">Bạn vừa nộp tiền bằng hình thức chuyển khoản ngân hàng trên điện thoại di động.</b> Hãy thử nộp tiền trên máy tính.",
+	"block_13": "Hãy kiểm tra xem tài khoản ngân hàng của bạn và thông tin thanh toán đã chính xác chưa hoặc thử một phương thức thanh toán khác.",
+	"block_14": "THỬ LẠI",
+	"block_15": "Nếu có thắc mắc, hãy liên hệ với chúng tôi theo địa chỉsupport@iqoption.com."
+}

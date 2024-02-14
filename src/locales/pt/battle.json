@@ -1,0 +1,89 @@
+{
+  "retrack":"trading-battle",
+  "tour-1": {
+    "date": "1 de junho",
+    "duration": "Duração: 30 dias",
+    "title": "Off to the Races",
+    "up-to":"até",
+    "prize": "$100 000*",
+    "prize-text": "no Fundo de Prêmios",
+    "part": "$20",
+    "re": "$20",
+    "additional-prize": "O grande vencedor ganha uma entrada para o Aston Martin Drive Day",
+    "number":"949"
+  },
+  "tour-2": {
+    "date": "1 de junho",
+    "duration": "Duração: 9 dias",
+    "title": "Bulls and Bears",
+    "up-to":"",
+    "prize": "$15 000*",
+    "prize-text": "Fundo de Prêmios Expansível",
+    "part": "$5",
+    "re": "$5",
+    "additional-prize": "",
+    "number":"959"
+  },
+  "tour-3": {
+    "date": "12 de junho",
+    "duration": "Duração: 19 dias",
+    "title": "Trading Wizard",
+    "up-to":"",
+    "prize": "$20 000*",
+    "prize-text": "Fundo de Prêmios Expansível",
+    "part": "$10",
+    "re": "$10",
+    "additional-prize": "",
+    "number":"960"
+  },
+  "tour-4": {
+    "date": "toda segunda-feira",
+    "duration": "Duração: 1 hora",
+    "title": "IQ Satellite",
+    "up-to":"",
+    "prize": "Entrada GRÁTIS",
+    "prize-text": "Month-long Tournament",
+    "part": "GRÁTIS",
+    "re": "$1",
+    "additional-prize": "",
+    "number":"971"
+  },
+  "tour-5": {
+    "date": "Todas as outras segundas-feiras",
+    "duration": "Duração: 5 dias",
+    "title": "IQ Launch",
+    "up-to":"até",
+    "prize": "30 000*",
+    "prize-text": "no Fundo de Prêmios",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"963"
+  },
+  "tour-6": {
+    "date": "toda sexta-feira",
+    "duration": "Duração: 1 hora",
+    "title": "The Winner Takes it All",
+    "prize": "$500*",
+    "up-to":"",
+    "prize-text": "para o grande vencedor",
+    "part": "$1",
+    "re": "não é permitida",
+    "additional-prize": "",
+    "number":"970"
+  },
+  "tour-7": {
+    "date": "toda quinta-feira",
+    "duration": "Duração: 1 dia",
+    "title": "Salary in a Day",
+    "prize": "$3000*",
+    "up-to":"",
+    "prize-text": "Fundo de Prêmios",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"958"
+  },
+  "asterisk":"*The amount to be credited to the balance in case of successful investment. The offer is valid on November 15th 2016 from 08:00 to 17:00 GMT."
+
+}

@@ -1,0 +1,9 @@
+{
+    "block_00": "Die Bearbeitung kann bis zu 7 Tage dauern",
+    "block_01": "Zeitweilige Verzögerung bei lokalen Banküberweisungen",
+    "block_02": "<b class=\"block_02_00\">Hallo [%first_name%],</b>",
+    "block_03": "wir möchten Ihnen mitteilen, dass lokale Banküberweisungen aus Gründen, die außerhalb </br>unserer Einflussnahme liegen, derzeit mit Verzögerung bearbeitet werden. Wir arbeiten daran, </br>die Transaktionen zu beschleunigen — richten Sie sich bis dahin darauf ein, dass die </br>Bearbeitung <b class=\"block_03_00\">bis zu 7 Tage</b> dauern kann.",
+    "block_04": "Wenn Sie lokale Banküberweisung als Ihre Zahlungsmethode eingerichtet haben, möchten </br>Sie dies möglicherweise vorübergehend ändern.",
+    "block_05": "Zahlungsmethode ändern",
+    "block_06": "Wir entschuldigen uns für die Unannehmlichkeiten. Vielen Dank für Ihr Verständnis!"
+}

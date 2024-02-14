@@ -1,0 +1,16 @@
+{
+	"block_00": "Demande de retrait traitée avec succès",
+	"block_01": "Bonjour",
+	"block_02": "USER_FULL_NAME",
+	"block_03": ",",
+	"block_04": "Votre demande de retrait",
+	"block_05": "op_id",
+	"block_06": "a été traitée avec succès et un montant total de",
+	"block_07": "montant",
+	"block_08": "devise",
+	"block_09": "a été retiré de votre compte IQ Option.  Vos fonds seront livrés comme indiqué sur votre demande de retrait.",
+	"block_10": "Si vous avez des questions, vous pouvez nous contacter à",
+	"block_11": "support@iqoption.com",
+	"block_12": ".",
+	"block_13": "Conditions d'utilisation"
+}

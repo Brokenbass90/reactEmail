@@ -1,0 +1,20 @@
+{
+  "block_00": "Notificação sobre seu saldo não reivindicado",
+  "block_01": "Caro Senhor/Senhora,",
+  "block_02": "Observe que após o encerramento da sua conta de negociação com a Empresa, foi identificado que sua conta de negociação tem um saldo não reclamado até hoje, ou seja, nenhuma ação foi tomada para reivindicar seus fundos.",
+  "block_03": "Recomenda-se vivamente que contacte a Empresa imediatamente e reivindique tal saldo restante enviando-nos um e-mail para",
+  "block_04": "support@eu.iqoption.com",
+  "block_05": "utilizando o seu endereço de e-mail registrado que estava associado à sua conta de negociação. Além disso, para que a Empresa lhe devolva seu saldo restante, pedimos que você nos forneça os seguintes dados bancários:",
+  "block_06": "Nome e sobrenome",
+  "block_07": "Número IBAN",
+  "block_08": "Número Swift",
+  "block_09": "País do banco",
+  "block_10": "Moeda da sua conta bancária",
+  "block_11": "Esteja ciente de que a transação pode estar sujeita a cobranças. Além disso, os pagamentos em USD estão sujeitos uma taxa fixa de 35 USD, portanto, é recomendado fornecer à Empresa os dados bancários de uma conta em EUR/GBP para evitar tal taxa. O saldo remanescente em USD será convertido para EUR/GBP de acordo com o pagamento relevante. Pedimos gentilmente que nos forneça uma conta bancária <b class=\"block_11_0\">que não da Revolut.</b>",
+  "block_12": "Por fim, para quaisquer taxas aplicáveis após o encerramento da sua conta, consulte a Cláusula 3 da",
+  "block_13": "Política Geral de Taxas",
+  "block_14": "Caso já tenha entrado em contato com a Empresa sobre o pagamento de seu saldo remanescente não reclamado e/ou já tenha recebido seu saldo remanescente, desconsidere o presente e-mail.",
+  "block_15": "Se tiver alguma dúvida ou precisar de mais esclarecimentos, sinta-se à vontade para entrar em contato conosco pelo e-mail",
+  "block_16": "support@eu.iqoption.com.",
+  "block_17": "Ir para IQ Option"
+}

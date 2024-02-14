@@ -1,0 +1,17 @@
+{
+	"block_00": "Faktureringsfeil: Din betaling ble avvist",
+	"block_01": "Det ser ut til at vi ikke kan behandle din betaling. Det er forskjellige årsaker til faktureringsfeil. Nedenfor er det mest vanlige:",
+	"block_02": "<b class=\"block_02_0\">Ikke nok midler på din bankkonto.</b> Sjekk om du har beregnet riktig USD-beløp i din valuta. Vi anbefaler at du har litt mer penger på kontoen enn du trenger, for sikkerhets skyld.",
+	"block_03": "<b class=\"block_03_0\">Uautorisert transaksjon.</b> Kontakt banken din for å sjekke om 3D-sikker transaksjon er aktivert.",
+	"block_04": "<b class=\"block_04_0\">Betalingopplysningene var feil.</b> Sjekk om du skrev riktige betalingsopplysninger.",
+	"block_05": "<b class=\"block_05_0\">Tiden for betaling har utløpt.</b> Prøv å betale igjen og skriv inn 3D-koden i tide.",
+	"block_06": "<b class=\"block_06_0\">Betalingen ble avist av banken.</b> Kontakt din bank for å finne ut av årsaken og fiks det.",
+	"block_07": "<b class=\"block_07_0\">Bankkontoen din har interne driftsgrenser.</b> Vennligst bruk en annen metode eller kontakt banken din.",
+	"block_08": "<b class=\"block_08_0\">Utdatert sertifikat på Windows 7.</b> Følg",
+	"block_09": "instruksjonene",
+	"block_10": "for å installere et nytt sertifikat.",
+	"block_11": "<b class=\"block_11_0\">Du kan ha et problem med brannmuren dersom du arbeider fra Kina.</b> Prøv igjen eller bruk Alipay.",
+	"block_12": "Sjekk og se om din bankkonto og betalingsdetaljer er i orden eller prøv en annen betalingsmetode.",
+	"block_13": "PRØV IGJEN",
+	"block_14": "Kontakt oss dersom du har spørsmål på support@iqoption.com."
+}

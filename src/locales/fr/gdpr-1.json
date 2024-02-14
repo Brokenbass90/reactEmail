@@ -1,0 +1,18 @@
+{
+	"block_00": "Demande de suppression de données reçue",
+	"block_01": "Cher client,",
+	"block_02": "Nous confirmons par la présente réception de votre demande de <b class=\"block_02_0\">SUPPRIMER</b> votre compte et <b class=\"block_02_1\">TOUTES</b> vos données personnelles conformément à vos droits en vertu de l'article 17 du GDPR. Veuillez noter que vos informations personnelles sont très importantes pour nous et {{embedded.brand_name}} prend la protection des données très au sérieux.",
+	"block_03": "Nous nous ferons un plaisir de donner suite à votre demande de suppression de vos données personnelles si votre demande est valide et conforme aux lois et réglementations en vigueur.",
+	"block_04": "Nous traiterons votre demande et vous fournirons une réponse finale dans un délai de <b class=\"block_04_0\">trente (30) jours ouvrables</b>.",
+	"block_05": "Nos systèmes sont généralement configurés pour respecter le principe de nécessité et de minimisation des données. Cela signifie qu'{{embedded.brand_name}} ne traite aucune donnée personnelle vous concernant qui ne soit pas absolument nécessaire pour vous fournir nos services.",
+	"block_06": "<b class=\"block_06_0\">Si vous souhaitez ANNULER</b> votre demande, vous pouvez le faire via notre site Web pendant le traitement de votre demande. Le traitement de votre demande peut prendre de <b class=\"block_06_1\">1 à 30 jours ouvrables</b> en fonction du volume de demandes en cours de traitement par nos systèmes.",
+	"block_07": "Effets de l'annulation de votre demande de suppression:",
+	"block_08": "Votre compte ne sera pas supprimé;",
+	"block_09": "Vous pourrez accéder à votre compte, trader et utiliser les services d’{{embedded.brand_name}}; et",
+	"block_10": "Vos données personnelles ne seront pas effacées.",
+	"block_11": "Cela dit, nous vous informons que vous aurez un accès limité à votre compte et pourrez uniquement soumettre une demande de retrait conformément à la politique de retrait et de remboursement pour le retrait de votre solde disponible (le cas échéant) (<b class=\"block_11_0\">Solde restant</b>).",
+	"block_12": "À l'expiration d'un délai de 14 jours à compter de la date indiquée, votre compte sera entièrement bloqué, vous ne pourrez plus accéder à celui-ci et le titre <b class=\"block_12_0\">du solde restant sera transféré à la société</b>.",
+	"block_13": "Sincières salutations, l’équipe d’{{embedded.brand_name}}",
+	"block_14": "Si vous avez des questions, vous pouvez nous contacter à",
+	"block_15": "support@iqoption.com"
+}

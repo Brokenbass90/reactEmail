@@ -1,0 +1,89 @@
+{
+  "retrack":"trading-battle",
+  "tour-1": {
+    "date": "1 июня",
+    "duration": "Длительность: 30 дней",
+    "title": "Off to the Races",
+    "up-to":"до",
+    "prize": "$100 000*",
+    "prize-text": "в Призовом Фонде",
+    "part": "$20",
+    "re": "$20",
+    "additional-prize": "Главный победитель получит поездку на<br> <a href='https://blog.iqoption.com/traders-aston-martin-drive-day/' style='color: #ff7700 !important; text-decoration: underline !important;'>Aston Martin Drive Day</a>",
+    "number":"949"
+  },
+  "tour-2": {
+    "date": "1 июня",
+    "duration": "Длительность: 9 дней",
+    "title": "Bulls and Bears",
+    "up-to":"",
+    "prize": "$15 000*",
+    "prize-text": "Растущий Призовой Фонд",
+    "part": "$5",
+    "re": "$5",
+    "additional-prize": "",
+    "number":"959"
+  },
+  "tour-3": {
+    "date": "12 июня",
+    "duration": "Длительность: 19 дней",
+    "title": "Trading Wizard",
+    "up-to":"",
+    "prize": "$20 000*",
+    "prize-text": "Растущий Призовой Фонд",
+    "part": "$10",
+    "re": "$10",
+    "additional-prize": "",
+    "number":"960"
+  },
+  "tour-4": {
+    "date": "каждый понедельник",
+    "duration": "Длительность: 1 час",
+    "title": "IQ Satellite",
+    "up-to":"",
+    "prize": "БЕСПЛАТНОЕ участие",
+    "prize-text": "в Главном Турнире Месяца",
+    "part": "БЕСПЛАТНО",
+    "re": "$1",
+    "additional-prize": "",
+    "number":"971"
+  },
+  "tour-5": {
+    "date": "раз в 2 недели",
+    "duration": "Длительность: 5 дней",
+    "title": "IQ Launch",
+    "up-to":"до",
+    "prize": "30 000*",
+    "prize-text": "в Призовом Фонде",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"963"
+  },
+  "tour-6": {
+    "date": "каждую пятницу",
+    "duration": "Длительность: 1 час",
+    "title": "The Winner Takes it All",
+    "prize": "$500*",
+    "up-to":"",
+    "prize-text": "главному победителю",
+    "part": "$1",
+    "re": "недоступна",
+    "additional-prize": "",
+    "number":"970"
+  },
+  "tour-7": {
+    "date": "Each каждый четверг",
+    "duration": "Длительность: 1 день",
+    "title": "Salary in a Day",
+    "prize": "$3000*",
+    "up-to":"",
+    "prize-text": "Призовой Фонд",
+    "part": "$4",
+    "re": "$4",
+    "additional-prize": "",
+    "number":"958"
+  },
+  "asterisk":"*Только участники, занявшие призовые места в рамках турнира, могут претендовать на долю призового фонда"
+
+}

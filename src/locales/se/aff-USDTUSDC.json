@@ -1,0 +1,14 @@
+{
+    "block_00": "Introducerar utbetalningar i stablecoin",
+    "block_01": "<b class=\"block_01_00\">Hej [%first_name%]!</b>",
+    "block_02": "Vi är glada att kunna introducera två nya betalningsmetoder: <b class=\"block_02_00\">USDT och USDC</b>.",
+    "block_03": "Varför föredrar användare USDT och USDC?",
+    "block_04": "Tether (USDT) och USD Coin (USDC) är de mest populära stablecoin. De kan <b class=\"block_04_00\">växlas till USD med ett 1:1 omvandlingsförhållande</b>. Stablecoin är knutna till den amerikanska dollarn, vilket innebär att de kan dra nytta av fördelarna med att vara ett snabbt, säkert och relativt billigt utbetalningsalternativ utan den extrema volatiliteten som är förknippad med Bitcoin och andra kryptovalutor.",
+    "block_05": "Krav för USDT- och USDC-utbetalningar",
+    "block_06": "Endast tillgängliga för uttag från <b class=\"block_06_00\">icke-europeisk balans</b>",
+    "block_07": "Obligatorisk",
+    "block_08": "<b class=\"block_08_00\">KYC-verifiering</b>",
+    "block_09": "Under den första tiden kommer det lägsta utbetalningsbeloppet att vara <b class=\"block_09_00\">$500</b>",
+    "block_10": "För att byta din utbetalningsmetod till USDT eller USDC går du till Utbetalningsinställningar och ändrar din standardmetod.",
+    "block_11": "Ändra utbetalningsmetod"
+}

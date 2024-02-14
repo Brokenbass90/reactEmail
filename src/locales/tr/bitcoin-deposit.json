@@ -1,0 +1,19 @@
+{
+	"block_00": "Bitcoin para yatırma",
+	"block_01": "İşlem hesabınıza para yatırmanın yeni ve güvenli yolu",
+	"block_02": "ŞİMDİ PARA YATIRIN",
+	"block_03": "Tüm kripto meraklılarına <b class=\"block_03_0\">artık IQ Option işlem platformunda Bitcoin cinsinden para yatırılabileceğini</b> duyurmaktan mutluyuz. Bundan sonra kripto cüzdanınızdan <b class=\"block_03_1\">tek bir Bitcoin transferi ile işlem hesabınıza para yatırabilirsiniz</b>. Uluslararası transfer işlemleri için IBAN veya Swift kodu aramanıza ve fahiş bankacılık ücretleri ödemenize gerek yok. Kulağa cazip geliyor değil mi?",
+	"block_04": "Nasıl Para Yatırılır",
+	"block_05": "IQ Option hesabınızda oturum açın ve Para Yatır düğmesine tıklayın.",
+	"block_06": "Açılan pencerede para yatırma seçeneği olarak Bitcoin'i seçin, yatırmak istediğiniz tutarı belirtin ve ödemeye geçin.",
+	"block_07": "Açılan bir sonraki pencerede, gerektiğinde para iadesi yapabilmemiz için BTC cüzdanınızın adresini belirtin.",
+	"block_08": "Sonraki aşamada, işlem özetini gözden geçirin, kutudaki kodu kopyalayın ve para yatırırken bu kodu alıcı adresi olarak belirtin.",
+	"block_09": "İşte bu kadar. Sizin için tek bir hızlı kod üretilir ve işlem tamamlanır. İlk Bitcoin para yatırma işleminizi gerçekleştirmeye hazır mısınız?",
+	"block_10": "IQ OPTION'a GİT",
+	"block_11": "<b class=\"block_11_0\">Henüz Bitcoin satın almadınız mı?</b>",
+	"block_12": "Aslında Bitcoin yatırımcısı olmak çok basittir:",
+	"block_13": "Kraken, Coinbase veya Bittrex gibi herhangi bir popüler kripto para borsasında hesabınızı <b class=\"block_13_0\">oluşturun ve doğrulayın</b>;",
+	"block_14": "İtibari parayla <b class=\"block_14_0\">Bitcoin hesabınıza para yatırın</b> (ilgili borsada bunun nasıl yapılacağı hakkında detaylı talimatları bulacaksınız);",
+	"block_15": "Gelecekte bilgisayar korsanlığı saldırılarından korunmak için 2FA aracılığıyla <b class=\"block_15_0\">hesabınızı güvenceye alın</b>.",
+	"block_16": "<b class=\"block_16_0\">Risk uyarısı:</b> Üçüncü taraf borsalarda gerçekleştirilen her türlü finansal işlemde riskin ve sorumluluğun size ait olduğunu lütfen unutmayın. IQ Option bu tür işlemlerin yasallığı konusunda hiçbir sorumluluk taşımaz."
+}

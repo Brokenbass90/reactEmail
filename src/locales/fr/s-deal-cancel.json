@@ -1,0 +1,9 @@
+{
+	"block_00": "Annulation de la transaction",
+	"block_01": "Cher client,",
+	"block_02": "Nous n'avons pas pu exécuter la transaction",
+	"block_03": "deal_id",
+	"block_04": "que vous avez récemment passée, car elle n'a pas été acceptée par le Teneur de Marché tiers auquel l'ordre a été envoyé pour exécution. Cela peut se produire pour un certain nombre de raisons, y compris les conditions du marché au moment de l'exécution ou le cadre de gestion des risques du teneur de marché.",
+	"block_05": "Par la suite et conformément aux conditions générales de la société, que vous avez réputées avoir reconnues et acceptées en devenant client de la société, votre commande n'a pas été traitée et le montant investi a été reversé sur le solde de votre compte.",
+	"block_06": "Pour de plus amples renseignements, veuillez vous référer à la section (9) des conditions générales."
+}

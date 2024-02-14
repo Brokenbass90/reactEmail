@@ -1,0 +1,23 @@
+{
+  "top": {
+    "new": "NUOVA FUNZIONE DELLA PIATTAFORMA:",
+    "sell": "VENDITA ANTICIPATA DI OPZIONI",
+    "option": "IQ Option è felice di presentarvi una nuova possibilità sulla nostra piattaforma: l'opzione",
+    "name": "«Vendita anticipata di opzioni».",
+    "video": "https://vimeo.com/174230281"
+  },
+  "center": {
+    "what": "Cos'è la",
+    "option": "«Vendita anticipata di opzioni»?",
+    "sec": "Nell'arco di tre secondi",
+    "moment": "dal momento di apertura dell'operazione è possibile il suo annullamento prima della scadenza.",
+    "100": " In questo caso avrete rimborsato il 100% dei fondi investiti",
+    "coast": "se il prezzo dell'attivo non è cambiato in questi 3 secondi.",
+    "secc": "Allo scadere dei 3 secondi,",
+    "selll": "è possibile vendere l'opzione al prezzo offerto."
+  },
+  "bottom": {
+    "cta": "Con la funzione «Vendita anticipata di opzioni» riducete i rischi e proteggete i vostri fondi.",
+    "button": "PASSARE A IQ OPTION"
+  }
+}

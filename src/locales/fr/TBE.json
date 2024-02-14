@@ -1,0 +1,17 @@
+{
+	"block_00": "Erreur de facturation: votre paiement a été refusé",
+	"block_01": "Il semble que nous ne puissions pas traiter votre paiement. Il existe différentes raisons pour les erreurs de facturation. Voici les plus courantes:",
+	"block_02": "<b class=\"block_02_0\">Fonds insuffisants sur votre compte bancaire.</b> Vérifiez si vous avez correctement calculé le montant en USD dans votre devise. Nous vous recommandons d'avoir un peu plus d'argent dans votre compte que ce dont vous avez besoin au cas où.",
+	"block_03": "<b class=\"block_03_0\">Transaction non autorisée.</b> Contactez votre banque pour savoir si les transactions sécurisées 3D sont activées.",
+	"block_04": "<b class=\"block_04_0\">Les informations de paiement étaient incorrectes.</b> Vérifiez si vous avez correctement saisi les informations de paiement.",
+	"block_05": "<b class=\"block_05_0\">Le délai de paiement a expiré.</b> Réessayez le paiement et saisissez le code 3D en temps opportun.",
+	"block_06": "<b class=\"block_06_0\">Le paiement a été refusé par la banque.</b> Contactez votre banque pour connaître la raison et résoudre le problème.",
+	"block_07": "<b class=\"block_07_0\">Votre compte bancaire a des limites internes pour les opérations.</b> Veuillez utiliser une autre méthode ou contacter votre banque.",
+	"block_08": "<b class=\"block_08_0\">Certificat obsolète sous Windows 7.</b> Suivez les",
+	"block_09": "instructions",
+	"block_10": "pour installer un nouveau certificat.",
+	"block_11": "<b class=\"block_11_0\">Si vous travaillez en Chine, vous rencontrez peut-être un problème de pare-feu.</b> Réessayez ou utilisez Alipay.",
+	"block_12": "Vérifiez si votre compte bancaire et vos informations de paiement sont en ordre ou essayez un autre mode de paiement.",
+	"block_13": "RÉESSAYER",
+	"block_14": "Si vous avez des questions, vous pouvez nous contacter à support@iqoption.com."
+}

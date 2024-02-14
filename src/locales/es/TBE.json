@@ -1,0 +1,17 @@
+{
+	"block_00": "Error de Facturación; tu pago ha sido rechazado",
+	"block_01": "Parece que no podemos procesar tu pago. Hay varias razones diferentes por las que ocurren errores de facturación. A continuación encontrarás las más comunes:",
+	"block_02": "<b class=\"block_02_0\">Fondos insuficientes en tu cuenta bancaria.</b> comprueba si has calculado correctamente la cantidad de USD en tu moneda. Te recomendamos tener un poco más de dinero en tu cuenta de lo necesario solo por si acaso.",
+	"block_03": "<b class=\"block_03_0\">Transacción no autorizada.</b> Contacta con tu banco para descubrir si están permitidas las transacciones con 3D secure",
+	"block_04": "<b class=\"block_04_0\">Los detalles de pago son incorrectos. </b> Revisa si has introducido los detalles del pago correctamente.",
+	"block_05": "<b class=\"block_05_0\">El tiempo de pago ha expirado. </b> Vuelve a realizar el pago e introduce tu código 3D en el tiempo establecido.",
+	"block_06": "<b class=\"block_06_0\">el pago ha sido rechazado por el banco. </b> Contacta con tu banco para saber la razón y solucionarla.",
+	"block_07": "<b class=\"block_07_0\">Tu banco tiene límites internos para algunas operaciones. </b> Por favor, usa otro método o contacta con tu banco.",
+	"block_08": "<b class=\"block_08_0\">Certificado caducado en Windows 7.</b> Sigue",
+	"block_09": "las instrucciones",
+	"block_10": "para instalar un nuevo certificado.",
+	"block_11": "<b class=\"block_11_0\">Si trabajas desde China, podrías estar experimentando problemas con el firewall.</b> Inténtalo de nuevo o usa Alipay.",
+	"block_12": "Comprueba si tu cuenta bancaria y detalles del pago son correctos o prueba otro método de pago.",
+	"block_13": "PRUEBA DE NUEVO",
+	"block_14": "Si tienes alguna duda, contacta con nosotros en support@iqoption.com."
+}

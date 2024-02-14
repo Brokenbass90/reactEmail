@@ -1,0 +1,12 @@
+{
+	"block_00": "Stornierung einer Einzahlung",
+	"block_01": "Sehr geehrter Händler,",
+	"block_02": "wir müssen Ihnen leider mitteilen, dass aufgrund eines kleinen technischen Problems die Beträge für einige Abrechnungen Ihrem Konto fehlerhaft gutgeschrieben wurden. Deshalb muss die fälschlich gutgeschriebene Rechnung in Höhe von",
+	"block_03": "amount",
+	"block_04": "currency",
+	"block_05": "von Ihrem Handelsguthaben abgezogen werden.",
+	"block_06": "Wir bedanken uns für Ihre Geduld und stehen zu Ihrer Verfügung.",
+	"block_07": "Bei Fragen ist unser",
+	"block_08": "Supportteam",
+	"block_09": "gern bereit, Ihnen zu helfen."
+}

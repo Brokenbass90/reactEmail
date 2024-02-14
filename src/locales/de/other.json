@@ -1,0 +1,49 @@
+{
+  "calendar":{
+    "retrack":"earnings_calendar",
+    "retrack-2":"earnings_calendar-2",
+    "cta":{
+      "text":"Wechseln zur IQ-Option",
+      "link":"#"
+    },
+    "title":"Wie liest man einen Wirtschaftskalender",
+    "subtitle":"Eine &Uuml;berpr&uuml;fung der Gesch&auml;fts- und Ertragsentwicklung eines Unternehmens und der Prognosen, k&ouml;nnte Ihre Erfolgschancen beim Handel mit Klassischen Optionen erh&ouml;hen .",
+    "sec-1-title":"3 Dinge,die beachtet werden sollten:",
+    "sec-3-title":"&Uuml;berpr&uuml;fen Sie das Ergebnis im Kalender <br /> auf der IQ Option Handelsplattform, jetzt!",
+    "eps":"EPS",
+    "forecast":"Forecast",
+    "revenue":"Revenue",
+    "active-1":{
+      "name":"PayPal Holdings Inc",
+      "date":"Apr 26, 2017",
+      "num-1":"0.44",
+      "num-2":"0.41",
+      "color":"green",
+      "rev-num":"2.98B",
+      "time-img":"https://images01.iqoption.com/01/9601/static-04299877409986969601.png"
+    },
+    "active-2":{
+      "name":"Intel",
+      "date":"Apr 27, 2017",
+      "num-1":"0.66",
+      "num-2":"0.68",
+      "color":"red",
+      "rev-num":"14.79B",
+      "time-img":"https://images01.iqoption.com/85/8385/static-04047061317670928385.png"
+    },
+    "item-1":{
+      "title":"Tageszeit",
+      "text":"Neueinsteiger neigen dazu, eine wichtige Detail im Wirtschaftskalender zu &uuml;bersehen: Zeit der Berichtsver&ouml;ffentlichung. Die Berichte &uuml;ber die amerikanischen Aktiengesellschaften werden entweder vor B&ouml;rsen&ouml;ffnung oder nach B&ouml;rsenschluss ver&ouml;ffentlicht."
+    },
+    "item-2":{
+      "title":"Die EPS-Prognose",
+      "text":"Das Ergebnis Je Aktie (besser bekannt als EPS) ist wohl der wichtigste Indikator der finanziellen Vitalit&auml;t eines Unternehmens,weil alle &Auml;nderungen auf dem Aktienkurs reflektiert werden. Wenn die ver&ouml;ffentlichten finanziellen Ergebnisse unter dem prognostizierten Niveau liegen,wird der Preis wahrscheinlich eine Kursl&uuml;cke nach unten zeigen."
+    },
+    "item-3":{
+      "title":"Erfolgsbilanz",
+      "text":"Nehmen Sie sich Zeit f&uuml;r die Nachforschung der finanziellen Ergebnisse des Unternehmens f&uuml;r mehrere vorangegangene Quartale. Gibt es einen konsequent guten oder schlechten Ergebnisverlauf? Wenn ja, dann ist die Aktie weniger anf&auml;llig f&uuml;r drastische Bewegungen in beide Richtungen, aber der allgemeine Trend ist mehr offensichtlich."
+    }
+
+  }
+
+}

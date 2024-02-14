@@ -1,0 +1,21 @@
+{
+	"block_00": "A Internet dos seus usuários é lenta?",
+	"block_01": "4 ideias sobre como minimizar perdas e maximizar conversões.",
+	"block_02": "<b class=\"block_02_0\">Olá [%first_name%],</b>",
+	"block_03": "Seu site pode ser perfeito, mas de que adianta isso se seus usuários em potencial não podem apreciá-lo por conta de uma Internet lenta? Você não pode acelerar a conexão deles, mas pode otimizar seu site para funcionar mais rápido!",
+	"block_04": "Aqui estão algumas ideias sobre como melhorar o desempenho do site para usuários com Internet de baixa velocidade.",
+	"block_05": "Comprimir o conteúdo",
+	"block_06": "Quanto menores seus arquivos, mais rápido eles serão carregados. No mínimo, você pode reduzir manualmente o tamanho das imagens.",
+	"block_07": "Outra solução é a compressão com o",
+	"block_08": "Gzip.",
+	"block_09": "Este aplicativo localiza e substitui strings de códigos semelhantes em seus arquivos para torná-los menores. Este método funciona bem com CSS e HTML, e a maioria dos servidores da web pode compactar arquivos no formato Gzip antes de enviá-los para download. A compactação pode reduzir o tempo de download em cerca de 70%.",
+	"block_10": "Mude para um provedor de DNS mais rápido",
+	"block_11": "O tempo de carregamento de sua página depende muito da quantidade de tempo que leva a sua consulta DNS. Se você estiver usando um DNS lento, isso aumenta o tempo que os navegadores levam para localizar o seu site. Mudar para um provedor mais rápido pode acelerar o processo.",
+	"block_12": "Experimente o carregamento lento",
+	"block_13": "Normalmente, o navegador precisa fazer o download de todo o conteúdo da página antes de exibir qualquer coisa ao usuário. Você pode experimentar plug-ins especiais para fazer com que ele carregue sua seção superior (topo da página) primeiro e depois o restante do conteúdo. Assim, os usuários não precisarão esperar para acessar a página e as imagens serão carregadas à medida que rolam por ela.",
+	"block_14": "Você pode ativar o carregamento lento com Lazy Load, BJ Lazy Load, WP Rocket ou outros plug-ins.",
+	"block_15": "Invista em AMP",
+	"block_16": "Você pode ajustar seu site existente para funcionar mais rápido ou pode experimentar soluções especiais projetadas para funcionar com uma conexão de Internet ruim.",
+	"block_17": "AMP (Accelerated Mobile Page) é uma dessas soluções. Ela é uma tecnologia desenvolvida pelo Google para acelerar o carregamento de páginas e exibir sites em dispositivos móveis. O segredo da velocidade é que essas páginas armazenam apenas o conteúdo principal, sacrificando alguns elementos para altas velocidades de download. Além disso, as páginas AMP têm uma chance maior de chegar às primeiras posições do mecanismo de pesquisa porque eles levam em conta a velocidade de carregamento ao fazer a classificação dos resultados.",
+	"block_18": "Desejamos a você excelentes conversões! 🚀"
+}

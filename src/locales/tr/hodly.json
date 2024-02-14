@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Hoş geldiniz!",
+    "subtitle": "HODLY hesabınız neredeyse hazır.",
+    "text-1": "Sadece e-posta adresinizi doğrulamamız gerekli, bunda sonra başlamaya hazırsınız.",
+    "cta": "E-posta adresini doğrula"
+  },
+  "password": {
+    "title": "Merhaba!",
+    "subtitle": "Birisi HODLY hesabınıza ait parolayı sıfırlama isteğinde bulundu.",
+    "text-1": "Bu sizseniz, aşağıdaki düğmeye tıklayarak yeni bir parola belirleyebilirsiniz:",
+    "cta": "Yeni parola belirle",
+    "text-2": "Parolanızı değiştirmek istemiyorsanız veya böyle bir istekte bulunmadıysanız, bu mesajı yoksayın ve silin.",
+    "orange": "İyi günler!"
+  },
+  "email": {
+    "title": "Merhaba!",
+    "subtitle": "Siz veya başka biri HODLY hesabınıza ait e-posta adresini değiştirme isteğinde bulundu.",
+    "text-1": "E-posta adresini değiştirmek için aşağıya tıklayın:",
+    "cta": "E-posta değiştir",
+    "text-2": "E-posta adresinizi değiştirmek istemiyorsanız veya böyle bir istekte bulunmadıysanız, bu mesajı yoksayın ve silin.",
+    "orange": "İyi günler!"
+  },
+  "auto": "Bu mesaj otomatik olarak oluşturulmuş ve gönderilmiştir, yanıt vermeniz gerekmiyor."
+}
