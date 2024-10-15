@@ -1,0 +1,87 @@
+// // utilites
+// @import "node_modules/foundation-emails/scss/util/util";
+
+// // components
+// @import "node_modules/foundation-emails/scss/components/typography";
+// @import "node_modules/foundation-emails/scss/components/button";
+
+
+.padd {
+  padding: 0 50px !important;
+}
+.border-radius {
+  border-radius: 20px;
+}
+@media only screen and (max-width: 600px) {
+  .padd {
+    padding: 0 20px !important;
+  }
+}
+.custom-class {
+  color: #333;
+}
+
+.title {
+  font-style: "Helvetica" !important;
+  color: red;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    color: blue;
+    font-size: 20px !important;
+    color: #333 !important;
+  }
+}
+
+
+//.pt
+.pt10 {
+  padding-top: 10px !important
+}
+
+.pt20 {
+  padding-top: 20px !important
+}
+
+.pt30 {
+  padding-top: 30px !important
+}
+
+.pt40 {
+  padding-top: 40px !important
+}
+
+
+//pb
+.pb10 {
+  padding-bottom: 10px !important
+}
+
+.pb20 {
+  padding-bottom: 20px !important
+}
+
+.pb30 {
+  padding-bottom: 30px !important
+}
+
+.pb40 {
+  padding-bottom: 40px !important
+}
+
+.column {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+}
+
+@media only screen and (max-width: 600px) {
+  .column {
+    display: block;
+    width: 100% !important;
+  }
+}
+
