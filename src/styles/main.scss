@@ -1,11 +1,10 @@
 @import "../../node_modules/foundation-emails/scss/foundation-emails.scss";
 
 body {
-  font-family: Arial, sans-serif;
-}
-
-h1 {
-  color: #333333;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 
+p, h1, h2, h3, h4, h5, h6, ul, ol {
+    margin: 0;
+}

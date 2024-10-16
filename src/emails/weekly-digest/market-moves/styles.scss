@@ -4,38 +4,78 @@
 // // components
 // @import "node_modules/foundation-emails/scss/components/typography";
 // @import "node_modules/foundation-emails/scss/components/button";
+@import "node_modules/foundation-emails/scss/foundation-emails";
 
+$title-color: #132035;
+$subtitle-color: #24262d;
+$text-color: #24262d;
+$font-style: "Helvetica" !important;
+$text-left: left;
+$text-center: center;
+.plr10{
+  padding: 0 10px;
+}
 
 .padd {
-  padding: 0 50px !important;
+  padding: 0 50px;
 }
-.border-radius {
-  border-radius: 20px;
-}
+
 @media only screen and (max-width: 600px) {
   .padd {
     padding: 0 20px !important;
   }
 }
-.custom-class {
-  color: #333;
+
+.border-radius {
+  border-radius: 20px;
+}
+
+.bg-image{
+  background: url('https://fsms.iqoption.com/storage/public/cc/q3/o2pbdrom0oposqe0/Frame 710 (1).png') center top no-repeat; 
+  background-size: cover; 
+  border-collapse: collapse; 
+  border-radius: 0 0 10px 10px; 
+  border-spacing: 0; 
+  padding: 0; 
+  vertical-align: top; 
+  width: 100%;
 }
 
 .title {
-  font-style: "Helvetica" !important;
-  color: red;
-  font-size: 30px;
-  line-height: 40px;
+  font-style: $font-style;
+  color: $title-color;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 48px;
+  text-align: $text-left; 
 }
 
 @media only screen and (max-width: 600px) {
   .title {
-    color: blue;
-    font-size: 20px !important;
-    color: #333 !important;
+    font-size: 28px !important;
+    line-height: 36px !important;
   }
 }
 
+.subtitle {
+  font-family: $font-style;
+  color: $subtitle-color;  
+  font-size: 20px; 
+  line-height: 26px;
+  font-weight: 700; 
+  letter-spacing: 0; 
+  text-align: $text-left;
+}
+
+.text {
+  color: $text-color;
+  font-family: $font-style;
+  font-size: 16px; 
+  line-height: 26px;
+  font-weight: 400; 
+  letter-spacing: 0;
+  text-align: $text-left;
+}
 
 //.pt
 .pt10 {
@@ -82,6 +122,16 @@
   .column {
     display: block;
     width: 100% !important;
+  }
+}
+
+.custom-button {
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+  .custom-button {
+    font-size: 14px;
   }
 }
 

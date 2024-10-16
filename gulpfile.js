@@ -27,6 +27,38 @@ const paths = {
   dist: './dist',
 };
 
+// // компиляция стилей
+// gulp.task('compile-styles', () => {
+//   const theme = argv.theme;
+//   const email = argv.email;
+
+//   if (!theme || !email) {
+//     console.error('Пожалуйста, укажите параметры --theme и --email.');
+//     return Promise.resolve();
+//   }
+
+//   const emailStylesPath = path.resolve(`${paths.emails}/${theme}/${email}/styles.scss`);
+//   const globalStylesPath = path.resolve(`${paths.styles}/main.scss`);
+
+//   return gulp
+//     .src([globalStylesPath, emailStylesPath])
+//     .pipe(plumber())
+//     .pipe(
+//       sass({
+//         includePaths: ['node_modules/foundation-emails/scss'],
+//       }).on('error', sass.logError)
+//     )
+//     .pipe(concat('combined-styles.css'))
+//     .pipe(
+//       purgecss({
+//         content: [`${paths.emails}/${theme}/${email}/**/*.{jsx,html}`],
+//         safelist: ['body', 'html', 'table', 'td', 'th', 'img', 'a'], // селекторы
+//         defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
+//       })
+//     )
+//     .pipe(cleanCSS()) // Минификтор
+//     .pipe(gulp.dest('./temp'));
+// });
 // компиляция стилей
 gulp.task('compile-styles', () => {
   const theme = argv.theme;
@@ -49,14 +81,7 @@ gulp.task('compile-styles', () => {
       }).on('error', sass.logError)
     )
     .pipe(concat('combined-styles.css'))
-    .pipe(
-      purgecss({
-        content: [`${paths.emails}/${theme}/${email}/**/*.{jsx,html}`],
-        safelist: ['body', 'html', 'table', 'td', 'th', 'img', 'a'], // селекторы
-        defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
-      })
-    )
-    .pipe(cleanCSS()) // Минификтор
+    .pipe(cleanCSS()) // Минификатор
     .pipe(gulp.dest('./temp'));
 });
 
@@ -152,11 +177,11 @@ gulp.task('inline', () => {
     .pipe(plumber())
     .pipe(
       inlineCss({
-        applyStyleTags: false, // Не инлайнить стили из <style>
-        applyLinkTags: true,
-        removeStyleTags: false, // Оставить теги <style> в <head>
-        removeLinkTags: true,
-        preserveMediaQueries: true,
+        applyStyleTags: true, // Инлайнить стили из <style>
+        removeStyleTags: true, // Удалить теги <style> после инлайнинга
+        applyLinkTags: true,   // Инлайнить стили из <link>
+        removeLinkTags: true,  // Удалить теги <link> после инлайнинга
+        preserveMediaQueries: true, // Сохранить медиазапросы в <style>
       })
     )
     .pipe(gulp.dest(paths.dist));
