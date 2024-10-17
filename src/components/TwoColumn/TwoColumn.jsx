@@ -2,7 +2,7 @@ import React from 'react';
 
 const Column = ({
   children,
-  width = '50%',
+  width = '',
   className = '',
   style = {},
   align = 'left',
@@ -10,7 +10,7 @@ const Column = ({
 }) => {
   return (
     <td
-      className={`column ${className}`}
+      className={`${className}`}
       width={width}
       align={align}
       valign={valign}

@@ -1,3 +1,4 @@
+// components/Logo.jsx
 import React from 'react';
 
 const addUnit = (value) => {
@@ -28,6 +29,7 @@ const Logo = ({
   className = '',
   style = {},
   margin = '0',
+  universal = false, // Новый пропс
 }) => {
   const imgStyles = {
     width: width ? addUnit(width) : undefined,
@@ -49,12 +51,19 @@ const Logo = ({
     />
   );
 
+  const linkProps = {
+    href,
+    target: '_blank',
+    style: { textDecoration: 'none' },
+    ...(universal && { universal: 'true' }), // Добавление универсального атрибута при необходимости
+  };
+
   return (
     <table width="100%" cellPadding="0" cellSpacing="0" border="0">
       <tr>
         <td align={align}>
           {href ? (
-            <a href={href} target="_blank" style={{ textDecoration: 'none' }}>
+            <a {...linkProps}>
               {imgElement}
             </a>
           ) : (

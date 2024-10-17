@@ -37,5 +37,8 @@
     "sass": "^1.79.5",
     "sass-migrator": "^2.2.0",
     "yargs": "^17.7.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
   }
 }
