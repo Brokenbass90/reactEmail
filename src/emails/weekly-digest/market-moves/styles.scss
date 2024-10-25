@@ -6,26 +6,28 @@
 // @import "node_modules/foundation-emails/scss/components/button";
 
 @import "node_modules/foundation-emails/scss/foundation-emails";
-p {
-  margin: 0 !important;
-}
 
 // переменныe
-$font-family: Helvetica !important;
 $title-color: #132035;
 $subtitle-color: #24262d;
 $text-color: #24262d;
-$font-style: Helvetica;
+$font-style: Helvetica !important;
 $text-left: left;
 $text-center: center;
 $secondary-color: #007BFF; 
 
-.width100{
-  max-width: 100%;
-}
 body {
   background: #f9f9f9;
 }
+
+p {
+  margin: 0 !important;
+}
+
+.width100{
+  max-width: 100%;
+} 
+
 .plr10 {
   padding: 0 10px;
 }
@@ -53,15 +55,20 @@ body {
   width: 100%;
 }
 
+.shadow{
+  box-shadow: 0 1px 2px rgba(130,135,181,.1);
+  border-radius: 4px !important;
+}
+
 .title {
-  font-family: $font-family !important;
+  font-family: $font-style;
   font-style: $font-style;
   color: $title-color;
   font-weight: 700;
   font-size: 42px;
   line-height: 48px;
   text-align: $text-left;
-
+  margin: 0;
   @media only screen and (max-width: 600px) {
     font-size: 28px !important;
     line-height: 36px !important;
@@ -69,7 +76,6 @@ body {
 }
 
 .subtitle {
-  font-family: $font-family !important;
   font-family: $font-style;
   color: $subtitle-color;
   font-size: 20px;
@@ -77,22 +83,84 @@ body {
   font-weight: 700;
   letter-spacing: 0;
   text-align: $text-left;
+  margin: 0;
 }
 
 .text {
-  font-family: $font-family !important;
-  color: $text-color;
   font-family: $font-style;
+  color: $text-color;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
   letter-spacing: 0;
   text-align: $text-left;
+  margin: 0;
+}
+.fat-text {
+  font-family: $font-style;
+  color: $text-color;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-align: $text-left;
+  margin: 0;
+}
+.orange-text{
+  color: #ed7960; 
+  font-family: $font-style; 
+  font-size: 12px; 
+  font-weight: 700; 
+  letter-spacing: 0; 
+  line-height: 14px; 
+  text-align: left;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding-bottom: 7px;
+  margin: 0;
+  @media only screen and (max-width: 600px) {
+    padding-top: 15px !important;
+  }
 }
 
+.item-title{
+  font-family: Helvetica !important;
+  color: #000;  
+  font-size: 18px; 
+  font-weight: 700; 
+  line-height: 23px;
+  margin: 0;
+  text-align: left;
+}
+
+.gray-text{ 
+  font-family: 'Helvetica !important';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #838487;
+  margin: 0;
+}
+
+.green-man{
+  clear: both; 
+  display: inline-block; 
+  float: none; 
+  vertical-align: middle;
+  outline: none; padding: 0 3px; 
+  width: 24px !important;
+}
+
+.link{
+  font-weight: 700;
+}
 // Padding Top
 .pt10 {
   padding-top: 10px !important;
+}
+
+.pt15 {
+  padding-top: 15px !important;
 }
 
 .pt20 {
@@ -107,9 +175,17 @@ body {
   padding-top: 40px !important;
 }
 
+.pt50 {
+  padding-top: 50px !important;
+}
+
 // Padding Bottom
 .pb10 {
   padding-bottom: 10px !important;
+}
+
+.pb15 {
+  padding-bottom: 15px !important;
 }
 
 .pb20 {
@@ -124,15 +200,44 @@ body {
   padding-bottom: 40px !important;
 }
 
+.pb50 {
+  padding-bottom: 50px !important;
+}
+.green-block{
+  background-color: #f0fcec;
+  padding: 30px 50px;
+  border-radius: 4px;
+  @media only screen and (max-width: 600px) {
+    padding: 22px !important;
+  }
+}
+
 .column {
   display: inline-block;
-  width: 50%;
+  width: 47%;
   vertical-align: top;
-
+  border-radius: 10px !important;
+  padding-left: 0 !important;
+  padding-bottom: 0 !important;
+  padding-right: 0 !important;
   @media only screen and (max-width: 600px) {
     display: block !important;
     width: 100% !important;
   }
+}
+
+.padding-for-columns{
+  padding: 26px 30px;
+  @media only screen and (max-width: 600px) {
+    padding: 16px 20px !important;
+  }
+}
+
+.padding {
+  padding: 3px;
+}
+.bg-white{
+  background-color: #ffffff;
 }
 .small-column-left {
   display: inline-block;
@@ -166,16 +271,18 @@ body {
   }
 }
 
-
-
 /* src/components/Button/Button.scss */
 
 .button-wrapper_bot {
-  // Добавьте необходимые стили для адаптивности
+  width: 100%;
 }
 
 .medium-button {
-  // Стили для внутренней таблицы кнопки
+  border-radius: 4px;
+  width: 280px;
+  @media only screen and (max-width: 600px) {
+    width: 100% !important;
+  }
 }
 
 .radius {
@@ -206,3 +313,4 @@ body {
     padding-left: 10px !important;
   }
 }
+

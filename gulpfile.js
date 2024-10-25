@@ -41,7 +41,7 @@ gulp.task('compile-styles', () => {
   const globalStylesPath = path.resolve(`${paths.styles}/main.scss`);
 
   return gulp
-    .src([globalStylesPath, emailStylesPath])
+    .src([globalStylesPath, emailStylesPath, `!${paths.styles}/**/.DS_Store`]) // Исключаем .DS_Store
     .pipe(plumber())
     .pipe(
       sass({
@@ -56,7 +56,7 @@ gulp.task('compile-styles', () => {
         defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
       })
     )
-    .pipe(cleanCSS()) // Минификтор
+    .pipe(cleanCSS()) // Минификатор
     .pipe(gulp.dest('./temp'));
 });
 
@@ -78,27 +78,27 @@ gulp.task('emails', (done) => {
     return;
   }
 
-  // скомпилированные стили из файла
+  // Скомпилированные стили из файла
   const compiledStyles = fs.readFileSync('./temp/combined-styles.css', 'utf8');
 
-  const locales = fs.readdirSync(paths.locales);
+  const locales = fs.readdirSync(paths.locales).filter(locale => locale !== '.DS_Store'); // Исключаем .DS_Store
   const outputFiles = [];
 
-  // очистка кэша модулей перед каждой сборкой
+  // Очистка кэша модулей перед каждой сборкой
   delete require.cache[require.resolve(emailComponentPath)];
 
-  // очистка кэша модулей для файлов в src и locales
+  // Очистка кэша модулей для файлов в src и locales
   Object.keys(require.cache).forEach((key) => {
     if (key.includes('src/') || key.includes('locales/')) {
       delete require.cache[key];
     }
   });
 
-  // загрузка компонента письма заново после очистки кэша
+  // Загрузка компонента письма заново после очистки кэша
   const EmailComponentModule = require(emailComponentPath);
   const EmailComponent = EmailComponentModule.default || EmailComponentModule;
 
-  // получаем список файлов переводов из компонента или параметра
+  // Получаем список файлов переводов из компонента или параметра
   const translationsParam = argv.translations;
   let translationFiles = EmailComponent.translationFiles || [email]; 
 
@@ -111,12 +111,14 @@ gulp.task('emails', (done) => {
 
     translationFiles.forEach((file) => {
       const translationsPath = path.resolve(`${paths.locales}/${locale}/${file}.json`);
-      try {
-        const fileTranslations = JSON.parse(fs.readFileSync(translationsPath, 'utf8'));
-        // сохраняем переводы по имени файла
-        translations[file] = fileTranslations;
-      } catch (error) {
-        console.warn(`Не удалось загрузить переводы из ${translationsPath}`);
+      if (fs.existsSync(translationsPath) && path.basename(translationsPath) !== '.DS_Store.json') { // Игнорируем .DS_Store.json
+        try {
+          const fileTranslations = JSON.parse(fs.readFileSync(translationsPath, 'utf8'));
+          // Сохраняем переводы по имени файла
+          translations[file] = fileTranslations;
+        } catch (error) {
+          console.warn(`Не удалось загрузить переводы из ${translationsPath}`);
+        }
       }
     });
 
@@ -127,8 +129,12 @@ gulp.task('emails', (done) => {
     });
 
     const html = ReactDOMServer.renderToStaticMarkup(element);
-    const fullHtml = `<!DOCTYPE html>\n${html}`;
+    // const fullHtml = `<!DOCTYPE html>\n${html}`;
+    // Добавляем ваш DOCTYPE
+    const doctype = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">';
 
+    // Генерируем полный HTML
+    const fullHtml = `${doctype}\n${html}`;
     const outputDir = path.join(paths.dist, theme, email, locale);
     fs.mkdirSync(outputDir, { recursive: true });
     const outputFile = path.join(outputDir, 'index.html');
@@ -137,13 +143,14 @@ gulp.task('emails', (done) => {
     outputFiles.push(outputFile);
   });
 
-  // форматирование HTML-файлов
+  // Форматирование HTML-файлов
   return gulp
     .src(outputFiles, { base: './' })
     .pipe(htmlbeautify({ indent_size: 2 }))
     .pipe(gulp.dest('./'))
     .on('end', done);
 });
+
 
 // инлайнинг стилей
 gulp.task('inline', () => {

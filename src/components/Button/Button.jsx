@@ -1,57 +1,6 @@
-// // components/Button.jsx
-// import React from 'react';
-
-// const Button = ({
-//   href,
-//   children,
-//   className = '',
-//   style = {},
-//   width = 'auto',
-//   align = 'center',
-//   backgroundColor = '#007BFF',
-//   color = '#FFFFFF',
-//   universal = false, // Новый пропс, если требуется
-// }) => {
-//   const buttonStyle = {
-//     display: 'inline-block',
-//     width,
-//     backgroundColor,
-//     color,
-//     textDecoration: 'none',
-//     padding: '10px 20px',
-//     borderRadius: '4px',
-//     textAlign: 'center',
-//     ...style,
-//   };
-
-//   const linkProps = {
-//     href,
-//     style: buttonStyle,
-//     ...(universal && { universal: 'true' }), // Добавление универсального атрибута при необходимости
-//   };
-
-//   return (
-//     <table align={align} border="0" cellPadding="0" cellSpacing="0">
-//       <tr>
-//         <td>
-//           <a {...linkProps}>
-//             {children}
-//           </a>
-//         </td>
-//       </tr>
-//     </table>
-//   );
-// };
-
-// export default Button;
-// src/components/Button/Button.jsx
 import React from 'react';
 import PropTypes from 'prop-types';
 
-/**
- * Функция для добавления единицы измерения к числовым значениям.
- * Если значение уже строка (например, 'auto'), возвращает его без изменений.
- */
 const addUnit = (value) => {
   if (typeof value === 'number') {
     return `${value}px`;
@@ -67,16 +16,23 @@ const addUnit = (value) => {
   return value;
 };
 
-/**
- * Компонент Button для использования в email-шаблонах.
- * Рендерит кнопку с inline-стилями и возможностью настройки атрибутов.
- */
+// Функция для объединения базового URL и параметров
+const addUrlParams = (url, params) => {
+  if (!url) return '';
+  if (!params) return url;
+  const hasQuestionMark = url.includes('?');
+  const separator = hasQuestionMark ? '&' : '?';
+  return `${url}${separator}${params}`;
+};
+
 const Button = ({
   href,
+  baseHref,             // Новый проп для базового URL
+  params,               // Новый проп для параметров URL
   children,
-  width = '245px',
-  paddingTop = '20px',
-  paddingBottom = '30px',
+  width = '',
+  paddingTop = '',
+  paddingBottom = '',
   borderRadius = '4px',
   textColor = '#fff',
   backgroundColor = '#0081e3',
@@ -85,17 +41,23 @@ const Button = ({
   imgSrc = '',
   imgAlt = '',
   imgStyle = {},
+  className = '',
+  style = {},
 }) => {
+  // Если baseHref задан, используем его и params для формирования href
+  const finalHref = baseHref ? addUrlParams(baseHref, params) : href;
+
   // Стиль внешней таблицы
   const outerTableStyle = {
     borderCollapse: 'collapse',
     borderSpacing: '0',
-    fontFamily: "Roboto, Helvetica, Arial, sans-serif !important",
+    fontFamily: 'Roboto, Helvetica, Arial, sans-serif !important',
     maxWidth: addUnit(width),
     padding: '0',
     textAlign: 'left',
     verticalAlign: 'top',
     width: '100%',
+    ...style,
   };
 
   // Стиль строки таблицы
@@ -109,7 +71,7 @@ const Button = ({
   const tdStyle = {
     borderCollapse: 'collapse !important',
     color: '#222',
-    fontFamily: "Roboto, Helvetica, Arial, sans-serif !important",
+    fontFamily: 'Roboto, Helvetica, Arial, sans-serif !important',
     fontSize: '14px',
     fontWeight: '400',
     lineHeight: '19px',
@@ -126,7 +88,7 @@ const Button = ({
     background: backgroundColor,
     borderCollapse: 'collapse',
     borderSpacing: '0',
-    fontFamily: "Roboto, Helvetica, Arial, sans-serif !important",
+    fontFamily: 'Roboto, Helvetica, Arial, sans-serif !important',
     overflow: 'hidden',
     padding: '0',
     textAlign: 'left',
@@ -142,7 +104,7 @@ const Button = ({
     borderRadius: addUnit(borderRadius),
     color: '#222',
     display: 'block',
-    fontFamily: "Roboto, Helvetica, Arial, sans-serif !important",
+    fontFamily: 'Roboto, Helvetica, Arial, sans-serif !important',
     fontSize: '14px',
     fontWeight: '400',
     lineHeight: '19px',
@@ -158,7 +120,7 @@ const Button = ({
   const linkStyle = {
     color: textColor,
     display: 'block',
-    fontFamily: "Helvetica !important",
+    fontFamily: 'Helvetica !important',
     fontSize: '16px !important',
     fontWeight: '600 !important',
     letterSpacing: '0 !important',
@@ -172,7 +134,7 @@ const Button = ({
 
   // Подготовка пропсов для ссылки, включая условное добавление атрибута 'universal'
   const aProps = {
-    href,
+    href: finalHref,
     target: '_blank',
     style: linkStyle,
     className: 'butt',
@@ -185,13 +147,13 @@ const Button = ({
       src={imgSrc}
       alt={imgAlt}
       style={{
-        '-ms-interpolation-mode': 'bicubic',
+        msInterpolationMode: 'bicubic',
         border: 'none',
         clear: 'both',
         display: 'inline-block',
         float: 'none',
-        fontFamily: "Roboto, Helvetica, Arial, sans-serif !important",
-        maxWidth: '18px',
+        fontFamily: 'Roboto, Helvetica, Arial, sans-serif !important',
+        maxWidth: '0',
         outline: 'none',
         paddingLeft: '15px',
         textDecoration: 'none',
@@ -204,46 +166,50 @@ const Button = ({
   ) : null;
 
   return (
-    <table align={align} style={outerTableStyle}>
-      <tr style={trStyle}>
-        <td style={tdStyle}>
-          <div className="button-wrapper_bot pt0">
-            <table className="medium-button radius blue-button" style={innerTableStyle}>
-              <tr style={{
-                padding: '0',
-                textAlign: 'left',
-                verticalAlign: 'top',
-              }}>
-                <td className="iq blue-button" style={innerTdStyle}>
-                  <a {...aProps}>
-                    {children}
-                    {arrowImg}
-                  </a>
-                </td>
-              </tr>
-            </table>
-          </div>
-        </td>
-      </tr>
+    <table align={align} className={className} style={outerTableStyle}>
+      <tbody>
+        <tr style={trStyle}>
+          <td style={tdStyle}>
+            <div className="button-wrapper_bot pt0">
+              <table className="medium-button radius blue-button" style={innerTableStyle}>
+                <tbody>
+                  <tr style={{ padding: '0', textAlign: 'left', verticalAlign: 'top' }}>
+                    <td className="iq blue-button" style={innerTdStyle}>
+                      <a {...aProps}>
+                        {children}
+                        {arrowImg}
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </td>
+        </tr>
+      </tbody>
     </table>
   );
 };
 
 // Определение типов пропсов для компонента
 Button.propTypes = {
-  href: PropTypes.string.isRequired,          // Ссылка кнопки
-  children: PropTypes.node.isRequired,        // Текст или содержимое кнопки
-  width: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),          // Ширина кнопки (по умолчанию '245px')
-  paddingTop: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),     // Верхний отступ
-  paddingBottom: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),  // Нижний отступ
-  borderRadius: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),    // Скругление углов
-  textColor: PropTypes.string,                // Цвет текста
-  backgroundColor: PropTypes.string,          // Цвет фона кнопки
-  align: PropTypes.string,                     // Выравнивание кнопки (по умолчанию 'center')
-  universal: PropTypes.bool,                   // Добавить universal="true" к ссылке
-  imgSrc: PropTypes.string,                    // URL изображения стрелки (опционально)
-  imgAlt: PropTypes.string,                    // Альтернативный текст для изображения
-  imgStyle: PropTypes.object,                  // Дополнительные стили для изображения
+  href: PropTypes.string, // Ссылка кнопки (может быть необязательной, если используются baseHref и params)
+  baseHref: PropTypes.string, // Новый проп для базового URL
+  params: PropTypes.string, // Новый проп для параметров URL
+  children: PropTypes.node.isRequired, // Текст или содержимое кнопки
+  width: PropTypes.oneOfType([PropTypes.string, PropTypes.number]), // Ширина кнопки
+  paddingTop: PropTypes.oneOfType([PropTypes.string, PropTypes.number]), // Верхний отступ
+  paddingBottom: PropTypes.oneOfType([PropTypes.string, PropTypes.number]), // Нижний отступ
+  borderRadius: PropTypes.oneOfType([PropTypes.string, PropTypes.number]), // Скругление углов
+  textColor: PropTypes.string, // Цвет текста
+  backgroundColor: PropTypes.string, // Цвет фона кнопки
+  align: PropTypes.string, // Выравнивание кнопки
+  universal: PropTypes.bool, // Добавить universal="true" к ссылке
+  imgSrc: PropTypes.string, // URL изображения стрелки
+  imgAlt: PropTypes.string, // Альтернативный текст для изображения
+  imgStyle: PropTypes.object, // Дополнительные стили для изображения
+  className: PropTypes.string, // Дополнительные классы
+  style: PropTypes.object, // Дополнительные стили
 };
 
 export default Button;
