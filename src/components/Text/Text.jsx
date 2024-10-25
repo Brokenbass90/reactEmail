@@ -82,7 +82,9 @@ const Text = ({
           }}
         />
       )}
-      <span style={{ verticalAlign: 'middle', marginLeft: imgSrc ? '5px' : '0' }}>
+      <span
+        style={{ verticalAlign: 'middle', marginLeft: imgSrc ? '5px' : '0' }}
+      >
         {children}
       </span>
     </p>
@@ -90,21 +92,12 @@ const Text = ({
 };
 
 Text.propTypes = {
-  children: PropTypes.oneOfType([
-    PropTypes.string,
-    PropTypes.node,
-  ]).isRequired,
+  children: PropTypes.oneOfType([PropTypes.string, PropTypes.node]).isRequired,
   className: PropTypes.string,
   style: PropTypes.object,
   html: PropTypes.bool,
-  paddingTop: PropTypes.oneOfType([
-    PropTypes.string,
-    PropTypes.number,
-  ]),
-  paddingBottom: PropTypes.oneOfType([
-    PropTypes.string,
-    PropTypes.number,
-  ]),
+  paddingTop: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+  paddingBottom: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
   imgSrc: PropTypes.string,
   imgAlt: PropTypes.string,
   imgStyle: PropTypes.object,

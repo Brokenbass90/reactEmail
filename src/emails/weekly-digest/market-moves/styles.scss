@@ -5,7 +5,7 @@
 // @import "node_modules/foundation-emails/scss/components/typography";
 // @import "node_modules/foundation-emails/scss/components/button";
 
-@import "node_modules/foundation-emails/scss/foundation-emails";
+@import 'node_modules/foundation-emails/scss/foundation-emails';
 
 // переменныe
 $title-color: #132035;
@@ -14,7 +14,7 @@ $text-color: #24262d;
 $font-style: Helvetica !important;
 $text-left: left;
 $text-center: center;
-$secondary-color: #007BFF; 
+$secondary-color: #007bff;
 
 body {
   background: #f9f9f9;
@@ -24,9 +24,9 @@ p {
   margin: 0 !important;
 }
 
-.width100{
+.width100 {
   max-width: 100%;
-} 
+}
 
 .plr10 {
   padding: 0 10px;
@@ -45,7 +45,8 @@ p {
 }
 
 .bg-image {
-  background: url('https://fsms.iqoption.com/storage/public/cc/q3/o2pbdrom0oposqe0/Frame 710 (1).png') center top no-repeat;
+  background: url('https://fsms.iqoption.com/storage/public/cc/q3/o2pbdrom0oposqe0/Frame 710 (1).png')
+    center top no-repeat;
   background-size: cover;
   border-collapse: collapse;
   border-radius: 0 0 10px 10px;
@@ -55,8 +56,8 @@ p {
   width: 100%;
 }
 
-.shadow{
-  box-shadow: 0 1px 2px rgba(130,135,181,.1);
+.shadow {
+  box-shadow: 0 1px 2px rgba(130, 135, 181, 0.1);
   border-radius: 4px !important;
 }
 
@@ -106,13 +107,13 @@ p {
   text-align: $text-left;
   margin: 0;
 }
-.orange-text{
-  color: #ed7960; 
-  font-family: $font-style; 
-  font-size: 12px; 
-  font-weight: 700; 
-  letter-spacing: 0; 
-  line-height: 14px; 
+.orange-text {
+  color: #ed7960;
+  font-family: $font-style;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 14px;
   text-align: left;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -123,17 +124,17 @@ p {
   }
 }
 
-.item-title{
+.item-title {
   font-family: Helvetica !important;
-  color: #000;  
-  font-size: 18px; 
-  font-weight: 700; 
+  color: #000;
+  font-size: 18px;
+  font-weight: 700;
   line-height: 23px;
   margin: 0;
   text-align: left;
 }
 
-.gray-text{ 
+.gray-text {
   font-family: 'Helvetica !important';
   font-weight: 400;
   font-size: 16px;
@@ -142,16 +143,17 @@ p {
   margin: 0;
 }
 
-.green-man{
-  clear: both; 
-  display: inline-block; 
-  float: none; 
+.green-man {
+  clear: both;
+  display: inline-block;
+  float: none;
   vertical-align: middle;
-  outline: none; padding: 0 3px; 
+  outline: none;
+  padding: 0 3px;
   width: 24px !important;
 }
 
-.link{
+.link {
   font-weight: 700;
 }
 // Padding Top
@@ -203,7 +205,7 @@ p {
 .pb50 {
   padding-bottom: 50px !important;
 }
-.green-block{
+.green-block {
   background-color: #f0fcec;
   padding: 30px 50px;
   border-radius: 4px;
@@ -226,7 +228,7 @@ p {
   }
 }
 
-.padding-for-columns{
+.padding-for-columns {
   padding: 26px 30px;
   @media only screen and (max-width: 600px) {
     padding: 16px 20px !important;
@@ -236,7 +238,7 @@ p {
 .padding {
   padding: 3px;
 }
-.bg-white{
+.bg-white {
   background-color: #ffffff;
 }
 .small-column-left {
@@ -313,4 +315,3 @@ p {
     padding-left: 10px !important;
   }
 }
-

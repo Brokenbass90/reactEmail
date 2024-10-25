@@ -27,8 +27,8 @@ const addUrlParams = (url, params) => {
 
 const Button = ({
   href,
-  baseHref,             // Новый проп для базового URL
-  params,               // Новый проп для параметров URL
+  baseHref, // Новый проп для базового URL
+  params, // Новый проп для параметров URL
   children,
   width = '',
   paddingTop = '',
@@ -171,9 +171,18 @@ const Button = ({
         <tr style={trStyle}>
           <td style={tdStyle}>
             <div className="button-wrapper_bot pt0">
-              <table className="medium-button radius blue-button" style={innerTableStyle}>
+              <table
+                className="medium-button radius blue-button"
+                style={innerTableStyle}
+              >
                 <tbody>
-                  <tr style={{ padding: '0', textAlign: 'left', verticalAlign: 'top' }}>
+                  <tr
+                    style={{
+                      padding: '0',
+                      textAlign: 'left',
+                      verticalAlign: 'top',
+                    }}
+                  >
                     <td className="iq blue-button" style={innerTdStyle}>
                       <a {...aProps}>
                         {children}

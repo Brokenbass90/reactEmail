@@ -43,12 +43,7 @@ const Logo = ({
   };
 
   const imgElement = (
-    <img
-      src={src}
-      alt={alt}
-      style={imgStyles}
-      className={className}
-    />
+    <img src={src} alt={alt} style={imgStyles} className={className} />
   );
 
   const linkProps = {
@@ -62,13 +57,7 @@ const Logo = ({
     <table width="100%" cellPadding="0" cellSpacing="0" border="0">
       <tr>
         <td align={align}>
-          {href ? (
-            <a {...linkProps}>
-              {imgElement}
-            </a>
-          ) : (
-            imgElement
-          )}
+          {href ? <a {...linkProps}>{imgElement}</a> : imgElement}
         </td>
       </tr>
     </table>

@@ -5,7 +5,7 @@
 // @import "node_modules/foundation-emails/scss/components/typography";
 // @import "node_modules/foundation-emails/scss/components/button";
 
-@import "node_modules/foundation-emails/scss/foundation-emails";
+@import 'node_modules/foundation-emails/scss/foundation-emails';
 p {
   margin: 0 !important;
 }
@@ -17,9 +17,9 @@ $text-color: #24262d;
 $font-style: Helvetica;
 $text-left: left;
 $text-center: center;
-$secondary-color: #007BFF; 
+$secondary-color: #007bff;
 
-.width100{
+.width100 {
   max-width: 100%;
 }
 body {
@@ -42,7 +42,8 @@ body {
 }
 
 .bg-image {
-  background: url('https://fsms.iqoption.com/storage/public/cc/q3/o2pbdrom0oposqe0/Frame 710 (1).png') center top no-repeat;
+  background: url('https://fsms.iqoption.com/storage/public/cc/q3/o2pbdrom0oposqe0/Frame 710 (1).png')
+    center top no-repeat;
   background-size: cover;
   border-collapse: collapse;
   border-radius: 0 0 10px 10px;
@@ -164,8 +165,6 @@ body {
     font-size: 14px;
   }
 }
-
-
 
 /* src/components/Button/Button.scss */
 

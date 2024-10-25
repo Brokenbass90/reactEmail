@@ -20,9 +20,8 @@ const Link = ({
   imgSrc,
   imgAlt = '',
   imgStyle = {},
-  target = '_self', 
+  target = '_self',
 }) => {
-
   const finalHref = baseHref ? addUrlParams(baseHref, params) : href;
 
   const linkStyle = {
@@ -35,10 +34,9 @@ const Link = ({
     href: finalHref,
     className: `link ${className}`,
     style: linkStyle,
-    target, 
+    target,
     ...(universal && { universal: 'true' }),
   };
-
 
   if (!finalHref) {
     console.warn('Link component: href is not defined or empty.');
@@ -64,8 +62,8 @@ const Link = ({
 
 Link.propTypes = {
   href: PropTypes.string,
-  baseHref: PropTypes.string, 
-  params: PropTypes.string,  
+  baseHref: PropTypes.string,
+  params: PropTypes.string,
   children: PropTypes.node.isRequired,
   className: PropTypes.string,
   style: PropTypes.object,
@@ -73,7 +71,7 @@ Link.propTypes = {
   imgSrc: PropTypes.string,
   imgAlt: PropTypes.string,
   imgStyle: PropTypes.object,
-  target: PropTypes.string,  
+  target: PropTypes.string,
 };
 
 export default Link;

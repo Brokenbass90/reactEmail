@@ -1,5 +1,5 @@
 const gulp = require('gulp');
-const sass = require('gulp-sass')(require('sass')); 
+const sass = require('gulp-sass')(require('sass'));
 const cleanCSS = require('gulp-clean-css');
 const purgecss = require('gulp-purgecss');
 const inlineCss = require('gulp-inline-css');
@@ -37,7 +37,9 @@ gulp.task('compile-styles', () => {
     return Promise.resolve();
   }
 
-  const emailStylesPath = path.resolve(`${paths.emails}/${theme}/${email}/styles.scss`);
+  const emailStylesPath = path.resolve(
+    `${paths.emails}/${theme}/${email}/styles.scss`
+  );
   const globalStylesPath = path.resolve(`${paths.styles}/main.scss`);
 
   return gulp
@@ -71,7 +73,9 @@ gulp.task('emails', (done) => {
     return;
   }
 
-  const emailComponentPath = path.resolve(`${paths.emails}/${theme}/${email}/index.jsx`);
+  const emailComponentPath = path.resolve(
+    `${paths.emails}/${theme}/${email}/index.jsx`
+  );
   if (!fs.existsSync(emailComponentPath)) {
     console.error(`Компонент письма не найден: ${emailComponentPath}`);
     done();
@@ -81,7 +85,9 @@ gulp.task('emails', (done) => {
   // Скомпилированные стили из файла
   const compiledStyles = fs.readFileSync('./temp/combined-styles.css', 'utf8');
 
-  const locales = fs.readdirSync(paths.locales).filter(locale => locale !== '.DS_Store'); // Исключаем .DS_Store
+  const locales = fs
+    .readdirSync(paths.locales)
+    .filter((locale) => locale !== '.DS_Store'); // Исключаем .DS_Store
   const outputFiles = [];
 
   // Очистка кэша модулей перед каждой сборкой
@@ -100,7 +106,7 @@ gulp.task('emails', (done) => {
 
   // Получаем список файлов переводов из компонента или параметра
   const translationsParam = argv.translations;
-  let translationFiles = EmailComponent.translationFiles || [email]; 
+  let translationFiles = EmailComponent.translationFiles || [email];
 
   if (translationsParam) {
     translationFiles = translationsParam.split(',');
@@ -110,10 +116,18 @@ gulp.task('emails', (done) => {
     let translations = {};
 
     translationFiles.forEach((file) => {
-      const translationsPath = path.resolve(`${paths.locales}/${locale}/${file}.json`);
-      if (fs.existsSync(translationsPath) && path.basename(translationsPath) !== '.DS_Store.json') { // Игнорируем .DS_Store.json
+      const translationsPath = path.resolve(
+        `${paths.locales}/${locale}/${file}.json`
+      );
+      if (
+        fs.existsSync(translationsPath) &&
+        path.basename(translationsPath) !== '.DS_Store.json'
+      ) {
+        // Игнорируем .DS_Store.json
         try {
-          const fileTranslations = JSON.parse(fs.readFileSync(translationsPath, 'utf8'));
+          const fileTranslations = JSON.parse(
+            fs.readFileSync(translationsPath, 'utf8')
+          );
           // Сохраняем переводы по имени файла
           translations[file] = fileTranslations;
         } catch (error) {
@@ -131,7 +145,8 @@ gulp.task('emails', (done) => {
     const html = ReactDOMServer.renderToStaticMarkup(element);
     // const fullHtml = `<!DOCTYPE html>\n${html}`;
     // Добавляем ваш DOCTYPE
-    const doctype = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">';
+    const doctype =
+      '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">';
 
     // Генерируем полный HTML
     const fullHtml = `${doctype}\n${html}`;
@@ -151,7 +166,6 @@ gulp.task('emails', (done) => {
     .on('end', done);
 });
 
-
 // инлайнинг стилей
 gulp.task('inline', () => {
   return gulp
@@ -161,8 +175,8 @@ gulp.task('inline', () => {
       inlineCss({
         applyStyleTags: true, // Инлайнить стили из <style>
         removeStyleTags: true, // Удалить теги <style> после инлайнинга
-        applyLinkTags: true,   // Инлайнить стили из <link>
-        removeLinkTags: true,  // Удалить теги <link> после инлайнинга
+        applyLinkTags: true, // Инлайнить стили из <link>
+        removeLinkTags: true, // Удалить теги <link> после инлайнинга
         preserveMediaQueries: true, // Сохранить медиазапросы в <style>
       })
     )
@@ -180,7 +194,10 @@ gulp.task('serve', () => {
       baseDir: paths.dist,
       middleware: [
         function (req, res, next) {
-          res.setHeader('Content-Security-Policy', "default-src * 'unsafe-inline' data: blob:;");
+          res.setHeader(
+            'Content-Security-Policy',
+            "default-src * 'unsafe-inline' data: blob:;"
+          );
           next();
         },
       ],

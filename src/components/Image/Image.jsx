@@ -29,13 +29,13 @@ const Image = ({
 };
 
 Image.propTypes = {
-  src: PropTypes.string.isRequired,        // URL изображения
-  alt: PropTypes.string.isRequired,        // Альтернативный текст
-  width: PropTypes.string,                 // Ширина изображения
-  height: PropTypes.string,                // Высота изображения
-  style: PropTypes.object,                 // Дополнительные стили
-  className: PropTypes.string,             // Дополнительные классы
-  maxWidth: PropTypes.string,              // Максимальная ширина
+  src: PropTypes.string.isRequired, // URL изображения
+  alt: PropTypes.string.isRequired, // Альтернативный текст
+  width: PropTypes.string, // Ширина изображения
+  height: PropTypes.string, // Высота изображения
+  style: PropTypes.object, // Дополнительные стили
+  className: PropTypes.string, // Дополнительные классы
+  maxWidth: PropTypes.string, // Максимальная ширина
   borderRadius: PropTypes.oneOfType([PropTypes.string, PropTypes.number]), // Скругление углов
 };
 

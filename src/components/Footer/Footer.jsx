@@ -11,7 +11,7 @@ const Footer = ({
   <div
     className="footer"
     style={{
-      fontFamily: "Roboto, Helvetica, Arial, sans-serif",
+      fontFamily: 'Roboto, Helvetica, Arial, sans-serif',
       padding: '0',
       backgroundColor,
     }}
@@ -52,16 +52,14 @@ const Footer = ({
         padding: '0',
         paddingTop: '20px',
         textAlign: 'center',
-        
       }}
       dangerouslySetInnerHTML={{ __html: '{{embedded.company_address}}' }}
-    >
-    </p>
+    ></p>
     <p
       className="subscribe"
       style={{
         color: '#626a7f',
-        fontFamily: "Roboto, Helvetica, Arial, sans-serif",
+        fontFamily: 'Roboto, Helvetica, Arial, sans-serif',
         fontSize: '14px',
         fontWeight: '300',
         lineHeight: '19px',

@@ -5,7 +5,7 @@ const SocialNetworks = ({ networks, iconSize = '24px' }) => (
     className="socials center"
     style={{
       display: 'block',
-      fontFamily: "Roboto, Helvetica, Arial, sans-serif",
+      fontFamily: 'Roboto, Helvetica, Arial, sans-serif',
       fontSize: '0',
       margin: '0 auto',
       textAlign: 'center',

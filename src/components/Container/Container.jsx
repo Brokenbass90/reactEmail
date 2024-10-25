@@ -62,11 +62,7 @@ const Container = ({
             <table width="100%" cellPadding="0" cellSpacing="0" border="0">
               <tbody>
                 <tr>
-                  <td
-                    className={tdClassName}
-                    align={align}
-                    style={cellStyle}
-                  >
+                  <td className={tdClassName} align={align} style={cellStyle}>
                     {children}
                   </td>
                 </tr>

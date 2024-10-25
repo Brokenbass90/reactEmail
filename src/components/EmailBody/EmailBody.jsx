@@ -41,7 +41,7 @@ const EmailBody = ({
     >
       <tbody>
         <tr>
-          <td align={align} valign="top" style={{ padding:  '0 10px' }}>
+          <td align={align} valign="top" style={{ padding: '0 10px' }}>
             {/* Вставляем условные комментарии */}
             <div dangerouslySetInnerHTML={{ __html: openingComment }} />
             {children}
